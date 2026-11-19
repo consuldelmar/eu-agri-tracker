@@ -20,10 +20,10 @@ jobs:
     timeout-minutes: 20
     steps:
       - name: Get the files
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -37,11 +37,18 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
-        run: python probe.py
+        run: |
+          script=$(find . -name 'probe*.py' -not -path './.git/*' | head -n 1)
+          if [ -z "$script" ]; then
+            echo "::error::probe.py is not in the repository. Add it with Add file > Upload files."
+            exit 1
+          fi
+          echo "Running $script"
+          python "$script"
 
       - name: Keep the report
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: source-test-report
           path: |
