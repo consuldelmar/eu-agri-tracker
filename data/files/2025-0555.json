@@ -1132,7 +1132,30 @@
  ],
  "agenda": [],
  "scheduled": [],
- "council_docs": [],
+ "council_docs": [
+  {
+   "id": "ST-13817-2026-INIT",
+   "code": "ST 13817/26",
+   "date": "2026-10-05",
+   "title": "Regulation establishing European Competitiveness Fund (ECF), including specific programme for defence research and innovation - Preparation for a partial general approach",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13817-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-13818-2026-INIT",
+   "code": "ST 13818/26",
+   "date": "2026-10-05",
+   "title": "Regulation establishing European Competitiveness Fund (ECF), including specific programme for defence research and innovation - Preparation for a partial general approach",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13818-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": null
+  }
+ ],
  "followed": false,
  "follow_url": ""
 }

@@ -205,6 +205,17 @@
  "scheduled": [],
  "council_docs": [
   {
+   "id": "ST-13819-2026-INIT",
+   "code": "ST 13819/26",
+   "date": "2026-10-11",
+   "title": "AOB item for the meeting of the General Affairs Council on 13 October 2026 Omnibus simplification packages: state of play - Information from the Presidency",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13819-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
    "id": "ST-15001-2026-INIT",
    "code": "ST 15001/26",
    "date": "2026-11-12",

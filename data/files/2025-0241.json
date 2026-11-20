@@ -565,6 +565,38 @@
  ],
  "agenda": [
   {
+   "id": "council-agenda-ST-14199-2026-INIT",
+   "date": "2026-10-12",
+   "body": "Comité Especial de Agricultura (CEA)",
+   "title": "Orden del día (ST 14199/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14199-2026-INIT/en/pdf",
+   "source": "council"
+  },
+  {
+   "id": "council-agenda-CM-4539-2026-REV-1",
+   "date": "2026-10-15",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Orden del día (CM 4539/26 REV 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4539-2026-REV-1/en/pdf",
+   "source": "council"
+  },
+  {
+   "id": "council-agenda-ST-14592-2026-REV-1",
+   "date": "2026-10-21",
+   "body": "Coreper I",
+   "title": "Orden del día (ST 14592/26 REV 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14592-2026-REV-1/en/pdf",
+   "source": "council"
+  },
+  {
+   "id": "council-agenda-CM-4610-2026-REV-2",
+   "date": "2026-10-22",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Orden del día (CM 4610/26 REV 2)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4610-2026-REV-2/en/pdf",
+   "source": "council"
+  },
+  {
    "id": "council-agenda-ST-14448-2026-INIT",
    "date": "2026-10-26",
    "body": "Consejo",
@@ -575,6 +607,83 @@
  ],
  "scheduled": [],
  "council_docs": [
+  {
+   "id": "WK-14277-2026-ADD-4",
+   "code": "WK 14277/26 ADD 4",
+   "date": "2026-10-02",
+   "title": "Regulation establishing the conditions for the implementation of Union support\nunder the CAP\n- Comments from Poland on the CAP post-2027 Regulation, Art 10 and Annex I",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-14277-2026-ADD-4/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-15058-2026-INIT",
+   "code": "WK 15058/26",
+   "date": "2026-10-02",
+   "title": "Regulation establishing the conditions for the implementation of Union support under the CAP\n- Comments from Sweden on outstanding issues",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-15058-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14185-2026-INIT",
+   "code": "ST 14185/26",
+   "date": "2026-10-08",
+   "title": "Regulation establishing the conditions for the implementation of Union support under the CAP - Preparation of a partial general approach",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14185-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14201-2026-INIT",
+   "code": "ST 14201/26",
+   "date": "2026-10-08",
+   "title": "AOB item for the meeting of the “Agriculture and Fisheries” Council on 26-27 October 2026: Joint Declaration of the Ministers of Agriculture of the Visegrad Group and Bulgaria, Croatia and Romania on the future Common Agricultural Policy post-2027 - Information from Slovakia, on behalf of Bulgaria, Croatia, Czechia, Hungary, Poland, Romania and Slovakia",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14201-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-14277-2026-ADD-5",
+   "code": "WK 14277/26 ADD 5",
+   "date": "2026-10-09",
+   "title": "Regulation establishing the conditions for the implementation of Union support\nunder the CAP\n- Comments from Poland on the CAP post-2027 Regulation, Art 6",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-14277-2026-ADD-5/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14199-2026-INIT",
+   "code": "ST 14199/26",
+   "date": "2026-10-09",
+   "title": "1781st meeting of the SCA",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14199-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Comité Especial de Agricultura (CEA)",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": "2026-10-12"
+  },
+  {
+   "id": "CM-4539-2026-REV-1",
+   "code": "CM 4539/26 REV 1",
+   "date": "2026-10-13",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4539-2026-REV-1/en/pdf",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": "2026-10-15"
+  },
   {
    "id": "ST-14185-2026-REV-1",
    "code": "ST 14185/26 REV 1",
@@ -587,6 +696,17 @@
    "meeting_date": null
   },
   {
+   "id": "ST-14592-2026-REV-1",
+   "code": "ST 14592/26 REV 1",
+   "date": "2026-10-20",
+   "title": "PERMANENT REPRESENTATIVES COMMITTEE (Part 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14592-2026-REV-1/en/pdf",
+   "kind": "agenda",
+   "body": "Coreper I",
+   "step": "Mandato de negociación con el PE",
+   "meeting_date": "2026-10-21"
+  },
+  {
    "id": "ST-14484-2026-INIT",
    "code": "ST 14484/26",
    "date": "2026-10-21",
@@ -596,6 +716,17 @@
    "body": "Consejo",
    "step": "Orientación general o mandato parcial",
    "meeting_date": null
+  },
+  {
+   "id": "CM-4610-2026-REV-2",
+   "code": "CM 4610/26 REV 2",
+   "date": "2026-10-21",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4610-2026-REV-2/en/pdf",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": "2026-10-22"
   },
   {
    "id": "ST-14480-2026-INIT",

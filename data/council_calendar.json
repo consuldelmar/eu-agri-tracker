@@ -1403,6 +1403,20 @@
   ]
  },
  {
+  "id": "council-agenda-ST-14199-2026-INIT",
+  "date": "2026-10-12",
+  "source": "council",
+  "body": "Comité Especial de Agricultura (CEA)",
+  "title": "Orden del día (ST 14199/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-14199-2026-INIT/en/pdf",
+  "refs": [
+   "2025/0234(NLE)",
+   "2025/0237(COD)",
+   "2025/0241(COD)",
+   "2025/0417(COD)"
+  ]
+ },
+ {
   "id": "council-agenda-ST-15420-2026-REV-2",
   "date": "2026-12-01",
   "source": "council",
@@ -1432,6 +1446,7 @@
   "title": "Orden del día (ST 14592/26 REV 1)",
   "url": "https://data.consilium.europa.eu/doc/document/ST-14592-2026-REV-1/en/pdf",
   "refs": [
+   "2025/0241(COD)",
    "2025/0349(COD)",
    "2026/0252(NLE)"
   ]
@@ -1503,6 +1518,7 @@
   "title": "Orden del día (CM 4610/26 REV 2)",
   "url": "https://data.consilium.europa.eu/doc/document/CM-4610-2026-REV-2/en/pdf",
   "refs": [
+   "2025/0241(COD)",
    "2026/0309(NLE)",
    "2026/0310(NLE)",
    "2026/0311(NLE)"
@@ -1516,9 +1532,45 @@
   "title": "Orden del día (CM 4539/26 REV 1)",
   "url": "https://data.consilium.europa.eu/doc/document/CM-4539-2026-REV-1/en/pdf",
   "refs": [
+   "2025/0241(COD)",
    "2026/0309(NLE)",
    "2026/0310(NLE)",
    "2026/0311(NLE)"
+  ]
+ },
+ {
+  "id": "council-agenda-CM-4504-2026-INIT",
+  "date": "2026-10-21",
+  "source": "council",
+  "body": "Consejo",
+  "title": "Orden del día (CM 4504/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-4504-2026-INIT/en/pdf",
+  "refs": [
+   "2023/0227(COD)"
+  ]
+ },
+ {
+  "id": "council-agenda-CM-4424-2026-REV-1",
+  "date": "2026-10-08",
+  "source": "council",
+  "body": "Grupo de trabajo: Fisheries Policy",
+  "title": "Orden del día (CM 4424/26 REV 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-4424-2026-REV-1/en/pdf",
+  "refs": [
+   "2026/0044(COD)",
+   "2026/0302(COD)"
+  ]
+ },
+ {
+  "id": "council-agenda-CM-4349-2026-REV-1",
+  "date": "2026-10-07",
+  "source": "council",
+  "body": "Coreper I",
+  "title": "Orden del día (CM 4349/26 REV 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-4349-2026-REV-1/en/pdf",
+  "refs": [
+   "2024/0098(COD)",
+   "2025/0106(COD)"
   ]
  }
 ]

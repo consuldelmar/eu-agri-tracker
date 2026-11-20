@@ -57,9 +57,85 @@
  "scope": [
   "PECH (responsable)"
  ],
- "agenda": [],
+ "agenda": [
+  {
+   "id": "council-agenda-CM-4424-2026-REV-1",
+   "date": "2026-10-08",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Orden del día (CM 4424/26 REV 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4424-2026-REV-1/en/pdf",
+   "source": "council"
+  }
+ ],
  "scheduled": [],
- "council_docs": [],
+ "council_docs": [
+  {
+   "id": "ST-13992-2026-ADD-2",
+   "code": "ST 13992/26 ADD 2",
+   "date": "2026-10-02",
+   "title": "ANNEXES 5 to 7 ANNEXES to the Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down management, conservation and control measures applicable in the Area of Application of the Southern Indian Ocean Fisheries Agreement (SIOFA)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13992-2026-ADD-2/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-13992-2026-ADD-1",
+   "code": "ST 13992/26 ADD 1",
+   "date": "2026-10-02",
+   "title": "ANNEXES 1 to 4 ANNEXES to the Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down management, conservation and control measures applicable in the Area of Application of the Southern Indian Ocean Fisheries Agreement (SIOFA)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13992-2026-ADD-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-13992-2026-ADD-3",
+   "code": "ST 13992/26 ADD 3",
+   "date": "2026-10-02",
+   "title": "ANNEXES 8 to 12 ANNEXES to the Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down management, conservation and control measures applicable in the Area of Application of the Southern Indian Ocean Fisheries Agreement (SIOFA)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13992-2026-ADD-3/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-13992-2026-ADD-4",
+   "code": "ST 13992/26 ADD 4",
+   "date": "2026-10-02",
+   "title": "ANNEXES 13 to 17 ANNEXES to the Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down management, conservation and control measures applicable in the Area of Application of the Southern Indian Ocean Fisheries Agreement (SIOFA)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13992-2026-ADD-4/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-13992-2026-INIT",
+   "code": "ST 13992/26",
+   "date": "2026-10-02",
+   "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down management, conservation and control measures applicable in the Area of Application of the Southern Indian Ocean Fisheries Agreement (SIOFA)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13992-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "CM-4424-2026-REV-1",
+   "code": "CM 4424/26 REV 1",
+   "date": "2026-10-07",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4424-2026-REV-1/en/pdf",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": "2026-10-08"
+  }
+ ],
  "followed": false,
  "follow_url": ""
 }

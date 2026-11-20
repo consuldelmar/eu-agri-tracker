@@ -323,10 +323,40 @@
    "title": "Votación (punto V-42)",
    "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-09-15_EN.html",
    "source": "ep"
+  },
+  {
+   "id": "council-agenda-CM-4349-2026-REV-1",
+   "date": "2026-10-07",
+   "body": "Coreper I",
+   "title": "Orden del día (CM 4349/26 REV 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4349-2026-REV-1/en/pdf",
+   "source": "council"
   }
  ],
  "scheduled": [],
  "council_docs": [
+  {
+   "id": "ST-13040-2026-INIT",
+   "code": "ST 13040/26",
+   "date": "2026-10-02",
+   "title": "Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2023/2124 on certain provisions for fishing in the General Fisheries Commission for the Mediterranean (GFCM) Agreement area (first reading) - Adoption of the legislative act",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13040-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Adopción por el Consejo",
+   "meeting_date": null
+  },
+  {
+   "id": "CM-4349-2026-REV-1",
+   "code": "CM 4349/26 REV 1",
+   "date": "2026-10-05",
+   "title": "PERMANENT REPRESENTATIVES COMMITTEE (Part 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4349-2026-REV-1/en/pdf",
+   "kind": "agenda",
+   "body": "Coreper I",
+   "step": null,
+   "meeting_date": "2026-10-07"
+  },
   {
    "id": "PE-26-2026-REV-1",
    "code": "PE 26/26 REV 1",

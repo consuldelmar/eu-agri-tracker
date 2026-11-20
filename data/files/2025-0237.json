@@ -331,6 +331,14 @@
  ],
  "agenda": [
   {
+   "id": "council-agenda-ST-14199-2026-INIT",
+   "date": "2026-10-12",
+   "body": "Comité Especial de Agricultura (CEA)",
+   "title": "Orden del día (ST 14199/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14199-2026-INIT/en/pdf",
+   "source": "council"
+  },
+  {
    "id": "council-agenda-ST-14473-2026-INIT",
    "date": "2026-10-19",
    "body": "Comité Especial de Agricultura (CEA)",
@@ -341,6 +349,39 @@
  ],
  "scheduled": [],
  "council_docs": [
+  {
+   "id": "ST-14113-2026-INIT",
+   "code": "ST 14113/26",
+   "date": "2026-10-08",
+   "title": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities Council Regulation amending the fixing Regulation as regards the EU school scheme - Exchange of views",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14113-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14152-2026-INIT",
+   "code": "ST 14152/26",
+   "date": "2026-10-09",
+   "title": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities - Presidency compromise text",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14152-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14199-2026-INIT",
+   "code": "ST 14199/26",
+   "date": "2026-10-09",
+   "title": "1781st meeting of the SCA",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14199-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Comité Especial de Agricultura (CEA)",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": "2026-10-12"
+  },
   {
    "id": "ST-14402-2026-INIT",
    "code": "ST 14402/26",

@@ -440,10 +440,30 @@
    "title": "Votación (punto V-36)",
    "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-04-24_EN.html",
    "source": "ep"
+  },
+  {
+   "id": "council-agenda-CM-4504-2026-INIT",
+   "date": "2026-10-21",
+   "body": "Consejo",
+   "title": "Orden del día (CM 4504/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4504-2026-INIT/en/pdf",
+   "source": "council"
   }
  ],
  "scheduled": [],
- "council_docs": [],
+ "council_docs": [
+  {
+   "id": "CM-4504-2026-INIT",
+   "code": "CM 4504/26",
+   "date": "2026-10-07",
+   "title": "Jurists/Linguists Group",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4504-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Consejo",
+   "step": "Posición del Consejo",
+   "meeting_date": "2026-10-21"
+  }
+ ],
  "followed": false,
  "follow_url": ""
 }

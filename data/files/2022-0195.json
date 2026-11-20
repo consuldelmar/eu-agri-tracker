@@ -520,6 +520,116 @@
    "body": "Consejo",
    "step": null,
    "meeting_date": null
+  },
+  {
+   "id": "WK-13048-2022-INIT",
+   "code": "WK 13048/22",
+   "date": "2026-10-12",
+   "title": "Nature Restoration Regulation: Follow-up to the WPE meeting on 30 September 2022: Information and Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13048-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-13728-2022-INIT",
+   "code": "WK 13728/22",
+   "date": "2026-10-12",
+   "title": "Nature Restoration Regulation: Follow-up to the WPE meeting on \n11 October 2022: Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13728-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-14682-2022-INIT",
+   "code": "WK 14682/22",
+   "date": "2026-10-12",
+   "title": "Nature Restoration Regulation: Follow-up to the WPE meeting on \n27 October 2022: Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-14682-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-15418-2022-INIT",
+   "code": "WK 15418/22",
+   "date": "2026-10-12",
+   "title": "Nature Restoration Regulation: Follow-up to the WPE meeting on \n10 November 2022: Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-15418-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": null
+  },
+  {
+   "id": "WK-17354-2022-INIT",
+   "code": "WK 17354/22",
+   "date": "2026-10-12",
+   "title": "Nature Restoration Regulation: Follow-up to the WPE meeting on \n9 December 2022: Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-17354-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-207-2023-INIT",
+   "code": "WK 207/23",
+   "date": "2026-10-12",
+   "title": "Nature Restoration Regulation: Follow-up to the WPE meeting on 9 January 2022: Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-207-2023-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-3049-2023-INIT",
+   "code": "WK 3049/23",
+   "date": "2026-10-12",
+   "title": "Nature Restoration Regulation: Follow-up to the WPE meeting on 2 March 2023: Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-3049-2023-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-3434-2023-INIT",
+   "code": "WK 3434/23",
+   "date": "2026-10-12",
+   "title": "Nature Restoration Regulation: Follow-up to the WPE meeting on 10 March 2023: Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-3434-2023-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-4289-2023-INIT",
+   "code": "WK 4289/23",
+   "date": "2026-10-12",
+   "title": "Nature Restoration Regulation: Follow-up to the WPE meeting on 28 March 2023: Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-4289-2023-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-5617-2023-INIT",
+   "code": "WK 5617/23",
+   "date": "2026-10-12",
+   "title": "Nature Restoration Regulation: Workshop on Financing nature restoration (27 April 2023) – Presentations by the Commission",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-5617-2023-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
   }
  ],
  "followed": false,

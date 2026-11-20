@@ -328,6 +328,14 @@
  ],
  "agenda": [
   {
+   "id": "council-agenda-CM-4424-2026-REV-1",
+   "date": "2026-10-08",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Orden del día (CM 4424/26 REV 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4424-2026-REV-1/en/pdf",
+   "source": "council"
+  },
+  {
    "id": "ep-pl-MTG-PL-2026-11-12-OJ-ITM-V-35",
    "date": "2026-11-12",
    "body": "Pleno del PE",
@@ -338,6 +346,17 @@
  ],
  "scheduled": [],
  "council_docs": [
+  {
+   "id": "CM-4424-2026-REV-1",
+   "code": "CM 4424/26 REV 1",
+   "date": "2026-10-07",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4424-2026-REV-1/en/pdf",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": "2026-10-08"
+  },
   {
    "id": "ST-15323-2026-INIT",
    "code": "ST 15323/26",
