@@ -1,0 +1,18 @@
+name: Seguir un expediente
+description: Recibe por correo los cambios en un expediente
+title: "Seguir: "
+labels: ["follow"]
+body:
+  - type: input
+    id: ref
+    attributes:
+      label: Número del expediente
+      description: Por ejemplo 2024/0319(COD). Ponlo también en el título.
+      placeholder: 2024/0319(COD)
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: >
+        Cada cambio se publicará aquí como comentario y GitHub te lo enviará por correo.
+        Cierra el issue para dejar de seguir el expediente.

@@ -1,0 +1,74 @@
+# Daily update of the EU agri tracker: collects data, posts notifications on
+# followed files, saves the data in data/ and publishes the website (GitHub Pages).
+name: Update tracker
+
+on:
+  schedule:
+    - cron: "41 4 * * 1-5"    # 05:41 Madrid (winter time), Monday to Friday
+    - cron: "41 13 * * 1-5"   # 14:41 Madrid, second pass in the afternoon
+    - cron: "41 9 * * 6"      # Saturday morning, to catch Friday's late news
+  workflow_dispatch:
+  push:                                  # editing config.yml or the code runs an update
+    branches: [main]
+    paths: ["config.yml", "tracker/**", "site/**", ".github/workflows/update.yml"]
+  issues:
+    types: [opened, reopened, labeled]   # a new "follow" issue gets its first update quickly
+
+permissions:
+  contents: write
+  issues: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: tracker
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.event_name != 'issues' || contains(github.event.issue.labels.*.name, 'follow')
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Collect, compare, notify
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m tracker.run
+
+      - name: Save the data
+        run: |
+          git config user.name "eu-agri-tracker"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -q -m "Data update $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull -q --rebase origin "${GITHUB_REF_NAME}" || true
+            git push -q
+          fi
+
+      - uses: actions/configure-pages@v6
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

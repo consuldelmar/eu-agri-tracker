@@ -1,0 +1,44 @@
+# EU agri tracker settings.
+# Edit this file on GitHub (pencil icon), then "Commit changes". The next run uses it.
+
+# Language for titles when the source offers it (es, ca, en, fr...). Falls back to English.
+language: es
+
+# A Parliament file is tracked when one of these committees is involved in it...
+committees: [AGRI, PECH, REGI]
+
+# ...in one of these roles: lead (responsible), joint, associated, opinion.
+# Keeping "opinion" brings in files led by other committees that affect agriculture,
+# such as the MFF regulations or trade agreements.
+roles: [lead, joint, associated, opinion]
+
+# Types of procedure to track.
+# COD ordinary legislative, CNS consultation, APP consent, NLE non-legislative,
+# DEA delegated acts, RPS regulatory procedure with scrutiny,
+# INI own-initiative reports, INL legislative initiative reports.
+procedure_types: [COD, CNS, APP, NLE, DEA, RPS, INI, INL]
+
+# Ignore files started before this year (unless you follow them or list them below).
+since_year: 2019
+
+# Files you want tracked even if the rule above does not catch them.
+# Format: "2025/0123(COD)"
+also_track: []
+
+# Files to be notified about. You can also follow a file from the website
+# (Follow button) or by opening an issue with the "follow" label.
+follow: []
+
+# Legislative Train links, added by hand (its website does not allow automated reading).
+# Format:  "2024/0319(COD)": "https://www.europarl.europa.eu/legislative-train/..."
+legislative_train: {}
+
+council:
+  # On the first run, how many days back to read Council documents.
+  first_run_days: 45
+  # Maximum number of Council PDFs to read per run (keeps runs short).
+  max_pdfs_per_run: 80
+
+notifications:
+  # true = also post every change (not only followed files) in a "Cambios diarios" issue.
+  daily_digest: false
