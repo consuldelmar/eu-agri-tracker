@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2019/1241 del Parlamento Europeo y del Consejo en lo que respecta a la prórroga de las medidas para reducir las capturas accidentales de delfín común (Delphinus delphis) y otros cetáceos pequeños en el Golfo de Vizcaya",
  "title_en": "Commission Delegated Regulation amending Regulation (EU) 2019/1241 of the European Parliament and of the Council as regards the prolongation of the measures to reduce incidental catches of common dolphin (Delphinus delphis) and other small cetaceans in the Bay of Biscay",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "PECH",

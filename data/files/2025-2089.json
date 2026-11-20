@@ -1,0 +1,297 @@
+{
+ "ref": "2025/2089(INI)",
+ "id": "2025-2089",
+ "type": "INI",
+ "title": "Política de promoción agroalimentaria de la Unión",
+ "title_en": "EU agri-food promotion policy",
+ "stage": "Informe aprobado en comisión",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [
+  {
+   "id": "204333",
+   "name": "Salvatore DE MEO",
+   "group": "PPE",
+   "country": "IT",
+   "role": "rapporteur",
+   "committee": "AGRI",
+   "since": "2025-05-06"
+  },
+  {
+   "id": "257111",
+   "name": "Dario NARDELLA",
+   "group": "S&D",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2025-07-10"
+  },
+  {
+   "id": "197825",
+   "name": "Raffaele STANCANELLI",
+   "group": "PfE",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-02-24"
+  },
+  {
+   "id": "257114",
+   "name": "Claudiu-Richard TÂRZIU",
+   "group": "ECR",
+   "country": "RO",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2025-02-10"
+  },
+  {
+   "id": "257298",
+   "name": "Ciaran MULLOOLY",
+   "group": "Renew",
+   "country": "IE",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2025-07-10"
+  },
+  {
+   "id": "193292",
+   "name": "Tilly METZ",
+   "group": "Verts/ALE",
+   "country": "LU",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-02-24"
+  },
+  {
+   "id": "125023",
+   "name": "Anja HAZEKAMP",
+   "group": "The Left",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-02-24"
+  }
+ ],
+ "started": "2025-05-08",
+ "last_activity": "2026-11-12",
+ "events": [
+  {
+   "date": "2025-05-08",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-03-03",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "AGRI-PR-784348",
+     "title": "Proyecto de informe AGRI (784348)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PR-784348_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-22",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AM-786699",
+     "title": "Enmiendas en comisión AGRI (786699)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-786699_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-10-09",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0269",
+     "title": "Informe A10-0269/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0269_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno (4 documentos)",
+   "docs": [
+    {
+     "id": "A-10-2026-0269-AM-014-014",
+     "title": "Enmiendas al Pleno 14-14 (informe A10-0269/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0269-AM-014-014_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2026-0269-AM-001-008",
+     "title": "Enmiendas al Pleno 1-8 (informe A10-0269/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0269-AM-001-008_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 8
+    },
+    {
+     "id": "A-10-2026-0269-AM-009-011",
+     "title": "Enmiendas al Pleno 9-11 (informe A10-0269/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0269-AM-009-011_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 3
+    },
+    {
+     "id": "A-10-2026-0269-AM-012-013",
+     "title": "Enmiendas al Pleno 12-13 (informe A10-0269/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0269-AM-012-013_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 2
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2026-11-12-ITM-006-12",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2026-11-12-ITM-006-12_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2026-11-12-ITM-006-12",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-12-ITM-006-12_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0269",
+     "title": "Informe A10-0269/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0269_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "AGRI-PR-784348",
+   "title": "Proyecto de informe AGRI (784348)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PR-784348_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-03-03"
+  },
+  {
+   "id": "AGRI-AM-786699",
+   "title": "Enmiendas en comisión AGRI (786699)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-786699_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-04-22"
+  },
+  {
+   "id": "A-10-2026-0269",
+   "title": "Informe A10-0269/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0269_EN.html",
+   "kind": "report",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "A-10-2026-0269-AM-014-014",
+   "title": "Enmiendas al Pleno 14-14 (informe A10-0269/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0269-AM-014-014_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-11-04"
+  },
+  {
+   "id": "A-10-2026-0269-AM-001-008",
+   "title": "Enmiendas al Pleno 1-8 (informe A10-0269/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0269-AM-001-008_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 8,
+   "date": "2026-11-04"
+  },
+  {
+   "id": "A-10-2026-0269-AM-009-011",
+   "title": "Enmiendas al Pleno 9-11 (informe A10-0269/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0269-AM-009-011_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 3,
+   "date": "2026-11-04"
+  },
+  {
+   "id": "A-10-2026-0269-AM-012-013",
+   "title": "Enmiendas al Pleno 12-13 (informe A10-0269/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0269-AM-012-013_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 2,
+   "date": "2026-11-04"
+  }
+ ],
+ "amendments": {
+  "plenary": 14,
+  "committee_documents": 1
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-12-OJ-ITM-V-45",
+   "date": "2026-11-12",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-45)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_EN.html",
+   "refs": [
+    "2025/2089(INI)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2089(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2089",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2089?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2089?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-12-OJ-ITM-V-45",
+   "date": "2026-11-12",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-45)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

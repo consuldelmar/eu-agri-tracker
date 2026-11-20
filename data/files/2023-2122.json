@@ -1,0 +1,352 @@
+{
+ "ref": "2023/2122(INI)",
+ "id": "2023-2122",
+ "type": "INI",
+ "title": "Transparencia y rendición de cuentas de las organizaciones no gubernamentales financiadas con cargo al presupuesto de la Unión",
+ "title_en": "Transparency and accountability of non-governmental organisations funded from the EU budget",
+ "stage": "Debate en el Pleno",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "CONT",
+   "role": "lead"
+  },
+  {
+   "code": "AFET",
+   "role": "opinion"
+  },
+  {
+   "code": "LIBE",
+   "role": "opinion"
+  },
+  {
+   "code": "REGI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "197482",
+   "name": "Joachim KUHS",
+   "group": "ID",
+   "country": "DEU",
+   "role": "shadow",
+   "committee": "CONT",
+   "since": "2023-07-12"
+  },
+  {
+   "id": "240478",
+   "name": "Beatrice COVASSI",
+   "group": "S&D",
+   "country": "ITA",
+   "role": "shadow",
+   "committee": "CONT",
+   "since": "2023-07-12"
+  },
+  {
+   "id": "28372",
+   "name": "Ryszard CZARNECKI",
+   "group": "ECR",
+   "country": "POL",
+   "role": "shadow",
+   "committee": "CONT",
+   "since": "2023-09-15"
+  },
+  {
+   "id": "204416",
+   "name": "Ilana CICUREL",
+   "group": "Renew",
+   "country": "FRA",
+   "role": "shadow",
+   "committee": "CONT",
+   "since": "2023-07-12"
+  },
+  {
+   "id": "106936",
+   "name": "Daniel FREUND",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "CONT",
+   "since": "2023-10-24"
+  },
+  {
+   "id": "124985",
+   "name": "Luke Ming FLANAGAN",
+   "group": "The Left",
+   "country": "IE",
+   "role": "shadow",
+   "committee": "CONT",
+   "since": "2023-07-18"
+  },
+  {
+   "id": "124988",
+   "name": "Deirdre CLUNE",
+   "group": "PPE",
+   "country": "IRL",
+   "role": "opinion_rapporteur",
+   "committee": "DROI",
+   "since": "2023-04-26"
+  },
+  {
+   "id": "28224",
+   "name": "Markus PIEPER",
+   "group": "PPE",
+   "country": "DEU",
+   "role": "rapporteur",
+   "committee": "CONT",
+   "since": "2023-07-10"
+  },
+  {
+   "id": "197731",
+   "name": "Clare DALY",
+   "group": "The Left",
+   "country": "IRL",
+   "role": "opinion_rapporteur",
+   "committee": "LIBE",
+   "since": "2023-09-20"
+  }
+ ],
+ "started": "2023-07-12",
+ "last_activity": "2024-01-17",
+ "events": [
+  {
+   "date": "2023-07-12",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-09-12",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "AFET-PA-752946",
+     "title": "Proyecto de opinión AFET (752946)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AFET-PA-752946_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-10",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "LIBE-PA-754691",
+     "title": "Proyecto de opinión LIBE (754691)",
+     "url": "https://www.europarl.europa.eu/doceo/document/LIBE-PA-754691_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-18",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "CONT-PR-751681",
+     "title": "Proyecto de informe CONT (751681)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CONT-PR-751681_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-16",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "AFET-AD-752946",
+     "title": "Opinión AFET (752946)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AFET-AD-752946_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-28",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "LIBE-AD-754691",
+     "title": "Opinión LIBE (754691)",
+     "url": "https://www.europarl.europa.eu/doceo/document/LIBE-AD-754691_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-12-14",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-12-21",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0446",
+     "title": "Informe A9-0446/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0446_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-01-16",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0446",
+     "title": "Informe A9-0446/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0446_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-01-17",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-9-2024-01-17-ITM-008-22",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-01-17-ITM-008-22_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2024-01-17-ITM-008-22",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-01-17-ITM-008-22_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2024-01-17",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0446",
+     "title": "Informe A9-0446/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0446_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "AFET-PA-752946",
+   "title": "Proyecto de opinión AFET (752946)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AFET-PA-752946_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2023-09-12"
+  },
+  {
+   "id": "LIBE-PA-754691",
+   "title": "Proyecto de opinión LIBE (754691)",
+   "url": "https://www.europarl.europa.eu/doceo/document/LIBE-PA-754691_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2023-10-10"
+  },
+  {
+   "id": "CONT-PR-751681",
+   "title": "Proyecto de informe CONT (751681)",
+   "url": "https://www.europarl.europa.eu/doceo/document/CONT-PR-751681_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-10-18"
+  },
+  {
+   "id": "AFET-AD-752946",
+   "title": "Opinión AFET (752946)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AFET-AD-752946_EN.pdf",
+   "kind": "opinion",
+   "date": "2023-11-16"
+  },
+  {
+   "id": "LIBE-AD-754691",
+   "title": "Opinión LIBE (754691)",
+   "url": "https://www.europarl.europa.eu/doceo/document/LIBE-AD-754691_EN.pdf",
+   "kind": "opinion",
+   "date": "2023-11-28"
+  },
+  {
+   "id": "A-9-2023-0446",
+   "title": "Informe A9-0446/2023",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0446_EN.html",
+   "kind": "report",
+   "date": "2023-12-21"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2024-01-17-OJ-ITM-V-16",
+   "date": "2024-01-17",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-16)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-01-17_EN.html",
+   "refs": [
+    "2023/2122(INI)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-01-16-OJ-ITM-D-16",
+   "date": "2024-01-16",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-16)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-01-16_EN.html",
+   "refs": [
+    "2023/2122(INI)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/2122(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_2122",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_2122?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-2122?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2024-01-16-OJ-ITM-D-16",
+   "date": "2024-01-16",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-16)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-01-16_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-01-17-OJ-ITM-V-16",
+   "date": "2024-01-17",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-16)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-01-17_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

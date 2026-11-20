@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica Reglamento Delegado (UE) 2015/1829 que completa el Reglamento (UE) n.º 1144/2014 del Parlamento Europeo y del Consejo, sobre acciones de información y de promoción relativas a productos agrícolas en el mercado interior y en terceros países",
  "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2015/1829 supplementing Regulation (EU) No 1144/2014 of the European Parliament and of the Council on information provision and promotion measures concerning agricultural products",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

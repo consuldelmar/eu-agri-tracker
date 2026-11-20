@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2024/1735 del Parlamento Europeo y del Consejo en lo que respecta a la determinación de las subcategorías de las tecnologías de cero emisiones netas y la lista de componentes específicos utilizados para dichas tecnologías",
  "title_en": "Commission Delegated Regulation amending Regulation (EU) 2024/1735 of the European Parliament and of the Council as regards the identification of sub-categories within net-zero technologies and the list of specific components used for those technologies.",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "ITRE",

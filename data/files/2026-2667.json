@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2020/686 en lo que respecta a la infección por el virus de la lengua azul (serotipos 1-24), la infección por el virus de la enfermedad hemorrágica epizoótica y la metritis contagiosa equina (Taylorella equigenitalis)",
  "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2020/686 as regards infection with bluetongue virus (serotypes 1 – 24), infection with epizootic haemorrhagic disease virus and contagious equine metritis (Taylorella equigenitalis)",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

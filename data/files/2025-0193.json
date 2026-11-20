@@ -4,8 +4,8 @@
  "type": "NLE",
  "title": "Aprobación, en nombre de la Unión, de la enmienda del artículo 36 del Convenio Internacional del Aceite de Oliva y de las Aceitunas de Mesa de 2015",
  "title_en": "Union Approval of the amendment to Article 36 of the 2015 International Agreement on Olive Oil and Table Olives",
- "stage": "Plenary decision",
- "ongoing": true,
+ "stage": "Decisión del Pleno",
+ "ongoing": false,
  "committees": [
   {
    "code": "INTA",
@@ -129,7 +129,7 @@
   {
    "date": "2026-05-20",
    "type": "PLENARY_DECISION",
-   "title": "Plenary decision",
+   "title": "Decisión del Pleno",
    "docs": [
     {
      "id": "TA-10-2026-0175",
@@ -145,15 +145,15 @@
    "title": "Votación en el Pleno",
    "docs": [
     {
-     "id": "CRE-10-2026-05-20-ITM-009-03",
-     "title": "Debate en el Pleno (acta literal)",
-     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2026-05-20-ITM-009-03_EN.html",
-     "kind": "minutes"
-    },
-    {
      "id": "PV-10-2026-05-20-ITM-009-03",
      "title": "Acta del Pleno",
      "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-05-20-ITM-009-03_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "CRE-10-2026-05-20-ITM-009-03",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2026-05-20-ITM-009-03_EN.html",
      "kind": "minutes"
     }
    ]

@@ -1,0 +1,1357 @@
+{
+ "ref": "2024/2108(INI)",
+ "id": "2024-2108",
+ "type": "INI",
+ "title": "Ejecución del Acuerdo de Comercio y Cooperación entre la Unión Europea y el Reino Unido",
+ "title_en": "Implementation of the EU-UK Trade and Cooperation Agreement",
+ "stage": "Debate en el Pleno",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "AFET",
+   "role": "joint"
+  },
+  {
+   "code": "INTA",
+   "role": "joint"
+  },
+  {
+   "code": "BUDG",
+   "role": "opinion"
+  },
+  {
+   "code": "CULT",
+   "role": "opinion"
+  },
+  {
+   "code": "ECON",
+   "role": "opinion"
+  },
+  {
+   "code": "EMPL",
+   "role": "opinion"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  },
+  {
+   "code": "IMCO",
+   "role": "opinion"
+  },
+  {
+   "code": "ITRE",
+   "role": "opinion"
+  },
+  {
+   "code": "LIBE",
+   "role": "opinion"
+  },
+  {
+   "code": "PECH",
+   "role": "opinion"
+  },
+  {
+   "code": "TRAN",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "185341",
+   "name": "Željana ZOVKO",
+   "group": "PPE",
+   "country": "HR",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2024-11-21"
+  },
+  {
+   "id": "218347",
+   "name": "Thijs REUTEN",
+   "group": "S&D",
+   "country": "NL",
+   "role": "rapporteur",
+   "committee": "AFET",
+   "since": "2024-11-18"
+  },
+  {
+   "id": "256991",
+   "name": "Sebastiaan STÖTELER",
+   "group": "PfE",
+   "country": "NLD",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2024-12-10"
+  },
+  {
+   "id": "256907",
+   "name": "Reinis POZŅAKS",
+   "group": "ECR",
+   "country": "LV",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2025-04-12"
+  },
+  {
+   "id": "197494",
+   "name": "Nathalie LOISEAU",
+   "group": "Renew",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2024-11-20"
+  },
+  {
+   "id": "197802",
+   "name": "Ville NIINISTÖ",
+   "group": "Verts/ALE",
+   "country": "FI",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2025-01-27"
+  },
+  {
+   "id": "124736",
+   "name": "Merja KYLLÖNEN",
+   "group": "The Left",
+   "country": "FI",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2025-02-05"
+  },
+  {
+   "id": "257296",
+   "name": "Nina CARBERRY",
+   "group": "PPE",
+   "country": "IE",
+   "role": "rapporteur",
+   "committee": "INTA",
+   "since": "2024-11-18"
+  },
+  {
+   "id": "124867",
+   "name": "Brando BENIFEI",
+   "group": "S&D",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2024-12-02"
+  },
+  {
+   "id": "96830",
+   "name": "Enikő GYŐRI",
+   "group": "PfE",
+   "country": "HU",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2025-05-28"
+  },
+  {
+   "id": "257163",
+   "name": "Francesco TORSELLI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2024-12-02"
+  },
+  {
+   "id": "257297",
+   "name": "Barry COWEN",
+   "group": "Renew",
+   "country": "IE",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2024-12-02"
+  },
+  {
+   "id": "257016",
+   "name": "Vicent MARZÀ IBÁÑEZ",
+   "group": "Verts/ALE",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2024-12-02"
+  },
+  {
+   "id": "124984",
+   "name": "Lynn BOYLAN",
+   "group": "The Left",
+   "country": "IE",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2024-12-02"
+  },
+  {
+   "id": "128483",
+   "name": "Markus BUCHHEIT",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2024-12-02"
+  },
+  {
+   "id": "257296",
+   "name": "Nina CARBERRY",
+   "group": "PPE",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2025-03-06"
+  },
+  {
+   "id": "88882",
+   "name": "Victor NEGRESCU",
+   "group": "S&D",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2025-04-24"
+  },
+  {
+   "id": "256896",
+   "name": "Angéline FURET",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2025-04-30"
+  },
+  {
+   "id": "125106",
+   "name": "Johan VAN OVERTVELDT",
+   "group": "ECR",
+   "country": "BE",
+   "role": "opinion_rapporteur",
+   "committee": "BUDG",
+   "since": "2025-01-06"
+  },
+  {
+   "id": "22858",
+   "name": "Fabienne KELLER",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2025-04-25"
+  },
+  {
+   "id": "197448",
+   "name": "Rasmus ANDRESEN",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2025-05-20"
+  },
+  {
+   "id": "257237",
+   "name": "Regina DOHERTY",
+   "group": "PPE",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "ECON",
+   "since": "2025-05-13"
+  },
+  {
+   "id": "197800",
+   "name": "Eero HEINÄLUOMA",
+   "group": "S&D",
+   "country": "FI",
+   "role": "opinion_rapporteur",
+   "committee": "ECON",
+   "since": "2024-12-12"
+  },
+  {
+   "id": "256844",
+   "name": "Jaroslava POKORNÁ JERMANOVÁ",
+   "group": "PfE",
+   "country": "CZ",
+   "role": "opinion_shadow",
+   "committee": "ECON",
+   "since": "2024-12-12"
+  },
+  {
+   "id": "198084",
+   "name": "Katri KULMUNI",
+   "group": "Renew",
+   "country": "FI",
+   "role": "opinion_shadow",
+   "committee": "ECON",
+   "since": "2024-12-12"
+  },
+  {
+   "id": "197573",
+   "name": "Kira Marie PETER-HANSEN",
+   "group": "Verts/ALE",
+   "country": "DK",
+   "role": "opinion_shadow",
+   "committee": "ECON",
+   "since": "2025-05-20"
+  },
+  {
+   "id": "127766",
+   "name": "Jussi SARAMO",
+   "group": "The Left",
+   "country": "FI",
+   "role": "opinion_shadow",
+   "committee": "ECON",
+   "since": "2024-12-12"
+  },
+  {
+   "id": "95074",
+   "name": "Jeroen LENAERS",
+   "group": "PPE",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-05-23"
+  },
+  {
+   "id": "256994",
+   "name": "Idoia MENDIA",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_rapporteur",
+   "committee": "EMPL",
+   "since": "2024-12-03"
+  },
+  {
+   "id": "256998",
+   "name": "Rachel BLOM",
+   "group": "PfE",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-03-19"
+  },
+  {
+   "id": "257163",
+   "name": "Francesco TORSELLI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-03-31"
+  },
+  {
+   "id": "197672",
+   "name": "Eugen TOMAC",
+   "group": "Renew",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-05-06"
+  },
+  {
+   "id": "257299",
+   "name": "Kathleen FUNCHION",
+   "group": "The Left",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-05-06"
+  },
+  {
+   "id": "125325",
+   "name": "Sander SMIT",
+   "group": "PPE",
+   "country": "NL",
+   "role": "opinion_rapporteur",
+   "committee": "ENVI",
+   "since": "2025-02-14"
+  },
+  {
+   "id": "88882",
+   "name": "Victor NEGRESCU",
+   "group": "S&D",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2025-02-14"
+  },
+  {
+   "id": "197829",
+   "name": "Jorge BUXADÉ VILLALBA",
+   "group": "PfE",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2025-04-25"
+  },
+  {
+   "id": "256986",
+   "name": "Geadis GEADI",
+   "group": "ECR",
+   "country": "CY",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2025-07-01"
+  },
+  {
+   "id": "197818",
+   "name": "Billy KELLEHER",
+   "group": "Renew",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2025-04-25"
+  },
+  {
+   "id": "197398",
+   "name": "Pär HOLMGREN",
+   "group": "Verts/ALE",
+   "country": "SE",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2025-04-25"
+  },
+  {
+   "id": "124984",
+   "name": "Lynn BOYLAN",
+   "group": "The Left",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2025-04-25"
+  },
+  {
+   "id": "257047",
+   "name": "Borys BUDKA",
+   "group": "PPE",
+   "country": "PL",
+   "role": "opinion_rapporteur",
+   "committee": "ITRE",
+   "since": "2024-12-12"
+  },
+  {
+   "id": "28226",
+   "name": "Christian EHLER",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2025-03-27"
+  },
+  {
+   "id": "197800",
+   "name": "Eero HEINÄLUOMA",
+   "group": "S&D",
+   "country": "FI",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2025-05-12"
+  },
+  {
+   "id": "256881",
+   "name": "Barbara BONTE",
+   "group": "PfE",
+   "country": "BE",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2025-05-14"
+  },
+  {
+   "id": "257163",
+   "name": "Francesco TORSELLI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2025-04-09"
+  },
+  {
+   "id": "204332",
+   "name": "Barry ANDREWS",
+   "group": "Renew",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2025-05-07"
+  },
+  {
+   "id": "197802",
+   "name": "Ville NIINISTÖ",
+   "group": "Verts/ALE",
+   "country": "FI",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2025-04-11"
+  },
+  {
+   "id": "257028",
+   "name": "Henrik DAHL",
+   "group": "PPE",
+   "country": "DK",
+   "role": "opinion_shadow",
+   "committee": "IMCO",
+   "since": "2025-02-19"
+  },
+  {
+   "id": "256994",
+   "name": "Idoia MENDIA",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "IMCO",
+   "since": "2024-12-10"
+  },
+  {
+   "id": "257258",
+   "name": "Ivaylo VALCHEV",
+   "group": "ECR",
+   "country": "BG",
+   "role": "opinion_shadow",
+   "committee": "IMCO",
+   "since": "2024-11-26"
+  },
+  {
+   "id": "204419",
+   "name": "Sandro GOZI",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_rapporteur",
+   "committee": "IMCO",
+   "since": "2025-04-24"
+  },
+  {
+   "id": "124985",
+   "name": "Luke Ming FLANAGAN",
+   "group": "The Left",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "IMCO",
+   "since": "2025-05-20"
+  },
+  {
+   "id": "257296",
+   "name": "Nina CARBERRY",
+   "group": "PPE",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2024-12-18"
+  },
+  {
+   "id": "38542",
+   "name": "Johan DANIELSSON",
+   "group": "S&D",
+   "country": "SE",
+   "role": "opinion_rapporteur",
+   "committee": "TRAN",
+   "since": "2025-01-21"
+  },
+  {
+   "id": "124884",
+   "name": "Kosma ZŁOTOWSKI",
+   "group": "ECR",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2025-03-07"
+  },
+  {
+   "id": "129073",
+   "name": "Urmas PAET",
+   "group": "Renew",
+   "country": "EE",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2025-01-30"
+  },
+  {
+   "id": "256965",
+   "name": "Kai TEGETHOFF",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2025-01-22"
+  },
+  {
+   "id": "256920",
+   "name": "Isabelle LE CALLENNEC",
+   "group": "PPE",
+   "country": "FR",
+   "role": "opinion_rapporteur",
+   "committee": "PECH",
+   "since": "2024-11-07"
+  },
+  {
+   "id": "256905",
+   "name": "Eric SARGIACOMO",
+   "group": "S&D",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2025-01-29"
+  },
+  {
+   "id": "256981",
+   "name": "Ton DIEPEVEEN",
+   "group": "PfE",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2024-11-27"
+  },
+  {
+   "id": "197773",
+   "name": "Bert-Jan RUISSEN",
+   "group": "ECR",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2025-01-28"
+  },
+  {
+   "id": "197581",
+   "name": "Stéphanie YON-COURTIN",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2024-11-05"
+  },
+  {
+   "id": "124985",
+   "name": "Luke Ming FLANAGAN",
+   "group": "The Left",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2024-12-03"
+  },
+  {
+   "id": "197414",
+   "name": "Loucas FOURLAS",
+   "group": "PPE",
+   "country": "CY",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2024-12-13"
+  },
+  {
+   "id": "197682",
+   "name": "Hannes HEIDE",
+   "group": "S&D",
+   "country": "AT",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-04-01"
+  },
+  {
+   "id": "256859",
+   "name": "Annamária VICSEK",
+   "group": "PfE",
+   "country": "HU",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-06-18"
+  },
+  {
+   "id": "257258",
+   "name": "Ivaylo VALCHEV",
+   "group": "ECR",
+   "country": "BG",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-01-30"
+  },
+  {
+   "id": "197589",
+   "name": "Laurence FARRENG",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_rapporteur",
+   "committee": "CULT",
+   "since": "2024-12-12"
+  },
+  {
+   "id": "256964",
+   "name": "Nela RIEHL",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-03-05"
+  },
+  {
+   "id": "256910",
+   "name": "Anthony SMITH",
+   "group": "The Left",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-02-12"
+  },
+  {
+   "id": "257457",
+   "name": "Zsuzsanna BORVENDÉG",
+   "group": "ESN",
+   "country": "HU",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-03-05"
+  },
+  {
+   "id": "98582",
+   "name": "Loránt VINCZE",
+   "group": "PPE",
+   "country": "RO",
+   "role": "opinion_rapporteur",
+   "committee": "LIBE",
+   "since": "2024-12-03"
+  },
+  {
+   "id": "257238",
+   "name": "Aodhán Ó RÍORDÁIN",
+   "group": "S&D",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "LIBE",
+   "since": "2024-12-03"
+  },
+  {
+   "id": "257125",
+   "name": "Roberto VANNACCI",
+   "group": "PfE",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "LIBE",
+   "since": "2025-05-14"
+  },
+  {
+   "id": "124877",
+   "name": "Jadwiga WIŚNIEWSKA",
+   "group": "ECR",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "LIBE",
+   "since": "2024-12-03"
+  },
+  {
+   "id": "257300",
+   "name": "Michael MCNAMARA",
+   "group": "Renew",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "LIBE",
+   "since": "2024-12-03"
+  },
+  {
+   "id": "197395",
+   "name": "Alice KUHNKE",
+   "group": "Verts/ALE",
+   "country": "SE",
+   "role": "opinion_shadow",
+   "committee": "LIBE",
+   "since": "2024-12-03"
+  },
+  {
+   "id": "257126",
+   "name": "Gaetano PEDULLA'",
+   "group": "The Left",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "LIBE",
+   "since": "2024-12-03"
+  }
+ ],
+ "started": "2024-11-28",
+ "last_activity": "2025-11-27",
+ "events": [
+  {
+   "date": "2024-11-28",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-04-14",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "CJ38-PR-768086",
+     "title": "CJ38-PR-768086",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2025-04-24",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "PECH-PA-771909",
+     "title": "Proyecto de opinión PECH (771909)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PA-771909_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-04-28",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "CULT-PA-773116",
+     "title": "Proyecto de opinión CULT (773116)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CULT-PA-773116_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-04-29",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "IMCO-PA-773105",
+     "title": "Proyecto de opinión IMCO (773105)",
+     "url": "https://www.europarl.europa.eu/doceo/document/IMCO-PA-773105_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-04-30",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "ECON-PA-773038",
+     "title": "Proyecto de opinión ECON (773038)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ECON-PA-773038_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-02",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "ENVI-PA-771972",
+     "title": "Proyecto de opinión ENVI (771972)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-PA-771972_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-08",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "EMPL-PA-773239",
+     "title": "Proyecto de opinión EMPL (773239)",
+     "url": "https://www.europarl.europa.eu/doceo/document/EMPL-PA-773239_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-12",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "BUDG-PA-773240",
+     "title": "Proyecto de opinión BUDG (773240)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-PA-773240_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-13",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "TRAN-PA-773287",
+     "title": "Proyecto de opinión TRAN (773287)",
+     "url": "https://www.europarl.europa.eu/doceo/document/TRAN-PA-773287_EN.pdf",
+     "kind": "draft_opinion"
+    },
+    {
+     "id": "LIBE-PA-773306",
+     "title": "Proyecto de opinión LIBE (773306)",
+     "url": "https://www.europarl.europa.eu/doceo/document/LIBE-PA-773306_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-26",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "CJ38-AM-774277",
+     "title": "CJ38-AM-774277",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2025-06-24",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "BUDG-AD-773240",
+     "title": "Opinión BUDG (773240)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-773240_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-06-25",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "EMPL-AD-773239",
+     "title": "Opinión EMPL (773239)",
+     "url": "https://www.europarl.europa.eu/doceo/document/EMPL-AD-773239_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-07-03",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "ENVI-AD-771972",
+     "title": "Opinión ENVI (771972)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AD-771972_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-07-15",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "LIBE-AD-773306",
+     "title": "Opinión LIBE (773306)",
+     "url": "https://www.europarl.europa.eu/doceo/document/LIBE-AD-773306_EN.pdf",
+     "kind": "opinion"
+    },
+    {
+     "id": "ECON-AD-773038",
+     "title": "Opinión ECON (773038)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ECON-AD-773038_EN.pdf",
+     "kind": "opinion"
+    },
+    {
+     "id": "IMCO-AD-773105",
+     "title": "Opinión IMCO (773105)",
+     "url": "https://www.europarl.europa.eu/doceo/document/IMCO-AD-773105_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-07-16",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "PECH-AD-771909",
+     "title": "Opinión PECH (771909)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-AD-771909_EN.pdf",
+     "kind": "opinion"
+    },
+    {
+     "id": "TRAN-AD-773287",
+     "title": "Opinión TRAN (773287)",
+     "url": "https://www.europarl.europa.eu/doceo/document/TRAN-AD-773287_EN.pdf",
+     "kind": "opinion"
+    },
+    {
+     "id": "CULT-AD-773116",
+     "title": "Opinión CULT (773116)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CULT-AD-773116_EN.pdf",
+     "kind": "opinion"
+    },
+    {
+     "id": "ITRE-AD-772062",
+     "title": "Opinión ITRE (772062)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AD-772062_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-11-04",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-11-11",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0226",
+     "title": "Informe A10-0226/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0226_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-11-18",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0226-AM-005-005",
+     "title": "Enmiendas al Pleno 5-5 (informe A10-0226/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0226-AM-005-005_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2025-11-19",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno (3 documentos)",
+   "docs": [
+    {
+     "id": "A-10-2025-0226-AM-004-004",
+     "title": "Enmiendas al Pleno 4-4 (informe A10-0226/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0226-AM-004-004_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2025-0226-AM-001-002",
+     "title": "Enmiendas al Pleno 1-2 (informe A10-0226/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0226-AM-001-002_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 2
+    },
+    {
+     "id": "A-10-2025-0226-AM-003-003",
+     "title": "Enmiendas al Pleno 3-3 (informe A10-0226/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0226-AM-003-003_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2025-11-26",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0226",
+     "title": "Informe A10-0226/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0226_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-11-27",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2025-11-27-ITM-007-06",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2025-11-27-ITM-007-06_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2025-11-27-ITM-007-06",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-11-27-ITM-007-06_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2025-11-27",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0226",
+     "title": "Informe A10-0226/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0226_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "CJ38-PR-768086",
+   "title": "CJ38-PR-768086",
+   "url": "",
+   "kind": "other",
+   "date": "2025-04-14"
+  },
+  {
+   "id": "PECH-PA-771909",
+   "title": "Proyecto de opinión PECH (771909)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PA-771909_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-04-24"
+  },
+  {
+   "id": "CULT-PA-773116",
+   "title": "Proyecto de opinión CULT (773116)",
+   "url": "https://www.europarl.europa.eu/doceo/document/CULT-PA-773116_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-04-28"
+  },
+  {
+   "id": "IMCO-PA-773105",
+   "title": "Proyecto de opinión IMCO (773105)",
+   "url": "https://www.europarl.europa.eu/doceo/document/IMCO-PA-773105_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-04-29"
+  },
+  {
+   "id": "ECON-PA-773038",
+   "title": "Proyecto de opinión ECON (773038)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ECON-PA-773038_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-04-30"
+  },
+  {
+   "id": "ENVI-PA-771972",
+   "title": "Proyecto de opinión ENVI (771972)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-PA-771972_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-05-02"
+  },
+  {
+   "id": "EMPL-PA-773239",
+   "title": "Proyecto de opinión EMPL (773239)",
+   "url": "https://www.europarl.europa.eu/doceo/document/EMPL-PA-773239_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-05-08"
+  },
+  {
+   "id": "BUDG-PA-773240",
+   "title": "Proyecto de opinión BUDG (773240)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-PA-773240_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-05-12"
+  },
+  {
+   "id": "TRAN-PA-773287",
+   "title": "Proyecto de opinión TRAN (773287)",
+   "url": "https://www.europarl.europa.eu/doceo/document/TRAN-PA-773287_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-05-13"
+  },
+  {
+   "id": "LIBE-PA-773306",
+   "title": "Proyecto de opinión LIBE (773306)",
+   "url": "https://www.europarl.europa.eu/doceo/document/LIBE-PA-773306_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-05-13"
+  },
+  {
+   "id": "CJ38-AM-774277",
+   "title": "CJ38-AM-774277",
+   "url": "",
+   "kind": "other",
+   "date": "2025-05-26"
+  },
+  {
+   "id": "BUDG-AD-773240",
+   "title": "Opinión BUDG (773240)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-773240_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-06-24"
+  },
+  {
+   "id": "EMPL-AD-773239",
+   "title": "Opinión EMPL (773239)",
+   "url": "https://www.europarl.europa.eu/doceo/document/EMPL-AD-773239_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-06-25"
+  },
+  {
+   "id": "ENVI-AD-771972",
+   "title": "Opinión ENVI (771972)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AD-771972_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-07-03"
+  },
+  {
+   "id": "LIBE-AD-773306",
+   "title": "Opinión LIBE (773306)",
+   "url": "https://www.europarl.europa.eu/doceo/document/LIBE-AD-773306_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-07-15"
+  },
+  {
+   "id": "ECON-AD-773038",
+   "title": "Opinión ECON (773038)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ECON-AD-773038_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-07-15"
+  },
+  {
+   "id": "IMCO-AD-773105",
+   "title": "Opinión IMCO (773105)",
+   "url": "https://www.europarl.europa.eu/doceo/document/IMCO-AD-773105_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-07-15"
+  },
+  {
+   "id": "PECH-AD-771909",
+   "title": "Opinión PECH (771909)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-AD-771909_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-07-16"
+  },
+  {
+   "id": "TRAN-AD-773287",
+   "title": "Opinión TRAN (773287)",
+   "url": "https://www.europarl.europa.eu/doceo/document/TRAN-AD-773287_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-07-16"
+  },
+  {
+   "id": "CULT-AD-773116",
+   "title": "Opinión CULT (773116)",
+   "url": "https://www.europarl.europa.eu/doceo/document/CULT-AD-773116_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-07-16"
+  },
+  {
+   "id": "ITRE-AD-772062",
+   "title": "Opinión ITRE (772062)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AD-772062_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-07-16"
+  },
+  {
+   "id": "A-10-2025-0226-AM-005-005",
+   "title": "Enmiendas al Pleno 5-5 (informe A10-0226/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0226-AM-005-005_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2025-11-18"
+  },
+  {
+   "id": "A-10-2025-0226-AM-004-004",
+   "title": "Enmiendas al Pleno 4-4 (informe A10-0226/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0226-AM-004-004_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2025-11-19"
+  },
+  {
+   "id": "A-10-2025-0226-AM-001-002",
+   "title": "Enmiendas al Pleno 1-2 (informe A10-0226/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0226-AM-001-002_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 2,
+   "date": "2025-11-19"
+  },
+  {
+   "id": "A-10-2025-0226-AM-003-003",
+   "title": "Enmiendas al Pleno 3-3 (informe A10-0226/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0226-AM-003-003_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2025-11-19"
+  },
+  {
+   "id": "A-10-2025-0226",
+   "title": "Informe A10-0226/2025",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0226_EN.html",
+   "kind": "report",
+   "date": "2025-11-27"
+  }
+ ],
+ "amendments": {
+  "plenary": 5,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2025-11-27-OJ-ITM-V-28",
+   "date": "2025-11-27",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-28)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-11-27_EN.html",
+   "refs": [
+    "2024/2108(INI)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-11-26-OJ-ITM-D-28",
+   "date": "2025-11-26",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-28)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-11-26_EN.html",
+   "refs": [
+    "2024/2108(INI)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2108(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2108",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2108?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2108?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2025-11-26-OJ-ITM-D-28",
+   "date": "2025-11-26",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-28)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-11-26_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-11-27-OJ-ITM-V-28",
+   "date": "2025-11-27",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-28)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-11-27_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

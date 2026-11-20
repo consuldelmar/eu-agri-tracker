@@ -132,7 +132,7 @@
   {
    "date": "2022-10-17",
    "type": "COMMITTEE_TABLING_OPINION",
-   "title": "Committee tabling opinion",
+   "title": "Proyecto de opinión presentado en comisión",
    "docs": [
     {
      "id": "INTA-PA-731609",
@@ -158,7 +158,7 @@
   {
    "date": "2022-10-20",
    "type": "COMMITTEE_TABLING_OPINION",
-   "title": "Committee tabling opinion",
+   "title": "Proyecto de opinión presentado en comisión",
    "docs": [
     {
      "id": "JURI-PA-736693",
@@ -214,8 +214,20 @@
   },
   {
    "date": "2023-06-01",
-   "type": "PLENARY_ACTIVITY']",
-   "title": "Plenary activity']",
+   "type": "PLENARY_AMEND",
+   "title": "Enmiendas aprobadas en el Pleno",
+   "docs": []
+  },
+  {
+   "date": "2023-06-01",
+   "type": "PLENARY_REFER_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
+   "title": "Devuelto a comisión para negociaciones (trílogos)",
+   "docs": []
+  },
+  {
+   "date": "2023-06-01",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
    "docs": [
     {
      "id": "C-9-2022-0130",
@@ -228,20 +240,20 @@
      "title": "Informe A9-0173/2023",
      "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0173_EN.html",
      "kind": "report"
+    },
+    {
+     "id": "CRE-9-2023-06-01-ITM-006-05",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2023-06-01-ITM-006-05_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2023-06-01-ITM-006-05",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2023-06-01-ITM-006-05_EN.html",
+     "kind": "minutes"
     }
    ]
-  },
-  {
-   "date": "2023-06-01",
-   "type": "PLENARY_AMEND",
-   "title": "Enmiendas aprobadas en el Pleno",
-   "docs": []
-  },
-  {
-   "date": "2023-06-01",
-   "type": "PLENARY_REFER_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
-   "title": "Devuelto a comisión para negociaciones (trílogos)",
-   "docs": []
   },
   {
    "date": "2023-06-01",

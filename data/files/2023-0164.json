@@ -106,7 +106,7 @@
   {
    "date": "2023-09-19",
    "type": "COMMITTEE_TABLING_OPINION",
-   "title": "Committee tabling opinion",
+   "title": "Proyecto de opinión presentado en comisión",
    "docs": [
     {
      "id": "PECH-PA-753424",
@@ -151,7 +151,7 @@
   {
    "date": "2023-12-13",
    "type": "PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
-   "title": "Plenary endorse committee interinstitutional negotiations",
+   "title": "El Pleno confirma el mandato para negociar",
    "docs": []
   },
   {
@@ -170,7 +170,7 @@
   {
    "date": "2024-04-10",
    "type": "PLENARY_AMEND_PROPOSAL",
-   "title": "Plenary amend proposal",
+   "title": "Enmiendas del Pleno a la propuesta",
    "docs": [
     {
      "id": "TA-9-2024-0200",

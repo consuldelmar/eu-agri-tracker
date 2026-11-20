@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2021/1698 en lo que respecta a la certificación de determinados operadores y grupos de operadores de terceros países y a los controles de sus productos ecológicos efectuados por las autoridades de control y los organismos de control",
  "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2021/1698 as regards the certification of certain operators and groups of operators in third countries and the controls performed by control authorities and control bodies on their organic products",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

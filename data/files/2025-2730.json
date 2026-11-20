@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) 2024/1735 del Parlamento Europeo y del Consejo mediante la especificación de las normas relativas a la determinación de los productores autorizados de petróleo y gas que deben contribuir al propósito de alcanzar el objetivo a escala de la Unión de capacidad de inyección de CO2 disponible de aquí a 2030, al cálculo de sus contribuciones respectivas y a sus obligaciones de notificación",
  "title_en": "Commission Delegated Regulation supplementing Regulation (EU) 2024/1735 of the European Parliament and of the Council by specifying the rules on the identification of authorised oil and gas producers who are required to contribute to the objective of reaching the Union-target for available CO2 injection capacity by 2030, on the calculation of their respective contributions, and on their reporting obligations",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "ITRE",

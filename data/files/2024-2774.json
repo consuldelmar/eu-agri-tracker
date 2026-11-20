@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el anexo I del Reglamento (UE) 2023/1231 del Parlamento Europeo y del Consejo en lo que respecta a la incorporación del Reglamento (UE) 2023/2419 del Parlamento Europeo y del Consejo a la lista de dicho anexo",
  "title_en": "Commission Delegated Regulation amending Annex I to Regulation (EU) 2023/1231 of the European Parliament and of the Council as regards the addition of Regulation (EU) 2023/2419 of the European Parliament and of the Council to the list in that Annex",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Directiva Delegada de la Comisión por la que se modifica la Directiva 2010/63/UE del Parlamento Europeo y del Consejo con respecto a los requisitos relativos a los establecimientos y al alojamiento y al cuidado de los animales, y con respecto a los métodos de sacrificio de animales",
  "title_en": "Commission Delegated Directive amending Directive 2010/63/EU of the European Parliament and of the Council as regards the requirements for establishments and for the care and accommodation of animals, and as regards the methods of killing animals",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

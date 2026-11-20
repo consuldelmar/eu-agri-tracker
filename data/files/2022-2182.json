@@ -1,0 +1,195 @@
+{
+ "ref": "2022/2182(INI)",
+ "id": "2022-2182",
+ "type": "INI",
+ "title": "Relevo generacional en las futuras explotaciones agrícolas de la Unión",
+ "title_en": "Generational renewal in the EU farms of the future",
+ "stage": "Debate en el Pleno",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [
+  {
+   "id": "236050",
+   "name": "Marie DAUCHY",
+   "group": "ID",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2022-11-10"
+  },
+  {
+   "id": "24594",
+   "name": "Anne SANDER",
+   "group": "PPE",
+   "country": "FRA",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2022-11-10"
+  },
+  {
+   "id": "199996",
+   "name": "Isabel CARVALHAIS",
+   "group": "S&D",
+   "country": "PRT",
+   "role": "rapporteur",
+   "committee": "AGRI",
+   "since": "2022-11-17"
+  },
+  {
+   "id": "197773",
+   "name": "Bert-Jan RUISSEN",
+   "group": "ECR",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2022-11-10"
+  },
+  {
+   "id": "197504",
+   "name": "Jérémy DECERLE",
+   "group": "Renew",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2022-11-10"
+  },
+  {
+   "id": "125214",
+   "name": "Bronis ROPĖ",
+   "group": "Verts/ALE",
+   "country": "LTU",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2022-11-10"
+  },
+  {
+   "id": "205452",
+   "name": "Chris MACMANUS",
+   "group": "The Left",
+   "country": "IRL",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2022-11-10"
+  }
+ ],
+ "started": "2022-11-24",
+ "last_activity": "2023-10-19",
+ "events": [
+  {
+   "date": "2022-11-24",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-03-29",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "AGRI-PR-745357",
+     "title": "Proyecto de informe AGRI (745357)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PR-745357_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-19",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-10-03",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0283",
+     "title": "Informe A9-0283/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0283_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-19",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": []
+  },
+  {
+   "date": "2023-10-19",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-9-2023-10-19-ITM-010-05",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2023-10-19-ITM-010-05_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2023-10-19-ITM-10-5",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2023-10-19-ITM-10-5_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-19",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0283",
+     "title": "Informe A9-0283/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0283_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "AGRI-PR-745357",
+   "title": "Proyecto de informe AGRI (745357)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PR-745357_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-03-29"
+  },
+  {
+   "id": "A-9-2023-0283",
+   "title": "Informe A9-0283/2023",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0283_EN.html",
+   "kind": "report",
+   "date": "2023-10-19"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/2182(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2022_2182",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2022_2182?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2022-2182?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

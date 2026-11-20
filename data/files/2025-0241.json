@@ -563,9 +563,62 @@
   "AGRI (responsable)",
   "REGI (opinión)"
  ],
- "agenda": [],
+ "agenda": [
+  {
+   "id": "council-agenda-ST-14448-2026-INIT",
+   "date": "2026-10-26",
+   "body": "Consejo",
+   "title": "Orden del día (ST 14448/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14448-2026-INIT/en/pdf",
+   "source": "council"
+  }
+ ],
  "scheduled": [],
  "council_docs": [
+  {
+   "id": "ST-14480-2026-INIT",
+   "code": "ST 14480/26",
+   "date": "2026-10-22",
+   "title": "Regulation establishing the conditions for the implementation of Union support under the CAP - Explanatory note on the partial general approach",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14480-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14448-2026-INIT",
+   "code": "ST 14448/26",
+   "date": "2026-10-23",
+   "title": "COUNCIL OF THE EUROPEAN UNION (Agriculture and Fisheries)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14448-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Consejo",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": "2026-10-26"
+  },
+  {
+   "id": "ST-14837-2026-INIT",
+   "code": "ST 14837/26",
+   "date": "2026-10-28",
+   "title": "Regulation establishing the conditions for the implementation of Union support under the CAP - Partial general approach",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14837-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14862-2026-INIT",
+   "code": "ST 14862/26",
+   "date": "2026-10-29",
+   "title": "Joint letter from Italy and Spain on Social Conditionality in the CAP post-2027",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14862-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
   {
    "id": "ST-14837-2026-COR-1",
    "code": "ST 14837/26 COR 1",

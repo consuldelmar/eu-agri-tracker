@@ -1380,6 +1380,17 @@
   "refs": []
  },
  {
+  "id": "council-agenda-ST-14710-2026-INIT",
+  "date": "2026-10-26",
+  "source": "council",
+  "body": "Comité Especial de Agricultura (CEA)",
+  "title": "Orden del día (ST 14710/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-14710-2026-INIT/en/pdf",
+  "refs": [
+   "2025/0417(COD)"
+  ]
+ },
+ {
   "id": "council-agenda-ST-15420-2026-REV-2",
   "date": "2026-12-01",
   "source": "council",
@@ -1399,6 +1410,17 @@
   "url": "https://data.consilium.europa.eu/doc/document/ST-15420-2026-REV-1/en/pdf",
   "refs": [
    "2026/0349(NLE)"
+  ]
+ },
+ {
+  "id": "council-agenda-ST-14448-2026-INIT",
+  "date": "2026-10-26",
+  "source": "council",
+  "body": "Consejo",
+  "title": "Orden del día (ST 14448/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-14448-2026-INIT/en/pdf",
+  "refs": [
+   "2025/0241(COD)"
   ]
  },
  {
@@ -1431,6 +1453,17 @@
   "body": "Consejo",
   "title": "Orden del día (ST 15697/26)",
   "url": "https://data.consilium.europa.eu/doc/document/ST-15697-2026-INIT/en/pdf",
+  "refs": [
+   "2026/0349(NLE)"
+  ]
+ },
+ {
+  "id": "council-agenda-CM-4809-2026-REV-1",
+  "date": "2026-11-05",
+  "source": "council",
+  "body": "Grupo de trabajo: Fisheries Policy",
+  "title": "Orden del día (CM 4809/26 REV 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-4809-2026-REV-1/en/pdf",
   "refs": [
    "2026/0349(NLE)"
   ]

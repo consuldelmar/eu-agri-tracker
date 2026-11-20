@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) 2024/1143 del Parlamento Europeo y del Consejo con normas sobre la inscripción en el registro y la protección de las indicaciones geográficas, las especialidades tradicionales garantizadas y los términos de calidad facultativos y por el que se deroga el Reglamento Delegado (UE) n.º 664/2014",
  "title_en": "Commission Delegated Regulation supplementing Regulation (EU) 2024/1143 of the European Parliament and of the Council with rules concerning the registration and the protection of geographical indications, traditional specialities guaranteed and optional quality terms and repealing Delegated Regulation (EU) No 664/2014",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

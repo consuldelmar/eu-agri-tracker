@@ -1,0 +1,46 @@
+{
+ "ref": "2024/2122(INI)",
+ "id": "2024-2122",
+ "type": "INI",
+ "title": "Posición de los agricultores en la cadena de valor agroalimentaria",
+ "title_en": "The position of farmers in the agri-food value chain",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2025-01-23",
+ "last_activity": "2025-01-23",
+ "events": [
+  {
+   "date": "2025-01-23",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2122(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2122",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2122?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2122?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

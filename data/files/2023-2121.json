@@ -1,0 +1,276 @@
+{
+ "ref": "2023/2121(INI)",
+ "id": "2023-2121",
+ "type": "INI",
+ "title": "Política de cohesión 2014-2020: aplicación y resultados en los Estados miembros",
+ "title_en": "Cohesion policy 2014-2020 – implementation and outcomes in the Member States",
+ "stage": "Debate en el Pleno",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "REGI",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "197690",
+   "name": "André ROUGÉ",
+   "group": "ID",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2023-12-14"
+  },
+  {
+   "id": "33997",
+   "name": "Corina CREȚU",
+   "group": "S&D",
+   "country": "ROU",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2023-10-10"
+  },
+  {
+   "id": "197541",
+   "name": "Andżelika Anna MOŻDŻANOWSKA",
+   "group": "ECR",
+   "country": "POL",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2023-09-14"
+  },
+  {
+   "id": "197784",
+   "name": "Susana SOLÍS PÉREZ",
+   "group": "Renew",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2023-09-21"
+  },
+  {
+   "id": "197506",
+   "name": "Caroline ROOSE",
+   "group": "Verts/ALE",
+   "country": "BEL",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2023-09-14"
+  },
+  {
+   "id": "120478",
+   "name": "Martina MICHELS",
+   "group": "The Left",
+   "country": "DEU",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2023-10-24"
+  },
+  {
+   "id": "107212",
+   "name": "Andrey NOVAKOV",
+   "group": "PPE",
+   "country": "BG",
+   "role": "rapporteur",
+   "committee": "REGI",
+   "since": "2023-05-25"
+  },
+  {
+   "id": "124808",
+   "name": "Norbert LINS",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2023-06-28"
+  }
+ ],
+ "started": "2023-07-12",
+ "last_activity": "2024-03-14",
+ "events": [
+  {
+   "date": "2023-07-12",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-11-10",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "REGI-PR-756089",
+     "title": "Proyecto de informe REGI (756089)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-PR-756089_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2023-12-07",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AL-754980",
+     "title": "AGRI-AL-754980",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-14",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-02-21",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0049",
+     "title": "Informe A9-0049/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0049_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-13",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0049",
+     "title": "Informe A9-0049/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0049_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-14",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-9-2024-03-14-ITM-009-16",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-03-14-ITM-009-16_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2024-03-14-ITM-009-16",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-03-14-ITM-009-16_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-14",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0049",
+     "title": "Informe A9-0049/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0049_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "REGI-PR-756089",
+   "title": "Proyecto de informe REGI (756089)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-PR-756089_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-11-10"
+  },
+  {
+   "id": "AGRI-AL-754980",
+   "title": "AGRI-AL-754980",
+   "url": "",
+   "kind": "other",
+   "date": "2023-12-07"
+  },
+  {
+   "id": "A-9-2024-0049",
+   "title": "Informe A9-0049/2024",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0049_EN.html",
+   "kind": "report",
+   "date": "2024-03-13"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2024-03-14-OJ-ITM-V-19",
+   "date": "2024-03-14",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-19)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-03-14_EN.html",
+   "refs": [
+    "2023/2121(INI)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-03-13-OJ-ITM-D-19",
+   "date": "2024-03-13",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-19)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-03-13_EN.html",
+   "refs": [
+    "2023/2121(INI)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/2121(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_2121",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_2121?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-2121?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (responsable)",
+  "AGRI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2024-03-13-OJ-ITM-D-19",
+   "date": "2024-03-13",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-19)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-03-13_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-03-14-OJ-ITM-V-19",
+   "date": "2024-03-14",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-19)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-03-14_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

@@ -91,6 +91,60 @@
    "role": "opinion_shadow",
    "committee": "PECH",
    "since": "2026-11-03"
+  },
+  {
+   "id": "99945",
+   "name": "Lena DÜPONT",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "LIBE",
+   "since": "2026-11-19"
+  },
+  {
+   "id": "256899",
+   "name": "Murielle LAURENT",
+   "group": "S&D",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "LIBE",
+   "since": "2026-11-18"
+  },
+  {
+   "id": "256872",
+   "name": "Fabrice LEGGERI",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "LIBE",
+   "since": "2026-11-19"
+  },
+  {
+   "id": "124760",
+   "name": "Nicolas BAY",
+   "group": "ECR",
+   "country": "FR",
+   "role": "opinion_rapporteur",
+   "committee": "LIBE",
+   "since": "2026-11-19"
+  },
+  {
+   "id": "256970",
+   "name": "Raquel GARCÍA HERMIDA-VAN DER WALLE",
+   "group": "Renew",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "LIBE",
+   "since": "2026-11-17"
+  },
+  {
+   "id": "197574",
+   "name": "Damien CARÊME",
+   "group": "The Left",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "LIBE",
+   "since": "2026-11-17"
   }
  ],
  "started": "2026-11-11",

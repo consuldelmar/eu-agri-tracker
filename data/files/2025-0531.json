@@ -654,6 +654,17 @@
  "scheduled": [],
  "council_docs": [
   {
+   "id": "ST-14645-2026-INIT",
+   "code": "ST 14645/26",
+   "date": "2026-10-30",
+   "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EC) No 1272/2008, (EC) No 1223/2009 and (EU) 2019/1009 as regards simplification of certain requirements and procedures for chemical products - Outcome of the European Parliament’s first reading (Strasbourg, 19 to 22 October 2026)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14645-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
    "id": "PE-48-2026-INIT",
    "code": "PE 48/26",
    "date": "2026-11-04",

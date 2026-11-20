@@ -4,8 +4,8 @@
  "type": "RPS",
  "title": "Reglamento de la Comisión por el que se establecen requisitos de etiquetado para los productos fitosanitarios y se deroga el Reglamento (UE) n.º 547/2011",
  "title_en": "Commission Regulation laying down labelling requirements for plant protection products and repealing Regulation (EU) No 547/2011",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "ENVI",

@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2020/687 en lo que respecta a las medidas de control de la infección por el virus de la lengua azul (serotipos 1-24)",
  "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2020/687 as regards the infection with bluetongue virus (serotype 1-24) disease control measures",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

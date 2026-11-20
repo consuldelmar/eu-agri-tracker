@@ -1,0 +1,46 @@
+{
+ "ref": "2026/2028(INI)",
+ "id": "2026-2028",
+ "type": "INI",
+ "title": "Refuerzo de la resiliencia del sector pesquero de la Unión a la hora de hacer frente a incidentes y peligros marítimos graves",
+ "title_en": "Strengthening the resilience of the EU fisheries sector in dealing with major marine incidents and hazards",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2026-03-12",
+ "last_activity": "2026-03-12",
+ "events": [
+  {
+   "date": "2026-03-12",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2028(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2028",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2028?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2028?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

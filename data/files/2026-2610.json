@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica y corrige el Reglamento Delegado (UE) 2019/2122 en lo que respecta a determinadas categorías de animales y mercancías exentas de controles oficiales en los puestos de control fronterizos",
  "title_en": "Commission Delegated Regulation amending and correcting Delegated Regulation (EU) 2019/2122 as regards certain categories of animals and goods exempted from official controls at border control posts",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "ENVI",

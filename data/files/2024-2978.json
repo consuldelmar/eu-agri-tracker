@@ -4,8 +4,8 @@
  "type": "RPS",
  "title": "Reglamento de la Comisión que corrige la versión eslovena del anexo del Reglamento (UE) 2020/354, por el que se establece una lista de usos previstos de los piensos destinados a objetivos de nutrición específicos",
  "title_en": "Commission Regulation correcting the Slovenian language version of Annex to Regulation (EU) 2020/354 establishing a list of intended uses of feed intended for particular nutritional purposes",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

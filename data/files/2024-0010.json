@@ -4,8 +4,8 @@
  "type": "NLE",
  "title": "Adhesión de Niue al Acuerdo de Asociación Interino entre la Comunidad Europea, por una parte, y los Estados del Pacífico, por otra",
  "title_en": "Accession of Niue to the Interim Partnership Agreement between the European Community, of the one part, and the Pacific States, of the other part",
- "stage": "Plenary decision",
- "ongoing": true,
+ "stage": "Decisión del Pleno",
+ "ongoing": false,
  "committees": [
   {
    "code": "INTA",
@@ -120,7 +120,7 @@
   {
    "date": "2024-12-18",
    "type": "PLENARY_DECISION",
-   "title": "Plenary decision",
+   "title": "Decisión del Pleno",
    "docs": [
     {
      "id": "TA-10-2024-0070",

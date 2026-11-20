@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2017/891 en lo que respecta a las notificaciones de los Estados miembros relativas a los precios de producción de las frutas y hortalizas en el mercado interior",
  "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2017/891 as regards the Member States’ notifications concerning producer prices of fruit and vegetables on the internal market",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

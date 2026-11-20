@@ -4,7 +4,7 @@
  "type": "COD",
  "title": "Certificado complementario de protección para los productos fitosanitarios (versión refundida)",
  "title_en": "Supplementary protection certificate for plant protection products (recast)",
- "stage": "Plenary amend proposal",
+ "stage": "Enmiendas del Pleno a la propuesta",
  "ongoing": true,
  "committees": [
   {
@@ -39,7 +39,7 @@
    "name": "Javier ZARZALEJOS",
    "group": "PPE",
    "country": "ES",
-   "role": "shadow",
+   "role": "opinion_shadow",
    "committee": "JURI",
    "since": "2023-09-07"
   },
@@ -66,7 +66,7 @@
    "name": "Adrián VÁZQUEZ LÁZARA",
    "group": "Renew",
    "country": "ES",
-   "role": "shadow",
+   "role": "opinion_shadow",
    "committee": "JURI",
    "since": "2023-09-13"
   },
@@ -84,7 +84,7 @@
    "name": "Emmanuel MAUREL",
    "group": "The Left",
    "country": "FRA",
-   "role": "shadow",
+   "role": "opinion_shadow",
    "committee": "JURI",
    "since": "2023-09-18"
   }
@@ -239,7 +239,7 @@
   {
    "date": "2024-02-28",
    "type": "PLENARY_AMEND_PROPOSAL",
-   "title": "Plenary amend proposal",
+   "title": "Enmiendas del Pleno a la propuesta",
    "docs": [
     {
      "id": "TA-9-2024-0098",

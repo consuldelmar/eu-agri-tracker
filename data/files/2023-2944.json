@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2021/1342 de la Comisión en lo referente a la información que deben enviar los terceros países y las autoridades y organismos de control a efectos de la supervisión de su reconocimiento, de conformidad con el artículo 33, apartados 2 y 3, del Reglamento (CE) n.º 834/2007 del Consejo, y a las medidas que deben adoptarse en el ejercicio de esa supervisión",
  "title_en": "Commission Delegated Regulation amending Commission Delegated Regulation (EU) 2021/1342 as regards the information to be sent by third countries and by control authorities and control bodies for the purpose of supervision of their recognition under Article 33(2) and (3) of Council Regulation (EC) No 834/2007 and the measures to be taken in the exercise of that supervision",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

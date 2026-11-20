@@ -4,8 +4,8 @@
  "type": "RPS",
  "title": "Reglamento de la Comisión por el que se definen los requisitos sobre datos para la aprobación de protectores y sinergistas y se establece un programa de trabajo para la revisión paulatina de los protectores y sinergistas presentes en el mercado de conformidad con el Reglamento (CE) n.º 1107/2009 del Parlamento Europeo y del Consejo",
  "title_en": "Commission Regulation defining data requirements for the approval of safeners and synergists and establishing a work programme for the gradual review of safeners and synergists on the market in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "ENVI",

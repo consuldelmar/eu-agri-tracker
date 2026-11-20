@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2019/1602 en lo que respecta a la fecha de aplicación y a los casos en que las autoridades aduaneras están obligadas a deducir las cantidades declaradas en la declaración en aduana de la cantidad total permitida declarada en el documento sanitario común de entrada (DSCE)",
  "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2019/1602 as regards the date of application and the cases where customs authorities are required to deduct the quantities stated in the customs declaration from the total allowed quantity declared in the Common Health Entry Document (CHED)",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "ENVI",

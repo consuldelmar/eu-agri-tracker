@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo en lo que respecta a los procedimientos y los plazos de presentación por los Estados miembros de solicitudes de modificación estratégica y de notificaciones de otras modificaciones de los planes estratégicos de la PAC",
  "title_en": "Commission Delegated Regulation supplementing Regulation (EU) 2021/2115 of the European Parliament and of the Council with regard to procedures and time limits for the submission by Member States of requests for strategic amendments and for notifications of other amendments of CAP Strategic Plans",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

@@ -113,7 +113,9 @@
   "body": "Pleno del PE (Estrasburgo)",
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-03-10_EN.html",
-  "refs": []
+  "refs": [
+   "2025/2011(INI)"
+  ]
  },
  {
   "id": "ep-plenary-2026-03-11",
@@ -163,7 +165,9 @@
   "body": "Pleno del PE (Estrasburgo)",
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-04-27_EN.html",
-  "refs": []
+  "refs": [
+   "2025/2054(INI)"
+  ]
  },
  {
   "id": "ep-plenary-2026-04-28",
@@ -173,7 +177,8 @@
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-04-28_EN.html",
   "refs": [
-   "2023/0447(COD)"
+   "2023/0447(COD)",
+   "2025/2054(INI)"
   ]
  },
  {
@@ -194,7 +199,10 @@
   "body": "Pleno del PE (Estrasburgo)",
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-04-30_EN.html",
-  "refs": []
+  "refs": [
+   "2024/2124(INI)",
+   "2025/2053(INI)"
+  ]
  },
  {
   "id": "ep-plenary-2026-05-18",
@@ -203,7 +211,10 @@
   "body": "Pleno del PE (Estrasburgo)",
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-05-18_EN.html",
-  "refs": []
+  "refs": [
+   "2024/2126(INI)",
+   "2024/2127(INI)"
+  ]
  },
  {
   "id": "ep-plenary-2026-05-19",
@@ -224,6 +235,7 @@
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-05-20_EN.html",
   "refs": [
+   "2024/2126(INI)",
    "2025/0193(NLE)",
    "2025/0202(NLE)",
    "2025/0287(NLE)"
@@ -236,7 +248,9 @@
   "body": "Pleno del PE (Estrasburgo)",
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-05-21_EN.html",
-  "refs": []
+  "refs": [
+   "2024/2127(INI)"
+  ]
  },
  {
   "id": "ep-plenary-2026-06-15",
@@ -364,7 +378,9 @@
   "body": "Pleno del PE (Estrasburgo)",
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-09-17_EN.html",
-  "refs": []
+  "refs": [
+   "2025/2010(INI)"
+  ]
  },
  {
   "id": "ep-plenary-2026-10-05",
@@ -411,7 +427,9 @@
   "body": "Pleno del PE (Estrasburgo)",
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-19_EN.html",
-  "refs": []
+  "refs": [
+   "2026/2027(INI)"
+  ]
  },
  {
   "id": "ep-plenary-2026-10-20",
@@ -421,6 +439,7 @@
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-20_EN.html",
   "refs": [
+   "2026/2027(INI)",
    "2026/2819(DEA)"
   ]
  },
@@ -441,7 +460,8 @@
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-22_EN.html",
   "refs": [
-   "2025/0531(COD)"
+   "2025/0531(COD)",
+   "2026/2054(INI)"
   ]
  },
  {
@@ -464,6 +484,7 @@
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_EN.html",
   "refs": [
    "2025/0223(COD)",
+   "2025/2089(INI)",
    "2026/0044(COD)"
   ]
  },
@@ -484,7 +505,8 @@
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-24_EN.html",
   "refs": [
-   "2025/0417(COD)"
+   "2025/0417(COD)",
+   "2026/2074(INI)"
   ]
  },
  {
@@ -495,8 +517,8 @@
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
   "refs": [
-   "2023/0131(COD)",
-   "2025/0162(NLE)"
+   "2025/0162(NLE)",
+   "2025/0227(COD)"
   ]
  },
  {

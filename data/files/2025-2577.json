@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2018/975 del Parlamento Europeo y del Consejo en lo que respecta a la comunicación de los datos relativos a la pesquería de jurel chileno, el fallo técnico de los dispositivos de localización por satélite, los requisitos del anexo V en materia de datos del buque, los requisitos de los anexos VII, VIII y IX en materia de datos de transbordo y los requisitos de los anexos XI y XII en materia de datos relativos a los puertos",
  "title_en": "Commission Delegated Regulation amending Regulation (EU) 2018/975 of the European Parliament and of the Council as regards data reporting for the jack mackerel fishery, technical failure of the satellite-tracking device, vessel data requirements in Annex V, transhipment data requirements in Annexes VII, VIII, IX, and port data requirements in Annexes XI and XII",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "PECH",

@@ -1,0 +1,263 @@
+{
+ "ref": "2023/2048(INI)",
+ "id": "2023-2048",
+ "type": "INI",
+ "title": "Ejecución del desarrollo territorial (RDC, título III, capítulo II) y su aplicación en la Agenda Territorial de la Unión Europea 2030",
+ "title_en": "Implementation of territorial development (CPR, Title III, Chapter II) and its application in the European Territorial agenda 2030",
+ "stage": "Informe aprobado en comisión",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "REGI",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "opinion"
+  },
+  {
+   "code": "TRAN",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "125068",
+   "name": "Emmanouil KEFALOGIANNIS",
+   "group": "PPE",
+   "country": "GR",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2023-02-27"
+  },
+  {
+   "id": "197532",
+   "name": "Elżbieta KRUK",
+   "group": "ECR",
+   "country": "POL",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2023-02-27"
+  },
+  {
+   "id": "197547",
+   "name": "Irène TOLLERET",
+   "group": "Renew",
+   "country": "FRA",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2023-02-27"
+  },
+  {
+   "id": "197465",
+   "name": "Niklas NIENASS",
+   "group": "Verts/ALE",
+   "country": "DEU",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2023-02-27"
+  },
+  {
+   "id": "120478",
+   "name": "Martina MICHELS",
+   "group": "The Left",
+   "country": "DEU",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2023-10-24"
+  },
+  {
+   "id": "204413",
+   "name": "Marcos ROS SEMPERE",
+   "group": "S&D",
+   "country": "ES",
+   "role": "rapporteur",
+   "committee": "REGI",
+   "since": "2023-02-27"
+  },
+  {
+   "id": "189525",
+   "name": "Asim ADEMOV",
+   "group": "PPE",
+   "country": "BGR",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2023-04-25"
+  }
+ ],
+ "started": "2023-04-20",
+ "last_activity": "2024-01-16",
+ "events": [
+  {
+   "date": "2023-04-20",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-07-20",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "REGI-PR-750084",
+     "title": "Proyecto de informe REGI (750084)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-PR-750084_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2023-07-24",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "AGRI-PA-746984",
+     "title": "Proyecto de opinión AGRI (746984)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PA-746984_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-16",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AD-746984",
+     "title": "Opinión AGRI (746984)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AD-746984_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-30",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-12-08",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0420",
+     "title": "Informe A9-0420/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0420_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-01-16",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-9-2024-01-16-ITM-006-12",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-01-16-ITM-006-12_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2024-01-16-ITM-006-12",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-01-16-ITM-006-12_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2024-01-16",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0420",
+     "title": "Informe A9-0420/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0420_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "REGI-PR-750084",
+   "title": "Proyecto de informe REGI (750084)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-PR-750084_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-07-20"
+  },
+  {
+   "id": "AGRI-PA-746984",
+   "title": "Proyecto de opinión AGRI (746984)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PA-746984_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2023-07-24"
+  },
+  {
+   "id": "AGRI-AD-746984",
+   "title": "Opinión AGRI (746984)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AD-746984_EN.pdf",
+   "kind": "opinion",
+   "date": "2023-11-16"
+  },
+  {
+   "id": "A-9-2023-0420",
+   "title": "Informe A9-0420/2023",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0420_EN.html",
+   "kind": "report",
+   "date": "2024-01-16"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2024-01-16-OJ-ITM-V-37",
+   "date": "2024-01-16",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-37)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-01-16_EN.html",
+   "refs": [
+    "2023/2048(INI)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/2048(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_2048",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_2048?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-2048?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (responsable)",
+  "AGRI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2024-01-16-OJ-ITM-V-37",
+   "date": "2024-01-16",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-37)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-01-16_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

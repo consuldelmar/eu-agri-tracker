@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión relativo a la aplicación de las obligaciones internacionales de la Unión, conforme a lo dispuesto en el artículo 15, apartado 2, del Reglamento (UE) n.º 1380/2013 del Parlamento Europeo y del Consejo, en el marco de la Comisión General de Pesca del Mediterráneo",
  "title_en": "Commission Delegated Regulation on the implementation of the Union's international obligations, as referred to in Article 15(2) of Regulation (EU) No 1380/2013 of the European Parliament and of the Council, under the General Fisheries Commission for the Mediterranean",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "PECH",

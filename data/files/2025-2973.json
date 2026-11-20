@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (CE) n.º 1059/2003 del Parlamento Europeo y del Consejo en lo que respecta a la clasificación NUTS y las listas de unidades administrativas existentes y unidades administrativas locales",
  "title_en": "Commission Delegated Regulation amending Regulation (EC) No 1059/2003 of the European Parliament and of the Council as regards the NUTS classification and the lists of existing administrative units and local administrative units",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "REGI",

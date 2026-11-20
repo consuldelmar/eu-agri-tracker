@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se establecen medidas excepcionales de carácter temporal que autorizan excepciones a determinadas disposiciones del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo relativas al régimen de autorizaciones para plantaciones de vid a fin de hacer frente a las perturbaciones del mercado vitivinícola de la Unión",
  "title_en": "Commission Delegated Regulation on temporary exceptional measures derogating from certain provisions of Regulation (EU) No 1308/2013 of the European Parliament and of the Council concerning the scheme of authorisations for vine plantings to address the market disturbance in the Union wine market",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

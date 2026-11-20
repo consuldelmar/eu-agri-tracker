@@ -91,7 +91,7 @@
   {
    "date": "2025-04-30",
    "type": "COMMITTEE_TABLING_OPINION",
-   "title": "Committee tabling opinion",
+   "title": "Proyecto de opinión presentado en comisión",
    "docs": [
     {
      "id": "BUDG-PA-773127",
@@ -136,7 +136,7 @@
   {
    "date": "2025-07-16",
    "type": "COMMITTEE_TABLING_OPINION",
-   "title": "Committee tabling opinion",
+   "title": "Proyecto de opinión presentado en comisión",
    "docs": [
     {
      "id": "DEVE-PA-775571",
@@ -181,7 +181,7 @@
   {
    "date": "2025-10-08",
    "type": "PLENARY_DECISION",
-   "title": "Plenary decision",
+   "title": "Decisión del Pleno",
    "docs": [
     {
      "id": "TA-10-2025-0215",

@@ -4,8 +4,8 @@
  "type": "RPS",
  "title": "Reglamento de la Comisión por el que se modifica el Reglamento (UE) 2024/1487 en lo relativo a la adopción del programa de trabajo para la revisión paulatina de los protectores y los sinergistas",
  "title_en": "Commission Regulation amending Regulation (EU) 2024/1487 as regards the adoption of the work programme for the gradual review of safeners and synergists",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "ENVI",

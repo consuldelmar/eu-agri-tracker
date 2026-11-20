@@ -79,7 +79,7 @@
   {
    "date": "2023-07-19",
    "type": "COMMITTEE_TABLING_OPINION",
-   "title": "Committee tabling opinion",
+   "title": "Proyecto de opinión presentado en comisión",
    "docs": [
     {
      "id": "BUDG-PA-751870",
@@ -92,7 +92,7 @@
   {
    "date": "2023-09-01",
    "type": "COMMITTEE_TABLING_OPINION",
-   "title": "Committee tabling opinion",
+   "title": "Proyecto de opinión presentado en comisión",
    "docs": [
     {
      "id": "DEVE-PA-752787",
@@ -163,7 +163,7 @@
   {
    "date": "2023-11-09",
    "type": "PLENARY_DECISION",
-   "title": "Plenary decision",
+   "title": "Decisión del Pleno",
    "docs": [
     {
      "id": "TA-9-2023-0393",

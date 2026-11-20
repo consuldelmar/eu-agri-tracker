@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) 2017/625 del Parlamento Europeo y del Consejo mediante el establecimiento del laboratorio de referencia de la Unión Europea para enriquecedores de alimentos",
  "title_en": "Commission Delegated Regulation supplementing Regulation (EU) 2017/625 of the European Parliament and the Council by establishing the European Union reference laboratory for food improvement agents",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "ENVI",

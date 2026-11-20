@@ -1,0 +1,170 @@
+{
+ "ref": "2026/2041(INI)",
+ "id": "2026-2041",
+ "type": "INI",
+ "title": "Relevo generacional en la agricultura",
+ "title_en": "Generational renewal in agriculture",
+ "stage": "Informe aprobado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [
+  {
+   "id": "197863",
+   "name": "Maria WALSH",
+   "group": "PPE",
+   "country": "IE",
+   "role": "rapporteur",
+   "committee": "AGRI",
+   "since": "2026-01-28"
+  },
+  {
+   "id": "257066",
+   "name": "André FRANQUEIRA RODRIGUES",
+   "group": "S&D",
+   "country": "PT",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-06-03"
+  },
+  {
+   "id": "236050",
+   "name": "Marie DAUCHY",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-04-28"
+  },
+  {
+   "id": "197552",
+   "name": "Veronika VRECIONOVÁ",
+   "group": "ECR",
+   "country": "CZ",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-04-30"
+  },
+  {
+   "id": "197504",
+   "name": "Jérémy DECERLE",
+   "group": "Renew",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-04-30"
+  },
+  {
+   "id": "197398",
+   "name": "Pär HOLMGREN",
+   "group": "Verts/ALE",
+   "country": "SE",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-05-13"
+  },
+  {
+   "id": "256911",
+   "name": "Arash SAEIDI",
+   "group": "The Left",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-05-27"
+  }
+ ],
+ "started": "2026-04-30",
+ "last_activity": "2026-11-04",
+ "events": [
+  {
+   "date": "2026-04-30",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-05-11",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "AGRI-PR-788831",
+     "title": "Proyecto de informe AGRI (788831)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PR-788831_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-15",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión (2 documentos)",
+   "docs": [
+    {
+     "id": "AGRI-AM-789990",
+     "title": "Enmiendas en comisión AGRI (789990)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-789990_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "AGRI-AM-789882",
+     "title": "Enmiendas en comisión AGRI (789882)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-789882_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "AGRI-PR-788831",
+   "title": "Proyecto de informe AGRI (788831)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PR-788831_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-05-11"
+  },
+  {
+   "id": "AGRI-AM-789990",
+   "title": "Enmiendas en comisión AGRI (789990)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-789990_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-06-15"
+  },
+  {
+   "id": "AGRI-AM-789882",
+   "title": "Enmiendas en comisión AGRI (789882)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-789882_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-06-15"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 2
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2041(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2041",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2041?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2041?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

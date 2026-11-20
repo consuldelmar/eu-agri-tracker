@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifican el Reglamento Delegado (UE) 2021/1698 y el Reglamento Delegado (UE) 2021/2306 en lo que respecta a la importación en la Unión de productos ecológicos y en conversión de alto riesgo",
  "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2021/1698 and Delegated Regulation (EU) 2021/2306 as regards the import into the Union of high-risk organic and in-conversion products",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

@@ -1,0 +1,320 @@
+{
+ "ref": "2025/2086(INI)",
+ "id": "2025-2086",
+ "type": "INI",
+ "title": "Garantía de un registro y una utilización más rápidos de los agentes de control biológico",
+ "title_en": "Ensuring faster registration and uptake of biological control agents",
+ "stage": "Debate en el Pleno",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "joint"
+  },
+  {
+   "code": "ENVI",
+   "role": "joint"
+  }
+ ],
+ "people": [
+  {
+   "id": "197648",
+   "name": "Alexander BERNHUBER",
+   "group": "PPE",
+   "country": "AT",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2025-06-11"
+  },
+  {
+   "id": "245018",
+   "name": "Christophe CLERGEAU",
+   "group": "S&D",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-07-09"
+  },
+  {
+   "id": "256876",
+   "name": "Anne-Sophie FRIGOUT",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-07-04"
+  },
+  {
+   "id": "256925",
+   "name": "Laurence TROCHU",
+   "group": "ECR",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-07-04"
+  },
+  {
+   "id": "257003",
+   "name": "Jeannette BALJEU",
+   "group": "Renew",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-07-04"
+  },
+  {
+   "id": "256917",
+   "name": "Majdouline SBAI",
+   "group": "Verts/ALE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-07-08"
+  },
+  {
+   "id": "125023",
+   "name": "Anja HAZEKAMP",
+   "group": "The Left",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-07-04"
+  },
+  {
+   "id": "256951",
+   "name": "Anja ARNDT",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-07-04"
+  },
+  {
+   "id": "256973",
+   "name": "Stefan KÖHLER",
+   "group": "PPE",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2025-06-16"
+  },
+  {
+   "id": "257169",
+   "name": "Annalisa CORRADO",
+   "group": "S&D",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2025-06-25"
+  },
+  {
+   "id": "256891",
+   "name": "Benoit CASSART",
+   "group": "Renew",
+   "country": "BE",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2025-06-12"
+  },
+  {
+   "id": "256990",
+   "name": "Anna STROLENBERG",
+   "group": "Verts/ALE",
+   "country": "NL",
+   "role": "rapporteur",
+   "committee": "AGRI",
+   "since": "2025-06-11"
+  },
+  {
+   "id": "256961",
+   "name": "Sebastian EVERDING",
+   "group": "The Left",
+   "country": "DEU",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2025-05-14"
+  }
+ ],
+ "started": "2025-05-08",
+ "last_activity": "2025-11-25",
+ "events": [
+  {
+   "date": "2025-05-08",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-06-16",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "CJ14-PR-774306",
+     "title": "CJ14-PR-774306",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2025-07-23",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "CJ14-AM-775563",
+     "title": "CJ14-AM-775563",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2025-11-04",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-11-14",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0234",
+     "title": "Informe A10-0234/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0234_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-11-24",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0234",
+     "title": "Informe A10-0234/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0234_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-11-25",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "PV-10-2025-11-25-ITM-007-07",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-11-25-ITM-007-07_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "CRE-10-2025-11-25-ITM-007-07",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2025-11-25-ITM-007-07_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2025-11-25",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0234",
+     "title": "Informe A10-0234/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0234_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "CJ14-PR-774306",
+   "title": "CJ14-PR-774306",
+   "url": "",
+   "kind": "other",
+   "date": "2025-06-16"
+  },
+  {
+   "id": "CJ14-AM-775563",
+   "title": "CJ14-AM-775563",
+   "url": "",
+   "kind": "other",
+   "date": "2025-07-23"
+  },
+  {
+   "id": "A-10-2025-0234",
+   "title": "Informe A10-0234/2025",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0234_EN.html",
+   "kind": "report",
+   "date": "2025-11-14"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2025-11-25-OJ-ITM-V-43",
+   "date": "2025-11-25",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-43)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-11-25_EN.html",
+   "refs": [
+    "2025/2086(INI)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-11-24-OJ-ITM-D-43",
+   "date": "2025-11-24",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-43)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-11-24_EN.html",
+   "refs": [
+    "2025/2086(INI)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2086(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2086",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2086?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2086?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (conjunta)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2025-11-24-OJ-ITM-D-43",
+   "date": "2025-11-24",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-43)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-11-24_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-11-25-OJ-ITM-V-43",
+   "date": "2025-11-25",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-43)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-11-25_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

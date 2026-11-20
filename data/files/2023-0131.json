@@ -387,7 +387,7 @@
   {
    "date": "2024-04-10",
    "type": "PLENARY_AMEND_PROPOSAL",
-   "title": "Plenary amend proposal",
+   "title": "Enmiendas del Pleno a la propuesta",
    "docs": [
     {
      "id": "TA-9-2024-0221",
@@ -684,17 +684,6 @@
  },
  "ep_scheduled": [
   {
-   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-61",
-   "date": "2026-11-25",
-   "source": "ep",
-   "body": "Pleno del PE",
-   "title": "Votación (punto V-61)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
-   "refs": [
-    "2023/0131(COD)"
-   ]
-  },
-  {
    "id": "ep-pl-MTG-PL-2024-04-10-OJ-ITM-V-34",
    "date": "2024-04-10",
    "source": "ep",
@@ -742,26 +731,9 @@
    "title": "Debate (punto D-34)",
    "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-04-10_EN.html",
    "source": "ep"
-  },
-  {
-   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-61",
-   "date": "2026-11-25",
-   "body": "Pleno del PE",
-   "title": "Votación (punto V-61)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
-   "source": "ep"
   }
  ],
- "scheduled": [
-  {
-   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-61",
-   "date": "2026-11-25",
-   "body": "Pleno del PE",
-   "title": "Votación (punto V-61)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
-   "source": "ep"
-  }
- ],
+ "scheduled": [],
  "council_docs": [],
  "followed": false,
  "follow_url": ""

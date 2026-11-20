@@ -4,8 +4,8 @@
  "type": "NLE",
  "title": "Acuerdo Marco Avanzado entre la Unión Europea y sus Estados miembros, por una parte, y la República de Chile, por otra",
  "title_en": "Advanced Framework Agreement between the European Union and its Member States, of the one part, and the Republic of Chile, of the other part",
- "stage": "Plenary decision",
- "ongoing": true,
+ "stage": "Decisión del Pleno",
+ "ongoing": false,
  "committees": [
   {
    "code": "AFET",
@@ -314,7 +314,7 @@
   {
    "date": "2023-10-05",
    "type": "COMMITTEE_TABLING_OPINION",
-   "title": "Committee tabling opinion",
+   "title": "Proyecto de opinión presentado en comisión",
    "docs": [
     {
      "id": "AGRI-PA-753796",
@@ -378,7 +378,7 @@
   {
    "date": "2024-02-29",
    "type": "PLENARY_DECISION",
-   "title": "Plenary decision",
+   "title": "Decisión del Pleno",
    "docs": [
     {
      "id": "TA-9-2024-0114",

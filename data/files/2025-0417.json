@@ -134,7 +134,7 @@
   {
    "date": "2026-09-16",
    "type": "PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
-   "title": "Plenary endorse committee interinstitutional negotiations",
+   "title": "El Pleno confirma el mandato para negociar",
    "docs": []
   },
   {
@@ -282,6 +282,14 @@
  ],
  "agenda": [
   {
+   "id": "council-agenda-ST-14710-2026-INIT",
+   "date": "2026-10-26",
+   "body": "Comité Especial de Agricultura (CEA)",
+   "title": "Orden del día (ST 14710/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14710-2026-INIT/en/pdf",
+   "source": "council"
+  },
+  {
    "id": "ep-pl-MTG-PL-2026-11-24-OJ-ITM-V-75",
    "date": "2026-11-24",
    "body": "Pleno del PE",
@@ -300,7 +308,41 @@
    "source": "ep"
   }
  ],
- "council_docs": [],
+ "council_docs": [
+  {
+   "id": "ST-14710-2026-INIT",
+   "code": "ST 14710/26",
+   "date": "2026-10-23",
+   "title": "1783rd meeting of the SCA",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14710-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Comité Especial de Agricultura (CEA)",
+   "step": "Texto final de compromiso (acuerdo con el PE)",
+   "meeting_date": "2026-10-26"
+  },
+  {
+   "id": "ST-14715-2026-COR-1",
+   "code": "ST 14715/26 COR 1",
+   "date": "2026-10-26",
+   "title": "Regulation amending the organic farming regulation as regards rules on production, labelling, certification and trade Confirmation of the final compromise text with a view to agreement",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14715-2026-COR-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Texto final de compromiso (acuerdo con el PE)",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14792-2026-INIT",
+   "code": "ST 14792/26",
+   "date": "2026-10-28",
+   "title": "Amending Regulation (EU) 2018/848 as regards certain production, labelling and certification rules and certain rules on trade with third countries - Offer letter sent to the Chair of the European Parliament’s Committee on Agriculture and Rural Development",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14792-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Texto final de compromiso (acuerdo con el PE)",
+   "meeting_date": null
+  }
+ ],
  "followed": false,
  "follow_url": ""
 }

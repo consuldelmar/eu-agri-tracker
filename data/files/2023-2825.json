@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) n.º 1380/2013 del Parlamento Europeo y del Consejo en lo que respecta al establecimiento de una exención de minimis de la obligación de desembarque para determinadas pesquerías de pequeños pelágicos en el mar Mediterráneo",
  "title_en": "Commission Delegated Regulation supplementing Regulation (EU) N° 1380/2013 of the European Parliament and of the Council as regards the establishment of a de minimis exemption to the landing obligation for certain small pelagic fisheries in the Mediterranean Sea",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "PECH",

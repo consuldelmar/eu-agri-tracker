@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2019/1241 del Parlamento Europeo y del Consejo en lo relativo a la prórroga de las medidas técnicas específicas para el besugo (Pagellus bogaraveo) en las subzonas 6 a 8 del CIEM",
  "title_en": "Commission Delegated Regulation amending Regulation (EU) 2019/1241 of the European Parliament and of the Council as regards the prolongation of specific technical measures for red seabream (Pagellus bogaraveo) in ICES subareas 6 to 8",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "PECH",

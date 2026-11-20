@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2020/689 en lo que respecta a los programas de erradicación de la infección por el virus de la lengua azul (serotipos 1-24) y al estatus de libre de enfermedad",
  "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2020/689 as regards the infection with bluetongue virus (serotypes 1-24) eradication programmes and disease-free status",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

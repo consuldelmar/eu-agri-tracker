@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión que modifica el Reglamento Delegado (UE) 2023/370 de la Comisión, por el que se completa el Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo en lo que respecta al plazo para presentar solicitudes de modificación de los planes estratégicos de la PAC",
  "title_en": "Commission Delegated Regulation amending Commission Delegated Regulation (EU) 2023/370 supplementing Regulation (EU) 2021/2115 of the European Parliament and of the Council as regards the time period to submit requests for amendments of CAP Strategic Plans",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

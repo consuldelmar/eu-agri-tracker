@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) 2021/690 del Parlamento Europeo y del Consejo en lo que respecta al establecimiento de un marco de seguimiento y evaluación para el Programa para el Mercado Único",
  "title_en": "Commission Delegated Regulation supplementing Regulation (EU)2021/690 of the European Parliament and of the Council as regards the establishment of a monitoring and evaluation framework for the Single Market Programme",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "IMCO",

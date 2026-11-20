@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo en lo que respecta a las asignaciones para pagos directos de los Estados miembros",
  "title_en": "Commission Delegated Regulation amending Regulation (EU) 2021/2115 of the European Parliament and of the Council as regards Member States’ allocations for direct payments",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

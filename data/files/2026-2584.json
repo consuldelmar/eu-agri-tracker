@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2022/127 en lo que respecta a la liquidación anual del rendimiento",
  "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2022/127 as regards the annual performance clearance",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2023/2833 en lo que respecta a las excepciones relativas a la notificación del comercio en el interior de la UE y a determinada información de etiquetado, así como a la determinación del peso de cada ejemplar de atún rojo",
  "title_en": "Commission Delegated Regulation amending Regulation (EU) 2023/2833 as regards derogations on reporting of intra-EU trade and certain tagging information, and the determination of weight of individual bluefin tuna",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "PECH",

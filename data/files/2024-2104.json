@@ -1,0 +1,480 @@
+{
+ "ref": "2024/2104(INI)",
+ "id": "2024-2104",
+ "type": "INI",
+ "title": "Estrategia europea de resiliencia hídrica",
+ "title_en": "The European Water Resilience Strategy",
+ "stage": "Debate en el Pleno",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "257034",
+   "name": "Carmen CRESPO DÍAZ",
+   "group": "PPE",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-03-20"
+  },
+  {
+   "id": "256936",
+   "name": "Thomas BAJADA",
+   "group": "S&D",
+   "country": "MT",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2024-12-11"
+  },
+  {
+   "id": "257024",
+   "name": "Mireia BORRÁS PABÓN",
+   "group": "PfE",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-03-20"
+  },
+  {
+   "id": "256811",
+   "name": "Aurelijus VERYGA",
+   "group": "ECR",
+   "country": "LT",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-03-20"
+  },
+  {
+   "id": "256869",
+   "name": "Grégory ALLIONE",
+   "group": "Renew",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-01-29"
+  },
+  {
+   "id": "197466",
+   "name": "Jutta PAULUS",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-01-29"
+  },
+  {
+   "id": "197416",
+   "name": "Giorgos GEORGIOU",
+   "group": "The Left",
+   "country": "CY",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-01-29"
+  },
+  {
+   "id": "256942",
+   "name": "Marc JONGEN",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-03-20"
+  },
+  {
+   "id": "22418",
+   "name": "Esther HERRANZ GARCÍA",
+   "group": "PPE",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-02-06"
+  },
+  {
+   "id": "257169",
+   "name": "Annalisa CORRADO",
+   "group": "S&D",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-01-09"
+  },
+  {
+   "id": "257099",
+   "name": "Francesco VENTOLA",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-02-05"
+  },
+  {
+   "id": "197769",
+   "name": "Michal WIEZIK",
+   "group": "Renew",
+   "country": "SK",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2025-01-09"
+  },
+  {
+   "id": "197398",
+   "name": "Pär HOLMGREN",
+   "group": "Verts/ALE",
+   "country": "SE",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-03-18"
+  }
+ ],
+ "started": "2024-11-28",
+ "last_activity": "2025-05-07",
+ "events": [
+  {
+   "date": "2024-11-28",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-01-29",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "ENVI-PR-766919",
+     "title": "Proyecto de informe ENVI (766919)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-PR-766919_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "AGRI-PA-768092",
+     "title": "Proyecto de opinión AGRI (768092)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PA-768092_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-02-24",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión (4 documentos)",
+   "docs": [
+    {
+     "id": "ENVI-AM-770030",
+     "title": "Enmiendas en comisión ENVI (770030)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-770030_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "ENVI-AM-770029",
+     "title": "Enmiendas en comisión ENVI (770029)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-770029_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "ENVI-AM-770027",
+     "title": "Enmiendas en comisión ENVI (770027)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-770027_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "ENVI-AM-770028",
+     "title": "Enmiendas en comisión ENVI (770028)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-770028_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AD-768092",
+     "title": "Opinión AGRI (768092)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AD-768092_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-04-08",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-04-16",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0073",
+     "title": "Informe A10-0073/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0073_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-04-29",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0073-AM-001-001",
+     "title": "Enmiendas al Pleno 1-1 (informe A10-0073/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0073-AM-001-001_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2025-04-30",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno (2 documentos)",
+   "docs": [
+    {
+     "id": "A-10-2025-0073-AM-002-004",
+     "title": "Enmiendas al Pleno 2-4 (informe A10-0073/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0073-AM-002-004_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 3
+    },
+    {
+     "id": "A-10-2025-0073-AM-005-013",
+     "title": "Enmiendas al Pleno 5-13 (informe A10-0073/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0073-AM-005-013_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 9
+    }
+   ]
+  },
+  {
+   "date": "2025-05-02",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0073-AM-014-021",
+     "title": "Enmiendas al Pleno 14-21 (informe A10-0073/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0073-AM-014-021_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 8
+    }
+   ]
+  },
+  {
+   "date": "2025-05-06",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0073",
+     "title": "Informe A10-0073/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0073_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-07",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2025-05-07-ITM-008-17",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2025-05-07-ITM-008-17_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2025-05-07-ITM-008-17",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-05-07-ITM-008-17_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-07",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0073",
+     "title": "Informe A10-0073/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0073_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "ENVI-PR-766919",
+   "title": "Proyecto de informe ENVI (766919)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-PR-766919_EN.pdf",
+   "kind": "draft_report",
+   "date": "2025-01-29"
+  },
+  {
+   "id": "AGRI-PA-768092",
+   "title": "Proyecto de opinión AGRI (768092)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PA-768092_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-02-03"
+  },
+  {
+   "id": "ENVI-AM-770030",
+   "title": "Enmiendas en comisión ENVI (770030)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-770030_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2025-02-24"
+  },
+  {
+   "id": "ENVI-AM-770029",
+   "title": "Enmiendas en comisión ENVI (770029)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-770029_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2025-02-24"
+  },
+  {
+   "id": "ENVI-AM-770027",
+   "title": "Enmiendas en comisión ENVI (770027)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-770027_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2025-02-24"
+  },
+  {
+   "id": "ENVI-AM-770028",
+   "title": "Enmiendas en comisión ENVI (770028)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-770028_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2025-02-24"
+  },
+  {
+   "id": "AGRI-AD-768092",
+   "title": "Opinión AGRI (768092)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AD-768092_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-03-27"
+  },
+  {
+   "id": "A-10-2025-0073-AM-001-001",
+   "title": "Enmiendas al Pleno 1-1 (informe A10-0073/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0073-AM-001-001_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2025-04-29"
+  },
+  {
+   "id": "A-10-2025-0073-AM-002-004",
+   "title": "Enmiendas al Pleno 2-4 (informe A10-0073/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0073-AM-002-004_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 3,
+   "date": "2025-04-30"
+  },
+  {
+   "id": "A-10-2025-0073-AM-005-013",
+   "title": "Enmiendas al Pleno 5-13 (informe A10-0073/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0073-AM-005-013_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 9,
+   "date": "2025-04-30"
+  },
+  {
+   "id": "A-10-2025-0073-AM-014-021",
+   "title": "Enmiendas al Pleno 14-21 (informe A10-0073/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0073-AM-014-021_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 8,
+   "date": "2025-05-02"
+  },
+  {
+   "id": "A-10-2025-0073",
+   "title": "Informe A10-0073/2025",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0073_EN.html",
+   "kind": "report",
+   "date": "2025-05-07"
+  }
+ ],
+ "amendments": {
+  "plenary": 21,
+  "committee_documents": 4
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2025-05-07-OJ-ITM-V-39",
+   "date": "2025-05-07",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-39)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-05-07_EN.html",
+   "refs": [
+    "2024/2104(INI)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-05-06-OJ-ITM-D-39",
+   "date": "2025-05-06",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-39)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-05-06_EN.html",
+   "refs": [
+    "2024/2104(INI)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2104(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2104",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2104?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2104?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2025-05-06-OJ-ITM-D-39",
+   "date": "2025-05-06",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-39)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-05-06_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-05-07-OJ-ITM-V-39",
+   "date": "2025-05-07",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-39)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-05-07_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo con disposiciones específicas sobre la notificación de irregularidades respecto del Fondo Europeo Agrícola de Garantía y del Fondo Europeo Agrícola de Desarrollo Rural y por el que se deroga el Reglamento Delegado (UE) 2015/1971 de la Comisión",
  "title_en": "Commission Delegated Regulation supplementing Regulation (EU) 2021/2116 of the European Parliament and of the Council with specific provisions on the reporting of irregularities concerning the European Agricultural Guarantee Fund and the European Agricultural Fund for Rural Development, and repealing Commission Delegated Regulation (EU) 2015/1971",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2019/2123 en lo que respecta a las condiciones en que se presenta un documento sanitario común de entrada separado para las partidas que van desde un puesto de control fronterizo hasta un punto de control en el que han de efectuarse controles de identidad y físicos",
  "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2019/2123 as regards the conditions under which a separate Common Health Entry Document is submitted for consignments leaving a border control post for a control point where identity and physical checks are to be performed",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "ENVI",

@@ -1,0 +1,305 @@
+{
+ "ref": "2024/2107(INI)",
+ "id": "2024-2107",
+ "type": "INI",
+ "title": "Noveno informe sobre la cohesión económica y social",
+ "title_en": "Ninth report on economic and social cohesion",
+ "stage": "Debate en el Pleno",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "REGI",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "257041",
+   "name": "Jacek PROTAS",
+   "group": "PPE",
+   "country": "PL",
+   "role": "rapporteur",
+   "committee": "REGI",
+   "since": "2024-10-23"
+  },
+  {
+   "id": "257079",
+   "name": "Sérgio GONÇALVES",
+   "group": "S&D",
+   "country": "PT",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2024-11-06"
+  },
+  {
+   "id": "96826",
+   "name": "Tamás DEUTSCH",
+   "group": "PfE",
+   "country": "HU",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2025-01-14"
+  },
+  {
+   "id": "257099",
+   "name": "Francesco VENTOLA",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2024-10-16"
+  },
+  {
+   "id": "257013",
+   "name": "Ľubica KARVAŠOVÁ",
+   "group": "Renew",
+   "country": "SK",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2024-10-28"
+  },
+  {
+   "id": "197448",
+   "name": "Rasmus ANDRESEN",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2024-10-24"
+  },
+  {
+   "id": "257299",
+   "name": "Kathleen FUNCHION",
+   "group": "The Left",
+   "country": "IE",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2025-01-27"
+  },
+  {
+   "id": "256945",
+   "name": "Irmhild BOSSDORF",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2025-01-16"
+  },
+  {
+   "id": "197552",
+   "name": "Veronika VRECIONOVÁ",
+   "group": "ECR",
+   "country": "CZ",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2024-12-06"
+  }
+ ],
+ "started": "2024-11-28",
+ "last_activity": "2025-05-08",
+ "events": [
+  {
+   "date": "2024-11-28",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-12-16",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "REGI-PR-766926",
+     "title": "Proyecto de informe REGI (766926)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-PR-766926_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2025-02-07",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "REGI-AM-768031",
+     "title": "Enmiendas en comisión REGI (768031)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-768031_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AL-767902",
+     "title": "AGRI-AL-767902",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2025-04-09",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-04-15",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0066",
+     "title": "Informe A10-0066/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0066_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-05",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0066",
+     "title": "Informe A10-0066/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0066_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-08",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "PV-10-2025-05-08-ITM-007-04",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-05-08-ITM-007-04_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "CRE-10-2025-05-08-ITM-007-04",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2025-05-08-ITM-007-04_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-08",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0066",
+     "title": "Informe A10-0066/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0066_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "REGI-PR-766926",
+   "title": "Proyecto de informe REGI (766926)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-PR-766926_EN.pdf",
+   "kind": "draft_report",
+   "date": "2024-12-16"
+  },
+  {
+   "id": "REGI-AM-768031",
+   "title": "Enmiendas en comisión REGI (768031)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-768031_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2025-02-07"
+  },
+  {
+   "id": "AGRI-AL-767902",
+   "title": "AGRI-AL-767902",
+   "url": "",
+   "kind": "other",
+   "date": "2025-03-19"
+  },
+  {
+   "id": "A-10-2025-0066",
+   "title": "Informe A10-0066/2025",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0066_EN.html",
+   "kind": "report",
+   "date": "2025-05-08"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 1
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2025-05-08-OJ-ITM-V-83",
+   "date": "2025-05-08",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-83)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-05-08_EN.html",
+   "refs": [
+    "2024/2107(INI)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-05-05-OJ-ITM-D-83",
+   "date": "2025-05-05",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-83)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-05-05_EN.html",
+   "refs": [
+    "2024/2107(INI)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2107(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2107",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2107?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2107?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (responsable)",
+  "AGRI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2025-05-05-OJ-ITM-D-83",
+   "date": "2025-05-05",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-83)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-05-05_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-05-08-OJ-ITM-V-83",
+   "date": "2025-05-08",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-83)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-05-08_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

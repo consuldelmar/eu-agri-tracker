@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo en lo que se refiere a las normas de comercialización en el sector del lúpulo y se deroga el Reglamento (CE) n.º 1850/2006 de la Comisión",
  "title_en": "Commission Delegated Regulation supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the marketing standards in the hop sector and repealing Commission Regulation (EC) No 1850/2006",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

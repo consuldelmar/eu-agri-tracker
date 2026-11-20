@@ -640,7 +640,19 @@
   "plenary": 0,
   "committee_documents": 0
  },
- "ep_scheduled": [],
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-93",
+   "date": "2026-11-25",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-93)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
+   "refs": [
+    "2025/0227(COD)"
+   ]
+  }
+ ],
  "links": {
   "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0227(COD)",
   "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_227",
@@ -650,8 +662,26 @@
  "scope": [
   "PECH (opinión)"
  ],
- "agenda": [],
- "scheduled": [],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-93",
+   "date": "2026-11-25",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-93)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-93",
+   "date": "2026-11-25",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-93)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
+   "source": "ep"
+  }
+ ],
  "council_docs": [],
  "followed": false,
  "follow_url": ""

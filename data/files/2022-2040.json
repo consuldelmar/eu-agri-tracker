@@ -1,0 +1,85 @@
+{
+ "ref": "2022/2040(INI)",
+ "id": "2022-2040",
+ "type": "INI",
+ "title": "Cadenas de suministro resilientes en el comercio de la Unión para hacer frente a la escasez actual",
+ "title_en": "Resilient supply chains in the EU trade to address current shortages",
+ "stage": "Proyecto de informe presentado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "INTA",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  }
+ ],
+ "people": [],
+ "started": "2022-06-20",
+ "last_activity": "2022-09-22",
+ "events": [
+  {
+   "date": "2022-06-20",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "AGRI-PA-732868",
+     "title": "Proyecto de opinión AGRI (732868)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PA-732868_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2022-09-22",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "INTA-PR-732674",
+     "title": "Proyecto de informe INTA (732674)",
+     "url": "https://www.europarl.europa.eu/doceo/document/INTA-PR-732674_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "AGRI-PA-732868",
+   "title": "Proyecto de opinión AGRI (732868)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PA-732868_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2022-06-20"
+  },
+  {
+   "id": "INTA-PR-732674",
+   "title": "Proyecto de informe INTA (732674)",
+   "url": "https://www.europarl.europa.eu/doceo/document/INTA-PR-732674_EN.pdf",
+   "kind": "draft_report",
+   "date": "2022-09-22"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/2040(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2022_2040",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2022_2040?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2022-2040?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

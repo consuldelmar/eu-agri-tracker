@@ -1,0 +1,305 @@
+{
+ "ref": "2025/2054(INI)",
+ "id": "2025-2054",
+ "type": "INI",
+ "title": "Papel de la diplomacia oceánica en la competitividad de la pesca y la acuicultura de la Unión",
+ "title_en": "The role of ocean diplomacy for the competitiveness of EU fisheries and aquaculture",
+ "stage": "Debate en el Pleno",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [
+  {
+   "id": "185341",
+   "name": "Željana ZOVKO",
+   "group": "PPE",
+   "country": "HR",
+   "role": "rapporteur",
+   "committee": "PECH",
+   "since": "2024-12-18"
+  },
+  {
+   "id": "257124",
+   "name": "Giuseppe LUPO",
+   "group": "S&D",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2024-12-18"
+  },
+  {
+   "id": "189065",
+   "name": "France JAMET",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2024-12-16"
+  },
+  {
+   "id": "197401",
+   "name": "Karin KARLSBRO",
+   "group": "Renew",
+   "country": "SE",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2024-12-19"
+  },
+  {
+   "id": "256915",
+   "name": "Mélissa CAMARA",
+   "group": "Verts/ALE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2025-01-13"
+  },
+  {
+   "id": "256913",
+   "name": "Emma FOURREAU",
+   "group": "The Left",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2025-03-07"
+  }
+ ],
+ "started": "2025-03-13",
+ "last_activity": "2026-04-28",
+ "events": [
+  {
+   "date": "2025-03-13",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-10-06",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "PECH-PR-777039",
+     "title": "Proyecto de informe PECH (777039)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-777039_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2025-10-24",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "PECH-AM-779364",
+     "title": "Enmiendas en comisión PECH (779364)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-AM-779364_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-02-25",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-03-06",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0043",
+     "title": "Informe A10-0043/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0043_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-22",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno (3 documentos)",
+   "docs": [
+    {
+     "id": "A-10-2026-0043-AM-003-003",
+     "title": "Enmiendas al Pleno 3-3 (informe A10-0043/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0043-AM-003-003_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2026-0043-AM-002-002",
+     "title": "Enmiendas al Pleno 2-2 (informe A10-0043/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0043-AM-002-002_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2026-0043-AM-001-002",
+     "title": "Enmiendas al Pleno 1-2 (informe A10-0043/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0043-AM-001-002_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 2
+    }
+   ]
+  },
+  {
+   "date": "2026-04-27",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0043",
+     "title": "Informe A10-0043/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0043_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-28",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "PV-10-2026-04-28-ITM-010-19",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-04-28-ITM-010-19_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "CRE-10-2026-04-28-ITM-010-19",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2026-04-28-ITM-010-19_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-28",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0043",
+     "title": "Informe A10-0043/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0043_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "PECH-PR-777039",
+   "title": "Proyecto de informe PECH (777039)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-777039_EN.pdf",
+   "kind": "draft_report",
+   "date": "2025-10-06"
+  },
+  {
+   "id": "PECH-AM-779364",
+   "title": "Enmiendas en comisión PECH (779364)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-AM-779364_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2025-10-24"
+  },
+  {
+   "id": "A-10-2026-0043-AM-003-003",
+   "title": "Enmiendas al Pleno 3-3 (informe A10-0043/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0043-AM-003-003_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-04-22"
+  },
+  {
+   "id": "A-10-2026-0043-AM-002-002",
+   "title": "Enmiendas al Pleno 2-2 (informe A10-0043/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0043-AM-002-002_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-04-22"
+  },
+  {
+   "id": "A-10-2026-0043-AM-001-002",
+   "title": "Enmiendas al Pleno 1-2 (informe A10-0043/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0043-AM-001-002_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 2,
+   "date": "2026-04-22"
+  },
+  {
+   "id": "A-10-2026-0043",
+   "title": "Informe A10-0043/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0043_EN.html",
+   "kind": "report",
+   "date": "2026-04-27"
+  }
+ ],
+ "amendments": {
+  "plenary": 4,
+  "committee_documents": 1
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-04-27-OJ-ITM-D-86",
+   "date": "2026-04-27",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-86)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-04-27_EN.html",
+   "refs": [
+    "2025/2054(INI)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2026-04-28-OJ-ITM-V-86",
+   "date": "2026-04-28",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-86)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-04-28_EN.html",
+   "refs": [
+    "2025/2054(INI)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2054(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2054",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2054?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2054?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-04-27-OJ-ITM-D-86",
+   "date": "2026-04-27",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-86)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-04-27_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2026-04-28-OJ-ITM-V-86",
+   "date": "2026-04-28",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-86)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-04-28_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

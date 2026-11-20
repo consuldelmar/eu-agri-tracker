@@ -40,7 +40,19 @@
  ],
  "agenda": [],
  "scheduled": [],
- "council_docs": [],
+ "council_docs": [
+  {
+   "id": "ST-14825-2026-INIT",
+   "code": "ST 14825/26",
+   "date": "2026-10-23",
+   "title": "Proposal for a Regulation of the European Parliament and of the Council laying down management, conservation and control measures applicable in the Convention area of the North Pacific Fisheries Commission - European Economic and Social Committee’s Opinion",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14825-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
  "followed": false,
  "follow_url": ""
 }

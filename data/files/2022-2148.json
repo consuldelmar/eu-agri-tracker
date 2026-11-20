@@ -1,0 +1,208 @@
+{
+ "ref": "2022/2148(INI)",
+ "id": "2022-2148",
+ "type": "INI",
+ "title": "Repercusiones de las operaciones de pesca chinas en el sector pesquero de la Unión y actuación futura",
+ "title_en": "Implications of Chinese fishing operations for EU fisheries and the way forward",
+ "stage": "Debate en el Pleno",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [
+  {
+   "id": "197796",
+   "name": "Massimo CASANOVA",
+   "group": "ID",
+   "country": "ITA",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2023-04-18"
+  },
+  {
+   "id": "136236",
+   "name": "João PIMENTA LOPES",
+   "group": "The Left",
+   "country": "PRT",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2023-03-22"
+  },
+  {
+   "id": "28400",
+   "name": "Francisco José MILLÁN MON",
+   "group": "PPE",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2022-09-08"
+  },
+  {
+   "id": "204418",
+   "name": "Nora MEBAREK",
+   "group": "S&D",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2022-09-08"
+  },
+  {
+   "id": "197825",
+   "name": "Raffaele STANCANELLI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2022-09-08"
+  },
+  {
+   "id": "197585",
+   "name": "Pierre KARLESKIND",
+   "group": "Renew",
+   "country": "FRA",
+   "role": "rapporteur",
+   "committee": "PECH",
+   "since": "2022-06-16"
+  },
+  {
+   "id": "197645",
+   "name": "Francisco GUERREIRO",
+   "group": "Verts/ALE",
+   "country": "PRT",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2022-09-08"
+  }
+ ],
+ "started": "2022-10-20",
+ "last_activity": "2023-10-17",
+ "events": [
+  {
+   "date": "2022-10-20",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-04-05",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "PECH-PR-746650",
+     "title": "Proyecto de informe PECH (746650)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-746650_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-20",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-10-02",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0282",
+     "title": "Informe A9-0282/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0282_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-16",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0282",
+     "title": "Informe A9-0282/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0282_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-17",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0282",
+     "title": "Informe A9-0282/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0282_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "CRE-9-2023-10-17-ITM-007-08",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2023-10-17-ITM-007-08_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2023-10-17-ITM-007-08",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2023-10-17-ITM-007-08_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-17",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0282",
+     "title": "Informe A9-0282/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0282_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "PECH-PR-746650",
+   "title": "Proyecto de informe PECH (746650)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-746650_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-04-05"
+  },
+  {
+   "id": "A-9-2023-0282",
+   "title": "Informe A9-0282/2023",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0282_EN.html",
+   "kind": "report",
+   "date": "2023-10-17"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/2148(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2022_2148",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2022_2148?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2022-2148?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

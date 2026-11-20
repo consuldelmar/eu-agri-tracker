@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión que modifica y corrige el Reglamento Delegado (UE) 2023/361, por el que se completa el Reglamento (UE) 2016/429 del Parlamento Europeo y del Consejo en lo referente a las normas de uso de ciertos medicamentos veterinarios a efectos de prevención y control de determinadas enfermedades de la lista",
  "title_en": "Commission Delegated Regulation amending and correcting Delegated Regulation (EU) 2023/361 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council as regards rules for the use of certain veterinary medicinal products for the purpose of prevention and control of certain listed diseases",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

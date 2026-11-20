@@ -1,10 +1,11 @@
 {
- "started": "2026-11-20T13:27:55+00:00",
+ "started": "2026-11-20T16:17:30+00:00",
  "parliament": {
-  "changed_in_feed": 73,
-  "files_read": 2935,
-  "queue_left": 893,
-  "tracked": 312,
+  "parser_changed": true,
+  "changed_in_feed": 92,
+  "files_read": 1250,
+  "queue_left": 0,
+  "tracked": 365,
   "failed": 0,
   "throttled": 1
  },
@@ -13,15 +14,15 @@
   "wp-agri": "42 meetings",
   "coreper": "46 meetings",
   "AGNDCSA": "500 documents in feed",
-  "AGNDCRP1": "500 documents in feed",
+  "AGNDCRP1": "0 documents in feed",
   "THMAF": "500 documents in feed",
-  "pdfs": "80 read, 325 left for the next run",
-  "press": "3 relevant press releases"
+  "pdfs": "80 read, 233 left for the next run",
+  "press": "4 relevant press releases"
  },
  "changes": 0,
- "finished": "2026-11-20T16:00:56+00:00",
- "requests": 3395,
+ "finished": "2026-11-20T16:52:01+00:00",
+ "requests": 1427,
  "request_errors": 0,
- "files": 312,
+ "files": 365,
  "problems": []
 }

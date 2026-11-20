@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2021/630 en lo que respecta a los requisitos de certificación privada de los productos compuestos exentos de controles oficiales en los puestos de control fronterizos, y a la inclusión de determinados productos a base de cereales, hortalizas preparadas o conservadas, frutas, frutos de cáscara, salsas, condimentos, sazonadores y productos de confitería en la lista de productos compuestos exentos",
  "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2021/630 as regards the private attestation requirements of the composite products exempted from official controls at border control posts, and the inclusion of certain cereal products, prepared or preserved vegetables, fruits, nuts, sauces, condiments, seasonings, and confectionery in the list of exempted composite products",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "ENVI",

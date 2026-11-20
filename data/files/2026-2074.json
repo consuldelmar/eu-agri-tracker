@@ -1,0 +1,244 @@
+{
+ "ref": "2026/2074(INI)",
+ "id": "2026-2074",
+ "type": "INI",
+ "title": "Plan plurianual para la pesca demersal en el Mediterráneo occidental ",
+ "title_en": "Multiannual plan for the fisheries exploiting demersal stocks in the western Mediterranean Sea",
+ "stage": "Informe aprobado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [
+  {
+   "id": "257034",
+   "name": "Carmen CRESPO DÍAZ",
+   "group": "PPE",
+   "country": "ES",
+   "role": "rapporteur",
+   "committee": "PECH",
+   "since": "2026-05-19"
+  },
+  {
+   "id": "256905",
+   "name": "Eric SARGIACOMO",
+   "group": "S&D",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-05-26"
+  },
+  {
+   "id": "189065",
+   "name": "France JAMET",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-07-01"
+  },
+  {
+   "id": "257022",
+   "name": "Nora JUNCO GARCÍA",
+   "group": "ECR",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-06-26"
+  },
+  {
+   "id": "214839",
+   "name": "Emma YTTERELL",
+   "group": "Renew",
+   "country": "SE",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-06-01"
+  },
+  {
+   "id": "256915",
+   "name": "Mélissa CAMARA",
+   "group": "Verts/ALE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-06-12"
+  },
+  {
+   "id": "256961",
+   "name": "Sebastian EVERDING",
+   "group": "The Left",
+   "country": "DEU",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-06-12"
+  }
+ ],
+ "started": "2026-06-17",
+ "last_activity": "2026-11-18",
+ "events": [
+  {
+   "date": "2026-06-17",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "PECH-PR-789948",
+     "title": "Proyecto de informe PECH (789948)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-789948_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-18",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-07-17",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "PECH-AM-791020",
+     "title": "Enmiendas en comisión PECH (791020)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-AM-791020_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-10-21",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0279",
+     "title": "Informe A10-0279/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0279_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno (2 documentos)",
+   "docs": [
+    {
+     "id": "A-10-2026-0279-AM-004-009",
+     "title": "Enmiendas al Pleno 4-9 (informe A10-0279/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0279-AM-004-009_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 6
+    },
+    {
+     "id": "A-10-2026-0279-AM-010-018",
+     "title": "Enmiendas al Pleno 10-18 (informe A10-0279/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0279-AM-010-018_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 9
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "PECH-PR-789948",
+   "title": "Proyecto de informe PECH (789948)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-789948_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-06-17"
+  },
+  {
+   "id": "PECH-AM-791020",
+   "title": "Enmiendas en comisión PECH (791020)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-AM-791020_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-07-17"
+  },
+  {
+   "id": "A-10-2026-0279",
+   "title": "Informe A10-0279/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0279_EN.html",
+   "kind": "report",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "A-10-2026-0279-AM-004-009",
+   "title": "Enmiendas al Pleno 4-9 (informe A10-0279/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0279-AM-004-009_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 6,
+   "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0279-AM-010-018",
+   "title": "Enmiendas al Pleno 10-18 (informe A10-0279/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0279-AM-010-018_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 9,
+   "date": "2026-11-18"
+  }
+ ],
+ "amendments": {
+  "plenary": 15,
+  "committee_documents": 1
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-24-OJ-ITM-V-74",
+   "date": "2026-11-24",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-74)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-24_EN.html",
+   "refs": [
+    "2026/2074(INI)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2074(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2074",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2074?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2074?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-24-OJ-ITM-V-74",
+   "date": "2026-11-24",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-74)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-24_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-24-OJ-ITM-V-74",
+   "date": "2026-11-24",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-74)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-24_EN.html",
+   "source": "ep"
+  }
+ ],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

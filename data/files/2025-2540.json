@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2019/624 en lo que respecta a las inspecciones ante mortem en los mataderos, las inspecciones ante mortem en la explotación de procedencia y las inspecciones post mortem",
  "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2019/624 as regards ante-mortem inspections in slaughterhouses, ante-mortem inspections at the holding of provenance and post-mortem inspections",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "ENVI",

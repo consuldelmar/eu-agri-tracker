@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) 2019/4 del Parlamento Europeo y del Consejo mediante el establecimiento de niveles máximos específicos de contaminación cruzada de principios activos antimicrobianos en piensos no destinatarios y métodos de análisis de estos principios en piensos",
  "title_en": "Commission Delegated Regulation supplementing Regulation (EU) 2019/4 of the European Parliament and of the Council by establishing specific maximum levels of cross-contamination of antimicrobial active substances in non-target feed and methods of analysis for these substances in feed",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

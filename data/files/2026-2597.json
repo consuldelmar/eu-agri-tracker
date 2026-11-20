@@ -4,8 +4,8 @@
  "type": "RPS",
  "title": "Reglamento de la Comisión por el que se modifica el anexo III del Reglamento (CE) n.º 1107/2009 del Parlamento Europeo y del Consejo añadiendo doce coformulantes que no pueden entrar en la composición de los productos fitosanitarios",
  "title_en": "Commission Regulation amending Annex III to Regulation (EC) No 1107/2009 of the European Parliament and of the Council by adding twelve co-formulants which are not accepted for inclusion in plant protection products",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "ENVI",

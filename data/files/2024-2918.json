@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2019/33, por el que se completa el Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo en lo que respecta a las solicitudes de protección de denominaciones de origen, indicaciones geográficas y términos tradicionales del sector vitivinícola, al procedimiento de oposición, a las restricciones de utilización, a las modificaciones del pliego de condiciones, a la cancelación de la protección, y al etiquetado y la presentación",
  "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2019/33 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards applications for protection of designations of origin, geographical indications and traditional terms in the wine sector, the objection procedure, restrictions of use, amendments to product specifications, cancellation of protection, and labelling and presentation",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

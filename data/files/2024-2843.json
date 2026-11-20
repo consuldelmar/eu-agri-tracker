@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2019/934, por el que se completa el Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo en lo que se refiere a las prácticas enológicas autorizadas",
  "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2019/934 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards authorised oenological practices",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "AGRI",

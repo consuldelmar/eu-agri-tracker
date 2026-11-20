@@ -1,0 +1,417 @@
+{
+ "ref": "2024/2121(INI)",
+ "id": "2024-2121",
+ "type": "INI",
+ "title": "Papel de la política de cohesión en el apoyo a la transición justa",
+ "title_en": "The role of cohesion policy in supporting the just transition",
+ "stage": "Debate en el Pleno",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "REGI",
+   "role": "lead"
+  },
+  {
+   "code": "EMPL",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "257128",
+   "name": "Giusi PRINCI",
+   "group": "PPE",
+   "country": "IT",
+   "role": "opinion_rapporteur",
+   "committee": "EMPL",
+   "since": "2025-02-14"
+  },
+  {
+   "id": "197579",
+   "name": "Klára DOBREV",
+   "group": "S&D",
+   "country": "HU",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-03-21"
+  },
+  {
+   "id": "256874",
+   "name": "Mélanie DISDIER",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-02-20"
+  },
+  {
+   "id": "257163",
+   "name": "Francesco TORSELLI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-03-21"
+  },
+  {
+   "id": "124700",
+   "name": "Jana TOOM",
+   "group": "Renew",
+   "country": "EE",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-03-21"
+  },
+  {
+   "id": "208722",
+   "name": "Sara MATTHIEU",
+   "group": "Verts/ALE",
+   "country": "BE",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-03-03"
+  },
+  {
+   "id": "197701",
+   "name": "Konstantinos ARVANITIS",
+   "group": "The Left",
+   "country": "GR",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-02-24"
+  },
+  {
+   "id": "257048",
+   "name": "Paulo DO NASCIMENTO CABRAL",
+   "group": "PPE",
+   "country": "PT",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2024-10-25"
+  },
+  {
+   "id": "204418",
+   "name": "Nora MEBAREK",
+   "group": "S&D",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2024-12-13"
+  },
+  {
+   "id": "257119",
+   "name": "Şerban Dimitrie STURDZA",
+   "group": "ECR",
+   "country": "RO",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2024-10-16"
+  },
+  {
+   "id": "257298",
+   "name": "Ciaran MULLOOLY",
+   "group": "Renew",
+   "country": "IE",
+   "role": "rapporteur",
+   "committee": "REGI",
+   "since": "2024-12-05"
+  },
+  {
+   "id": "256995",
+   "name": "Gordan BOSANAC",
+   "group": "Verts/ALE",
+   "country": "HR",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2024-12-09"
+  },
+  {
+   "id": "197699",
+   "name": "Elena KOUNTOURA",
+   "group": "The Left",
+   "country": "GR",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2024-12-02"
+  },
+  {
+   "id": "256945",
+   "name": "Irmhild BOSSDORF",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2025-01-16"
+  }
+ ],
+ "started": "2025-01-23",
+ "last_activity": "2025-09-10",
+ "events": [
+  {
+   "date": "2025-01-23",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-02-25",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "REGI-PR-769954",
+     "title": "Proyecto de informe REGI (769954)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-PR-769954_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "EMPL-PA-770275",
+     "title": "Proyecto de opinión EMPL (770275)",
+     "url": "https://www.europarl.europa.eu/doceo/document/EMPL-PA-770275_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-03-28",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "REGI-AM-772012",
+     "title": "Enmiendas en comisión REGI (772012)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-772012_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-13",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "EMPL-AD-770275",
+     "title": "Opinión EMPL (770275)",
+     "url": "https://www.europarl.europa.eu/doceo/document/EMPL-AD-770275_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-06-25",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-07-09",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0137",
+     "title": "Informe A10-0137/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0137_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-09-03",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0137-AM-001-001",
+     "title": "Enmiendas al Pleno 1-1 (informe A10-0137/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0137-AM-001-001_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2025-09-09",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0139",
+     "title": "Informe A10-0139/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0139_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-10-2025-0138",
+     "title": "Informe A10-0138/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0138_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-10-2025-0137",
+     "title": "Informe A10-0137/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0137_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-09-10",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "PV-10-2025-09-10-ITM-005-11",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-09-10-ITM-005-11_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "CRE-10-2025-09-10-ITM-005-11",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2025-09-10-ITM-005-11_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2025-09-10",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0137",
+     "title": "Informe A10-0137/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0137_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "REGI-PR-769954",
+   "title": "Proyecto de informe REGI (769954)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-PR-769954_EN.pdf",
+   "kind": "draft_report",
+   "date": "2025-02-25"
+  },
+  {
+   "id": "EMPL-PA-770275",
+   "title": "Proyecto de opinión EMPL (770275)",
+   "url": "https://www.europarl.europa.eu/doceo/document/EMPL-PA-770275_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-03-19"
+  },
+  {
+   "id": "REGI-AM-772012",
+   "title": "Enmiendas en comisión REGI (772012)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-772012_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2025-03-28"
+  },
+  {
+   "id": "EMPL-AD-770275",
+   "title": "Opinión EMPL (770275)",
+   "url": "https://www.europarl.europa.eu/doceo/document/EMPL-AD-770275_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-05-13"
+  },
+  {
+   "id": "A-10-2025-0137-AM-001-001",
+   "title": "Enmiendas al Pleno 1-1 (informe A10-0137/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0137-AM-001-001_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2025-09-03"
+  },
+  {
+   "id": "A-10-2025-0139",
+   "title": "Informe A10-0139/2025",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0139_EN.html",
+   "kind": "report",
+   "date": "2025-09-09"
+  },
+  {
+   "id": "A-10-2025-0138",
+   "title": "Informe A10-0138/2025",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0138_EN.html",
+   "kind": "report",
+   "date": "2025-09-09"
+  },
+  {
+   "id": "A-10-2025-0137",
+   "title": "Informe A10-0137/2025",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0137_EN.html",
+   "kind": "report",
+   "date": "2025-09-10"
+  }
+ ],
+ "amendments": {
+  "plenary": 1,
+  "committee_documents": 1
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2025-09-10-OJ-ITM-V-19",
+   "date": "2025-09-10",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-19)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-09-10_EN.html",
+   "refs": [
+    "2024/2121(INI)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-09-09-OJ-ITM-D-19",
+   "date": "2025-09-09",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-19)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-09-09_EN.html",
+   "refs": [
+    "2024/2121(INI)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2121(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2121",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2121?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2121?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (responsable)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2025-09-09-OJ-ITM-D-19",
+   "date": "2025-09-09",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-19)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-09-09_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-09-10-OJ-ITM-V-19",
+   "date": "2025-09-10",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-19)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-09-10_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

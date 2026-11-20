@@ -1,0 +1,691 @@
+{
+ "ref": "2022/2051(INL)",
+ "id": "2022-2051",
+ "type": "INL",
+ "title": "Propuestas del Parlamento Europeo con vistas a la revisión de los Tratados",
+ "title_en": "Proposals of the European Parliament for the amendment of the Treaties",
+ "stage": "Debate en el Pleno",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "AFCO",
+   "role": "lead"
+  },
+  {
+   "code": "AFET",
+   "role": "opinion"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "opinion"
+  },
+  {
+   "code": "CONT",
+   "role": "opinion"
+  },
+  {
+   "code": "CULT",
+   "role": "opinion"
+  },
+  {
+   "code": "ECON",
+   "role": "opinion"
+  },
+  {
+   "code": "EMPL",
+   "role": "opinion"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  },
+  {
+   "code": "FEMM",
+   "role": "opinion"
+  },
+  {
+   "code": "INTA",
+   "role": "opinion"
+  },
+  {
+   "code": "ITRE",
+   "role": "opinion"
+  },
+  {
+   "code": "LIBE",
+   "role": "opinion"
+  },
+  {
+   "code": "PETI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "124973",
+   "name": "Gerolf ANNEMANS",
+   "group": "ID",
+   "country": "BE",
+   "role": "shadow",
+   "committee": "AFCO",
+   "since": "2023-09-18"
+  },
+  {
+   "id": "28297",
+   "name": "Jacek SARYUSZ-WOLSKI",
+   "group": "ECR",
+   "country": "POL",
+   "role": "shadow",
+   "committee": "AFCO",
+   "since": "2023-09-18"
+  },
+  {
+   "id": "130100",
+   "name": "Hilde VAUTMANS",
+   "group": "Renew",
+   "country": "BE",
+   "role": "opinion_rapporteur",
+   "committee": "AFET",
+   "since": "2022-05-11"
+  },
+  {
+   "id": "197810",
+   "name": "Nils UŠAKOVS",
+   "group": "S&D",
+   "country": "LV",
+   "role": "opinion_rapporteur",
+   "committee": "BUDG",
+   "since": "2022-05-17"
+  },
+  {
+   "id": "96780",
+   "name": "Monika HOHLMEIER",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_rapporteur",
+   "committee": "CONT",
+   "since": "2022-09-27"
+  },
+  {
+   "id": "197638",
+   "name": "Margarida MARQUES",
+   "group": "S&D",
+   "country": "PRT",
+   "role": "opinion_rapporteur",
+   "committee": "ECON",
+   "since": "2022-07-12"
+  },
+  {
+   "id": "197663",
+   "name": "Dragoş PÎSLARU",
+   "group": "Renew",
+   "country": "ROU",
+   "role": "opinion_rapporteur",
+   "committee": "EMPL",
+   "since": "2022-07-12"
+  },
+  {
+   "id": "96711",
+   "name": "Pascal CANFIN",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_rapporteur",
+   "committee": "ENVI",
+   "since": "2022-10-17"
+  },
+  {
+   "id": "38420",
+   "name": "Cristian-Silviu BUŞOI",
+   "group": "PPE",
+   "country": "ROU",
+   "role": "opinion_rapporteur",
+   "committee": "ITRE",
+   "since": "2022-05-17"
+  },
+  {
+   "id": "124808",
+   "name": "Norbert LINS",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2022-06-27"
+  },
+  {
+   "id": "197589",
+   "name": "Laurence FARRENG",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_rapporteur",
+   "committee": "CULT",
+   "since": "2022-07-14"
+  },
+  {
+   "id": "96812",
+   "name": "Juan Fernando LÓPEZ AGUILAR",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_rapporteur",
+   "committee": "LIBE",
+   "since": "2022-09-05"
+  },
+  {
+   "id": "197426",
+   "name": "Sven SIMON",
+   "group": "PPE",
+   "country": "DE",
+   "role": "rapporteur",
+   "committee": "AFCO",
+   "since": "2022-05-17"
+  },
+  {
+   "id": "197435",
+   "name": "Gabriele BISCHOFF",
+   "group": "S&D",
+   "country": "DE",
+   "role": "rapporteur",
+   "committee": "AFCO",
+   "since": "2022-05-17"
+  },
+  {
+   "id": "97058",
+   "name": "Guy VERHOFSTADT",
+   "group": "Renew",
+   "country": "BEL",
+   "role": "rapporteur",
+   "committee": "AFCO",
+   "since": "2022-05-17"
+  },
+  {
+   "id": "106936",
+   "name": "Daniel FREUND",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "rapporteur",
+   "committee": "AFCO",
+   "since": "2022-05-17"
+  },
+  {
+   "id": "96646",
+   "name": "Helmut SCHOLZ",
+   "group": "The Left",
+   "country": "DEU",
+   "role": "rapporteur",
+   "committee": "AFCO",
+   "since": "2022-05-17"
+  },
+  {
+   "id": "197702",
+   "name": "Lina GÁLVEZ",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_rapporteur",
+   "committee": "FEMM",
+   "since": "2022-09-01"
+  }
+ ],
+ "started": "2022-06-09",
+ "last_activity": "2023-11-22",
+ "events": [
+  {
+   "date": "2022-06-09",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2022-07-19",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "CULT-PA-735503",
+     "title": "Proyecto de opinión CULT (735503)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CULT-PA-735503_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2022-07-20",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "AGRI-PA-734266",
+     "title": "Proyecto de opinión AGRI (734266)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PA-734266_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2022-09-06",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "AFET-PA-735826",
+     "title": "Proyecto de opinión AFET (735826)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AFET-PA-735826_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2022-09-28",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "FEMM-PA-736540",
+     "title": "Proyecto de opinión FEMM (736540)",
+     "url": "https://www.europarl.europa.eu/doceo/document/FEMM-PA-736540_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2022-10-03",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "CULT-AD-735503",
+     "title": "Opinión CULT (735503)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CULT-AD-735503_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2022-10-06",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "ECON-PA-736556",
+     "title": "Proyecto de opinión ECON (736556)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ECON-PA-736556_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2022-11-15",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "LIBE-PA-736602",
+     "title": "Proyecto de opinión LIBE (736602)",
+     "url": "https://www.europarl.europa.eu/doceo/document/LIBE-PA-736602_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2022-11-29",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "FEMM-AD-736540",
+     "title": "Opinión FEMM (736540)",
+     "url": "https://www.europarl.europa.eu/doceo/document/FEMM-AD-736540_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2022-11-30",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "AFET-AD-735826",
+     "title": "Opinión AFET (735826)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AFET-AD-735826_EN.pdf",
+     "kind": "opinion"
+    },
+    {
+     "id": "EMPL-AL-735788",
+     "title": "EMPL-AL-735788",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2022-12-06",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "BUDG-PA-739657",
+     "title": "Proyecto de opinión BUDG (739657)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-PA-739657_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-01-24",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "ENVI-AL-737338",
+     "title": "ENVI-AL-737338",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "ITRE-AL-740662",
+     "title": "ITRE-AL-740662",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2023-01-31",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "ECON-AD-736556",
+     "title": "Opinión ECON (736556)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ECON-AD-736556_EN.pdf",
+     "kind": "opinion"
+    },
+    {
+     "id": "AGRI-AD-734266",
+     "title": "Opinión AGRI (734266)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AD-734266_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-02-06",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "LIBE-AD-736602",
+     "title": "Opinión LIBE (736602)",
+     "url": "https://www.europarl.europa.eu/doceo/document/LIBE-AD-736602_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-02-09",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "CONT-AL-742305",
+     "title": "CONT-AL-742305",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "BUDG-AD-739657",
+     "title": "Opinión BUDG (739657)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-739657_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-08-22",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "AFCO-PR-746741",
+     "title": "Proyecto de informe AFCO (746741)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AFCO-PR-746741_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-25",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-11-07",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0337",
+     "title": "Informe A9-0337/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0337_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-21",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0337",
+     "title": "Informe A9-0337/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0337_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-22",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0337",
+     "title": "Informe A9-0337/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0337_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "CRE-9-2023-11-22-ITM-008-16",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2023-11-22-ITM-008-16_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2023-11-22-ITM-008-16",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2023-11-22-ITM-008-16_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-22",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0337",
+     "title": "Informe A9-0337/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0337_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "CULT-PA-735503",
+   "title": "Proyecto de opinión CULT (735503)",
+   "url": "https://www.europarl.europa.eu/doceo/document/CULT-PA-735503_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2022-07-19"
+  },
+  {
+   "id": "AGRI-PA-734266",
+   "title": "Proyecto de opinión AGRI (734266)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PA-734266_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2022-07-20"
+  },
+  {
+   "id": "AFET-PA-735826",
+   "title": "Proyecto de opinión AFET (735826)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AFET-PA-735826_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2022-09-06"
+  },
+  {
+   "id": "FEMM-PA-736540",
+   "title": "Proyecto de opinión FEMM (736540)",
+   "url": "https://www.europarl.europa.eu/doceo/document/FEMM-PA-736540_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2022-09-28"
+  },
+  {
+   "id": "CULT-AD-735503",
+   "title": "Opinión CULT (735503)",
+   "url": "https://www.europarl.europa.eu/doceo/document/CULT-AD-735503_EN.pdf",
+   "kind": "opinion",
+   "date": "2022-10-03"
+  },
+  {
+   "id": "ECON-PA-736556",
+   "title": "Proyecto de opinión ECON (736556)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ECON-PA-736556_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2022-10-06"
+  },
+  {
+   "id": "LIBE-PA-736602",
+   "title": "Proyecto de opinión LIBE (736602)",
+   "url": "https://www.europarl.europa.eu/doceo/document/LIBE-PA-736602_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2022-11-15"
+  },
+  {
+   "id": "FEMM-AD-736540",
+   "title": "Opinión FEMM (736540)",
+   "url": "https://www.europarl.europa.eu/doceo/document/FEMM-AD-736540_EN.pdf",
+   "kind": "opinion",
+   "date": "2022-11-29"
+  },
+  {
+   "id": "AFET-AD-735826",
+   "title": "Opinión AFET (735826)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AFET-AD-735826_EN.pdf",
+   "kind": "opinion",
+   "date": "2022-11-30"
+  },
+  {
+   "id": "EMPL-AL-735788",
+   "title": "EMPL-AL-735788",
+   "url": "",
+   "kind": "other",
+   "date": "2022-11-30"
+  },
+  {
+   "id": "BUDG-PA-739657",
+   "title": "Proyecto de opinión BUDG (739657)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-PA-739657_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2022-12-06"
+  },
+  {
+   "id": "ENVI-AL-737338",
+   "title": "ENVI-AL-737338",
+   "url": "",
+   "kind": "other",
+   "date": "2023-01-24"
+  },
+  {
+   "id": "ITRE-AL-740662",
+   "title": "ITRE-AL-740662",
+   "url": "",
+   "kind": "other",
+   "date": "2023-01-24"
+  },
+  {
+   "id": "ECON-AD-736556",
+   "title": "Opinión ECON (736556)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ECON-AD-736556_EN.pdf",
+   "kind": "opinion",
+   "date": "2023-01-31"
+  },
+  {
+   "id": "AGRI-AD-734266",
+   "title": "Opinión AGRI (734266)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AD-734266_EN.pdf",
+   "kind": "opinion",
+   "date": "2023-01-31"
+  },
+  {
+   "id": "LIBE-AD-736602",
+   "title": "Opinión LIBE (736602)",
+   "url": "https://www.europarl.europa.eu/doceo/document/LIBE-AD-736602_EN.pdf",
+   "kind": "opinion",
+   "date": "2023-02-06"
+  },
+  {
+   "id": "CONT-AL-742305",
+   "title": "CONT-AL-742305",
+   "url": "",
+   "kind": "other",
+   "date": "2023-02-09"
+  },
+  {
+   "id": "BUDG-AD-739657",
+   "title": "Opinión BUDG (739657)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-739657_EN.pdf",
+   "kind": "opinion",
+   "date": "2023-02-09"
+  },
+  {
+   "id": "AFCO-PR-746741",
+   "title": "Proyecto de informe AFCO (746741)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AFCO-PR-746741_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-08-22"
+  },
+  {
+   "id": "A-9-2023-0337",
+   "title": "Informe A9-0337/2023",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0337_EN.html",
+   "kind": "report",
+   "date": "2023-11-21"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/2051(INL)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2022_2051",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2022_2051?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2022-2051?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

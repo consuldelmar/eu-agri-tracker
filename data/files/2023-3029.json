@@ -4,8 +4,8 @@
  "type": "DEA",
  "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) n.º 251/2014 del Parlamento Europeo y del Consejo con normas específicas relativas a la indicación y designación de los ingredientes de los productos vitivinícolas aromatizados",
  "title_en": "Commission Delegated Regulation supplementing Regulation (EU) No 251/2014 of the European Parliament and of the Council as regards specific rules for the indication and designation of ingredients for aromatised wine products",
- "stage": "Remitido a comisión",
- "ongoing": true,
+ "stage": "Sin objeción del Parlamento (plazo de control vencido)",
+ "ongoing": false,
  "committees": [
   {
    "code": "ENVI",

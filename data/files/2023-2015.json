@@ -1,0 +1,240 @@
+{
+ "ref": "2023/2015(INI)",
+ "id": "2023-2015",
+ "type": "INI",
+ "title": "Estrategia europea en materia de proteínas",
+ "title_en": "European protein strategy",
+ "stage": "Debate en el Pleno",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  },
+  {
+   "code": "PECH",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "129164",
+   "name": "Tom VANDENKENDELAERE",
+   "group": "PPE",
+   "country": "BEL",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2023-02-09"
+  },
+  {
+   "id": "124836",
+   "name": "Maria NOICHL",
+   "group": "S&D",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2023-02-09"
+  },
+  {
+   "id": "197773",
+   "name": "Bert-Jan RUISSEN",
+   "group": "ECR",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2023-02-09"
+  },
+  {
+   "id": "214839",
+   "name": "Emma YTTERELL",
+   "group": "Renew",
+   "country": "SE",
+   "role": "rapporteur",
+   "committee": "AGRI",
+   "since": "2023-02-09"
+  },
+  {
+   "id": "193292",
+   "name": "Tilly METZ",
+   "group": "Verts/ALE",
+   "country": "LU",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2023-02-09"
+  },
+  {
+   "id": "205452",
+   "name": "Chris MACMANUS",
+   "group": "The Left",
+   "country": "IRL",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2023-02-09"
+  },
+  {
+   "id": "197718",
+   "name": "Nicolás GONZÁLEZ CASARES",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_rapporteur",
+   "committee": "PECH",
+   "since": "2023-02-07"
+  }
+ ],
+ "started": "2023-02-16",
+ "last_activity": "2023-10-19",
+ "events": [
+  {
+   "date": "2023-02-16",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-03-07",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "AGRI-PR-742624",
+     "title": "Proyecto de informe AGRI (742624)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PR-742624_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2023-03-14",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Proyecto de opinión presentado en comisión",
+   "docs": [
+    {
+     "id": "PECH-PA-745279",
+     "title": "Proyecto de opinión PECH (745279)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PA-745279_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-05-24",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "PECH-AD-745279",
+     "title": "Opinión PECH (745279)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-AD-745279_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-19",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-10-03",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0281",
+     "title": "Informe A9-0281/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0281_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-19",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": []
+  },
+  {
+   "date": "2023-10-19",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-9-2023-10-19-ITM-010-04",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2023-10-19-ITM-010-04_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2023-10-19-ITM-10-4",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2023-10-19-ITM-10-4_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-19",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0281",
+     "title": "Informe A9-0281/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0281_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "AGRI-PR-742624",
+   "title": "Proyecto de informe AGRI (742624)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PR-742624_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-03-07"
+  },
+  {
+   "id": "PECH-PA-745279",
+   "title": "Proyecto de opinión PECH (745279)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PA-745279_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2023-03-14"
+  },
+  {
+   "id": "PECH-AD-745279",
+   "title": "Opinión PECH (745279)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-AD-745279_EN.pdf",
+   "kind": "opinion",
+   "date": "2023-05-24"
+  },
+  {
+   "id": "A-9-2023-0281",
+   "title": "Informe A9-0281/2023",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0281_EN.html",
+   "kind": "report",
+   "date": "2023-10-03"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/2015(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_2015",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_2015?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-2015?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)",
+  "PECH (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

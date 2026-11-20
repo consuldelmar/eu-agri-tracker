@@ -4,8 +4,8 @@
  "type": "NLE",
  "title": "Adhesión de Tonga al Acuerdo de Asociación Interino entre la Comunidad Europea y los Estados del Pacífico",
  "title_en": "Accession of Tonga to the Interim Partnership Agreement between the European Community, and the Pacific States",
- "stage": "Plenary decision",
- "ongoing": true,
+ "stage": "Decisión del Pleno",
+ "ongoing": false,
  "committees": [
   {
    "code": "INTA",
@@ -120,7 +120,7 @@
   {
    "date": "2024-12-18",
    "type": "PLENARY_DECISION",
-   "title": "Plenary decision",
+   "title": "Decisión del Pleno",
    "docs": [
     {
      "id": "TA-10-2024-0068",
