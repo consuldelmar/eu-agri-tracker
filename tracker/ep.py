@@ -97,6 +97,16 @@ def items_of(payload: Any) -> list[dict]:
     return []
 
 
+def to_int(v: Any) -> int | None:
+    """precedenceOrder can be a number, a string or a list of them."""
+    if isinstance(v, list):
+        v = v[0] if v else None
+    try:
+        return int(v)
+    except (TypeError, ValueError):
+        return None
+
+
 def humanize(code: str) -> str:
     return code.replace("_", " ").capitalize()
 
@@ -233,14 +243,14 @@ def normalize(raw: Any, ctx: dict) -> dict | None:
         kind = ("opinion_shadow" if "SHADOW" in role and "OPINION" in role else
                 "shadow" if "SHADOW" in role else
                 "opinion_rapporteur" if "OPINION" in role else "rapporteur")
-        committee = tail(p.get("participation_in_name_of"))
-        order = p.get("precedenceOrder")
-        block = int(order) // 100 if isinstance(order, (int, float)) or str(order or "").isdigit() else None
+        committee = tail(listify(p.get("participation_in_name_of"))[0] if p.get("participation_in_name_of") else "")
+        order = to_int(p.get("precedenceOrder"))
+        block = order // 100 if order is not None else None
         if committee and block is not None and kind in ("rapporteur", "opinion_rapporteur"):
             block_committee[block] = committee
         raw_people.append({"pid": persons[0], "kind": kind, "committee": committee, "block": block,
                            "group": GROUPS.get(tail(p.get("politicalGroup")), tail(p.get("politicalGroup"))),
-                           "since": p.get("activity_date"), "order": order or 0})
+                           "since": str(p.get("activity_date") or "")[:10], "order": order or 0})
     leads = [c for c, r in committees.items() if r in ("lead", "joint")]
     people = []
     for rp in sorted(raw_people, key=lambda x: x["order"]):
@@ -437,18 +447,40 @@ def collect(cfg: dict, http: Http, old: dict, state: dict) -> dict:
 
     done = 0
     forced_ids = {ep_id(r) for r in forced}
+    attempts: dict = state.setdefault("attempts", {})
+    failed: dict = state.setdefault("failed", {})
+    import os
+    import time as _time
+    deadline = _time.monotonic() + 60 * float(os.getenv("TRACKER_EP_MINUTES", "150"))
     try:
         while queue:
-            pid = queue[0]
+            if _time.monotonic() > deadline:
+                log(f"  time limit for this run reached: {len(queue)} files left for the next run")
+                break
+            pid = queue.pop(0)
             if int(pid[:4]) < int(cfg["since_year"]) and pid not in forced_ids:
-                queue.pop(0)
                 continue
-            raw = http.json(f"{API}/procedures/{pid}", LD)
-            rec = normalize(raw, ctx) if raw else None
-            queue.pop(0)
+            r = http.get(f"{API}/procedures/{pid}", params=LD, accept="application/ld+json")
+            if r is None or (r.status_code != 200 and r.status_code != 404):
+                attempts[pid] = attempts.get(pid, 0) + 1
+                if attempts[pid] < 4:
+                    queue.append(pid)          # try again later in this run or the next one
+                else:
+                    failed[pid] = f"HTTP {r.status_code if r is not None else 'no answer'}"
+                continue
+            attempts.pop(pid, None)
             done += 1
             if done % 200 == 0:
                 log(f"  {done} files read, {len(queue)} left")
+            if r.status_code == 404 or not r.content:
+                continue
+            try:
+                rec = normalize(r.json(), ctx)
+            except Exception as exc:  # noqa: BLE001 - one odd file must not stop the run
+                failed[pid] = f"{type(exc).__name__}: {str(exc)[:120]}"
+                log(f"  could not read {pid}: {failed[pid]}")
+                continue
+            failed.pop(pid, None)
             if rec is None:
                 continue
             if rec["type"] not in cfg["procedure_types"] and rec["ref"] not in forced:
@@ -487,5 +519,6 @@ def collect(cfg: dict, http: Http, old: dict, state: dict) -> dict:
     # People cache: keep it bounded
     if len(people_cache) > 6000:
         state["people"] = dict(list(people_cache.items())[-6000:])
-    status.update({"files_read": done, "queue_left": len(queue), "tracked": len(records)})
+    status.update({"files_read": done, "queue_left": len(queue), "tracked": len(records),
+                   "failed": len(failed), "throttled": http.throttled})
     return {"records": records, "calendar": calendar, "state": state, "status": status}

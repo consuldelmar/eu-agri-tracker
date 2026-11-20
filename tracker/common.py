@@ -44,16 +44,19 @@ class Http:
         self.s = requests.Session()
         self.s.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "en"})
         self.min_gap = min_gap
+        self.extra: dict[str, float] = {}     # extra gap per host after "429 Too Many Requests"
         self.last: dict[str, float] = {}
         self.budget = budget
         self.count = 0
         self.errors = 0
+        self.throttled = 0
 
     def _wait(self, url: str) -> None:
         host = urlparse(url).netloc
         gap = time.monotonic() - self.last.get(host, 0)
-        if gap < self.min_gap:
-            time.sleep(self.min_gap - gap)
+        need = self.min_gap + self.extra.get(host, 0.0)
+        if gap < need:
+            time.sleep(need - gap)
         self.last[host] = time.monotonic()
 
     def get(self, url: str, params: dict | None = None, accept: str | None = None,
@@ -61,24 +64,37 @@ class Http:
         if self.count >= self.budget:
             raise BudgetExceeded()
         headers = {"Accept": accept} if accept else {}
-        for attempt in range(1, tries + 1):
+        host = urlparse(url).netloc
+        attempt, throttles = 0, 0
+        while True:
+            attempt += 1
             self._wait(url)
             self.count += 1
             try:
                 r = self.s.get(url, params=params, headers=headers, timeout=timeout)
             except (requests.ConnectionError, requests.Timeout) as exc:
                 log(f"  network problem ({attempt}/{tries}) {url}: {type(exc).__name__}")
+                if attempt >= tries:
+                    self.errors += 1
+                    return None
                 time.sleep(3 * attempt)
                 continue
-            if r.status_code in (429, 500, 502, 503, 504) and attempt < tries:
+            if r.status_code == 429 and throttles < 6:
+                # The server asks us to slow down: wait as told, and keep a slower pace for this host
+                throttles += 1
+                self.throttled += 1
+                self.extra[host] = min(self.extra.get(host, 0.0) + 0.3, 3.0)
+                retry = r.headers.get("Retry-After", "")
+                wait = int(retry) if retry.isdigit() else 15 * throttles
+                time.sleep(min(wait, 120))
+                continue
+            if r.status_code in (500, 502, 503, 504) and attempt < tries:
                 time.sleep(5 * attempt)
                 continue
             if r.status_code >= 400 and r.status_code != 404:
                 self.errors += 1
                 log(f"  HTTP {r.status_code} {url}")
             return r
-        self.errors += 1
-        return None
 
     def json(self, url: str, params: dict | None = None, accept: str = "application/ld+json") -> Any:
         r = self.get(url, params=params, accept=accept)

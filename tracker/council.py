@@ -36,8 +36,10 @@ AGRI_WORDS = re.compile(
 AGRI_CATEGORIES = re.compile(r"(?i)food and farming|fisheries|agricultur|forestry|animal|plant|cohesion|"
                              r"regional policy|rural")
 MEETING_NAME = re.compile(
-    r"(Working Party on [A-Z][A-Za-z ,\-]{3,70}(?:\([^)]{2,60}\))?|Special Committee on Agriculture|"
-    r"Permanent Representatives Committee \(Part [12]\)|Agriculture and Fisheries Council)")
+    r"(Working Party on [A-Z][A-Za-z ,\-]{3,70}?(?:\s\([^)\n]{2,60}\))?(?=\s*(?:$|\n|-|–| are | is |\.))|"
+    r"Special Committee on Agriculture|Permanent Representatives Committee \(Part [12]\)|"
+    r"Agriculture and Fisheries Council|Counsellors/Attachés \([^)\n]{2,80}\)?)", re.M)
+DOC_NUMBER = re.compile(r"\b(\d{4,5})/(\d{2})\b")
 
 # Council steps recognised in document subjects and press releases (checked in this order)
 STEPS = [
@@ -215,6 +217,8 @@ def collect(cfg: dict, http: Http, state: dict) -> dict:
                    "url": it.get("link", ""), "date": date, "step": step_of(subject),
                    "refs": refs_in(subject), "read": False}
             docs[did] = rec
+        if rec.get("kind") == "agenda" and rec.get("read") and "doc_numbers" not in rec:
+            rec["read"] = False                # read again to collect the document numbers it cites
         if not rec.get("read"):
             pending.append(rec)
 
@@ -254,15 +258,30 @@ def collect(cfg: dict, http: Http, state: dict) -> dict:
         if rec["kind"] == "agenda" or re.search(r"(?i)provisional agenda", text[:3000]):
             rec["kind"] = "agenda"
             rec["meeting_date"] = meeting_date(text[:4000], rec.get("date") or "") or rec.get("date")
-            name = MEETING_NAME.search(text[:4000])
-            if name and rec["body"] == "Consejo":
-                rec["body"] = BODY_ES.get(name.group(1).split(" (")[0], name.group(1).replace(
-                    "Working Party on", "Grupo de trabajo:").strip())
+            rec["doc_numbers"] = sorted({f"{a}/{b}" for a, b in DOC_NUMBER.findall(text)})
+            if rec["body"] == "Consejo":
+                name = MEETING_NAME.search(rec.get("title") or "") or MEETING_NAME.search(text[:1500])
+                if name:
+                    raw_name = re.sub(r"\s+", " ", name.group(1)).strip()
+                    rec["body"] = BODY_ES.get(raw_name.split(" (")[0], raw_name.replace(
+                        "Working Party on", "Grupo de trabajo:"))
             m = re.search(r"(?i)(\d{3,4}(?:st|nd|rd|th) meeting of the [A-Za-z ]+)", text[:3000])
             if m:
                 rec["title"] = m.group(1).strip()
         if not rec.get("step"):
             rec["step"] = step_of(text[:2500])
+    # Agendas cite Council documents by number ("13143/26"): give them those documents' files
+    by_number: dict[str, set] = {}
+    for d in docs.values():
+        m = re.match(r"[A-Z]+ (\d{4,5}/\d{2})", d.get("code") or "")
+        if m and d.get("refs") and d.get("kind") != "agenda":
+            by_number.setdefault(m.group(1), set()).update(d["refs"])
+    for d in docs.values():
+        if d.get("kind") == "agenda" and d.get("doc_numbers"):
+            cited = set()
+            for n in d["doc_numbers"]:
+                cited |= by_number.get(n, set())
+            d["refs"] = sorted(set(d.get("refs", [])) | cited)
     left = sum(1 for d in pending if not d.get("read"))
     status["pdfs"] = f"{read} read, {left} left for the next run"
     log(f"  Council: {status}")

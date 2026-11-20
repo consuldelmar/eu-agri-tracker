@@ -56,7 +56,7 @@ def save_records(records: dict) -> None:
 
 def main() -> int:
     cfg = load_config()
-    http = Http(min_gap=0.7, budget=int(os.getenv("TRACKER_REQUEST_BUDGET", "9000")))
+    http = Http(min_gap=1.0, budget=int(os.getenv("TRACKER_REQUEST_BUDGET", "12000")))
     status: dict = {"started": now_iso()}
     old = load_records()
     ep_state = load("ep_state.json", {})
