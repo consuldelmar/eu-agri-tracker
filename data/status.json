@@ -1,0 +1,24 @@
+{
+ "started": "2026-11-20T12:02:07+00:00",
+ "parliament": {
+  "error": "'<' not supported between instances of 'list' and 'int'"
+ },
+ "council": {
+  "agri": "50 meetings",
+  "wp-agri": "42 meetings",
+  "coreper": "46 meetings",
+  "AGNDCSA": "500 documents in feed",
+  "AGNDCRP1": "500 documents in feed",
+  "THMAF": "500 documents in feed",
+  "pdfs": "80 read, 240 left for the next run",
+  "press": "2 relevant press releases"
+ },
+ "changes": 0,
+ "finished": "2026-11-20T12:13:22+00:00",
+ "requests": 601,
+ "request_errors": 11,
+ "files": 0,
+ "problems": [
+  "Parliament: TypeError: '<' not supported between instances of 'list' and 'int'"
+ ]
+}
