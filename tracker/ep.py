@@ -57,14 +57,24 @@ ACTIVITY = {
     "SIGNATURE": ("Acto firmado", True),
     "PUBLICATION_OFFICIAL_JOURNAL": ("Publicado en el Diario Oficial", True),
     "PLENARY_OUTCOME": ("Resultado en el Pleno", True),
+    "COMMITTEE_TABLING_OPINION": ("Proyecto de opinión presentado en comisión", False),
+    "PLENARY_AMEND_PROPOSAL": ("Enmiendas del Pleno a la propuesta", True),
+    "PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS": ("El Pleno confirma el mandato para negociar", True),
+    "PLENARY_DECISION": ("Decisión del Pleno", True),
+    "PLENARY_APPROVE_COUNCIL_POSITION": ("Posición del Consejo aprobada (segunda lectura)", True),
+    "PLENARY_ACTIVITY": ("Actividad en el Pleno", False),
 }
 FINISHED = re.compile(r"PUBLICATION_OFFICIAL_JOURNAL|WITHDRAW|LAPSE|PROCEDURE_COMPLETED|CLOSED")
-PLENARY_END = re.compile(r"PLENARY_(ADOPT|APPROVE|REJECT|CONSENT|OUTCOME)")
+PLENARY_END = re.compile(r"PLENARY_(ADOPT|APPROVE|REJECT|CONSENT|OUTCOME|DECISION|VOTE_RESULTS)")
+PARSER_VERSION = 2      # raise when the reading of files changes: tracked files are then read again
+SCRUTINY_MONTHS = 6     # delegated acts with no objection are finished after the scrutiny period
 
 
 # --------------------------------------------------------------------------- helpers
 
 def tail(v: Any) -> str:
+    if isinstance(v, list):
+        v = v[0] if v else ""
     if isinstance(v, dict):
         v = v.get("id") or v.get("@id") or ""
     return str(v or "").rstrip("/").rsplit("/", 1)[-1]
@@ -299,6 +309,12 @@ def normalize(raw: Any, ctx: dict) -> dict | None:
     finished = bool(FINISHED.search(types)) or (ptype != "COD" and bool(PLENARY_END.search(types)))
     if ptype == "COD" and "SIGNATURE" in types and "PUBLICATION_OFFICIAL_JOURNAL" not in types:
         finished = False
+    if ptype in ("DEA", "RPS") and not finished and events:
+        if events[-1]["date"] < plus_days(today(), -30 * SCRUTINY_MONTHS):
+            finished = True
+            stage = "Sin objeción del Parlamento (plazo de control vencido)"
+        elif "PLENARY" not in types:
+            stage = "En periodo de control del Parlamento"
 
     # Plenary items announced for this file (past and future)
     scheduled = []
@@ -437,6 +453,13 @@ def collect(cfg: dict, http: Http, old: dict, state: dict) -> dict:
         state["bootstrap_listed"] = True
         state["bootstrap_total"] = len(queue)
         state["first_feed_date"] = today()
+
+    if state.get("parser_version") != PARSER_VERSION:
+        again = [ep_id(r) for r in records if ep_id(r) not in queue]
+        queue.extend(again)
+        state["parser_version"] = PARSER_VERSION
+        status["parser_changed"] = True
+        log(f"  reading changed: {len(again)} tracked files will be read again")
 
     since = state.get("last_feed_date") or state.get("first_feed_date")
     daily = changed_ids(http, since) + [ep_id(r) for r in forced if ep_id(r) not in queue]

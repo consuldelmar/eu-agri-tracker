@@ -65,6 +65,9 @@ def main() -> int:
     changes_log = load("changes.json", [])
     problems = []
 
+    # Changes are reported only once a complete first load existed before this run
+    was_complete = bool(ep_state.get("bootstrap_done"))
+
     # 1. Parliament
     log("Parliament…")
     try:
@@ -125,7 +128,7 @@ def main() -> int:
 
     # 4. What changed (skipped while the first full load is still in progress)
     bootstrapping = not ep_state.get("bootstrap_done")
-    if old and not bootstrapping:
+    if old and was_complete and not status.get("parliament", {}).get("parser_changed"):
         found = changes_mod.diff_all(old, records)
     else:
         found = []
