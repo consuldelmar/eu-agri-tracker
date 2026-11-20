@@ -346,10 +346,63 @@
    "title": "Votación (punto V-55)",
    "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-07_EN.html",
    "source": "ep"
+  },
+  {
+   "id": "council-agenda-ST-14592-2026-REV-1",
+   "date": "2026-10-21",
+   "body": "Coreper I",
+   "title": "Orden del día (ST 14592/26 REV 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14592-2026-REV-1/en/pdf",
+   "source": "council"
   }
  ],
  "scheduled": [],
- "council_docs": [],
+ "council_docs": [
+  {
+   "id": "ST-13978-2026-INIT",
+   "code": "ST 13978/26",
+   "date": "2026-10-13",
+   "title": "Proposal for a DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL empowering France to accede to the Inter-American Convention for the Protection and Conservation of Sea Turtles - Outcome of the European Parliament's first reading (Strasbourg, 5 to 8 October 2026)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13978-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "PE-56-2026-INIT",
+   "code": "PE 56/26",
+   "date": "2026-10-14",
+   "title": "DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL empowering France to accede to the Inter-American Convention for the Protection and Conservation of Sea Turtles",
+   "url": "https://data.consilium.europa.eu/doc/document/PE-56-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14419-2026-INIT",
+   "code": "ST 14419/26",
+   "date": "2026-10-16",
+   "title": "Draft DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL empowering France to accede to the Inter-American Convention for the Protection and Conservation of Sea Turtles (first reading) - Adoption of the legislative act",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14419-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Adopción por el Consejo",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14592-2026-REV-1",
+   "code": "ST 14592/26 REV 1",
+   "date": "2026-10-20",
+   "title": "PERMANENT REPRESENTATIVES COMMITTEE (Part 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14592-2026-REV-1/en/pdf",
+   "kind": "agenda",
+   "body": "Coreper I",
+   "step": "Mandato de negociación con el PE",
+   "meeting_date": "2026-10-21"
+  }
+ ],
  "followed": false,
  "follow_url": ""
 }

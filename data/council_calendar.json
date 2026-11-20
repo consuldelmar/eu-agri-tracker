@@ -75,7 +75,7 @@
   "source": "council",
   "body": "Consejo AGRIFISH",
   "title": "Agriculture and Fisheries Council",
-  "description": "The Council today reached a partial negotiating mandate on the regulation setting out the post-2027 EU support for the fisheries sector. Among other topics, ministers also discussed the proposal for a regulation amending the European Maritime, Fisheries and Aquaculture Fund.&nbsp;",
+  "description": "The Council today reached a partial negotiating mandate on the regulation setting out the post-2027 EU support for the fisheries sector. Among other topics, ministers also discussed the proposal for a regulation amending the European Maritime, Fisheries and Aquaculture Fund.",
   "url": "https://www.consilium.europa.eu/en/meetings/agrifish/2026/09/28-29/",
   "refs": []
  },
@@ -1391,6 +1391,18 @@
   ]
  },
  {
+  "id": "council-agenda-ST-14473-2026-INIT",
+  "date": "2026-10-19",
+  "source": "council",
+  "body": "Comité Especial de Agricultura (CEA)",
+  "title": "Orden del día (ST 14473/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-14473-2026-INIT/en/pdf",
+  "refs": [
+   "2025/0234(NLE)",
+   "2025/0237(COD)"
+  ]
+ },
+ {
   "id": "council-agenda-ST-15420-2026-REV-2",
   "date": "2026-12-01",
   "source": "council",
@@ -1410,6 +1422,18 @@
   "url": "https://data.consilium.europa.eu/doc/document/ST-15420-2026-REV-1/en/pdf",
   "refs": [
    "2026/0349(NLE)"
+  ]
+ },
+ {
+  "id": "council-agenda-ST-14592-2026-REV-1",
+  "date": "2026-10-21",
+  "source": "council",
+  "body": "Coreper I",
+  "title": "Orden del día (ST 14592/26 REV 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-14592-2026-REV-1/en/pdf",
+  "refs": [
+   "2025/0349(COD)",
+   "2026/0252(NLE)"
   ]
  },
  {
@@ -1465,7 +1489,36 @@
   "title": "Orden del día (CM 4809/26 REV 1)",
   "url": "https://data.consilium.europa.eu/doc/document/CM-4809-2026-REV-1/en/pdf",
   "refs": [
+   "2026/0309(NLE)",
+   "2026/0310(NLE)",
+   "2026/0311(NLE)",
    "2026/0349(NLE)"
+  ]
+ },
+ {
+  "id": "council-agenda-CM-4610-2026-REV-2",
+  "date": "2026-10-22",
+  "source": "council",
+  "body": "Grupo de trabajo: Fisheries Policy",
+  "title": "Orden del día (CM 4610/26 REV 2)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-4610-2026-REV-2/en/pdf",
+  "refs": [
+   "2026/0309(NLE)",
+   "2026/0310(NLE)",
+   "2026/0311(NLE)"
+  ]
+ },
+ {
+  "id": "council-agenda-CM-4539-2026-REV-1",
+  "date": "2026-10-15",
+  "source": "council",
+  "body": "Grupo de trabajo: Fisheries Policy",
+  "title": "Orden del día (CM 4539/26 REV 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-4539-2026-REV-1/en/pdf",
+  "refs": [
+   "2026/0309(NLE)",
+   "2026/0310(NLE)",
+   "2026/0311(NLE)"
   ]
  }
 ]

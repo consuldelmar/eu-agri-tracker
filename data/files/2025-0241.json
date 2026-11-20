@@ -576,6 +576,28 @@
  "scheduled": [],
  "council_docs": [
   {
+   "id": "ST-14185-2026-REV-1",
+   "code": "ST 14185/26 REV 1",
+   "date": "2026-10-16",
+   "title": "Regulation establishing the conditions for the implementation of Union support under the CAP - Preparation of a partial general approach",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14185-2026-REV-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14484-2026-INIT",
+   "code": "ST 14484/26",
+   "date": "2026-10-21",
+   "title": "Regulation establishing the conditions for the implementation of Union support under the CAP - Partial general approach",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14484-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": null
+  },
+  {
    "id": "ST-14480-2026-INIT",
    "code": "ST 14480/26",
    "date": "2026-10-22",
@@ -631,6 +653,6 @@
    "meeting_date": null
   }
  ],
- "followed": false,
- "follow_url": ""
+ "followed": true,
+ "follow_url": "https://github.com/consuldelmar/eu-agri-tracker/issues/1"
 }

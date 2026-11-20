@@ -487,7 +487,41 @@
   }
  ],
  "scheduled": [],
- "council_docs": [],
+ "council_docs": [
+  {
+   "id": "WK-10746-2022-INIT",
+   "code": "WK 10746/22",
+   "date": "2026-10-12",
+   "title": "Nature Restoration Regulation: Follow-up to the WPE meeting on 25 July 2022: Information and call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-10746-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-11714-2022-INIT",
+   "code": "WK 11714/22",
+   "date": "2026-10-12",
+   "title": "Nature Restoration Regulation: Follow-up to the WPE meeting on \n8 September 2022: Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-11714-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-12197-2022-INIT",
+   "code": "WK 12197/22",
+   "date": "2026-10-12",
+   "title": "Nature Restoration Regulation: Follow-up to the WPE meeting on \n16 September 2022: Information and Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-12197-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
  "followed": false,
  "follow_url": ""
 }

@@ -329,9 +329,63 @@
   "AGRI (responsable)",
   "REGI (opinión)"
  ],
- "agenda": [],
+ "agenda": [
+  {
+   "id": "council-agenda-ST-14473-2026-INIT",
+   "date": "2026-10-19",
+   "body": "Comité Especial de Agricultura (CEA)",
+   "title": "Orden del día (ST 14473/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14473-2026-INIT/en/pdf",
+   "source": "council"
+  }
+ ],
  "scheduled": [],
- "council_docs": [],
+ "council_docs": [
+  {
+   "id": "ST-14402-2026-INIT",
+   "code": "ST 14402/26",
+   "date": "2026-10-15",
+   "title": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities - Partial mandate for negotiations with the European Parliament",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14402-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14415-2026-INIT",
+   "code": "ST 14415/26",
+   "date": "2026-10-15",
+   "title": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities - Partial mandate for negotiations with the European Parliament Council Regulation amending the fixing Regulation as regards the EU school scheme - Information from the Presidency",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14415-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14473-2026-INIT",
+   "code": "ST 14473/26",
+   "date": "2026-10-16",
+   "title": "1782nd meeting of the SCA",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14473-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Comité Especial de Agricultura (CEA)",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": "2026-10-19"
+  },
+  {
+   "id": "ST-14647-2026-INIT",
+   "code": "ST 14647/26",
+   "date": "2026-10-19",
+   "title": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities - Partial mandate for negotiations with the European Parliament",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14647-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": null
+  }
+ ],
  "followed": false,
  "follow_url": ""
 }
