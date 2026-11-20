@@ -1,0 +1,27 @@
+# Downloads real examples of the data the tracker reads (one-off, run by hand).
+name: Data samples
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  samples:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install "requests>=2.31,<3" "pypdf>=4,<7"
+      - run: python tools/sample.py
+      - name: Keep the samples
+        if: always()
+        uses: actions/upload-artifact@v6
+        with:
+          name: data-samples
+          path: samples/
+          retention-days: 14
