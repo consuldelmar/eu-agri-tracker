@@ -1,0 +1,336 @@
+{
+ "ref": "2023/0049(COD)",
+ "id": "2023-0049",
+ "type": "COD",
+ "title": "Modificación del Reglamento (UE) 2019/1009 en lo que respecta al etiquetado digital de los productos fertilizantes UE",
+ "title_en": "Amending Regulation (EU) 2019/1009 as regards the digital labelling of EU fertilising products",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "IMCO",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  },
+  {
+   "code": "INTA",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "4560",
+   "name": "Antonius MANDERS",
+   "group": "PPE",
+   "country": "NLD",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2023-05-24"
+  },
+  {
+   "id": "23788",
+   "name": "Adam BIELAN",
+   "group": "ECR",
+   "country": "PL",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2023-05-22"
+  },
+  {
+   "id": "229519",
+   "name": "Catharina RINZEMA",
+   "group": "Renew",
+   "country": "NLD",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2023-05-03"
+  },
+  {
+   "id": "197645",
+   "name": "Francisco GUERREIRO",
+   "group": "Verts/ALE",
+   "country": "PRT",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2023-06-01"
+  },
+  {
+   "id": "124785",
+   "name": "Maria GRAPINI",
+   "group": "S&D",
+   "country": "RO",
+   "role": "rapporteur",
+   "committee": "IMCO",
+   "since": "2023-05-26"
+  },
+  {
+   "id": "197647",
+   "name": "Dan-Ştefan MOTREANU",
+   "group": "PPE",
+   "country": "RO",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2023-04-19"
+  }
+ ],
+ "started": "2023-03-13",
+ "last_activity": "2024-09-30",
+ "events": [
+  {
+   "date": "2023-03-13",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-06-19",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "IMCO-PR-749998",
+     "title": "Proyecto de informe IMCO (749998)",
+     "url": "https://www.europarl.europa.eu/doceo/document/IMCO-PR-749998_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2023-08-30",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AL-751819",
+     "title": "AGRI-AL-751819",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-25",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-11-03",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0330",
+     "title": "Informe A9-0330/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0330_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-09",
+   "type": "PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
+   "title": "Plenary endorse committee interinstitutional negotiations",
+   "docs": []
+  },
+  {
+   "date": "2024-02-13",
+   "type": "COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT",
+   "title": "Acuerdo provisional aprobado en comisión",
+   "docs": [
+    {
+     "id": "IMCO-AG-758981",
+     "title": "IMCO-AG-758981",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-11",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0330",
+     "title": "Informe A9-0330/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0330_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2023-0030",
+     "title": "Propuesta o documento recibido C9-0030/2023",
+     "url": "",
+     "kind": "proposal"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-12",
+   "type": "PLENARY_AMEND_PROPOSAL",
+   "title": "Plenary amend proposal",
+   "docs": [
+    {
+     "id": "TA-9-2024-0133",
+     "title": "Texto aprobado P9_TA(2024)0133",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0133_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-12",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-9-2024-03-12-ITM-008-14",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-03-12-ITM-008-14_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2024-03-12-ITM-008-14",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-03-12-ITM-008-14_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-12",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0330",
+     "title": "Informe A9-0330/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0330_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-09-18",
+   "type": "SIGNATURE",
+   "title": "Acto firmado",
+   "docs": []
+  },
+  {
+   "date": "2024-09-30",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "IMCO-PR-749998",
+   "title": "Proyecto de informe IMCO (749998)",
+   "url": "https://www.europarl.europa.eu/doceo/document/IMCO-PR-749998_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-06-19"
+  },
+  {
+   "id": "AGRI-AL-751819",
+   "title": "AGRI-AL-751819",
+   "url": "",
+   "kind": "other",
+   "date": "2023-08-30"
+  },
+  {
+   "id": "IMCO-AG-758981",
+   "title": "IMCO-AG-758981",
+   "url": "",
+   "kind": "other",
+   "date": "2024-02-13"
+  },
+  {
+   "id": "C-9-2023-0030",
+   "title": "Propuesta o documento recibido C9-0030/2023",
+   "url": "",
+   "kind": "proposal",
+   "date": "2024-03-11"
+  },
+  {
+   "id": "A-9-2023-0330",
+   "title": "Informe A9-0330/2023",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0330_EN.html",
+   "kind": "report",
+   "date": "2024-03-12"
+  },
+  {
+   "id": "TA-9-2024-0133",
+   "title": "Texto aprobado P9_TA(2024)0133",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0133_EN.html",
+   "kind": "adopted_text",
+   "date": "2024-03-12"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2024-03-12-OJ-ITM-V-90",
+   "date": "2024-03-12",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-90)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-03-12_EN.html",
+   "refs": [
+    "2023/0049(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-03-11-OJ-ITM-D-90",
+   "date": "2024-03-11",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-90)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-03-11_EN.html",
+   "refs": [
+    "2023/0049(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0049(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_49",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_49?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-0049?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2024-03-11-OJ-ITM-D-90",
+   "date": "2024-03-11",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-90)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-03-11_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-03-12-OJ-ITM-V-90",
+   "date": "2024-03-12",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-90)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-03-12_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

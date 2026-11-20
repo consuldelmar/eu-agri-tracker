@@ -1,0 +1,672 @@
+{
+ "ref": "2023/0163(COD)",
+ "id": "2023-0163",
+ "type": "COD",
+ "title": "Agencia Europea de Seguridad Marítima y derogación del Reglamento (CE) n.º 1406/2002",
+ "title_en": "European Maritime Safety Agency and repealing Regulation (EC) No 1406/2002",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "TRAN",
+   "role": "lead"
+  },
+  {
+   "code": "BUDG",
+   "role": "opinion"
+  },
+  {
+   "code": "CONT",
+   "role": "opinion"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  },
+  {
+   "code": "ITRE",
+   "role": "opinion"
+  },
+  {
+   "code": "PECH",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "197412",
+   "name": "Niclas HERBST",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_rapporteur",
+   "committee": "BUDG",
+   "since": "2023-06-28"
+  },
+  {
+   "id": "135511",
+   "name": "Valérie HAYER",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2023-10-10"
+  },
+  {
+   "id": "28586",
+   "name": "Dimitrios PAPADIMOULIS",
+   "group": "The Left",
+   "country": "GRC",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2023-10-04"
+  },
+  {
+   "id": "124734",
+   "name": "Cláudia MONTEIRO DE AGUIAR",
+   "group": "PPE",
+   "country": "PRT",
+   "role": "rapporteur",
+   "committee": "TRAN",
+   "since": "2023-07-07"
+  },
+  {
+   "id": "257065",
+   "name": "Sérgio HUMBERTO",
+   "group": "PPE",
+   "country": "PT",
+   "role": "rapporteur",
+   "committee": "TRAN",
+   "since": "2024-09-03"
+  },
+  {
+   "id": "197641",
+   "name": "Sara CERDAS",
+   "group": "S&D",
+   "country": "PRT",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2023-07-10"
+  },
+  {
+   "id": "257079",
+   "name": "Sérgio GONÇALVES",
+   "group": "S&D",
+   "country": "PT",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2024-09-18"
+  },
+  {
+   "id": "256909",
+   "name": "Vilis KRIŠTOPANS",
+   "group": "PfE",
+   "country": "LV",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2024-10-07"
+  },
+  {
+   "id": "28615",
+   "name": "Roberts ZĪLE",
+   "group": "ECR",
+   "country": "LV",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2024-10-09"
+  },
+  {
+   "id": "28615",
+   "name": "Roberts ZĪLE",
+   "group": "ECR",
+   "country": "LV",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2023-07-10"
+  },
+  {
+   "id": "257003",
+   "name": "Jeannette BALJEU",
+   "group": "Renew",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2025-02-26"
+  },
+  {
+   "id": "190519",
+   "name": "Caroline NAGTEGAAL",
+   "group": "Renew",
+   "country": "NLD",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2023-07-10"
+  },
+  {
+   "id": "197466",
+   "name": "Jutta PAULUS",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2024-10-07"
+  },
+  {
+   "id": "197466",
+   "name": "Jutta PAULUS",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2023-07-10"
+  },
+  {
+   "id": "124736",
+   "name": "Merja KYLLÖNEN",
+   "group": "The Left",
+   "country": "FI",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2024-10-07"
+  },
+  {
+   "id": "136236",
+   "name": "João PIMENTA LOPES",
+   "group": "The Left",
+   "country": "PRT",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2023-07-10"
+  },
+  {
+   "id": "96867",
+   "name": "Maria da Graça CARVALHO",
+   "group": "PPE",
+   "country": "PRT",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2023-07-18"
+  },
+  {
+   "id": "125045",
+   "name": "Clara AGUILERA",
+   "group": "S&D",
+   "country": "ESP",
+   "role": "opinion_rapporteur",
+   "committee": "PECH",
+   "since": "2023-09-05"
+  },
+  {
+   "id": "96922",
+   "name": "Izaskun BILBAO BARANDICA",
+   "group": "Renew",
+   "country": "ESP",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2023-07-18"
+  },
+  {
+   "id": "197645",
+   "name": "Francisco GUERREIRO",
+   "group": "Verts/ALE",
+   "country": "PRT",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2023-09-05"
+  },
+  {
+   "id": "197825",
+   "name": "Raffaele STANCANELLI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2023-07-19"
+  }
+ ],
+ "started": "2023-07-10",
+ "last_activity": "2025-12-29",
+ "events": [
+  {
+   "date": "2023-07-10",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-09-19",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "TRAN-PR-753514",
+     "title": "Proyecto de informe TRAN (753514)",
+     "url": "https://www.europarl.europa.eu/doceo/document/TRAN-PR-753514_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-12",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "TRAN-AM-754711",
+     "title": "Enmiendas en comisión TRAN (754711)",
+     "url": "https://www.europarl.europa.eu/doceo/document/TRAN-AM-754711_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-07",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "BUDG-AD-753727",
+     "title": "Opinión BUDG (753727)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-753727_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-29",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "PECH-AD-753474",
+     "title": "Opinión PECH (753474)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-AD-753474_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-12-07",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-12-08",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0423",
+     "title": "Informe A9-0423/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0423_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-12-13",
+   "type": "PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
+   "title": "Plenary endorse committee interinstitutional negotiations",
+   "docs": []
+  },
+  {
+   "date": "2024-03-11",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0423",
+     "title": "Informe A9-0423/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0423_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2023-0190",
+     "title": "Propuesta o documento recibido C9-0190/2023",
+     "url": "",
+     "kind": "proposal"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-12",
+   "type": "PLENARY_ADOPT_POSITION",
+   "title": "Posición del Parlamento aprobada en el Pleno",
+   "docs": [
+    {
+     "id": "TA-9-2024-0134",
+     "title": "Texto aprobado P9_TA(2024)0134",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0134_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-12",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-9-2024-03-12-ITM-008-15",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-03-12-ITM-008-15_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2024-03-12-ITM-008-15",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-03-12-ITM-008-15_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-12",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0423",
+     "title": "Informe A9-0423/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0423_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-11-19",
+   "type": "INTERINSTITUTIONAL_NEGOTIATION",
+   "title": "Trílogo",
+   "docs": []
+  },
+  {
+   "date": "2025-05-20",
+   "type": "INTERINSTITUTIONAL_NEGOTIATION",
+   "title": "Trílogo",
+   "docs": []
+  },
+  {
+   "date": "2025-06-24",
+   "type": "COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT",
+   "title": "Acuerdo provisional aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-10-21",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "TRAN-PR-778264",
+     "title": "Proyecto de informe TRAN (778264)",
+     "url": "https://www.europarl.europa.eu/doceo/document/TRAN-PR-778264_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2025-10-23",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-11-05",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-11-07",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0217",
+     "title": "Informe A10-0217/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0217_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-11-12",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0217",
+     "title": "Informe A10-0217/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0217_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-11-13",
+   "type": "PLENARY_APPROVE_COUNCIL_POSITION",
+   "title": "Plenary approve council position",
+   "docs": [
+    {
+     "id": "TA-10-2025-0260",
+     "title": "Texto aprobado P10_TA(2025)0260",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2025-0260_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2025-11-13",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2025-11-13-ITM-006-05",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2025-11-13-ITM-006-05_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2025-11-13-ITM-006-05",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-11-13-ITM-006-05_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2025-11-13",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0217",
+     "title": "Informe A10-0217/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0217_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-11-26",
+   "type": "SIGNATURE",
+   "title": "Acto firmado",
+   "docs": []
+  },
+  {
+   "date": "2025-12-29",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "TRAN-PR-753514",
+   "title": "Proyecto de informe TRAN (753514)",
+   "url": "https://www.europarl.europa.eu/doceo/document/TRAN-PR-753514_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-09-19"
+  },
+  {
+   "id": "TRAN-AM-754711",
+   "title": "Enmiendas en comisión TRAN (754711)",
+   "url": "https://www.europarl.europa.eu/doceo/document/TRAN-AM-754711_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2023-10-12"
+  },
+  {
+   "id": "BUDG-AD-753727",
+   "title": "Opinión BUDG (753727)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-753727_EN.pdf",
+   "kind": "opinion",
+   "date": "2023-11-07"
+  },
+  {
+   "id": "PECH-AD-753474",
+   "title": "Opinión PECH (753474)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-AD-753474_EN.pdf",
+   "kind": "opinion",
+   "date": "2023-11-29"
+  },
+  {
+   "id": "A-9-2023-0423",
+   "title": "Informe A9-0423/2023",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0423_EN.html",
+   "kind": "report",
+   "date": "2024-03-11"
+  },
+  {
+   "id": "C-9-2023-0190",
+   "title": "Propuesta o documento recibido C9-0190/2023",
+   "url": "",
+   "kind": "proposal",
+   "date": "2024-03-11"
+  },
+  {
+   "id": "TA-9-2024-0134",
+   "title": "Texto aprobado P9_TA(2024)0134",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0134_EN.html",
+   "kind": "adopted_text",
+   "date": "2024-03-12"
+  },
+  {
+   "id": "TRAN-PR-778264",
+   "title": "Proyecto de informe TRAN (778264)",
+   "url": "https://www.europarl.europa.eu/doceo/document/TRAN-PR-778264_EN.pdf",
+   "kind": "draft_report",
+   "date": "2025-10-21"
+  },
+  {
+   "id": "A-10-2025-0217",
+   "title": "Informe A10-0217/2025",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0217_EN.html",
+   "kind": "report",
+   "date": "2025-11-12"
+  },
+  {
+   "id": "TA-10-2025-0260",
+   "title": "Texto aprobado P10_TA(2025)0260",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2025-0260_EN.html",
+   "kind": "adopted_text",
+   "date": "2025-11-13"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 1
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2024-03-11-OJ-ITM-D-104",
+   "date": "2024-03-11",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-104)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-03-11_EN.html",
+   "refs": [
+    "2023/0163(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-03-12-OJ-ITM-V-104",
+   "date": "2024-03-12",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-104)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-03-12_EN.html",
+   "refs": [
+    "2023/0163(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-11-13-OJ-ITM-V-39",
+   "date": "2025-11-13",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-39)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-11-13_EN.html",
+   "refs": [
+    "2023/0163(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-11-12-OJ-ITM-D-39",
+   "date": "2025-11-12",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-39)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-11-12_EN.html",
+   "refs": [
+    "2023/0163(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0163(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_163",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_163?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-0163?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2024-03-11-OJ-ITM-D-104",
+   "date": "2024-03-11",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-104)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-03-11_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-03-12-OJ-ITM-V-104",
+   "date": "2024-03-12",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-104)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-03-12_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-11-12-OJ-ITM-D-39",
+   "date": "2025-11-12",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-39)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-11-12_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-11-13-OJ-ITM-V-39",
+   "date": "2025-11-13",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-39)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-11-13_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

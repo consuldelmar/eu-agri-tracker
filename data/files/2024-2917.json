@@ -1,0 +1,50 @@
+{
+ "ref": "2024/2917(DEA)",
+ "id": "2024-2917",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) 2024/1143 del Parlamento Europeo y del Consejo con normas sobre la inscripción en el registro y la protección de las indicaciones geográficas, las especialidades tradicionales garantizadas y los términos de calidad facultativos y por el que se deroga el Reglamento Delegado (UE) n.º 664/2014",
+ "title_en": "Commission Delegated Regulation supplementing Regulation (EU) 2024/1143 of the European Parliament and of the Council with rules concerning the registration and the protection of geographical indications, traditional specialities guaranteed and optional quality terms and repealing Delegated Regulation (EU) No 664/2014",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  },
+  {
+   "code": "JURI",
+   "role": "opinion"
+  }
+ ],
+ "people": [],
+ "started": "2024-11-13",
+ "last_activity": "2024-11-13",
+ "events": [
+  {
+   "date": "2024-11-13",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2917(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2917",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2917?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2917?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

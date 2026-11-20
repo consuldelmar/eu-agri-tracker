@@ -1,0 +1,306 @@
+{
+ "ref": "2025/0417(COD)",
+ "id": "2025-0417",
+ "type": "COD",
+ "title": "Modificación del Reglamento (UE) 2018/848 en lo que respecta a determinadas normas sobre producción, etiquetado y certificación y a determinadas normas sobre el comercio con terceros países",
+ "title_en": "Amending Regulation (EU) 2018/848 as regards certain production, labelling and certification rules and certain rules on trade with third countries",
+ "stage": "Acuerdo provisional aprobado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "257046",
+   "name": "Marta WCISŁO",
+   "group": "PPE",
+   "country": "PL",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-03-17"
+  },
+  {
+   "id": "230085",
+   "name": "Camilla LAURETI",
+   "group": "S&D",
+   "country": "IT",
+   "role": "rapporteur",
+   "committee": "AGRI",
+   "since": "2026-03-17"
+  },
+  {
+   "id": "256886",
+   "name": "Valérie DELOGE",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-03-17"
+  },
+  {
+   "id": "197552",
+   "name": "Veronika VRECIONOVÁ",
+   "group": "ECR",
+   "country": "CZ",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-03-10"
+  },
+  {
+   "id": "257298",
+   "name": "Ciaran MULLOOLY",
+   "group": "Renew",
+   "country": "IE",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-03-03"
+  },
+  {
+   "id": "96752",
+   "name": "Martin HÄUSLING",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-03-17"
+  },
+  {
+   "id": "256911",
+   "name": "Arash SAEIDI",
+   "group": "The Left",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-03-17"
+  },
+  {
+   "id": "257255",
+   "name": "Stanislav STOYANOV",
+   "group": "ESN",
+   "country": "BG",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-03-10"
+  }
+ ],
+ "started": "2026-01-27",
+ "last_activity": "2026-11-20",
+ "events": [
+  {
+   "date": "2026-01-27",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-03-26",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AM-785380",
+     "title": "Enmiendas en comisión AGRI (785380)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-785380_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-07-29",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0209",
+     "title": "Informe A10-0209/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0209_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "type": "PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
+   "title": "Plenary endorse committee interinstitutional negotiations",
+   "docs": []
+  },
+  {
+   "date": "2026-10-20",
+   "type": "INTERINSTITUTIONAL_NEGOTIATION",
+   "title": "Trílogo",
+   "docs": []
+  },
+  {
+   "date": "2026-11-04",
+   "type": "COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT",
+   "title": "Acuerdo provisional aprobado en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AG-797562",
+     "title": "AGRI-AG-797562",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno (3 documentos)",
+   "docs": [
+    {
+     "id": "A-10-2026-0209-AM-052-052",
+     "title": "Enmiendas al Pleno 52-52 (informe A10-0209/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0209-AM-052-052_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2026-0209-AM-053-055",
+     "title": "Enmiendas al Pleno 53-55 (informe A10-0209/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0209-AM-053-055_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 3
+    },
+    {
+     "id": "A-10-2026-0209-AM-051-051",
+     "title": "Enmiendas al Pleno 51-51 (informe A10-0209/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0209-AM-051-051_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0209-AM-001-050",
+     "title": "Enmiendas al Pleno 1-50 (informe A10-0209/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0209-AM-001-050_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 50
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "AGRI-AM-785380",
+   "title": "Enmiendas en comisión AGRI (785380)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-785380_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-03-26"
+  },
+  {
+   "id": "A-10-2026-0209",
+   "title": "Informe A10-0209/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0209_EN.html",
+   "kind": "report",
+   "date": "2026-07-29"
+  },
+  {
+   "id": "AGRI-AG-797562",
+   "title": "AGRI-AG-797562",
+   "url": "",
+   "kind": "other",
+   "date": "2026-11-04"
+  },
+  {
+   "id": "A-10-2026-0209-AM-052-052",
+   "title": "Enmiendas al Pleno 52-52 (informe A10-0209/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0209-AM-052-052_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0209-AM-053-055",
+   "title": "Enmiendas al Pleno 53-55 (informe A10-0209/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0209-AM-053-055_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 3,
+   "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0209-AM-051-051",
+   "title": "Enmiendas al Pleno 51-51 (informe A10-0209/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0209-AM-051-051_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0209-AM-001-050",
+   "title": "Enmiendas al Pleno 1-50 (informe A10-0209/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0209-AM-001-050_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 50,
+   "date": "2026-11-20"
+  }
+ ],
+ "amendments": {
+  "plenary": 55,
+  "committee_documents": 1
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-24-OJ-ITM-V-75",
+   "date": "2026-11-24",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-75)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-24_EN.html",
+   "refs": [
+    "2025/0417(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0417(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_417",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_417?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0417?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-24-OJ-ITM-V-75",
+   "date": "2026-11-24",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-75)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-24_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-24-OJ-ITM-V-75",
+   "date": "2026-11-24",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-75)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-24_EN.html",
+   "source": "ep"
+  }
+ ],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

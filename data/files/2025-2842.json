@@ -1,0 +1,74 @@
+{
+ "ref": "2025/2842(DEA)",
+ "id": "2025-2842",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2019/1241 del Parlamento Europeo y del Consejo en lo relativo a la excepción a la talla mínima de referencia a efectos de conservación de las chirlas (Venus spp.) en determinadas aguas territoriales italianas",
+ "title_en": "Commission Delegated Regulation amending Regulation (EU) 2019/1241 of the European Parliament and of the Council as regards the derogation from the minimum conservation reference size of Venus shells (Venus spp.) in certain Italian territorial waters",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [
+  {
+   "id": "28400",
+   "name": "Francisco José MILLÁN MON",
+   "group": "PPE",
+   "country": "ES",
+   "role": "rapporteur",
+   "committee": "PECH",
+   "since": "2025-10-03"
+  },
+  {
+   "id": "96936",
+   "name": "Gabriel MATO",
+   "group": "PPE",
+   "country": "ES",
+   "role": "rapporteur",
+   "committee": "PECH",
+   "since": "2025-10-03"
+  },
+  {
+   "id": "257034",
+   "name": "Carmen CRESPO DÍAZ",
+   "group": "PPE",
+   "country": "ES",
+   "role": "rapporteur",
+   "committee": "PECH",
+   "since": "2025-10-03"
+  }
+ ],
+ "started": "2025-09-10",
+ "last_activity": "2025-09-10",
+ "events": [
+  {
+   "date": "2025-09-10",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2842(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2842",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2842?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2842?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

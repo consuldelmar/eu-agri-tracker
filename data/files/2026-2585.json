@@ -1,0 +1,50 @@
+{
+ "ref": "2026/2585(DEA)",
+ "id": "2026-2585",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo en lo que respecta a los procedimientos y los plazos de presentación por los Estados miembros de solicitudes de modificación estratégica y de notificaciones de otras modificaciones de los planes estratégicos de la PAC",
+ "title_en": "Commission Delegated Regulation supplementing Regulation (EU) 2021/2115 of the European Parliament and of the Council with regard to procedures and time limits for the submission by Member States of requests for strategic amendments and for notifications of other amendments of CAP Strategic Plans",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  }
+ ],
+ "people": [],
+ "started": "2026-02-11",
+ "last_activity": "2026-02-11",
+ "events": [
+  {
+   "date": "2026-02-11",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2585(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2585",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2585?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2585?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

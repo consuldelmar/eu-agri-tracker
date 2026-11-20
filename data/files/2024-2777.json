@@ -1,0 +1,46 @@
+{
+ "ref": "2024/2777(DEA)",
+ "id": "2024-2777",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se establecen medidas excepcionales de carácter temporal que autorizan excepciones a determinadas disposiciones del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo relativas al régimen de autorizaciones para plantaciones de vid a fin de hacer frente a las perturbaciones del mercado vitivinícola de la Unión",
+ "title_en": "Commission Delegated Regulation on temporary exceptional measures derogating from certain provisions of Regulation (EU) No 1308/2013 of the European Parliament and of the Council concerning the scheme of authorisations for vine plantings to address the market disturbance in the Union wine market",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2024-09-18",
+ "last_activity": "2024-09-18",
+ "events": [
+  {
+   "date": "2024-09-18",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2777(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2777",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2777?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2777?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

@@ -1,0 +1,46 @@
+{
+ "ref": "2023/2944(DEA)",
+ "id": "2023-2944",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2021/1342 de la Comisión en lo referente a la información que deben enviar los terceros países y las autoridades y organismos de control a efectos de la supervisión de su reconocimiento, de conformidad con el artículo 33, apartados 2 y 3, del Reglamento (CE) n.º 834/2007 del Consejo, y a las medidas que deben adoptarse en el ejercicio de esa supervisión",
+ "title_en": "Commission Delegated Regulation amending Commission Delegated Regulation (EU) 2021/1342 as regards the information to be sent by third countries and by control authorities and control bodies for the purpose of supervision of their recognition under Article 33(2) and (3) of Council Regulation (EC) No 834/2007 and the measures to be taken in the exercise of that supervision",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2023-11-08",
+ "last_activity": "2023-11-08",
+ "events": [
+  {
+   "date": "2023-11-08",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/2944(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_2944",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_2944?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-2944?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

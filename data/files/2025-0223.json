@@ -1,0 +1,943 @@
+{
+ "ref": "2025/0223(COD)",
+ "id": "2025-0223",
+ "type": "COD",
+ "title": "Mecanismo de Protección Civil de la Unión y apoyo de la Unión a la preparación y respuesta ante emergencias sanitarias, y derogación de la Decisión n.º 1313/2013/UE (Mecanismo de Protección Civil de la Unión)",
+ "title_en": "Union Civil Protection Mechanism and Union support for health emergency preparedness and response, and repealing Decision No 1313/2013/EU (Union Civil Protection Mechanism)",
+ "stage": "Devuelto a comisión para negociaciones (trílogos)",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "joint"
+  },
+  {
+   "code": "SANT",
+   "role": "joint"
+  },
+  {
+   "code": "CONT",
+   "role": "opinion"
+  },
+  {
+   "code": "DEVE",
+   "role": "opinion"
+  },
+  {
+   "code": "REGI",
+   "role": "opinion"
+  },
+  {
+   "code": "SEDE",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "budget"
+  }
+ ],
+ "people": [
+  {
+   "id": "185341",
+   "name": "Željana ZOVKO",
+   "group": "PPE",
+   "country": "HR",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2026-02-25"
+  },
+  {
+   "id": "257066",
+   "name": "André FRANQUEIRA RODRIGUES",
+   "group": "S&D",
+   "country": "PT",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2026-02-10"
+  },
+  {
+   "id": "256998",
+   "name": "Rachel BLOM",
+   "group": "PfE",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2026-02-27"
+  },
+  {
+   "id": "256907",
+   "name": "Reinis POZŅAKS",
+   "group": "ECR",
+   "country": "LV",
+   "role": "opinion_rapporteur",
+   "committee": "SEDE",
+   "since": "2025-11-13"
+  },
+  {
+   "id": "197430",
+   "name": "Engin EROGLU",
+   "group": "Renew",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2026-03-02"
+  },
+  {
+   "id": "256916",
+   "name": "Mārtiņš STAĶIS",
+   "group": "Verts/ALE",
+   "country": "LV",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2026-02-03"
+  },
+  {
+   "id": "187917",
+   "name": "Marc BOTENGA",
+   "group": "The Left",
+   "country": "BE",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2026-03-10"
+  },
+  {
+   "id": "190713",
+   "name": "Lukas MANDL",
+   "group": "PPE",
+   "country": "AT",
+   "role": "opinion_shadow",
+   "committee": "DEVE",
+   "since": "2026-03-23"
+  },
+  {
+   "id": "256899",
+   "name": "Murielle LAURENT",
+   "group": "S&D",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "DEVE",
+   "since": "2026-02-02"
+  },
+  {
+   "id": "257054",
+   "name": "Tiago MOREIRA DE SÁ",
+   "group": "PfE",
+   "country": "PT",
+   "role": "opinion_shadow",
+   "committee": "DEVE",
+   "since": "2026-02-03"
+  },
+  {
+   "id": "257056",
+   "name": "Mariusz KAMIŃSKI",
+   "group": "ECR",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "DEVE",
+   "since": "2026-03-06"
+  },
+  {
+   "id": "204332",
+   "name": "Barry ANDREWS",
+   "group": "Renew",
+   "country": "IE",
+   "role": "opinion_rapporteur",
+   "committee": "DEVE",
+   "since": "2025-11-05"
+  },
+  {
+   "id": "24942",
+   "name": "Ana MIRANDA PAZ",
+   "group": "Verts/ALE",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "DEVE",
+   "since": "2026-03-25"
+  },
+  {
+   "id": "256942",
+   "name": "Marc JONGEN",
+   "group": "ESN",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "DEVE",
+   "since": "2026-03-23"
+  },
+  {
+   "id": "256985",
+   "name": "Michalis HADJIPANTELA",
+   "group": "PPE",
+   "country": "CY",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-01-12"
+  },
+  {
+   "id": "197810",
+   "name": "Nils UŠAKOVS",
+   "group": "S&D",
+   "country": "LV",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-04-20"
+  },
+  {
+   "id": "256896",
+   "name": "Angéline FURET",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-03-16"
+  },
+  {
+   "id": "58766",
+   "name": "Nicolae ȘTEFĂNUȚĂ",
+   "group": "Verts/ALE",
+   "country": "RO",
+   "role": "opinion_rapporteur",
+   "committee": "BUDG",
+   "since": "2026-02-24"
+  },
+  {
+   "id": "124713",
+   "name": "Tomáš ZDECHOVSKÝ",
+   "group": "PPE",
+   "country": "CZ",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-01-14"
+  },
+  {
+   "id": "124722",
+   "name": "Csaba MOLNÁR",
+   "group": "S&D",
+   "country": "HU",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-01-20"
+  },
+  {
+   "id": "96826",
+   "name": "Tamás DEUTSCH",
+   "group": "PfE",
+   "country": "HU",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-03-19"
+  },
+  {
+   "id": "257091",
+   "name": "Dick ERIXON",
+   "group": "ECR",
+   "country": "SE",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-01-26"
+  },
+  {
+   "id": "197463",
+   "name": "Olivier CHASTEL",
+   "group": "Renew",
+   "country": "BE",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-01-15"
+  },
+  {
+   "id": "103381",
+   "name": "Terry REINTKE",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-05-06"
+  },
+  {
+   "id": "2268",
+   "name": "Jonas SJÖSTEDT",
+   "group": "The Left",
+   "country": "SE",
+   "role": "opinion_rapporteur",
+   "committee": "CONT",
+   "since": "2026-01-15"
+  },
+  {
+   "id": "24922",
+   "name": "Pascal ARIMONT",
+   "group": "PPE",
+   "country": "BE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-11-13"
+  },
+  {
+   "id": "256993",
+   "name": "Leire PAJÍN",
+   "group": "S&D",
+   "country": "ES",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2025-11-24"
+  },
+  {
+   "id": "256878",
+   "name": "Marie-Luce BRASIER-CLAIN",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-11-21"
+  },
+  {
+   "id": "257113",
+   "name": "Antonella SBERNA",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-11-11"
+  },
+  {
+   "id": "256869",
+   "name": "Grégory ALLIONE",
+   "group": "Renew",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-10-29"
+  },
+  {
+   "id": "193292",
+   "name": "Tilly METZ",
+   "group": "Verts/ALE",
+   "country": "LU",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-10-31"
+  },
+  {
+   "id": "256942",
+   "name": "Marc JONGEN",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-19"
+  },
+  {
+   "id": "40599",
+   "name": "Sirpa PIETIKÄINEN",
+   "group": "PPE",
+   "country": "FI",
+   "role": "shadow",
+   "committee": "SANT",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "245018",
+   "name": "Christophe CLERGEAU",
+   "group": "S&D",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "SANT",
+   "since": "2025-10-29"
+  },
+  {
+   "id": "256921",
+   "name": "Laurent CASTILLO",
+   "group": "PfE",
+   "country": "FRA",
+   "role": "shadow",
+   "committee": "SANT",
+   "since": "2026-01-28"
+  },
+  {
+   "id": "256811",
+   "name": "Aurelijus VERYGA",
+   "group": "ECR",
+   "country": "LT",
+   "role": "rapporteur",
+   "committee": "SANT",
+   "since": "2025-11-24"
+  },
+  {
+   "id": "197463",
+   "name": "Olivier CHASTEL",
+   "group": "Renew",
+   "country": "BE",
+   "role": "shadow",
+   "committee": "SANT",
+   "since": "2025-11-10"
+  },
+  {
+   "id": "257132",
+   "name": "Ignazio Roberto MARINO",
+   "group": "Verts/ALE",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "SANT",
+   "since": "2025-10-30"
+  },
+  {
+   "id": "257063",
+   "name": "Catarina MARTINS",
+   "group": "The Left",
+   "country": "PT",
+   "role": "shadow",
+   "committee": "SANT",
+   "since": "2026-01-16"
+  },
+  {
+   "id": "197475",
+   "name": "Christine ANDERSON",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "SANT",
+   "since": "2025-11-25"
+  },
+  {
+   "id": "197863",
+   "name": "Maria WALSH",
+   "group": "PPE",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-16"
+  },
+  {
+   "id": "256829",
+   "name": "Sakis ARNAOUTOGLOU",
+   "group": "S&D",
+   "country": "GR",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "257113",
+   "name": "Antonella SBERNA",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-16"
+  },
+  {
+   "id": "256962",
+   "name": "Joachim STREIT",
+   "group": "Renew",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-22"
+  },
+  {
+   "id": "256813",
+   "name": "Vladimir PREBILIČ",
+   "group": "Verts/ALE",
+   "country": "SI",
+   "role": "opinion_rapporteur",
+   "committee": "REGI",
+   "since": "2026-01-16"
+  },
+  {
+   "id": "257135",
+   "name": "Valentina PALMISANO",
+   "group": "The Left",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-26"
+  },
+  {
+   "id": "256945",
+   "name": "Irmhild BOSSDORF",
+   "group": "ESN",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-02-06"
+  }
+ ],
+ "started": "2025-10-23",
+ "last_activity": "2026-11-12",
+ "events": [
+  {
+   "date": "2025-10-23",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-03-09",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "CJ64-PR-782236",
+     "title": "CJ64-PR-782236",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-14",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión (4 documentos)",
+   "docs": [
+    {
+     "id": "CJ64-AM-786979",
+     "title": "CJ64-AM-786979",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ64-AM-786980",
+     "title": "CJ64-AM-786980",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ64-AM-786981",
+     "title": "CJ64-AM-786981",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ64-AM-786982",
+     "title": "CJ64-AM-786982",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-05-06",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "REGI-AD-784245",
+     "title": "Opinión REGI (784245)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-AD-784245_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-02",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "CONT-AD-787628",
+     "title": "Opinión CONT (787628)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CONT-AD-787628_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-03",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "SEDE-AD-785116",
+     "title": "Opinión SEDE (785116)",
+     "url": "https://www.europarl.europa.eu/doceo/document/SEDE-AD-785116_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-23",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "BUDG-AD-785188",
+     "title": "Opinión BUDG (785188)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-785188_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-25",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "DEVE-AD-785433",
+     "title": "Opinión DEVE (785433)",
+     "url": "https://www.europarl.europa.eu/doceo/document/DEVE-AD-785433_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-10-12",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0271",
+     "title": "Informe A10-0271/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0271-AM-333-334",
+     "title": "Enmiendas al Pleno 333-334 (informe A10-0271/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271-AM-333-334_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 2
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno (6 documentos)",
+   "docs": [
+    {
+     "id": "A-10-2026-0271-AM-360-366",
+     "title": "Enmiendas al Pleno 360-366 (informe A10-0271/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271-AM-360-366_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 7
+    },
+    {
+     "id": "A-10-2026-0271-AM-339-339",
+     "title": "Enmiendas al Pleno 339-339 (informe A10-0271/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271-AM-339-339_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2026-0271-AM-353-359",
+     "title": "Enmiendas al Pleno 353-359 (informe A10-0271/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271-AM-353-359_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 7
+    },
+    {
+     "id": "A-10-2026-0271-AM-340-346",
+     "title": "Enmiendas al Pleno 340-346 (informe A10-0271/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271-AM-340-346_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 7
+    },
+    {
+     "id": "A-10-2026-0271-AM-335-338",
+     "title": "Enmiendas al Pleno 335-338 (informe A10-0271/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271-AM-335-338_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 4
+    },
+    {
+     "id": "A-10-2026-0271-AM-347-352",
+     "title": "Enmiendas al Pleno 347-352 (informe A10-0271/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271-AM-347-352_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 6
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0271",
+     "title": "Informe A10-0271/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-10-2025-0174",
+     "title": "Propuesta o documento recibido C10-0174/2025",
+     "url": "",
+     "kind": "proposal"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "type": "PLENARY_AMEND",
+   "title": "Enmiendas aprobadas en el Pleno",
+   "docs": [
+    {
+     "id": "TA-10-2026-0371",
+     "title": "Texto aprobado P10_TA(2026)0371",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0371_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "type": "PLENARY_REFER_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
+   "title": "Devuelto a comisión para negociaciones (trílogos)",
+   "docs": []
+  },
+  {
+   "date": "2026-11-12",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2026-11-12-ITM-006-05",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2026-11-12-ITM-006-05_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2026-11-12-ITM-006-05",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-12-ITM-006-05_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0271",
+     "title": "Informe A10-0271/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "CJ64-PR-782236",
+   "title": "CJ64-PR-782236",
+   "url": "",
+   "kind": "other",
+   "date": "2026-03-09"
+  },
+  {
+   "id": "CJ64-AM-786979",
+   "title": "CJ64-AM-786979",
+   "url": "",
+   "kind": "other",
+   "date": "2026-04-14"
+  },
+  {
+   "id": "CJ64-AM-786980",
+   "title": "CJ64-AM-786980",
+   "url": "",
+   "kind": "other",
+   "date": "2026-04-14"
+  },
+  {
+   "id": "CJ64-AM-786981",
+   "title": "CJ64-AM-786981",
+   "url": "",
+   "kind": "other",
+   "date": "2026-04-14"
+  },
+  {
+   "id": "CJ64-AM-786982",
+   "title": "CJ64-AM-786982",
+   "url": "",
+   "kind": "other",
+   "date": "2026-04-14"
+  },
+  {
+   "id": "REGI-AD-784245",
+   "title": "Opinión REGI (784245)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-AD-784245_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-05-06"
+  },
+  {
+   "id": "CONT-AD-787628",
+   "title": "Opinión CONT (787628)",
+   "url": "https://www.europarl.europa.eu/doceo/document/CONT-AD-787628_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-06-02"
+  },
+  {
+   "id": "SEDE-AD-785116",
+   "title": "Opinión SEDE (785116)",
+   "url": "https://www.europarl.europa.eu/doceo/document/SEDE-AD-785116_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-06-03"
+  },
+  {
+   "id": "BUDG-AD-785188",
+   "title": "Opinión BUDG (785188)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-785188_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-06-23"
+  },
+  {
+   "id": "DEVE-AD-785433",
+   "title": "Opinión DEVE (785433)",
+   "url": "https://www.europarl.europa.eu/doceo/document/DEVE-AD-785433_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-06-25"
+  },
+  {
+   "id": "A-10-2026-0271",
+   "title": "Informe A10-0271/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271_EN.html",
+   "kind": "report",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "A-10-2026-0271-AM-333-334",
+   "title": "Enmiendas al Pleno 333-334 (informe A10-0271/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271-AM-333-334_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 2,
+   "date": "2026-11-03"
+  },
+  {
+   "id": "A-10-2026-0271-AM-360-366",
+   "title": "Enmiendas al Pleno 360-366 (informe A10-0271/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271-AM-360-366_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 7,
+   "date": "2026-11-04"
+  },
+  {
+   "id": "A-10-2026-0271-AM-339-339",
+   "title": "Enmiendas al Pleno 339-339 (informe A10-0271/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271-AM-339-339_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-11-04"
+  },
+  {
+   "id": "A-10-2026-0271-AM-353-359",
+   "title": "Enmiendas al Pleno 353-359 (informe A10-0271/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271-AM-353-359_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 7,
+   "date": "2026-11-04"
+  },
+  {
+   "id": "A-10-2026-0271-AM-340-346",
+   "title": "Enmiendas al Pleno 340-346 (informe A10-0271/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271-AM-340-346_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 7,
+   "date": "2026-11-04"
+  },
+  {
+   "id": "A-10-2026-0271-AM-335-338",
+   "title": "Enmiendas al Pleno 335-338 (informe A10-0271/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271-AM-335-338_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 4,
+   "date": "2026-11-04"
+  },
+  {
+   "id": "A-10-2026-0271-AM-347-352",
+   "title": "Enmiendas al Pleno 347-352 (informe A10-0271/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0271-AM-347-352_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 6,
+   "date": "2026-11-04"
+  },
+  {
+   "id": "C-10-2025-0174",
+   "title": "Propuesta o documento recibido C10-0174/2025",
+   "url": "",
+   "kind": "proposal",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "TA-10-2026-0371",
+   "title": "Texto aprobado P10_TA(2026)0371",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0371_EN.html",
+   "kind": "adopted_text",
+   "date": "2026-11-12"
+  }
+ ],
+ "amendments": {
+  "plenary": 34,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-11-OJ-ITM-D-37",
+   "date": "2026-11-11",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-37)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-11_EN.html",
+   "refs": [
+    "2025/0223(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2026-11-12-OJ-ITM-V-37",
+   "date": "2026-11-12",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-37)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_EN.html",
+   "refs": [
+    "2025/0223(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0223(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_223",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_223?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0223?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-11-OJ-ITM-D-37",
+   "date": "2026-11-11",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-37)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-11_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2026-11-12-OJ-ITM-V-37",
+   "date": "2026-11-12",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-37)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

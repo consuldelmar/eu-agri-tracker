@@ -1,0 +1,66 @@
+{
+ "ref": "2025/2733(DEA)",
+ "id": "2025-2733",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2024/1735 del Parlamento Europeo y del Consejo en lo que respecta a la determinación de las subcategorías de las tecnologías de cero emisiones netas y la lista de componentes específicos utilizados para dichas tecnologías",
+ "title_en": "Commission Delegated Regulation amending Regulation (EU) 2024/1735 of the European Parliament and of the Council as regards the identification of sub-categories within net-zero technologies and the list of specific components used for those technologies.",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ITRE",
+   "role": "lead"
+  },
+  {
+   "code": "ECON",
+   "role": "opinion"
+  },
+  {
+   "code": "EMPL",
+   "role": "opinion"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  },
+  {
+   "code": "IMCO",
+   "role": "opinion"
+  },
+  {
+   "code": "REGI",
+   "role": "opinion"
+  }
+ ],
+ "people": [],
+ "started": "2025-06-18",
+ "last_activity": "2025-06-18",
+ "events": [
+  {
+   "date": "2025-06-18",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2733(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2733",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2733?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2733?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

@@ -1,0 +1,46 @@
+{
+ "ref": "2023/3012(DEA)",
+ "id": "2023-3012",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2019/1241 del Parlamento Europeo y del Consejo en lo que respecta a la prolongación de las medidas técnicas para determinadas pesquerías demersales y pelágicas del mar Céltico, el mar de Irlanda y el oeste de Escocia",
+ "title_en": "Commission Delegated Regulation amending Regulation (EU) 2019/1241 of the European Parliament and of the Council as regards the prolongation of technical measures for certain demersal and pelagic fisheries in the Celtic Sea, the Irish Sea and the West of Scotland",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2023-12-13",
+ "last_activity": "2023-12-13",
+ "events": [
+  {
+   "date": "2023-12-13",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/3012(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_3012",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_3012?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-3012?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

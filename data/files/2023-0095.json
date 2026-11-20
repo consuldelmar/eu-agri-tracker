@@ -1,0 +1,247 @@
+{
+ "ref": "2023/0095(COD)",
+ "id": "2023-0095",
+ "type": "COD",
+ "title": "Modificación de la Decisión n.º 1313/2013/UE relativa a un Mecanismo de Protección Civil de la Unión",
+ "title_en": "Amending Decision No 1313/2013/EU on a Union Civil Protection Mechanism",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "lead"
+  },
+  {
+   "code": "AFET",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "opinion"
+  },
+  {
+   "code": "DEVE",
+   "role": "opinion"
+  },
+  {
+   "code": "REGI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "96978",
+   "name": "Nuno MELO",
+   "group": "PPE",
+   "country": "PRT",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2023-05-15"
+  },
+  {
+   "id": "197607",
+   "name": "Pietro FIOCCHI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2023-05-05"
+  },
+  {
+   "id": "234344",
+   "name": "Max ORVILLE",
+   "group": "Renew",
+   "country": "FRA",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2023-06-13"
+  },
+  {
+   "id": "28161",
+   "name": "Margrete AUKEN",
+   "group": "Verts/ALE",
+   "country": "DNK",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2023-06-13"
+  },
+  {
+   "id": "197743",
+   "name": "Petros KOKKALIS",
+   "group": "The Left",
+   "country": "GRC",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2023-06-13"
+  },
+  {
+   "id": "197641",
+   "name": "Sara CERDAS",
+   "group": "S&D",
+   "country": "PRT",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2023-05-11"
+  }
+ ],
+ "started": "2023-04-17",
+ "last_activity": "2023-11-28",
+ "events": [
+  {
+   "date": "2023-04-17",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-06-14",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "ENVI-PR-749195",
+     "title": "Proyecto de informe ENVI (749195)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-PR-749195_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-11",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-09-14",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0266",
+     "title": "Informe A9-0266/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0266_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-17",
+   "type": "PLENARY_ADOPT_POSITION",
+   "title": "Posición del Parlamento aprobada en el Pleno",
+   "docs": [
+    {
+     "id": "TA-9-2023-0360",
+     "title": "Texto aprobado P9_TA(2023)0360",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0360_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-17",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "C-9-2023-0132",
+     "title": "Propuesta o documento recibido C9-0132/2023",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2023-0266",
+     "title": "Informe A9-0266/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0266_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "CRE-9-2023-10-17-ITM-007-02",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2023-10-17-ITM-007-02_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2023-10-17-ITM-007-02",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2023-10-17-ITM-007-02_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-17",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0266",
+     "title": "Informe A9-0266/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0266_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-22",
+   "type": "SIGNATURE",
+   "title": "Acto firmado",
+   "docs": []
+  },
+  {
+   "date": "2023-11-28",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "ENVI-PR-749195",
+   "title": "Proyecto de informe ENVI (749195)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-PR-749195_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-06-14"
+  },
+  {
+   "id": "A-9-2023-0266",
+   "title": "Informe A9-0266/2023",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0266_EN.html",
+   "kind": "report",
+   "date": "2023-09-14"
+  },
+  {
+   "id": "TA-9-2023-0360",
+   "title": "Texto aprobado P9_TA(2023)0360",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0360_EN.html",
+   "kind": "adopted_text",
+   "date": "2023-10-17"
+  },
+  {
+   "id": "C-9-2023-0132",
+   "title": "Propuesta o documento recibido C9-0132/2023",
+   "url": "",
+   "kind": "proposal",
+   "date": "2023-10-17"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0095(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_95",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_95?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-0095?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

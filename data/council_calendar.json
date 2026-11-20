@@ -1378,5 +1378,61 @@
   "description": "",
   "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/3/poss-coreper-2-permanent-representatives-committee-(368636)/",
   "refs": []
+ },
+ {
+  "id": "council-agenda-ST-15420-2026-REV-2",
+  "date": "2026-12-01",
+  "source": "council",
+  "body": "Coreper I",
+  "title": "Orden del día (ST 15420/26 REV 2)",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-15420-2026-REV-2/en/pdf",
+  "refs": [
+   "2026/0349(NLE)"
+  ]
+ },
+ {
+  "id": "council-agenda-ST-15420-2026-REV-1",
+  "date": "2026-11-11",
+  "source": "council",
+  "body": "Coreper I",
+  "title": "Orden del día (ST 15420/26 REV 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-15420-2026-REV-1/en/pdf",
+  "refs": [
+   "2026/0349(NLE)"
+  ]
+ },
+ {
+  "id": "council-agenda-CM-5020-2026-REV-1",
+  "date": "2026-11-19",
+  "source": "council",
+  "body": "Grupo de trabajo: Fisheries Policy",
+  "title": "Orden del día (CM 5020/26 REV 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-5020-2026-REV-1/en/pdf",
+  "refs": [
+   "2026/0346(COD)",
+   "2026/0349(NLE)"
+  ]
+ },
+ {
+  "id": "council-agenda-CM-4926-2026-REV-1",
+  "date": "2026-11-12",
+  "source": "council",
+  "body": "Grupo de trabajo: Fisheries Policy",
+  "title": "Orden del día (CM 4926/26 REV 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-4926-2026-REV-1/en/pdf",
+  "refs": [
+   "2026/0349(NLE)"
+  ]
+ },
+ {
+  "id": "council-agenda-ST-15697-2026-INIT",
+  "date": "2026-11-23",
+  "source": "council",
+  "body": "Consejo",
+  "title": "Orden del día (ST 15697/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-15697-2026-INIT/en/pdf",
+  "refs": [
+   "2026/0349(NLE)"
+  ]
  }
 ]

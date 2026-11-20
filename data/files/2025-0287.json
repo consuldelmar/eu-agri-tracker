@@ -1,0 +1,329 @@
+{
+ "ref": "2025/0287(NLE)",
+ "id": "2025-0287",
+ "type": "NLE",
+ "title": "Celebración, en nombre de la Unión, del Protocolo de aplicación del Acuerdo de colaboración de pesca sostenible entre la Unión Europea y el Gobierno de las Islas Cook (2025-2032)",
+ "title_en": "Conclusion, on behalf of the Union, of the Protocol on the implementation of the Sustainable Fisheries Partnership Agreement between the European Union and the Government of the Cook Islands (2025-2032)",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  },
+  {
+   "code": "DEVE",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "budget"
+  }
+ ],
+ "people": [
+  {
+   "id": "840",
+   "name": "Charles GOERENS",
+   "group": "Renew",
+   "country": "LU",
+   "role": "opinion_shadow",
+   "committee": "DEVE",
+   "since": "2026-02-16"
+  },
+  {
+   "id": "840",
+   "name": "Charles GOERENS",
+   "group": "Renew",
+   "country": "LU",
+   "role": "opinion_rapporteur",
+   "committee": "DEVE",
+   "since": "2026-02-04"
+  },
+  {
+   "id": "257068",
+   "name": "Hélder SOUSA SILVA",
+   "group": "PPE",
+   "country": "PT",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2025-12-16"
+  },
+  {
+   "id": "256896",
+   "name": "Angéline FURET",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-02-03"
+  },
+  {
+   "id": "197545",
+   "name": "Bogdan RZOŃCA",
+   "group": "ECR",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-01-20"
+  },
+  {
+   "id": "197463",
+   "name": "Olivier CHASTEL",
+   "group": "Renew",
+   "country": "BE",
+   "role": "opinion_rapporteur",
+   "committee": "BUDG",
+   "since": "2025-11-13"
+  },
+  {
+   "id": "257044",
+   "name": "Rasmus NORDQVIST",
+   "group": "Verts/ALE",
+   "country": "DK",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-01-12"
+  },
+  {
+   "id": "257048",
+   "name": "Paulo DO NASCIMENTO CABRAL",
+   "group": "PPE",
+   "country": "PT",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-01-12"
+  },
+  {
+   "id": "256905",
+   "name": "Eric SARGIACOMO",
+   "group": "S&D",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-01-06"
+  },
+  {
+   "id": "197824",
+   "name": "Giuseppe MILAZZO",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-01-14"
+  },
+  {
+   "id": "256987",
+   "name": "Oihane AGIRREGOITIA MARTÍNEZ",
+   "group": "Renew",
+   "country": "ES",
+   "role": "rapporteur",
+   "committee": "PECH",
+   "since": "2025-10-24"
+  },
+  {
+   "id": "256915",
+   "name": "Mélissa CAMARA",
+   "group": "Verts/ALE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2025-12-05"
+  }
+ ],
+ "started": "2026-01-27",
+ "last_activity": "2026-08-05",
+ "events": [
+  {
+   "date": "2026-01-27",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-02-05",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "BUDG-AD-781450",
+     "title": "Opinión BUDG (781450)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-781450_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-02-23",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "PECH-PR-779323",
+     "title": "Proyecto de informe PECH (779323)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-779323_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-17",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "DEVE-AD-781337",
+     "title": "Opinión DEVE (781337)",
+     "url": "https://www.europarl.europa.eu/doceo/document/DEVE-AD-781337_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-15",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-04-16",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0092",
+     "title": "Informe A10-0092/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0092_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-05-20",
+   "type": "PLENARY_DECISION",
+   "title": "Plenary decision",
+   "docs": [
+    {
+     "id": "TA-10-2026-0179",
+     "title": "Texto aprobado P10_TA(2026)0179",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0179_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2026-05-20",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2026-05-20-ITM-009-07",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2026-05-20-ITM-009-07_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2026-05-20-ITM-009-07",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-05-20-ITM-009-07_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-05-20",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0092",
+     "title": "Informe A10-0092/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0092_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-05",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "BUDG-AD-781450",
+   "title": "Opinión BUDG (781450)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-781450_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-02-05"
+  },
+  {
+   "id": "PECH-PR-779323",
+   "title": "Proyecto de informe PECH (779323)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-779323_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-02-23"
+  },
+  {
+   "id": "DEVE-AD-781337",
+   "title": "Opinión DEVE (781337)",
+   "url": "https://www.europarl.europa.eu/doceo/document/DEVE-AD-781337_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-03-17"
+  },
+  {
+   "id": "A-10-2026-0092",
+   "title": "Informe A10-0092/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0092_EN.html",
+   "kind": "report",
+   "date": "2026-05-20"
+  },
+  {
+   "id": "TA-10-2026-0179",
+   "title": "Texto aprobado P10_TA(2026)0179",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0179_EN.html",
+   "kind": "adopted_text",
+   "date": "2026-05-20"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-05-20-OJ-ITM-V-31",
+   "date": "2026-05-20",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-31)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-05-20_EN.html",
+   "refs": [
+    "2025/0287(NLE)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0287(NLE)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_287",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_287?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0287?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-05-20-OJ-ITM-V-31",
+   "date": "2026-05-20",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-31)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-05-20_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

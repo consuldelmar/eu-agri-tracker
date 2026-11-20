@@ -1,0 +1,46 @@
+{
+ "ref": "2023/3011(DEA)",
+ "id": "2023-3011",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2019/1241 del Parlamento Europeo y del Consejo en lo relativo a la prórroga de las medidas técnicas específicas para el besugo (Pagellus bogaraveo) en las subzonas 6 a 8 del CIEM",
+ "title_en": "Commission Delegated Regulation amending Regulation (EU) 2019/1241 of the European Parliament and of the Council as regards the prolongation of specific technical measures for red seabream (Pagellus bogaraveo) in ICES subareas 6 to 8",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2023-12-13",
+ "last_activity": "2023-12-13",
+ "events": [
+  {
+   "date": "2023-12-13",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/3011(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_3011",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_3011?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-3011?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

@@ -1,0 +1,46 @@
+{
+ "ref": "2026/2843(DEA)",
+ "id": "2026-2843",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2017/117 en lo que respecta a medidas de conservación en las zonas marinas protegidas de Finngrunden, Svenska Högarna, Norra Midsjöbanken y Ottenby rev en el mar Báltico",
+ "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2017/117 on conservation measures in the marine protected areas of Finngrunden, Svenska Högarna, Norra Midsjöbanken and Ottenby rev in the Baltic Sea",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2026-09-16",
+ "last_activity": "2026-09-16",
+ "events": [
+  {
+   "date": "2026-09-16",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2843(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2843",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2843?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2843?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

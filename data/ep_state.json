@@ -1,1 +1,4994 @@
-{}
+{
+ "people": {
+  "99945": {
+   "name": "Lena DÜPONT",
+   "country": "DE"
+  },
+  "204333": {
+   "name": "Salvatore DE MEO",
+   "country": "IT"
+  },
+  "97236": {
+   "name": "Marie TOUSSAINT",
+   "country": "FR"
+  },
+  "197462": {
+   "name": "Erik MARQUARDT",
+   "country": "DE"
+  },
+  "96811": {
+   "name": "Rosa ESTARÀS FERRAGUT",
+   "country": "ES"
+  },
+  "197618": {
+   "name": "Elisabetta GUALMINI",
+   "country": "IT"
+  },
+  "256900": {
+   "name": "Fernand KARTHEISER",
+   "country": "LU"
+  },
+  "96675": {
+   "name": "Isabella LÖVIN",
+   "country": "SE"
+  },
+  "197413": {
+   "name": "Karlo RESSLER",
+   "country": "HR"
+  },
+  "202352": {
+   "name": "Antoni COMÍN I OLIVERES",
+   "country": "ES"
+  },
+  "197677": {
+   "name": "Günther SIDL",
+   "country": "AT"
+  },
+  "256920": {
+   "name": "Isabelle LE CALLENNEC",
+   "country": "FR"
+  },
+  "110673": {
+   "name": "Ana Miguel PEDRO",
+   "country": "PT"
+  },
+  "125027": {
+   "name": "Esteban GONZÁLEZ PONS",
+   "country": "ES"
+  },
+  "124828": {
+   "name": "Fulvio MARTUSCIELLO",
+   "country": "IT"
+  },
+  "197781": {
+   "name": "Malik AZMANI",
+   "country": "NL"
+  },
+  "204336": {
+   "name": "Miriam LEXMANN",
+   "country": "SK"
+  },
+  "256830": {
+   "name": "Elisabeth GROSSMANN",
+   "country": "AT"
+  },
+  "197580": {
+   "name": "Isabella TOVAGLIERI",
+   "country": "IT"
+  },
+  "256891": {
+   "name": "Benoit CASSART",
+   "country": "BE"
+  },
+  "197782": {
+   "name": "Mohammed CHAHIM",
+   "country": "NL"
+  },
+  "125001": {
+   "name": "Harald VILIMSKY",
+   "country": "AT"
+  },
+  "197444": {
+   "name": "Svenja HAHN",
+   "country": "DE"
+  },
+  "97968": {
+   "name": "Andrey KOVATCHEV",
+   "country": "BG"
+  },
+  "187917": {
+   "name": "Marc BOTENGA",
+   "country": "BE"
+  },
+  "256803": {
+   "name": "Maria GUZENINA",
+   "country": "FI"
+  },
+  "256899": {
+   "name": "Murielle LAURENT",
+   "country": "FR"
+  },
+  "124861": {
+   "name": "Caterina CHINNICI",
+   "country": "IT"
+  },
+  "197491": {
+   "name": "Marina KALJURAND",
+   "country": "EE"
+  },
+  "28419": {
+   "name": "Nicola ZINGARETTI",
+   "country": "IT"
+  },
+  "197392": {
+   "name": "Evin INCIR",
+   "country": "SE"
+  },
+  "1917": {
+   "name": "Markus FERBER",
+   "country": "DE"
+  },
+  "96833": {
+   "name": "Jens GEIER",
+   "country": "DE"
+  },
+  "256907": {
+   "name": "Reinis POZŅAKS",
+   "country": "LV"
+  },
+  "28617": {
+   "name": "Inese VAIDERE",
+   "country": "LV"
+  },
+  "28298": {
+   "name": "Iratxe GARCÍA PÉREZ",
+   "country": "ES"
+  },
+  "220897": {
+   "name": "Petra STEGER",
+   "country": "AT"
+  },
+  "125012": {
+   "name": "Daniel BUDA",
+   "country": "RO"
+  },
+  "197494": {
+   "name": "Nathalie LOISEAU",
+   "country": "FR"
+  },
+  "99878": {
+   "name": "Waldemar BUDA",
+   "country": "PL"
+  },
+  "190464": {
+   "name": "Thomas WAITZ",
+   "country": "AT"
+  },
+  "197621": {
+   "name": "Juan Ignacio ZOIDO ÁLVAREZ",
+   "country": "ES"
+  },
+  "197653": {
+   "name": "Claudiu MANDA",
+   "country": "RO"
+  },
+  "86793": {
+   "name": "Anna CAVAZZINI",
+   "country": "DE"
+  },
+  "197652": {
+   "name": "Angelika WINZIG",
+   "country": "AT"
+  },
+  "220908": {
+   "name": "Branko GRIMS",
+   "country": "SI"
+  },
+  "197557": {
+   "name": "Christophe GRUDLER",
+   "country": "FR"
+  },
+  "256824": {
+   "name": "Yannis MANIATIS",
+   "country": "GR"
+  },
+  "98341": {
+   "name": "Eva MAYDELL",
+   "country": "BG"
+  },
+  "197784": {
+   "name": "Susana SOLÍS PÉREZ",
+   "country": "ES"
+  },
+  "197841": {
+   "name": "Liudas MAŽYLIS",
+   "country": "LT"
+  },
+  "256879": {
+   "name": "Yvan VEROUGSTRAETE",
+   "country": "BE"
+  },
+  "197501": {
+   "name": "Joachim Stanisław BRUDZIŃSKI",
+   "country": "PL"
+  },
+  "256906": {
+   "name": "Claire FITA",
+   "country": "FR"
+  },
+  "4395": {
+   "name": "Mario MANTOVANI",
+   "country": "IT"
+  },
+  "251874": {
+   "name": "Niels GEUKING",
+   "country": "DE"
+  },
+  "37324": {
+   "name": "Adina VĂLEAN",
+   "country": "RO"
+  },
+  "256893": {
+   "name": "Pierre PIMPIE",
+   "country": "FR"
+  },
+  "197694": {
+   "name": "Raphaël GLUCKSMANN",
+   "country": "FR"
+  },
+  "197679": {
+   "name": "Isabel BENJUMEA BENJUMEA",
+   "country": "ES"
+  },
+  "256875": {
+   "name": "Matthieu VALET",
+   "country": "FR"
+  },
+  "4267": {
+   "name": "Udo BULLMANN",
+   "country": "DE"
+  },
+  "124846": {
+   "name": "Pina PICIERNO",
+   "country": "IT"
+  },
+  "197794": {
+   "name": "Chiara GEMMA",
+   "country": "IT"
+  },
+  "256912": {
+   "name": "Rima HASSAN",
+   "country": "FR"
+  },
+  "4289": {
+   "name": "Angelika NIEBLER",
+   "country": "DE"
+  },
+  "124736": {
+   "name": "Merja KYLLÖNEN",
+   "country": "FI"
+  },
+  "256943": {
+   "name": "Eleonora MELETI",
+   "country": "GR"
+  },
+  "197493": {
+   "name": "Jaak MADISON",
+   "country": "EE"
+  },
+  "197636": {
+   "name": "Ioan-Rareş BOGDAN",
+   "country": "RO"
+  },
+  "197702": {
+   "name": "Lina GÁLVEZ",
+   "country": "ES"
+  },
+  "197718": {
+   "name": "Nicolás GONZÁLEZ CASARES",
+   "country": "ES"
+  },
+  "24942": {
+   "name": "Ana MIRANDA PAZ",
+   "country": "ES"
+  },
+  "256834": {
+   "name": "Elisabeth DIERINGER",
+   "country": "AT"
+  },
+  "23788": {
+   "name": "Adam BIELAN",
+   "country": "PL"
+  },
+  "197581": {
+   "name": "Stéphanie YON-COURTIN",
+   "country": "FR"
+  },
+  "197503": {
+   "name": "David CORMAND",
+   "country": "FR"
+  },
+  "197516": {
+   "name": "Patryk JAKI",
+   "country": "PL"
+  },
+  "245770": {
+   "name": "Irene MONTERO",
+   "country": "ES"
+  },
+  "220840": {
+   "name": "Jaroslav BŽOCH",
+   "country": "CZ"
+  },
+  "256928": {
+   "name": "Petr BYSTRON",
+   "country": "DE"
+  },
+  "197401": {
+   "name": "Karin KARLSBRO",
+   "country": "SE"
+  },
+  "256881": {
+   "name": "Barbara BONTE",
+   "country": "BE"
+  },
+  "96830": {
+   "name": "Enikő GYŐRI",
+   "country": "HU"
+  },
+  "22418": {
+   "name": "Esther HERRANZ GARCÍA",
+   "country": "ES"
+  },
+  "97399": {
+   "name": "Dirk GOTINK",
+   "country": "NL"
+  },
+  "256910": {
+   "name": "Anthony SMITH",
+   "country": "FR"
+  },
+  "125204": {
+   "name": "Borja GIMÉNEZ LARRAZ",
+   "country": "ES"
+  },
+  "256851": {
+   "name": "Ondřej DOSTÁL",
+   "country": "CZ"
+  },
+  "33998": {
+   "name": "Vasile DÎNCU",
+   "country": "RO"
+  },
+  "256829": {
+   "name": "Sakis ARNAOUTOGLOU",
+   "country": "GR"
+  },
+  "256809": {
+   "name": "Paulius SAUDARGAS",
+   "country": "LT"
+  },
+  "256852": {
+   "name": "Nikola BARTŮŠEK",
+   "country": "CZ"
+  },
+  "197414": {
+   "name": "Loucas FOURLAS",
+   "country": "CY"
+  },
+  "28399": {
+   "name": "Antonio LÓPEZ-ISTÚRIZ WHITE",
+   "country": "ES"
+  },
+  "256815": {
+   "name": "Marjan ŠAREC",
+   "country": "SI"
+  },
+  "96780": {
+   "name": "Monika HOHLMEIER",
+   "country": "DE"
+  },
+  "236050": {
+   "name": "Marie DAUCHY",
+   "country": "FR"
+  },
+  "197687": {
+   "name": "Philippe OLIVIER",
+   "country": "FR"
+  },
+  "197863": {
+   "name": "Maria WALSH",
+   "country": "IE"
+  },
+  "130100": {
+   "name": "Hilde VAUTMANS",
+   "country": "BE"
+  },
+  "103381": {
+   "name": "Terry REINTKE",
+   "country": "DE"
+  },
+  "197589": {
+   "name": "Laurence FARRENG",
+   "country": "FR"
+  },
+  "197408": {
+   "name": "Hildegard BENTELE",
+   "country": "DE"
+  },
+  "239260": {
+   "name": "Denis NESCI",
+   "country": "IT"
+  },
+  "197432": {
+   "name": "Jan-Christoph OETJEN",
+   "country": "DE"
+  },
+  "197825": {
+   "name": "Raffaele STANCANELLI",
+   "country": "IT"
+  },
+  "124834": {
+   "name": "Martin SONNEBORN",
+   "country": "DE"
+  },
+  "124893": {
+   "name": "Bogdan Andrzej ZDROJEWSKI",
+   "country": "PL"
+  },
+  "130881": {
+   "name": "Mieke ANDRIESE",
+   "country": "NL"
+  },
+  "197574": {
+   "name": "Damien CARÊME",
+   "country": "FR"
+  },
+  "256811": {
+   "name": "Aurelijus VERYGA",
+   "country": "LT"
+  },
+  "96761": {
+   "name": "Axel VOSS",
+   "country": "DE"
+  },
+  "197780": {
+   "name": "Bart GROOTHUIS",
+   "country": "NL"
+  },
+  "197824": {
+   "name": "Giuseppe MILAZZO",
+   "country": "IT"
+  },
+  "124850": {
+   "name": "Emil RADEV",
+   "country": "BG"
+  },
+  "197417": {
+   "name": "Tomislav SOKOL",
+   "country": "HR"
+  },
+  "256885": {
+   "name": "Bruno TOBBACK",
+   "country": "BE"
+  },
+  "96756": {
+   "name": "Sabine VERHEYEN",
+   "country": "DE"
+  },
+  "124722": {
+   "name": "Csaba MOLNÁR",
+   "country": "HU"
+  },
+  "5565": {
+   "name": "Brice HORTEFEUX",
+   "country": "FR"
+  },
+  "197400": {
+   "name": "Abir AL-SAHLANI",
+   "country": "SE"
+  },
+  "125052": {
+   "name": "Juan Carlos GIRAUTA VIDAL",
+   "country": "ES"
+  },
+  "237465": {
+   "name": "Matthias ECKE",
+   "country": "DE"
+  },
+  "220871": {
+   "name": "Rihards KOLS",
+   "country": "LV"
+  },
+  "197533": {
+   "name": "Manon AUBRY",
+   "country": "FR"
+  },
+  "91636": {
+   "name": "Marit MAIJ",
+   "country": "NL"
+  },
+  "197552": {
+   "name": "Veronika VRECIONOVÁ",
+   "country": "CZ"
+  },
+  "24922": {
+   "name": "Pascal ARIMONT",
+   "country": "BE"
+  },
+  "256833": {
+   "name": "Lena SCHILLING",
+   "country": "AT"
+  },
+  "197475": {
+   "name": "Christine ANDERSON",
+   "country": "DE"
+  },
+  "96812": {
+   "name": "Juan Fernando LÓPEZ AGUILAR",
+   "country": "ES"
+  },
+  "197470": {
+   "name": "Saskia BRICMONT",
+   "country": "BE"
+  },
+  "256917": {
+   "name": "Majdouline SBAI",
+   "country": "FR"
+  },
+  "22858": {
+   "name": "Fabienne KELLER",
+   "country": "FR"
+  },
+  "198176": {
+   "name": "Roman HAIDER",
+   "country": "AT"
+  },
+  "256820": {
+   "name": "Georgios AFTIAS",
+   "country": "GR"
+  },
+  "28150": {
+   "name": "Kinga GÁL",
+   "country": "HU"
+  },
+  "197662": {
+   "name": "Vangelis MEIMARAKIS",
+   "country": "GR"
+  },
+  "256884": {
+   "name": "Kris VAN DIJCK",
+   "country": "BE"
+  },
+  "256908": {
+   "name": "François KALFON",
+   "country": "FR"
+  },
+  "28390": {
+   "name": "Pilar DEL CASTILLO VERA",
+   "country": "ES"
+  },
+  "249982": {
+   "name": "Milan MAZUREK",
+   "country": "SK"
+  },
+  "190713": {
+   "name": "Lukas MANDL",
+   "country": "AT"
+  },
+  "197449": {
+   "name": "Michael BLOSS",
+   "country": "DE"
+  },
+  "197528": {
+   "name": "Ondřej KNOTEK",
+   "country": "CZ"
+  },
+  "197403": {
+   "name": "Alex AGIUS SALIBA",
+   "country": "MT"
+  },
+  "197845": {
+   "name": "Tsvetelina PENKOVA",
+   "country": "BG"
+  },
+  "197537": {
+   "name": "Alexandr VONDRA",
+   "country": "CZ"
+  },
+  "197655": {
+   "name": "Cristian TERHEŞ",
+   "country": "RO"
+  },
+  "124858": {
+   "name": "Fabio DE MASI",
+   "country": "DE"
+  },
+  "200345": {
+   "name": "Pierre-Romain THIONNET",
+   "country": "FR"
+  },
+  "125046": {
+   "name": "Jonás FERNÁNDEZ",
+   "country": "ES"
+  },
+  "197445": {
+   "name": "Moritz KÖRNER",
+   "country": "DE"
+  },
+  "96681": {
+   "name": "Vilija BLINKEVIČIŪTĖ",
+   "country": "LT"
+  },
+  "1909": {
+   "name": "Bernd LANGE",
+   "country": "DE"
+  },
+  "197466": {
+   "name": "Jutta PAULUS",
+   "country": "DE"
+  },
+  "96791": {
+   "name": "Elżbieta Katarzyna ŁUKACIJEWSKA",
+   "country": "PL"
+  },
+  "256913": {
+   "name": "Emma FOURREAU",
+   "country": "FR"
+  },
+  "96709": {
+   "name": "Morten LØKKEGAARD",
+   "country": "DK"
+  },
+  "256808": {
+   "name": "Petras GRAŽULIS",
+   "country": "LT"
+  },
+  "197840": {
+   "name": "Rasa JUKNEVIČIENĖ",
+   "country": "LT"
+  },
+  "256844": {
+   "name": "Jaroslava POKORNÁ JERMANOVÁ",
+   "country": "CZ"
+  },
+  "124806": {
+   "name": "David MCALLISTER",
+   "country": "DE"
+  },
+  "197425": {
+   "name": "Ralf SEEKATZ",
+   "country": "DE"
+  },
+  "197699": {
+   "name": "Elena KOUNTOURA",
+   "country": "GR"
+  },
+  "256946": {
+   "name": "Christine SINGER",
+   "country": "DE"
+  },
+  "256951": {
+   "name": "Anja ARNDT",
+   "country": "DE"
+  },
+  "204346": {
+   "name": "Dominik TARCZYŃSKI",
+   "country": "PL"
+  },
+  "256860": {
+   "name": "András LÁSZLÓ",
+   "country": "HU"
+  },
+  "256888": {
+   "name": "Rody TOLASSY",
+   "country": "FR"
+  },
+  "256919": {
+   "name": "Christophe GOMART",
+   "country": "FR"
+  },
+  "256944": {
+   "name": "Hans NEUHOFF",
+   "country": "DE"
+  },
+  "124877": {
+   "name": "Jadwiga WIŚNIEWSKA",
+   "country": "PL"
+  },
+  "197435": {
+   "name": "Gabriele BISCHOFF",
+   "country": "DE"
+  },
+  "197398": {
+   "name": "Pär HOLMGREN",
+   "country": "SE"
+  },
+  "197670": {
+   "name": "Andreas SCHIEDER",
+   "country": "AT"
+  },
+  "96711": {
+   "name": "Pascal CANFIN",
+   "country": "FR"
+  },
+  "193292": {
+   "name": "Tilly METZ",
+   "country": "LU"
+  },
+  "198471": {
+   "name": "Robert GABEL",
+   "country": "DE"
+  },
+  "256942": {
+   "name": "Marc JONGEN",
+   "country": "DE"
+  },
+  "125325": {
+   "name": "Sander SMIT",
+   "country": "NL"
+  },
+  "256823": {
+   "name": "Nikolas FARANTOURIS",
+   "country": "GR"
+  },
+  "197433": {
+   "name": "Katarina BARLEY",
+   "country": "DE"
+  },
+  "197648": {
+   "name": "Alexander BERNHUBER",
+   "country": "AT"
+  },
+  "256805": {
+   "name": "Li ANDERSSON",
+   "country": "FI"
+  },
+  "197646": {
+   "name": "Mircea-Gheorghe HAVA",
+   "country": "RO"
+  },
+  "204332": {
+   "name": "Barry ANDREWS",
+   "country": "IE"
+  },
+  "218347": {
+   "name": "Thijs REUTEN",
+   "country": "NL"
+  },
+  "256878": {
+   "name": "Marie-Luce BRASIER-CLAIN",
+   "country": "FR"
+  },
+  "244571": {
+   "name": "Nikos PAPANDREOU",
+   "country": "GR"
+  },
+  "256806": {
+   "name": "Sebastian TYNKKYNEN",
+   "country": "FI"
+  },
+  "197391": {
+   "name": "Heléne FRITZON",
+   "country": "SE"
+  },
+  "197738": {
+   "name": "Lídia PEREIRA",
+   "country": "PT"
+  },
+  "30123": {
+   "name": "Guillaume PELTIER",
+   "country": "FR"
+  },
+  "96940": {
+   "name": "Gerben-Jan GERBRANDY",
+   "country": "NL"
+  },
+  "197556": {
+   "name": "Ivan DAVID",
+   "country": "CZ"
+  },
+  "119435": {
+   "name": "Davor Ivo STIER",
+   "country": "HR"
+  },
+  "197682": {
+   "name": "Hannes HEIDE",
+   "country": "AT"
+  },
+  "236053": {
+   "name": "Marina MESURE",
+   "country": "FR"
+  },
+  "197690": {
+   "name": "André ROUGÉ",
+   "country": "FR"
+  },
+  "183916": {
+   "name": "Alexandra GEESE",
+   "country": "DE"
+  },
+  "220801": {
+   "name": "Sophie WILMÈS",
+   "country": "BE"
+  },
+  "96653": {
+   "name": "Katarína ROTH NEVEĎALOVÁ",
+   "country": "SK"
+  },
+  "256938": {
+   "name": "Tobias CREMER",
+   "country": "DE"
+  },
+  "197628": {
+   "name": "Jean-Paul GARRAUD",
+   "country": "FR"
+  },
+  "256814": {
+   "name": "Zala ČERNILEC TOMAŠIČ",
+   "country": "SI"
+  },
+  "256841": {
+   "name": "Helmut BRANDSTÄTTER",
+   "country": "AT"
+  },
+  "256935": {
+   "name": "Sabrina REPP",
+   "country": "DE"
+  },
+  "197447": {
+   "name": "Irena JOVEVA",
+   "country": "SI"
+  },
+  "188945": {
+   "name": "Dennis RADTKE",
+   "country": "DE"
+  },
+  "198373": {
+   "name": "Judita LAŠŠÁKOVÁ",
+   "country": "SK"
+  },
+  "197473": {
+   "name": "Christian DOLESCHAL",
+   "country": "DE"
+  },
+  "256858": {
+   "name": "Nikolaos ANADIOTIS",
+   "country": "GR"
+  },
+  "256902": {
+   "name": "Emma RAFOWICZ",
+   "country": "FR"
+  },
+  "1294": {
+   "name": "Elio DI RUPO",
+   "country": "BE"
+  },
+  "247735": {
+   "name": "Laura BALLARÍN CEREZA",
+   "country": "ES"
+  },
+  "40599": {
+   "name": "Sirpa PIETIKÄINEN",
+   "country": "FI"
+  },
+  "197448": {
+   "name": "Rasmus ANDRESEN",
+   "country": "DE"
+  },
+  "185619": {
+   "name": "Tiemo WÖLKEN",
+   "country": "DE"
+  },
+  "23781": {
+   "name": "Janusz LEWANDOWSKI",
+   "country": "PL"
+  },
+  "124760": {
+   "name": "Nicolas BAY",
+   "country": "FR"
+  },
+  "197492": {
+   "name": "Bartosz ARŁUKOWICZ",
+   "country": "PL"
+  },
+  "34232": {
+   "name": "Kristian VIGENIN",
+   "country": "BG"
+  },
+  "197504": {
+   "name": "Jérémy DECERLE",
+   "country": "FR"
+  },
+  "28307": {
+   "name": "Francisco ASSIS",
+   "country": "PT"
+  },
+  "124713": {
+   "name": "Tomáš ZDECHOVSKÝ",
+   "country": "CZ"
+  },
+  "28229": {
+   "name": "Manfred WEBER",
+   "country": "DE"
+  },
+  "189065": {
+   "name": "France JAMET",
+   "country": "FR"
+  },
+  "122978": {
+   "name": "Alicia HOMS GINEL",
+   "country": "ES"
+  },
+  "185771": {
+   "name": "Tom VANDENDRIESSCHE",
+   "country": "BE"
+  },
+  "256925": {
+   "name": "Laurence TROCHU",
+   "country": "FR"
+  },
+  "96668": {
+   "name": "Seán KELLY",
+   "country": "IE"
+  },
+  "112744": {
+   "name": "Tonino PICULA",
+   "country": "HR"
+  },
+  "2341": {
+   "name": "Michael GAHLER",
+   "country": "DE"
+  },
+  "197577": {
+   "name": "Gilles BOYER",
+   "country": "FR"
+  },
+  "256871": {
+   "name": "Malika SOREL",
+   "country": "FR"
+  },
+  "256922": {
+   "name": "Marion MARÉCHAL",
+   "country": "FR"
+  },
+  "72779": {
+   "name": "Nadine MORANO",
+   "country": "FR"
+  },
+  "197829": {
+   "name": "Jorge BUXADÉ VILLALBA",
+   "country": "ES"
+  },
+  "197553": {
+   "name": "Beata SZYDŁO",
+   "country": "PL"
+  },
+  "206158": {
+   "name": "Manuela RIPA",
+   "country": "DE"
+  },
+  "96826": {
+   "name": "Tamás DEUTSCH",
+   "country": "HU"
+  },
+  "256886": {
+   "name": "Valérie DELOGE",
+   "country": "FR"
+  },
+  "124813": {
+   "name": "Dario TAMBURRANO",
+   "country": "IT"
+  },
+  "197439": {
+   "name": "Damian BOESELAGER",
+   "country": "DE"
+  },
+  "202073": {
+   "name": "Marc ANGEL",
+   "country": "LU"
+  },
+  "4746": {
+   "name": "Sergio BERLATO",
+   "country": "IT"
+  },
+  "2268": {
+   "name": "Jonas SJÖSTEDT",
+   "country": "SE"
+  },
+  "256874": {
+   "name": "Mélanie DISDIER",
+   "country": "FR"
+  },
+  "197820": {
+   "name": "Nicola PROCACCINI",
+   "country": "IT"
+  },
+  "197870": {
+   "name": "Kim VAN SPARRENTAK",
+   "country": "NL"
+  },
+  "197772": {
+   "name": "Tineke STRIK",
+   "country": "NL"
+  },
+  "197773": {
+   "name": "Bert-Jan RUISSEN",
+   "country": "NL"
+  },
+  "256947": {
+   "name": "Fredis BELERIS",
+   "country": "GR"
+  },
+  "88552": {
+   "name": "Julien SANCHEZ",
+   "country": "FR"
+  },
+  "125065": {
+   "name": "Elissavet VOZEMBERG-VRIONIDI",
+   "country": "GR"
+  },
+  "112747": {
+   "name": "Romana JERKOVIĆ",
+   "country": "HR"
+  },
+  "197719": {
+   "name": "Cristina MAESTRE",
+   "country": "ES"
+  },
+  "256909": {
+   "name": "Vilis KRIŠTOPANS",
+   "country": "LV"
+  },
+  "197426": {
+   "name": "Sven SIMON",
+   "country": "DE"
+  },
+  "256864": {
+   "name": "András Tivadar KULJA",
+   "country": "HU"
+  },
+  "233862": {
+   "name": "Matjaž NEMEC",
+   "country": "SI"
+  },
+  "28122": {
+   "name": "David CASA",
+   "country": "MT"
+  },
+  "124785": {
+   "name": "Maria GRAPINI",
+   "country": "RO"
+  },
+  "201945": {
+   "name": "Virginijus SINKEVIČIUS",
+   "country": "LT"
+  },
+  "197734": {
+   "name": "Lefteris NIKOLAOU-ALAVANOS",
+   "country": "GR"
+  },
+  "124866": {
+   "name": "Ilhan KYUCHYUK",
+   "country": "BG"
+  },
+  "256842": {
+   "name": "Gerald HAUSER",
+   "country": "AT"
+  },
+  "106936": {
+   "name": "Daniel FREUND",
+   "country": "DE"
+  },
+  "219652": {
+   "name": "Matej TONIN",
+   "country": "SI"
+  },
+  "197606": {
+   "name": "Javier ZARZALEJOS",
+   "country": "ES"
+  },
+  "123562": {
+   "name": "Charlie WEIMERS",
+   "country": "SE"
+  },
+  "197711": {
+   "name": "Dolors MONTSERRAT",
+   "country": "ES"
+  },
+  "256845": {
+   "name": "Ondřej KRUTÍLEK",
+   "country": "CZ"
+  },
+  "256898": {
+   "name": "Pierre JOUVET",
+   "country": "FR"
+  },
+  "124973": {
+   "name": "Gerolf ANNEMANS",
+   "country": "BE"
+  },
+  "256918": {
+   "name": "Céline IMART",
+   "country": "FR"
+  },
+  "197464": {
+   "name": "Hannah NEUMANN",
+   "country": "DE"
+  },
+  "58766": {
+   "name": "Nicolae ȘTEFĂNUȚĂ",
+   "country": "RO"
+  },
+  "197543": {
+   "name": "Bernard GUETTA",
+   "country": "FR"
+  },
+  "256889": {
+   "name": "Liesbet SOMMEN",
+   "country": "BE"
+  },
+  "197818": {
+   "name": "Billy KELLEHER",
+   "country": "IE"
+  },
+  "190574": {
+   "name": "Tomasz FROELICH",
+   "country": "DE"
+  },
+  "256880": {
+   "name": "Estelle CEULEMANS",
+   "country": "BE"
+  },
+  "256896": {
+   "name": "Angéline FURET",
+   "country": "FR"
+  },
+  "197697": {
+   "name": "Aurore LALUCQ",
+   "country": "FR"
+  },
+  "256934": {
+   "name": "Daniel ATTARD",
+   "country": "MT"
+  },
+  "197786": {
+   "name": "Susanna CECCARDI",
+   "country": "IT"
+  },
+  "197647": {
+   "name": "Dan-Ştefan MOTREANU",
+   "country": "RO"
+  },
+  "129073": {
+   "name": "Urmas PAET",
+   "country": "EE"
+  },
+  "103246": {
+   "name": "Auke ZIJLSTRA",
+   "country": "NL"
+  },
+  "96932": {
+   "name": "Birgit SIPPEL",
+   "country": "DE"
+  },
+  "96752": {
+   "name": "Martin HÄUSLING",
+   "country": "DE"
+  },
+  "125068": {
+   "name": "Emmanouil KEFALOGIANNIS",
+   "country": "GR"
+  },
+  "124795": {
+   "name": "Flavio TOSI",
+   "country": "IT"
+  },
+  "23699": {
+   "name": "Kateřina KONEČNÁ",
+   "country": "CZ"
+  },
+  "23816": {
+   "name": "András GYÜRK",
+   "country": "HU"
+  },
+  "37312": {
+   "name": "Christel SCHALDEMOSE",
+   "country": "DK"
+  },
+  "197461": {
+   "name": "Katrin LANGENSIEPEN",
+   "country": "DE"
+  },
+  "256929": {
+   "name": "René AUST",
+   "country": "DE"
+  },
+  "124715": {
+   "name": "György HÖLVÉNYI",
+   "country": "HU"
+  },
+  "230085": {
+   "name": "Camilla LAURETI",
+   "country": "IT"
+  },
+  "256883": {
+   "name": "Aleksandar NIKOLIC",
+   "country": "FR"
+  },
+  "197800": {
+   "name": "Eero HEINÄLUOMA",
+   "country": "FI"
+  },
+  "256807": {
+   "name": "Dainius ŽALIMAS",
+   "country": "LT"
+  },
+  "197831": {
+   "name": "Hermann TERTSCH",
+   "country": "ES"
+  },
+  "204418": {
+   "name": "Nora MEBAREK",
+   "country": "FR"
+  },
+  "197410": {
+   "name": "Stefan BERGER",
+   "country": "DE"
+  },
+  "96787": {
+   "name": "Herbert DORFMANN",
+   "country": "IT"
+  },
+  "197443": {
+   "name": "Andreas GLÜCK",
+   "country": "DE"
+  },
+  "197721": {
+   "name": "César LUENA",
+   "country": "ES"
+  },
+  "197469": {
+   "name": "Assita KANKO",
+   "country": "BE"
+  },
+  "96810": {
+   "name": "Carlo FIDANZA",
+   "country": "IT"
+  },
+  "197558": {
+   "name": "Asger CHRISTENSEN",
+   "country": "DK"
+  },
+  "197770": {
+   "name": "Martin HOJSÍK",
+   "country": "SK"
+  },
+  "125042": {
+   "name": "Javi LÓPEZ",
+   "country": "ES"
+  },
+  "197490": {
+   "name": "Magdalena ADAMOWICZ",
+   "country": "PL"
+  },
+  "124700": {
+   "name": "Jana TOOM",
+   "country": "EE"
+  },
+  "256859": {
+   "name": "Annamária VICSEK",
+   "country": "HU"
+  },
+  "94649": {
+   "name": "Catherine GRISET",
+   "country": "FR"
+  },
+  "23868": {
+   "name": "Monika BEŇOVÁ",
+   "country": "SK"
+  },
+  "96998": {
+   "name": "Evelyn REGNER",
+   "country": "AT"
+  },
+  "28226": {
+   "name": "Christian EHLER",
+   "country": "DE"
+  },
+  "28615": {
+   "name": "Roberts ZĪLE",
+   "country": "LV"
+  },
+  "197722": {
+   "name": "Nacho SÁNCHEZ AMOR",
+   "country": "ES"
+  },
+  "197412": {
+   "name": "Niclas HERBST",
+   "country": "DE"
+  },
+  "256882": {
+   "name": "Julie RECHAGNEUX",
+   "country": "FR"
+  },
+  "124984": {
+   "name": "Lynn BOYLAN",
+   "country": "IE"
+  },
+  "197421": {
+   "name": "Isabel WISELER-LIMA",
+   "country": "LU"
+  },
+  "256905": {
+   "name": "Eric SARGIACOMO",
+   "country": "FR"
+  },
+  "30482": {
+   "name": "Younous OMARJEE",
+   "country": "FR"
+  },
+  "135511": {
+   "name": "Valérie HAYER",
+   "country": "FR"
+  },
+  "256847": {
+   "name": "Danuše NERUDOVÁ",
+   "country": "CZ"
+  },
+  "98219": {
+   "name": "Aura SALLA",
+   "country": "FI"
+  },
+  "202036": {
+   "name": "Sunčana GLAVAK",
+   "country": "HR"
+  },
+  "39725": {
+   "name": "Iuliu WINKLER",
+   "country": "RO"
+  },
+  "124895": {
+   "name": "Krzysztof HETMAN",
+   "country": "PL"
+  },
+  "256831": {
+   "name": "Sophia KIRCHER",
+   "country": "AT"
+  },
+  "197549": {
+   "name": "Markéta GREGOROVÁ",
+   "country": "CZ"
+  },
+  "251324": {
+   "name": "Krzysztof BREJZA",
+   "country": "PL"
+  },
+  "107212": {
+   "name": "Andrey NOVAKOV",
+   "country": "BG"
+  },
+  "185341": {
+   "name": "Željana ZOVKO",
+   "country": "HR"
+  },
+  "197523": {
+   "name": "Łukasz KOHUT",
+   "country": "PL"
+  },
+  "197525": {
+   "name": "Ewa KOPACZ",
+   "country": "PL"
+  },
+  "197517": {
+   "name": "Adam JARUBAS",
+   "country": "PL"
+  },
+  "197795": {
+   "name": "Mario FURORE",
+   "country": "IT"
+  },
+  "198084": {
+   "name": "Katri KULMUNI",
+   "country": "FI"
+  },
+  "188096": {
+   "name": "Jüri RATAS",
+   "country": "EE"
+  },
+  "124799": {
+   "name": "Alessandra MORETTI",
+   "country": "IT"
+  },
+  "256804": {
+   "name": "Pekka TOVERI",
+   "country": "FI"
+  },
+  "28400": {
+   "name": "Francisco José MILLÁN MON",
+   "country": "ES"
+  },
+  "101585": {
+   "name": "Niels FUGLSANG",
+   "country": "DK"
+  },
+  "214839": {
+   "name": "Emma YTTERELL",
+   "country": "SE"
+  },
+  "124784": {
+   "name": "Dan NICA",
+   "country": "RO"
+  },
+  "113523": {
+   "name": "Peter AGIUS",
+   "country": "MT"
+  },
+  "5392": {
+   "name": "Lara WOLTERS",
+   "country": "NL"
+  },
+  "112748": {
+   "name": "Biljana BORZAN",
+   "country": "HR"
+  },
+  "197404": {
+   "name": "Jessica POLFJÄRD",
+   "country": "SE"
+  },
+  "256924": {
+   "name": "Sarah KNAFO",
+   "country": "FR"
+  },
+  "204400": {
+   "name": "Adrián VÁZQUEZ LÁZARA",
+   "country": "ES"
+  },
+  "197416": {
+   "name": "Giorgos GEORGIOU",
+   "country": "CY"
+  },
+  "256911": {
+   "name": "Arash SAEIDI",
+   "country": "FR"
+  },
+  "119652": {
+   "name": "Vytenis Povilas ANDRIUKAITIS",
+   "country": "LT"
+  },
+  "204129": {
+   "name": "Nikolina BRNJAC",
+   "country": "HR"
+  },
+  "124691": {
+   "name": "Costas MAVRIDES",
+   "country": "CY"
+  },
+  "124884": {
+   "name": "Kosma ZŁOTOWSKI",
+   "country": "PL"
+  },
+  "125104": {
+   "name": "Romana TOMC",
+   "country": "SI"
+  },
+  "96933": {
+   "name": "Milan ZVER",
+   "country": "SI"
+  },
+  "40224": {
+   "name": "Andi CRISTEA",
+   "country": "RO"
+  },
+  "198076": {
+   "name": "Maria OHISALO",
+   "country": "FI"
+  },
+  "197573": {
+   "name": "Kira Marie PETER-HANSEN",
+   "country": "DK"
+  },
+  "197802": {
+   "name": "Ville NIINISTÖ",
+   "country": "FI"
+  },
+  "213330": {
+   "name": "Ernő SCHALLER-BAROSS",
+   "country": "HU"
+  },
+  "197810": {
+   "name": "Nils UŠAKOVS",
+   "country": "LV"
+  },
+  "124836": {
+   "name": "Maria NOICHL",
+   "country": "DE"
+  },
+  "197545": {
+   "name": "Bogdan RZOŃCA",
+   "country": "PL"
+  },
+  "198490": {
+   "name": "Emmanouil FRAGKOS",
+   "country": "GR"
+  },
+  "204414": {
+   "name": "Margarita DE LA PISA CARRIÓN",
+   "country": "ES"
+  },
+  "256936": {
+   "name": "Thomas BAJADA",
+   "country": "MT"
+  },
+  "256950": {
+   "name": "Dimitris TSIODRAS",
+   "country": "GR"
+  },
+  "2152": {
+   "name": "Leoluca ORLANDO",
+   "country": "IT"
+  },
+  "124766": {
+   "name": "Petras AUŠTREVIČIUS",
+   "country": "LT"
+  },
+  "126699": {
+   "name": "Gilles PENNELLE",
+   "country": "FR"
+  },
+  "197463": {
+   "name": "Olivier CHASTEL",
+   "country": "BE"
+  },
+  "197769": {
+   "name": "Michal WIEZIK",
+   "country": "SK"
+  },
+  "256945": {
+   "name": "Irmhild BOSSDORF",
+   "country": "DE"
+  },
+  "197763": {
+   "name": "Milan UHRÍK",
+   "country": "SK"
+  },
+  "96808": {
+   "name": "Pablo ARIAS ECHEVERRÍA",
+   "country": "ES"
+  },
+  "124701": {
+   "name": "Luděk NIEDERMAYER",
+   "country": "CZ"
+  },
+  "208722": {
+   "name": "Sara MATTHIEU",
+   "country": "BE"
+  },
+  "96934": {
+   "name": "Sandra KALNIETE",
+   "country": "LV"
+  },
+  "28347": {
+   "name": "Javier MORENO SÁNCHEZ",
+   "country": "ES"
+  },
+  "197624": {
+   "name": "Ivars IJABS",
+   "country": "LV"
+  },
+  "256903": {
+   "name": "Thomas PELLERIN-CARLIN",
+   "country": "FR"
+  },
+  "197691": {
+   "name": "Mathilde ANDROUËT",
+   "country": "FR"
+  },
+  "256876": {
+   "name": "Anne-Sophie FRIGOUT",
+   "country": "FR"
+  },
+  "256846": {
+   "name": "Ondřej KOLÁŘ",
+   "country": "CZ"
+  },
+  "256895": {
+   "name": "Julien LEONARDELLI",
+   "country": "FR"
+  },
+  "204419": {
+   "name": "Sandro GOZI",
+   "country": "FR"
+  },
+  "840": {
+   "name": "Charles GOERENS",
+   "country": "LU"
+  },
+  "197395": {
+   "name": "Alice KUHNKE",
+   "country": "SE"
+  },
+  "197406": {
+   "name": "Arba KOKALARI",
+   "country": "SE"
+  },
+  "197607": {
+   "name": "Pietro FIOCCHI",
+   "country": "IT"
+  },
+  "256901": {
+   "name": "Jean-Marc GERMAIN",
+   "country": "FR"
+  },
+  "249603": {
+   "name": "Martine KEMP",
+   "country": "LU"
+  },
+  "38511": {
+   "name": "Georg MAYER",
+   "country": "AT"
+  },
+  "127766": {
+   "name": "Jussi SARAMO",
+   "country": "FI"
+  },
+  "256887": {
+   "name": "Wouter BEKE",
+   "country": "BE"
+  },
+  "197832": {
+   "name": "Diana RIBA I GINER",
+   "country": "ES"
+  },
+  "101039": {
+   "name": "Paolo BORCHIA",
+   "country": "IT"
+  },
+  "5736": {
+   "name": "Alexandre VARAUT",
+   "country": "FR"
+  },
+  "131580": {
+   "name": "Jordan BARDELLA",
+   "country": "FR"
+  },
+  "256872": {
+   "name": "Fabrice LEGGERI",
+   "country": "FR"
+  },
+  "197402": {
+   "name": "Tomas TOBÉ",
+   "country": "SE"
+  },
+  "88882": {
+   "name": "Victor NEGRESCU",
+   "country": "RO"
+  },
+  "96936": {
+   "name": "Gabriel MATO",
+   "country": "ES"
+  },
+  "197430": {
+   "name": "Engin EROGLU",
+   "country": "DE"
+  },
+  "210480": {
+   "name": "Marta TEMIDO",
+   "country": "PT"
+  },
+  "256853": {
+   "name": "Klara DOSTALOVA",
+   "country": "CZ"
+  },
+  "197579": {
+   "name": "Klára DOBREV",
+   "country": "HU"
+  },
+  "197701": {
+   "name": "Konstantinos ARVANITIS",
+   "country": "GR"
+  },
+  "256926": {
+   "name": "Marie-Agnes STRACK-ZIMMERMANN",
+   "country": "DE"
+  },
+  "197672": {
+   "name": "Eugen TOMAC",
+   "country": "RO"
+  },
+  "197623": {
+   "name": "Thierry MARIANI",
+   "country": "FR"
+  },
+  "124867": {
+   "name": "Brando BENIFEI",
+   "country": "IT"
+  },
+  "197500": {
+   "name": "Mounir SATOURI",
+   "country": "FR"
+  },
+  "125106": {
+   "name": "Johan VAN OVERTVELDT",
+   "country": "BE"
+  },
+  "256865": {
+   "name": "Eszter LAKOS",
+   "country": "HU"
+  },
+  "198073": {
+   "name": "Anna-Maja HENRIKSSON",
+   "country": "FI"
+  },
+  "197497": {
+   "name": "Sven MIKSER",
+   "country": "EE"
+  },
+  "204413": {
+   "name": "Marcos ROS SEMPERE",
+   "country": "ES"
+  },
+  "220896": {
+   "name": "Reinhold LOPATKA",
+   "country": "AT"
+  },
+  "256810": {
+   "name": "Mika AALTOLA",
+   "country": "FI"
+  },
+  "197839": {
+   "name": "Radan KANEV",
+   "country": "BG"
+  },
+  "197578": {
+   "name": "Silvia SARDONE",
+   "country": "IT"
+  },
+  "28223": {
+   "name": "Andreas SCHWAB",
+   "country": "DE"
+  },
+  "197460": {
+   "name": "Sergey LAGODINSKY",
+   "country": "DE"
+  },
+  "192254": {
+   "name": "Marieke EHLERS",
+   "country": "NL"
+  },
+  "197468": {
+   "name": "Özlem DEMIREL",
+   "country": "DE"
+  },
+  "256915": {
+   "name": "Mélissa CAMARA",
+   "country": "FR"
+  },
+  "197627": {
+   "name": "Virginie JORON",
+   "country": "FR"
+  },
+  "124985": {
+   "name": "Luke Ming FLANAGAN",
+   "country": "IE"
+  },
+  "256843": {
+   "name": "Jana NAGYOVÁ",
+   "country": "CZ"
+  },
+  "1927": {
+   "name": "Peter LIESE",
+   "country": "DE"
+  },
+  "256904": {
+   "name": "Chloé RIDEL",
+   "country": "FR"
+  },
+  "98582": {
+   "name": "Loránt VINCZE",
+   "country": "RO"
+  },
+  "197658": {
+   "name": "Dragoş BENEA",
+   "country": "RO"
+  },
+  "256866": {
+   "name": "Gabriella GERZSENYI",
+   "country": "HU"
+  },
+  "124807": {
+   "name": "Jens GIESEKE",
+   "country": "DE"
+  },
+  "245018": {
+   "name": "Christophe CLERGEAU",
+   "country": "FR"
+  },
+  "197572": {
+   "name": "Anna ZALEWSKA",
+   "country": "PL"
+  },
+  "204449": {
+   "name": "Riho TERRAS",
+   "country": "EE"
+  },
+  "256840": {
+   "name": "Jan FARSKÝ",
+   "country": "CZ"
+  },
+  "111412": {
+   "name": "Villy SØVNDAL",
+   "country": "DK"
+  },
+  "125670": {
+   "name": "Massimiliano SALINI",
+   "country": "IT"
+  },
+  "86057": {
+   "name": "Bartłomiej SIENKIEWICZ",
+   "country": "PL"
+  },
+  "197534": {
+   "name": "François-Xavier BELLAMY",
+   "country": "FR"
+  },
+  "190517": {
+   "name": "Martin SCHIRDEWAN",
+   "country": "DE"
+  },
+  "197514": {
+   "name": "Andrzej HALICKI",
+   "country": "PL"
+  },
+  "256862": {
+   "name": "Dóra DÁVID",
+   "country": "HU"
+  },
+  "197440": {
+   "name": "Delara BURKHARDT",
+   "country": "DE"
+  },
+  "198183": {
+   "name": "Mihai TUDOSE",
+   "country": "RO"
+  },
+  "25758": {
+   "name": "Ruth FIRMENICH",
+   "country": "DE"
+  },
+  "191693": {
+   "name": "Elsi KATAINEN",
+   "country": "FI"
+  },
+  "256813": {
+   "name": "Vladimir PREBILIČ",
+   "country": "SI"
+  },
+  "197684": {
+   "name": "Pernando BARRENA ARZA",
+   "country": "ES"
+  },
+  "5729": {
+   "name": "Kathleen VAN BREMPT",
+   "country": "BE"
+  },
+  "256890": {
+   "name": "Rudi KENNES",
+   "country": "BE"
+  },
+  "125023": {
+   "name": "Anja HAZEKAMP",
+   "country": "NL"
+  },
+  "124802": {
+   "name": "Siegfried MUREŞAN",
+   "country": "RO"
+  },
+  "199941": {
+   "name": "Marianne VIND",
+   "country": "DK"
+  },
+  "256916": {
+   "name": "Mārtiņš STAĶIS",
+   "country": "LV"
+  },
+  "197529": {
+   "name": "Leila CHAIBI",
+   "country": "FR"
+  },
+  "124808": {
+   "name": "Norbert LINS",
+   "country": "DE"
+  },
+  "197405": {
+   "name": "Jörgen WARBORN",
+   "country": "SE"
+  },
+  "256870": {
+   "name": "Valérie DEVAUX",
+   "country": "FR"
+  },
+  "256941": {
+   "name": "Alexander JUNGBLUTH",
+   "country": "DE"
+  },
+  "125093": {
+   "name": "Kostas PAPADAKIS",
+   "country": "GR"
+  },
+  "256948": {
+   "name": "Arno BAUSEMER",
+   "country": "DE"
+  },
+  "197429": {
+   "name": "Marion WALSMANN",
+   "country": "DE"
+  },
+  "96697": {
+   "name": "Waldemar TOMASZEWSKI",
+   "country": "LT"
+  },
+  "197498": {
+   "name": "Robert BIEDROŃ",
+   "country": "PL"
+  },
+  "36392": {
+   "name": "Aldo PATRICIELLO",
+   "country": "IT"
+  },
+  "197649": {
+   "name": "Gheorghe FALCĂ",
+   "country": "RO"
+  },
+  "256857": {
+   "name": "Viktória FERENC",
+   "country": "HU"
+  },
+  "256939": {
+   "name": "Thomas GEISEL",
+   "country": "DE"
+  },
+  "256869": {
+   "name": "Grégory ALLIONE",
+   "country": "FR"
+  },
+  "38542": {
+   "name": "Johan DANIELSSON",
+   "country": "SE"
+  },
+  "197842": {
+   "name": "Elena YONCHEVA",
+   "country": "BG"
+  },
+  "229839": {
+   "name": "René REPASI",
+   "country": "DE"
+  },
+  "128483": {
+   "name": "Markus BUCHHEIT",
+   "country": "DE"
+  },
+  "256839": {
+   "name": "Anna STÜRGKH",
+   "country": "AT"
+  },
+  "118859": {
+   "name": "Roberta METSOLA",
+   "country": "MT"
+  },
+  "95074": {
+   "name": "Jeroen LENAERS",
+   "country": "NL"
+  },
+  "197591": {
+   "name": "Irene TINAGLI",
+   "country": "IT"
+  },
+  "256937": {
+   "name": "Vivien COSTANZO",
+   "country": "DE"
+  },
+  "256861": {
+   "name": "Kinga KOLLÁR",
+   "country": "HU"
+  },
+  "256877": {
+   "name": "Pascale PIERA",
+   "country": "FR"
+  },
+  "256949": {
+   "name": "Siegbert Frank DROESE",
+   "country": "DE"
+  },
+  "257073": {
+   "name": "Tobiasz BOCHEŃSKI",
+   "country": "PL"
+  },
+  "257040": {
+   "name": "Nicolás PASCUAL DE LA PARTE",
+   "country": "ES"
+  },
+  "257031": {
+   "name": "Dariusz JOŃSKI",
+   "country": "PL"
+  },
+  "257117": {
+   "name": "Adrian-George AXINIA",
+   "country": "RO"
+  },
+  "257027": {
+   "name": "Fernando NAVARRETE ROJAS",
+   "country": "ES"
+  },
+  "256968": {
+   "name": "Ingeborg TER LAAK",
+   "country": "NL"
+  },
+  "278815": {
+   "name": "Ufuk KÂHYA",
+   "country": "NL"
+  },
+  "257101": {
+   "name": "Cecilia STRADA",
+   "country": "IT"
+  },
+  "256986": {
+   "name": "Geadis GEADI",
+   "country": "CY"
+  },
+  "256976": {
+   "name": "Brigitte VAN DEN BERG",
+   "country": "NL"
+  },
+  "257113": {
+   "name": "Antonella SBERNA",
+   "country": "IT"
+  },
+  "257024": {
+   "name": "Mireia BORRÁS PABÓN",
+   "country": "ES"
+  },
+  "257055": {
+   "name": "Małgorzata GOSIEWSKA",
+   "country": "PL"
+  },
+  "257072": {
+   "name": "Tomasz BUCZEK",
+   "country": "PL"
+  },
+  "257062": {
+   "name": "Stanisław TYSZKA",
+   "country": "PL"
+  },
+  "257163": {
+   "name": "Francesco TORSELLI",
+   "country": "IT"
+  },
+  "256964": {
+   "name": "Nela RIEHL",
+   "country": "DE"
+  },
+  "257023": {
+   "name": "Per CLAUSEN",
+   "country": "DK"
+  },
+  "257079": {
+   "name": "Sérgio GONÇALVES",
+   "country": "PT"
+  },
+  "257727": {
+   "name": "Pierfrancesco MARAN",
+   "country": "IT"
+  },
+  "256965": {
+   "name": "Kai TEGETHOFF",
+   "country": "DE"
+  },
+  "257099": {
+   "name": "Francesco VENTOLA",
+   "country": "IT"
+  },
+  "257108": {
+   "name": "Stefano BONACCINI",
+   "country": "IT"
+  },
+  "257137": {
+   "name": "Marco FALCONE",
+   "country": "IT"
+  },
+  "257052": {
+   "name": "Maciej WĄSIK",
+   "country": "PL"
+  },
+  "257093": {
+   "name": "Carlo CICCIOLI",
+   "country": "IT"
+  },
+  "257120": {
+   "name": "Diana IOVANOVICI ŞOŞOACĂ",
+   "country": "RO"
+  },
+  "257111": {
+   "name": "Dario NARDELLA",
+   "country": "IT"
+  },
+  "257001": {
+   "name": "Elena SANCHO MURILLO",
+   "country": "ES"
+  },
+  "257039": {
+   "name": "Elena NEVADO DEL CAMPO",
+   "country": "ES"
+  },
+  "257081": {
+   "name": "Sebastião BUGALHO",
+   "country": "PT"
+  },
+  "256996": {
+   "name": "Sebastian KRUIS",
+   "country": "NL"
+  },
+  "257148": {
+   "name": "Raffaele TOPO",
+   "country": "IT"
+  },
+  "257063": {
+   "name": "Catarina MARTINS",
+   "country": "PT"
+  },
+  "257132": {
+   "name": "Ignazio Roberto MARINO",
+   "country": "IT"
+  },
+  "257089": {
+   "name": "Alice TEODORESCU MÅWE",
+   "country": "SE"
+  },
+  "257056": {
+   "name": "Mariusz KAMIŃSKI",
+   "country": "PL"
+  },
+  "257098": {
+   "name": "Gabriela FIREA",
+   "country": "RO"
+  },
+  "257028": {
+   "name": "Henrik DAHL",
+   "country": "DK"
+  },
+  "257259": {
+   "name": "Nikola MINCHEV",
+   "country": "BG"
+  },
+  "257043": {
+   "name": "Maravillas ABADÍA JOVER",
+   "country": "ES"
+  },
+  "257125": {
+   "name": "Roberto VANNACCI",
+   "country": "IT"
+  },
+  "257437": {
+   "name": "Catarina VIEIRA",
+   "country": "NL"
+  },
+  "257051": {
+   "name": "Andrzej BUŁA",
+   "country": "PL"
+  },
+  "257128": {
+   "name": "Giusi PRINCI",
+   "country": "IT"
+  },
+  "257016": {
+   "name": "Vicent MARZÀ IBÁÑEZ",
+   "country": "ES"
+  },
+  "257086": {
+   "name": "Jacek OZDOBA",
+   "country": "PL"
+  },
+  "257076": {
+   "name": "Michał DWORCZYK",
+   "country": "PL"
+  },
+  "257123": {
+   "name": "Lucia ANNUNZIATA",
+   "country": "IT"
+  },
+  "257077": {
+   "name": "Marlena MALĄG",
+   "country": "PL"
+  },
+  "257002": {
+   "name": "José CEPEDA",
+   "country": "ES"
+  },
+  "257103": {
+   "name": "Ştefan MUŞOIU",
+   "country": "RO"
+  },
+  "256977": {
+   "name": "Andrea WECHSLER",
+   "country": "DE"
+  },
+  "257091": {
+   "name": "Dick ERIXON",
+   "country": "SE"
+  },
+  "256995": {
+   "name": "Gordan BOSANAC",
+   "country": "HR"
+  },
+  "257005": {
+   "name": "Ľuboš BLAHA",
+   "country": "SK"
+  },
+  "257110": {
+   "name": "Dan BARNA",
+   "country": "RO"
+  },
+  "257080": {
+   "name": "Piotr MÜLLER",
+   "country": "PL"
+  },
+  "257034": {
+   "name": "Carmen CRESPO DÍAZ",
+   "country": "ES"
+  },
+  "257022": {
+   "name": "Nora JUNCO GARCÍA",
+   "country": "ES"
+  },
+  "257143": {
+   "name": "Mariateresa VIVALDINI",
+   "country": "IT"
+  },
+  "256966": {
+   "name": "Michael VON DER SCHULENBURG",
+   "country": "DE"
+  },
+  "257129": {
+   "name": "Mimmo LUCANO",
+   "country": "IT"
+  },
+  "257130": {
+   "name": "Cristina GUARDA",
+   "country": "IT"
+  },
+  "261038": {
+   "name": "Tomáš KUBÍN",
+   "country": "CZ"
+  },
+  "256970": {
+   "name": "Raquel GARCÍA HERMIDA-VAN DER WALLE",
+   "country": "NL"
+  },
+  "256985": {
+   "name": "Michalis HADJIPANTELA",
+   "country": "CY"
+  },
+  "257131": {
+   "name": "Anna Maria CISINT",
+   "country": "IT"
+  },
+  "257119": {
+   "name": "Şerban Dimitrie STURDZA",
+   "country": "RO"
+  },
+  "257041": {
+   "name": "Jacek PROTAS",
+   "country": "PL"
+  },
+  "257262": {
+   "name": "Rada LAYKOVA",
+   "country": "BG"
+  },
+  "260724": {
+   "name": "Csaba DÖMÖTÖR",
+   "country": "HU"
+  },
+  "257298": {
+   "name": "Ciaran MULLOOLY",
+   "country": "IE"
+  },
+  "257035": {
+   "name": "Alma EZCURRA ALMANSA",
+   "country": "ES"
+  },
+  "256967": {
+   "name": "Jan-Peter WARNKE",
+   "country": "DE"
+  },
+  "257106": {
+   "name": "Alessandro ZAN",
+   "country": "IT"
+  },
+  "257053": {
+   "name": "Ana Catarina MENDES",
+   "country": "PT"
+  },
+  "257104": {
+   "name": "Ruggero RAZZA",
+   "country": "IT"
+  },
+  "257126": {
+   "name": "Gaetano PEDULLA'",
+   "country": "IT"
+  },
+  "256999": {
+   "name": "Rosa SERRANO SIERRA",
+   "country": "ES"
+  },
+  "280663": {
+   "name": "Balázs ORBÁN",
+   "country": "HU"
+  },
+  "256978": {
+   "name": "Reinier VAN LANSCHOT",
+   "country": "NL"
+  },
+  "257102": {
+   "name": "Giorgio GORI",
+   "country": "IT"
+  },
+  "257297": {
+   "name": "Barry COWEN",
+   "country": "IE"
+  },
+  "257300": {
+   "name": "Michael MCNAMARA",
+   "country": "IE"
+  },
+  "257066": {
+   "name": "André FRANQUEIRA RODRIGUES",
+   "country": "PT"
+  },
+  "257115": {
+   "name": "Gheorghe PIPEREA",
+   "country": "RO"
+  },
+  "256973": {
+   "name": "Stefan KÖHLER",
+   "country": "DE"
+  },
+  "256992": {
+   "name": "Hana JALLOUL MURO",
+   "country": "ES"
+  },
+  "257124": {
+   "name": "Giuseppe LUPO",
+   "country": "IT"
+  },
+  "260695": {
+   "name": "Viktor WEISZ",
+   "country": "HU"
+  },
+  "257048": {
+   "name": "Paulo DO NASCIMENTO CABRAL",
+   "country": "PT"
+  },
+  "275087": {
+   "name": "Georgia TRAMACERE",
+   "country": "IT"
+  },
+  "257029": {
+   "name": "Jorge MARTÍN FRÍAS",
+   "country": "ES"
+  },
+  "257000": {
+   "name": "Stephen Nikola BARTULICA",
+   "country": "HR"
+  },
+  "257075": {
+   "name": "Isilda GOMES",
+   "country": "PT"
+  },
+  "277057": {
+   "name": "Marie-Sophie CHRIST",
+   "country": "DE"
+  },
+  "257084": {
+   "name": "Joanna SCHEURING-WIELGUS",
+   "country": "PL"
+  },
+  "257260": {
+   "name": "Petar VOLGIN",
+   "country": "BG"
+  },
+  "257046": {
+   "name": "Marta WCISŁO",
+   "country": "PL"
+  },
+  "256998": {
+   "name": "Rachel BLOM",
+   "country": "NL"
+  },
+  "261797": {
+   "name": "Christophe BAY",
+   "country": "FR"
+  },
+  "257068": {
+   "name": "Hélder SOUSA SILVA",
+   "country": "PT"
+  },
+  "257116": {
+   "name": "Georgiana TEODORESCU",
+   "country": "RO"
+  },
+  "257094": {
+   "name": "Giovanni CROSETTO",
+   "country": "IT"
+  },
+  "257083": {
+   "name": "João OLIVEIRA",
+   "country": "PT"
+  },
+  "257133": {
+   "name": "Pasquale TRIDICO",
+   "country": "IT"
+  },
+  "256969": {
+   "name": "Friedrich PÜRNER",
+   "country": "DE"
+  },
+  "256957": {
+   "name": "Mary KHAN",
+   "country": "DE"
+  },
+  "257030": {
+   "name": "Raúl DE LA HOZ QUINTANO",
+   "country": "ES"
+  },
+  "257050": {
+   "name": "António TÂNGER CORRÊA",
+   "country": "PT"
+  },
+  "257054": {
+   "name": "Tiago MOREIRA DE SÁ",
+   "country": "PT"
+  },
+  "257071": {
+   "name": "Carla TAVARES",
+   "country": "PT"
+  },
+  "257144": {
+   "name": "Paolo INSELVINI",
+   "country": "IT"
+  },
+  "257013": {
+   "name": "Ľubica KARVAŠOVÁ",
+   "country": "SK"
+  },
+  "257069": {
+   "name": "Ewa ZAJĄCZKOWSKA-HERNIK",
+   "country": "PL"
+  },
+  "257160": {
+   "name": "Marco TARQUINIO",
+   "country": "IT"
+  },
+  "257003": {
+   "name": "Jeannette BALJEU",
+   "country": "NL"
+  },
+  "256981": {
+   "name": "Ton DIEPEVEEN",
+   "country": "NL"
+  },
+  "257007": {
+   "name": "Erik KALIŇÁK",
+   "country": "SK"
+  },
+  "257457": {
+   "name": "Zsuzsanna BORVENDÉG",
+   "country": "HU"
+  },
+  "257057": {
+   "name": "João COTRIM DE FIGUEIREDO",
+   "country": "PT"
+  },
+  "256979": {
+   "name": "Oliver SCHENK",
+   "country": "DE"
+  },
+  "257018": {
+   "name": "Branislav ONDRUŠ",
+   "country": "SK"
+  },
+  "257112": {
+   "name": "Vlad VASILE-VOICULESCU",
+   "country": "RO"
+  },
+  "257140": {
+   "name": "Carolina MORACE",
+   "country": "IT"
+  },
+  "257032": {
+   "name": "Kamila GASIUK-PIHOWICZ",
+   "country": "PL"
+  },
+  "257155": {
+   "name": "Danilo DELLA VALLE",
+   "country": "IT"
+  },
+  "257015": {
+   "name": "Jaume ASENS LLODRÀ",
+   "country": "ES"
+  },
+  "270261": {
+   "name": "Jaroslav KNOT",
+   "country": "CZ"
+  },
+  "257012": {
+   "name": "Estrella GALÁN",
+   "country": "ES"
+  },
+  "276060": {
+   "name": "Willemien KONING",
+   "country": "NL"
+  },
+  "257169": {
+   "name": "Annalisa CORRADO",
+   "country": "IT"
+  },
+  "257087": {
+   "name": "Adnan DIBRANI",
+   "country": "SE"
+  },
+  "256997": {
+   "name": "Sandra GÓMEZ LÓPEZ",
+   "country": "ES"
+  },
+  "257107": {
+   "name": "Virgil-Daniel POPESCU",
+   "country": "RO"
+  },
+  "257145": {
+   "name": "Daniele POLATO",
+   "country": "IT"
+  },
+  "256993": {
+   "name": "Leire PAJÍN",
+   "country": "ES"
+  },
+  "261796": {
+   "name": "Séverine WERBROUCK",
+   "country": "FR"
+  },
+  "267485": {
+   "name": "Volker SCHNURRBUSCH",
+   "country": "DE"
+  },
+  "257121": {
+   "name": "Matteo RICCI",
+   "country": "IT"
+  },
+  "257025": {
+   "name": "Kristoffer STORM",
+   "country": "DK"
+  },
+  "256994": {
+   "name": "Idoia MENDIA",
+   "country": "ES"
+  },
+  "257299": {
+   "name": "Kathleen FUNCHION",
+   "country": "IE"
+  },
+  "257149": {
+   "name": "Lara MAGONI",
+   "country": "IT"
+  },
+  "256956": {
+   "name": "Galato ALEXANDRAKI",
+   "country": "GR"
+  },
+  "257011": {
+   "name": "Lucia YAR",
+   "country": "SK"
+  },
+  "256974": {
+   "name": "Verena MERTENS",
+   "country": "DE"
+  },
+  "257047": {
+   "name": "Borys BUDKA",
+   "country": "PL"
+  },
+  "257238": {
+   "name": "Aodhán Ó RÍORDÁIN",
+   "country": "IE"
+  },
+  "257049": {
+   "name": "Mirosława NYKIEL",
+   "country": "PL"
+  },
+  "257070": {
+   "name": "Marcin SYPNIEWSKI",
+   "country": "PL"
+  },
+  "257020": {
+   "name": "Stine BOSSE",
+   "country": "DK"
+  },
+  "257095": {
+   "name": "Elena DONAZZAN",
+   "country": "IT"
+  },
+  "257151": {
+   "name": "Letizia MORATTI",
+   "country": "IT"
+  },
+  "256962": {
+   "name": "Joachim STREIT",
+   "country": "DE"
+  },
+  "257009": {
+   "name": "Isabel SERRA SÁNCHEZ",
+   "country": "ES"
+  },
+  "257010": {
+   "name": "Ľudovít ÓDOR",
+   "country": "SK"
+  },
+  "257139": {
+   "name": "Benedetta SCUDERI",
+   "country": "IT"
+  },
+  "277178": {
+   "name": "Majbritt BIRKHOLM",
+   "country": "DK"
+  },
+  "257138": {
+   "name": "Giuseppe ANTOCI",
+   "country": "IT"
+  },
+  "257064": {
+   "name": "Anna BRYŁKA",
+   "country": "PL"
+  },
+  "257067": {
+   "name": "Grzegorz BRAUN",
+   "country": "PL"
+  },
+  "257109": {
+   "name": "Marco SQUARTA",
+   "country": "IT"
+  },
+  "257058": {
+   "name": "Daniel OBAJTEK",
+   "country": "PL"
+  },
+  "257060": {
+   "name": "Arkadiusz MULARCZYK",
+   "country": "PL"
+  },
+  "256971": {
+   "name": "Lukas SIEPER",
+   "country": "DE"
+  },
+  "256952": {
+   "name": "Nikos PAPPAS",
+   "country": "GR"
+  },
+  "257021": {
+   "name": "Diego SOLIER",
+   "country": "ES"
+  },
+  "257261": {
+   "name": "Ilia LAZAROV",
+   "country": "BG"
+  },
+  "257090": {
+   "name": "Beatrice TIMGREN",
+   "country": "SE"
+  },
+  "257118": {
+   "name": "Luis-Vicențiu LAZARUS",
+   "country": "RO"
+  },
+  "257255": {
+   "name": "Stanislav STOYANOV",
+   "country": "BG"
+  },
+  "257065": {
+   "name": "Sérgio HUMBERTO",
+   "country": "PT"
+  },
+  "257100": {
+   "name": "Gheorghe CÂRCIU",
+   "country": "RO"
+  },
+  "257237": {
+   "name": "Regina DOHERTY",
+   "country": "IE"
+  },
+  "257059": {
+   "name": "Bruno GONÇALVES",
+   "country": "PT"
+  },
+  "278406": {
+   "name": "Norbert HERHAMMER",
+   "country": "DE"
+  },
+  "256954": {
+   "name": "Afroditi LATINOPOULOU",
+   "country": "GR"
+  },
+  "257078": {
+   "name": "Paulo CUNHA",
+   "country": "PT"
+  },
+  "257296": {
+   "name": "Nina CARBERRY",
+   "country": "IE"
+  },
+  "257150": {
+   "name": "Michele PICARO",
+   "country": "IT"
+  },
+  "257096": {
+   "name": "Stefano CAVEDAGNA",
+   "country": "IT"
+  },
+  "257038": {
+   "name": "Sigrid FRIIS",
+   "country": "DK"
+  },
+  "260035": {
+   "name": "Marko VEŠLIGAJ",
+   "country": "HR"
+  },
+  "256989": {
+   "name": "Fidias PANAYIOTOU",
+   "country": "CY"
+  },
+  "257085": {
+   "name": "Krzysztof ŚMISZEK",
+   "country": "PL"
+  },
+  "257019": {
+   "name": "Alvise PÉREZ",
+   "country": "ES"
+  },
+  "257301": {
+   "name": "Cynthia NÍ MHURCHÚ",
+   "country": "IE"
+  },
+  "270719": {
+   "name": "Martin GÜNTHER",
+   "country": "DE"
+  },
+  "257037": {
+   "name": "Michał KOBOSKO",
+   "country": "PL"
+  },
+  "256955": {
+   "name": "Maria ZACHARIA",
+   "country": "GR"
+  },
+  "257082": {
+   "name": "Jagna MARCZUŁAJTIS-WALCZAK",
+   "country": "PL"
+  },
+  "262021": {
+   "name": "Hanna GRONKIEWICZ-WALTZ",
+   "country": "PL"
+  },
+  "256980": {
+   "name": "Alexandra MEHNERT",
+   "country": "DE"
+  },
+  "256983": {
+   "name": "Jessika VAN LEEUWEN",
+   "country": "NL"
+  },
+  "257147": {
+   "name": "Alessandro CIRIANI",
+   "country": "IT"
+  },
+  "277777": {
+   "name": "Csaba BOGDÁN",
+   "country": "HU"
+  },
+  "257135": {
+   "name": "Valentina PALMISANO",
+   "country": "IT"
+  },
+  "256987": {
+   "name": "Oihane AGIRREGOITIA MARTÍNEZ",
+   "country": "ES"
+  },
+  "257097": {
+   "name": "Alberico GAMBINO",
+   "country": "IT"
+  },
+  "257438": {
+   "name": "Anouk VAN BRUG",
+   "country": "NL"
+  },
+  "272024": {
+   "name": "Antonín STANĚK",
+   "country": "CZ"
+  },
+  "256990": {
+   "name": "Anna STROLENBERG",
+   "country": "NL"
+  },
+  "257092": {
+   "name": "Hanna GEDIN",
+   "country": "SE"
+  },
+  "257258": {
+   "name": "Ivaylo VALCHEV",
+   "country": "BG"
+  },
+  "257114": {
+   "name": "Claudiu-Richard TÂRZIU",
+   "country": "RO"
+  },
+  "257014": {
+   "name": "Veronika CIFROVÁ OSTRIHOŇOVÁ",
+   "country": "SK"
+  },
+  "256959": {
+   "name": "Alexander SELL",
+   "country": "DE"
+  },
+  "257044": {
+   "name": "Rasmus NORDQVIST",
+   "country": "DK"
+  },
+  "257256": {
+   "name": "Taner KABILOV",
+   "country": "BG"
+  },
+  "256960": {
+   "name": "Sibylle BERG",
+   "country": "DE"
+  },
+  "257061": {
+   "name": "Ana VASCONCELOS",
+   "country": "PT"
+  },
+  "257026": {
+   "name": "Michał SZCZERBA",
+   "country": "PL"
+  },
+  "257257": {
+   "name": "Hristo PETROV",
+   "country": "BG"
+  },
+  "257088": {
+   "name": "Sofie ERIKSSON",
+   "country": "SE"
+  },
+  "257170": {
+   "name": "Sandro RUOTOLO",
+   "country": "IT"
+  },
+  "257033": {
+   "name": "Niels Flemming HANSEN",
+   "country": "DK"
+  },
+  "257127": {
+   "name": "Ilaria SALIS",
+   "country": "IT"
+  },
+  "257045": {
+   "name": "Michał WAWRYKIEWICZ",
+   "country": "PL"
+  },
+  "257122": {
+   "name": "Antonio DECARO",
+   "country": "ITA"
+  },
+  "192635": {
+   "name": "Danilo Oscar LANCINI",
+   "country": "ITA"
+  },
+  "237224": {
+   "name": "João ALBUQUERQUE",
+   "country": "PRT"
+  },
+  "125064": {
+   "name": "Maria SPYRAKI",
+   "country": "GRC"
+  },
+  "226260": {
+   "name": "Karolin BRAUNSBERGER-REINHOLD",
+   "country": "DEU"
+  },
+  "124872": {
+   "name": "Morten PETERSEN",
+   "country": "DNK"
+  },
+  "197527": {
+   "name": "Anne-Sophie PELLETIER",
+   "country": "FRA"
+  },
+  "197536": {
+   "name": "Nathalie COLIN-OESTERLÉ",
+   "country": "FRA"
+  },
+  "197530": {
+   "name": "Joanna KOPCIŃSKA",
+   "country": "POL"
+  },
+  "35016": {
+   "name": "Marco CAMPOMENOSI",
+   "country": "ITA"
+  },
+  "124708": {
+   "name": "Dita CHARANZOVÁ",
+   "country": "CZE"
+  },
+  "197611": {
+   "name": "Elena LIZZI",
+   "country": "ITA"
+  },
+  "197766": {
+   "name": "Lucia ĎURIŠ NICHOLSONOVÁ",
+   "country": "SVK"
+  },
+  "96868": {
+   "name": "Karima DELLI",
+   "country": "FRA"
+  },
+  "124862": {
+   "name": "Ulrike MÜLLER",
+   "country": "DEU"
+  },
+  "125045": {
+   "name": "Clara AGUILERA",
+   "country": "ESP"
+  },
+  "197480": {
+   "name": "Nicolaus FEST",
+   "country": "DEU"
+  },
+  "125020": {
+   "name": "Paul TANG",
+   "country": "NLD"
+  },
+  "197731": {
+   "name": "Clare DALY",
+   "country": "IRL"
+  },
+  "197799": {
+   "name": "Valentino GRANT",
+   "country": "ITA"
+  },
+  "237320": {
+   "name": "Eva-Maria Alexandrova POPTCHEVA",
+   "country": "BGR"
+  },
+  "204420": {
+   "name": "Claude GRUFFAT",
+   "country": "FRA"
+  },
+  "28586": {
+   "name": "Dimitrios PAPADIMOULIS",
+   "country": "GRC"
+  },
+  "124781": {
+   "name": "Alfred SANT",
+   "country": "MLT"
+  },
+  "129164": {
+   "name": "Tom VANDENKENDELAERE",
+   "country": "BEL"
+  },
+  "197635": {
+   "name": "Maria-Manuel LEITÃO-MARQUES",
+   "country": "PRT"
+  },
+  "197538": {
+   "name": "Beata MAZUREK",
+   "country": "POL"
+  },
+  "229352": {
+   "name": "Malte GALLÉE",
+   "country": "DEU"
+  },
+  "197582": {
+   "name": "Gianna GANCIA",
+   "country": "ITA"
+  },
+  "197805": {
+   "name": "Silvia MODIG",
+   "country": "FIN"
+  },
+  "197756": {
+   "name": "Vera TAX",
+   "country": "NLD"
+  },
+  "197571": {
+   "name": "Nikolaj VILLUMSEN",
+   "country": "DNK"
+  },
+  "96725": {
+   "name": "Bas EICKHOUT",
+   "country": "NLD"
+  },
+  "124735": {
+   "name": "Miapetra KUMPULA-NATRI",
+   "country": "FIN"
+  },
+  "197783": {
+   "name": "Andris AMERIKS",
+   "country": "LVA"
+  },
+  "96991": {
+   "name": "Eider GARDIAZABAL RUBIAL",
+   "country": "ESP"
+  },
+  "124873": {
+   "name": "Angel DZHAMBAZKI",
+   "country": "BGR"
+  },
+  "125063": {
+   "name": "Georgios KYRTSOS",
+   "country": "GRC"
+  },
+  "197451": {
+   "name": "Viola VON CRAMON-TAUBADEL",
+   "country": "DEU"
+  },
+  "197645": {
+   "name": "Francisco GUERREIRO",
+   "country": "PRT"
+  },
+  "130833": {
+   "name": "Stelios KOULOGLOU",
+   "country": "GRC"
+  },
+  "96646": {
+   "name": "Helmut SCHOLZ",
+   "country": "DEU"
+  },
+  "1892": {
+   "name": "Carlos COELHO",
+   "country": "PRT"
+  },
+  "197692": {
+   "name": "Stelios KYMPOUROPOULOS",
+   "country": "GRC"
+  },
+  "96852": {
+   "name": "Cornelia ERNST",
+   "country": "DEU"
+  },
+  "204416": {
+   "name": "Ilana CICUREL",
+   "country": "FRA"
+  },
+  "197506": {
+   "name": "Caroline ROOSE",
+   "country": "BEL"
+  },
+  "4560": {
+   "name": "Antonius MANDERS",
+   "country": "NLD"
+  },
+  "197801": {
+   "name": "Franco ROBERTI",
+   "country": "ITA"
+  },
+  "209140": {
+   "name": "Vlad GHEORGHE",
+   "country": "ROU"
+  },
+  "197488": {
+   "name": "Guido REIL",
+   "country": "DEU"
+  },
+  "237779": {
+   "name": "Carina OHLSSON",
+   "country": "SWE"
+  },
+  "197547": {
+   "name": "Irène TOLLERET",
+   "country": "FRA"
+  },
+  "234344": {
+   "name": "Max ORVILLE",
+   "country": "FRA"
+  },
+  "193273": {
+   "name": "Romeo FRANZ",
+   "country": "DEU"
+  },
+  "88715": {
+   "name": "José GUSMÃO",
+   "country": "PRT"
+  },
+  "197785": {
+   "name": "Eugenia RODRÍGUEZ PALOP",
+   "country": "ESP"
+  },
+  "124693": {
+   "name": "Pascal DURAND",
+   "country": "FRA"
+  },
+  "197585": {
+   "name": "Pierre KARLESKIND",
+   "country": "FRA"
+  },
+  "197771": {
+   "name": "Vladimír BILČÍK",
+   "country": "SVK"
+  },
+  "239973": {
+   "name": "Bergur Løkke RASMUSSEN",
+   "country": "DNK"
+  },
+  "114268": {
+   "name": "Nils TORVALDS",
+   "country": "FIN"
+  },
+  "197935": {
+   "name": "Ivan Vilibor SINČIĆ",
+   "country": "HRV"
+  },
+  "24505": {
+   "name": "Emmanuel MAUREL",
+   "country": "FRA"
+  },
+  "197520": {
+   "name": "Izabela-Helena KLOC",
+   "country": "POL"
+  },
+  "197457": {
+   "name": "Henrike HAHN",
+   "country": "DEU"
+  },
+  "96899": {
+   "name": "José Manuel FERNANDES",
+   "country": "PRT"
+  },
+  "197502": {
+   "name": "Marie-Pierre VEDRENNE",
+   "country": "FRA"
+  },
+  "38595": {
+   "name": "Rovana PLUMB",
+   "country": "ROU"
+  },
+  "197586": {
+   "name": "Stefania ZAMBELLI",
+   "country": "ITA"
+  },
+  "197455": {
+   "name": "Cindy FRANSSEN",
+   "country": "BEL"
+  },
+  "228604": {
+   "name": "Ilan DE BASSO",
+   "country": "SWE"
+  },
+  "197544": {
+   "name": "Elżbieta RAFALSKA",
+   "country": "POL"
+  },
+  "247122": {
+   "name": "Catherine AMALRIC",
+   "country": "FRA"
+  },
+  "130256": {
+   "name": "Dace MELBĀRDE",
+   "country": "LVA"
+  },
+  "96776": {
+   "name": "Róża THUN UND HOHENSTEIN",
+   "country": "POL"
+  },
+  "96820": {
+   "name": "Marisa MATIAS",
+   "country": "PRT"
+  },
+  "197631": {
+   "name": "Dacian CIOLOŞ",
+   "country": "ROU"
+  },
+  "197518": {
+   "name": "Krzysztof JURGIEL",
+   "country": "POL"
+  },
+  "197787": {
+   "name": "Antonio Maria RINALDI",
+   "country": "ITA"
+  },
+  "4246": {
+   "name": "Othmar KARAS",
+   "country": "AUT"
+  },
+  "124972": {
+   "name": "Ernest URTASUN",
+   "country": "ESP"
+  },
+  "197663": {
+   "name": "Dragoş PÎSLARU",
+   "country": "ROU"
+  },
+  "197526": {
+   "name": "Martin HLAVÁČEK",
+   "country": "CZE"
+  },
+  "96978": {
+   "name": "Nuno MELO",
+   "country": "PRT"
+  },
+  "197531": {
+   "name": "Gwendoline DELBOS-CORFIELD",
+   "country": "FRA"
+  },
+  "96922": {
+   "name": "Izaskun BILBAO BARANDICA",
+   "country": "ESP"
+  },
+  "204335": {
+   "name": "Alviina ALAMETSÄ",
+   "country": "FIN"
+  },
+  "238639": {
+   "name": "Johan NISSINEN",
+   "country": "SWE"
+  },
+  "132191": {
+   "name": "Gunnar BECK",
+   "country": "DEU"
+  },
+  "197720": {
+   "name": "Frances FITZGERALD",
+   "country": "IRL"
+  },
+  "124747": {
+   "name": "Pedro SILVA PEREIRA",
+   "country": "PRT"
+  },
+  "197567": {
+   "name": "Karen MELCHIOR",
+   "country": "DNK"
+  },
+  "96713": {
+   "name": "Evžen TOŠENOVSKÝ",
+   "country": "CZE"
+  },
+  "125043": {
+   "name": "Inma RODRÍGUEZ-PIÑERO",
+   "country": "ESP"
+  },
+  "197453": {
+   "name": "Anna DEPARNAY-GRUNENBERG",
+   "country": "DEU"
+  },
+  "197465": {
+   "name": "Niklas NIENASS",
+   "country": "DEU"
+  },
+  "125706": {
+   "name": "Jiří POSPÍŠIL",
+   "country": "CZE"
+  },
+  "126644": {
+   "name": "Jordi CAÑAS",
+   "country": "ESP"
+  },
+  "197767": {
+   "name": "Eugen JURZYCA",
+   "country": "SVK"
+  },
+  "197614": {
+   "name": "Marco DREOSTO",
+   "country": "ITA"
+  },
+  "125110": {
+   "name": "Nikos ANDROULAKIS",
+   "country": "GRC"
+  },
+  "28161": {
+   "name": "Margrete AUKEN",
+   "country": "DNK"
+  },
+  "256991": {
+   "name": "Sebastiaan STÖTELER",
+   "country": "NLD"
+  },
+  "197437": {
+   "name": "Nicola BEER",
+   "country": "DEU"
+  },
+  "96779": {
+   "name": "Danuta Maria HÜBNER",
+   "country": "POL"
+  },
+  "28219": {
+   "name": "Daniel CASPARY",
+   "country": "DEU"
+  },
+  "1992": {
+   "name": "José Manuel GARCÍA-MARGALLO Y MARFIL",
+   "country": "ESP"
+  },
+  "197496": {
+   "name": "Marek BELKA",
+   "country": "POL"
+  },
+  "218349": {
+   "name": "Michiel HOOGEVEEN",
+   "country": "NLD"
+  },
+  "197422": {
+   "name": "Christine SCHNEIDER",
+   "country": "DEU"
+  },
+  "4344": {
+   "name": "María Soraya RODRÍGUEZ RAMOS",
+   "country": "ESP"
+  },
+  "197817": {
+   "name": "Mick WALLACE",
+   "country": "IRL"
+  },
+  "24594": {
+   "name": "Anne SANDER",
+   "country": "FRA"
+  },
+  "197788": {
+   "name": "Anna BONFRISCO",
+   "country": "ITA"
+  },
+  "124891": {
+   "name": "Zdzisław KRASNODĘBSKI",
+   "country": "POL"
+  },
+  "197665": {
+   "name": "Dragoş TUDORACHE",
+   "country": "ROU"
+  },
+  "197390": {
+   "name": "Sara SKYTTEDAL",
+   "country": "SWE"
+  },
+  "124739": {
+   "name": "Carlos ZORRINHO",
+   "country": "PRT"
+  },
+  "96885": {
+   "name": "Dominique RIQUET",
+   "country": "FRA"
+  },
+  "183338": {
+   "name": "Jakop G. DALUNDE",
+   "country": "SWE"
+  },
+  "197844": {
+   "name": "Petar VITANOV",
+   "country": "BGR"
+  },
+  "197483": {
+   "name": "Sylvia LIMMER",
+   "country": "DEU"
+  },
+  "33982": {
+   "name": "Marian-Jean MARINESCU",
+   "country": "ROU"
+  },
+  "125021": {
+   "name": "Agnes JONGERIUS",
+   "country": "NLD"
+  },
+  "197778": {
+   "name": "Tom BERENDSEN",
+   "country": "NLD"
+  },
+  "256850": {
+   "name": "Filip TUREK",
+   "country": "CZE"
+  },
+  "124734": {
+   "name": "Cláudia MONTEIRO DE AGUIAR",
+   "country": "PRT"
+  },
+  "118949": {
+   "name": "Ondřej KOVAŘÍK",
+   "country": "CZE"
+  },
+  "197654": {
+   "name": "Ciarán CUFFE",
+   "country": "IRL"
+  },
+  "204334": {
+   "name": "Vincenzo SOFO",
+   "country": "ITA"
+  },
+  "236052": {
+   "name": "Patricia CHAGNON",
+   "country": "FRA"
+  },
+  "124992": {
+   "name": "Malin BJÖRK",
+   "country": "SWE"
+  },
+  "197650": {
+   "name": "Isabel SANTOS",
+   "country": "PRT"
+  },
+  "134605": {
+   "name": "Ramona STRUGARIU",
+   "country": "ROU"
+  },
+  "96801": {
+   "name": "Tomasz Piotr PORĘBA",
+   "country": "POL"
+  },
+  "58789": {
+   "name": "Jan HUITEMA",
+   "country": "NLD"
+  },
+  "124710": {
+   "name": "Michaela ŠOJDROVÁ",
+   "country": "CZE"
+  },
+  "197838": {
+   "name": "Juozas OLEKAS",
+   "country": "LTU"
+  },
+  "197512": {
+   "name": "Benoît BITEAU",
+   "country": "FRA"
+  },
+  "197754": {
+   "name": "Sandra PEREIRA",
+   "country": "PRT"
+  },
+  "197546": {
+   "name": "Marcel KOLAJA",
+   "country": "CZE"
+  },
+  "197668": {
+   "name": "Vlad-Marius BOTOŞ",
+   "country": "ROU"
+  },
+  "197641": {
+   "name": "Sara CERDAS",
+   "country": "PRT"
+  },
+  "38420": {
+   "name": "Cristian-Silviu BUŞOI",
+   "country": "ROU"
+  },
+  "197431": {
+   "name": "Patrick BREYER",
+   "country": "DEU"
+  },
+  "197519": {
+   "name": "Beata KEMPA",
+   "country": "POL"
+  },
+  "197806": {
+   "name": "Annalisa TARDINO",
+   "country": "ITA"
+  },
+  "23768": {
+   "name": "Bogusław LIBERADZKI",
+   "country": "POL"
+  },
+  "204733": {
+   "name": "Dorien ROOKMAKER",
+   "country": "NLD"
+  },
+  "197515": {
+   "name": "Pernille WEISS-EHLER",
+   "country": "DNK"
+  },
+  "124726": {
+   "name": "Henna VIRKKUNEN",
+   "country": "FIN"
+  },
+  "256961": {
+   "name": "Sebastian EVERDING",
+   "country": "DEU"
+  },
+  "256921": {
+   "name": "Laurent CASTILLO",
+   "country": "FRA"
+  },
+  "124738": {
+   "name": "Gilles LEBRETON",
+   "country": "FRA"
+  },
+  "209091": {
+   "name": "Cyrus ENGERER",
+   "country": "MLT"
+  },
+  "4253": {
+   "name": "Frédérique RIES",
+   "country": "BEL"
+  },
+  "136236": {
+   "name": "João PIMENTA LOPES",
+   "country": "PRT"
+  },
+  "28266": {
+   "name": "Sophia IN 'T VELD",
+   "country": "NLD"
+  },
+  "197695": {
+   "name": "Anna-Michelle ASIMAKOPOULOU",
+   "country": "GRC"
+  },
+  "125004": {
+   "name": "Franc BOGOVIČ",
+   "country": "SVN"
+  },
+  "221463": {
+   "name": "Ladislav ILČIĆ",
+   "country": "HRV"
+  },
+  "124780": {
+   "name": "Marco ZANNI",
+   "country": "ITA"
+  },
+  "205452": {
+   "name": "Chris MACMANUS",
+   "country": "IRL"
+  },
+  "197592": {
+   "name": "Pierfrancesco MAJORINO",
+   "country": "ITA"
+  },
+  "197868": {
+   "name": "Samira RAFAELA",
+   "country": "NLD"
+  },
+  "124709": {
+   "name": "Martina DLABAJOVÁ",
+   "country": "CZE"
+  },
+  "124988": {
+   "name": "Deirdre CLUNE",
+   "country": "IRL"
+  },
+  "2054": {
+   "name": "Heidi HAUTALA",
+   "country": "FIN"
+  },
+  "239972": {
+   "name": "Erik POULSEN",
+   "country": "DNK"
+  },
+  "204421": {
+   "name": "Jean-Lin LACAPELLE",
+   "country": "FRA"
+  },
+  "197394": {
+   "name": "Josianne CUTAJAR",
+   "country": "MLT"
+  },
+  "197776": {
+   "name": "Rob ROOKEN",
+   "country": "NLD"
+  },
+  "197742": {
+   "name": "Isabel GARCÍA MUÑOZ",
+   "country": "ESP"
+  },
+  "190519": {
+   "name": "Caroline NAGTEGAAL",
+   "country": "NLD"
+  },
+  "96903": {
+   "name": "Paulo RANGEL",
+   "country": "PRT"
+  },
+  "197846": {
+   "name": "Ivo HRISTOV",
+   "country": "BGR"
+  },
+  "197743": {
+   "name": "Petros KOKKALIS",
+   "country": "GRC"
+  },
+  "96739": {
+   "name": "Reinhard BÜTIKOFER",
+   "country": "DEU"
+  },
+  "197610": {
+   "name": "Alessandra BASSO",
+   "country": "ITA"
+  },
+  "199996": {
+   "name": "Isabel CARVALHAIS",
+   "country": "PRT"
+  },
+  "197889": {
+   "name": "Grace O'SULLIVAN",
+   "country": "IRL"
+  },
+  "197822": {
+   "name": "Francesca DONATO",
+   "country": "ITA"
+  },
+  "4465": {
+   "name": "Raffaele FITTO",
+   "country": "ITA"
+  },
+  "197551": {
+   "name": "Stéphane BIJOUX",
+   "country": "FRA"
+  },
+  "124934": {
+   "name": "Monika VANA",
+   "country": "AUT"
+  },
+  "112611": {
+   "name": "Petri SARVAMAA",
+   "country": "FIN"
+  },
+  "197507": {
+   "name": "Włodzimierz CIMOSZEWICZ",
+   "country": "POL"
+  },
+  "197566": {
+   "name": "Witold Jan WASZCZYKOWSKI",
+   "country": "POL"
+  },
+  "190774": {
+   "name": "Geoffroy DIDIER",
+   "country": "FRA"
+  },
+  "96867": {
+   "name": "Maria da Graça CARVALHO",
+   "country": "PRT"
+  },
+  "197481": {
+   "name": "Maximilian KRAH",
+   "country": "DEU"
+  },
+  "124887": {
+   "name": "Karol KARSKI",
+   "country": "POL"
+  },
+  "197505": {
+   "name": "Catherine CHABAUD",
+   "country": "FRA"
+  },
+  "96734": {
+   "name": "Ska KELLER",
+   "country": "DEU"
+  },
+  "197827": {
+   "name": "Idoia VILLANUEVA RUIZ",
+   "country": "ESP"
+  },
+  "28340": {
+   "name": "Patrizia TOIA",
+   "country": "ITA"
+  },
+  "197632": {
+   "name": "Claudia GAMON",
+   "country": "AUT"
+  },
+  "197634": {
+   "name": "Pedro MARQUES",
+   "country": "PRT"
+  },
+  "256863": {
+   "name": "Zoltán TARR",
+   "country": "HUN"
+  },
+  "197808": {
+   "name": "Pietro BARTOLO",
+   "country": "ITA"
+  },
+  "197539": {
+   "name": "Mikuláš PEKSA",
+   "country": "CZE"
+  },
+  "96743": {
+   "name": "Michèle RIVASI",
+   "country": "FRA"
+  },
+  "124936": {
+   "name": "Maria ARENA",
+   "country": "BEL"
+  },
+  "197675": {
+   "name": "Sarah WIENER",
+   "country": "AUT"
+  },
+  "28269": {
+   "name": "Jerzy BUZEK",
+   "country": "POL"
+  },
+  "197559": {
+   "name": "Grzegorz TOBISZOWSKI",
+   "country": "POL"
+  },
+  "124856": {
+   "name": "Ignazio CORRAO",
+   "country": "ITA"
+  },
+  "185974": {
+   "name": "Jordi SOLÉ",
+   "country": "ESP"
+  },
+  "212855": {
+   "name": "Alin MITUȚA",
+   "country": "ROU"
+  },
+  "197717": {
+   "name": "Ibán GARCÍA DEL BLANCO",
+   "country": "ESP"
+  },
+  "27714": {
+   "name": "Edina TÓTH",
+   "country": "HUN"
+  },
+  "240478": {
+   "name": "Beatrice COVASSI",
+   "country": "ITA"
+  },
+  "197595": {
+   "name": "Anna Júlia DONÁTH",
+   "country": "HUN"
+  },
+  "239257": {
+   "name": "Achille VARIATI",
+   "country": "ITA"
+  },
+  "243979": {
+   "name": "Francesca PEPPUCCI",
+   "country": "ITA"
+  },
+  "229519": {
+   "name": "Catharina RINZEMA",
+   "country": "NLD"
+  },
+  "197458": {
+   "name": "Benoît LUTGEN",
+   "country": "BEL"
+  },
+  "197495": {
+   "name": "Marek Paweł BALT",
+   "country": "POL"
+  },
+  "197746": {
+   "name": "Álvaro AMARO",
+   "country": "PRT"
+  },
+  "96891": {
+   "name": "Paolo DE CASTRO",
+   "country": "ITA"
+  },
+  "198096": {
+   "name": "Mazaly AGUILAR",
+   "country": "ESP"
+  },
+  "197427": {
+   "name": "Marlene MORTLER",
+   "country": "DEU"
+  },
+  "124696": {
+   "name": "Andrus ANSIP",
+   "country": "EST"
+  },
+  "197616": {
+   "name": "Rosanna CONTE",
+   "country": "ITA"
+  },
+  "124996": {
+   "name": "Peter LUNDGREN",
+   "country": "SWE"
+  },
+  "96648": {
+   "name": "Philippe LAMBERTS",
+   "country": "BEL"
+  },
+  "197446": {
+   "name": "Milan BRGLEZ",
+   "country": "SVN"
+  },
+  "193419": {
+   "name": "Christophe HANSEN",
+   "country": "LUX"
+  },
+  "197541": {
+   "name": "Andżelika Anna MOŻDŻANOWSKA",
+   "country": "POL"
+  },
+  "197597": {
+   "name": "Hélène LAPORTE",
+   "country": "FRA"
+  },
+  "34578": {
+   "name": "Robert HAJŠEL",
+   "country": "SVK"
+  },
+  "38398": {
+   "name": "Esther DE LANGE",
+   "country": "NLD"
+  },
+  "124970": {
+   "name": "Miriam DALLI",
+   "country": "MLT"
+  },
+  "124809": {
+   "name": "Sven SCHULZE",
+   "country": "DEU"
+  },
+  "2323": {
+   "name": "Rainer WIELAND",
+   "country": "DEU"
+  },
+  "28297": {
+   "name": "Jacek SARYUSZ-WOLSKI",
+   "country": "POL"
+  },
+  "253043": {
+   "name": "Henk Jan ORMEL",
+   "country": "NLD"
+  },
+  "197667": {
+   "name": "Barbara THALER",
+   "country": "AUT"
+  },
+  "197396": {
+   "name": "Erik BERGKVIST",
+   "country": "SWE"
+  },
+  "28372": {
+   "name": "Ryszard CZARNECKI",
+   "country": "POL"
+  },
+  "197482": {
+   "name": "Joachim KUHS",
+   "country": "DEU"
+  },
+  "197588": {
+   "name": "Katalin CSEH",
+   "country": "HUN"
+  },
+  "28389": {
+   "name": "Zbigniew KUŹMIUK",
+   "country": "POL"
+  },
+  "99283": {
+   "name": "Alessandro PANZA",
+   "country": "ITA"
+  },
+  "197550": {
+   "name": "Sylwia SPUREK",
+   "country": "POL"
+  },
+  "28294": {
+   "name": "Ljudmila NOVAK",
+   "country": "SVN"
+  },
+  "197441": {
+   "name": "Predrag Fred MATIĆ",
+   "country": "HRV"
+  },
+  "124771": {
+   "name": "Dominique BILDE",
+   "country": "FRA"
+  },
+  "96844": {
+   "name": "Norbert NEUSER",
+   "country": "DEU"
+  },
+  "131507": {
+   "name": "Miguel URBÁN CRESPO",
+   "country": "ESP"
+  },
+  "197657": {
+   "name": "Tudor CIUHODARU",
+   "country": "ROU"
+  },
+  "197849": {
+   "name": "Andrey SLABAKOV",
+   "country": "BGR"
+  },
+  "124875": {
+   "name": "Anders VISTISEN",
+   "country": "DNK"
+  },
+  "197638": {
+   "name": "Margarida MARQUES",
+   "country": "PRT"
+  },
+  "132366": {
+   "name": "Pirkko RUOHONEN-LERNER",
+   "country": "FIN"
+  },
+  "256927": {
+   "name": "Carola RACKETE",
+   "country": "DEU"
+  },
+  "239255": {
+   "name": "Matteo GAZZINI",
+   "country": "ITA"
+  },
+  "124821": {
+   "name": "Nicola DANTI",
+   "country": "ITA"
+  },
+  "197452": {
+   "name": "Klemen GROŠELJ",
+   "country": "SVN"
+  },
+  "197511": {
+   "name": "Salima YENBOU",
+   "country": "FRA"
+  },
+  "124835": {
+   "name": "Rosa D'AMATO",
+   "country": "ITA"
+  },
+  "96952": {
+   "name": "Sylvie GUILLAUME",
+   "country": "FRA"
+  },
+  "197709": {
+   "name": "Robert ROOS",
+   "country": "NLD"
+  },
+  "197542": {
+   "name": "Janina OCHOJSKA",
+   "country": "POL"
+  },
+  "197419": {
+   "name": "Valter FLEGO",
+   "country": "HRV"
+  },
+  "197418": {
+   "name": "Monica SEMEDO",
+   "country": "LUX"
+  },
+  "96837": {
+   "name": "Petra KAMMEREVERT",
+   "country": "DEU"
+  },
+  "197593": {
+   "name": "Véronique TRILLET-LENOIR",
+   "country": "FRA"
+  },
+  "256855": {
+   "name": "Pál SZEKERES",
+   "country": "HUN"
+  },
+  "127096": {
+   "name": "Domènec RUIZ DEVESA",
+   "country": "ESP"
+  },
+  "28288": {
+   "name": "Jan OLBRYCHT",
+   "country": "POL"
+  },
+  "197678": {
+   "name": "Bettina VOLLATH",
+   "country": "AUT"
+  },
+  "125038": {
+   "name": "Maite PAGAZAURTUNDÚA",
+   "country": "ESP"
+  },
+  "197467": {
+   "name": "Geert BOURGEOIS",
+   "country": "BEL"
+  },
+  "197576": {
+   "name": "Sylvie BRUNET",
+   "country": "FRA"
+  },
+  "96747": {
+   "name": "Arnaud DANJEAN",
+   "country": "FRA"
+  },
+  "125030": {
+   "name": "Annie SCHREIJER-PIERIK",
+   "country": "NLD"
+  },
+  "28429": {
+   "name": "Alessandra MUSSOLINI",
+   "country": "ITA"
+  },
+  "197459": {
+   "name": "Pierrette HERZBERGER-FOFANA",
+   "country": "DEU"
+  },
+  "197826": {
+   "name": "Matteo ADINOLFI",
+   "country": "ITA"
+  },
+  "124837": {
+   "name": "Joachim SCHUSTER",
+   "country": "DEU"
+  },
+  "23712": {
+   "name": "Jan ZAHRADIL",
+   "country": "CZE"
+  },
+  "238674": {
+   "name": "Theresa BIELOWSKI",
+   "country": "AUT"
+  }
+ },
+ "bootstrap_listed": true,
+ "bootstrap_total": 3815,
+ "first_feed_date": "2026-11-20",
+ "attempts": {},
+ "failed": {},
+ "queue": [
+  "2022-2519",
+  "2022-2502",
+  "2020-2735",
+  "2021-2675",
+  "2021-2810",
+  "2021-2536",
+  "2019-2609",
+  "2021-2829",
+  "2020-2722",
+  "2020-2921",
+  "2020-2925",
+  "2024-2630",
+  "2024-2634",
+  "2021-2586",
+  "2019-2600",
+  "2019-2749",
+  "2019-2507",
+  "2019-2591",
+  "2021-2631",
+  "2019-2705",
+  "2021-2657",
+  "2022-2522",
+  "2019-2912",
+  "2019-2682",
+  "2019-2674",
+  "2019-2724",
+  "2019-2742",
+  "2024-2977",
+  "2024-2755",
+  "2024-2754",
+  "2024-2762",
+  "2024-2752",
+  "2024-2902",
+  "2026-2941",
+  "2026-2894",
+  "2026-2900",
+  "2026-2714",
+  "2026-2717",
+  "2026-2957",
+  "2026-2961",
+  "2026-2964",
+  "2026-2820",
+  "2026-2839",
+  "2024-2692",
+  "2025-2868",
+  "2025-2884",
+  "2025-2890",
+  "2025-2885",
+  "2026-2559",
+  "2025-2924",
+  "2025-2949",
+  "2019-2668",
+  "2022-2672",
+  "2022-2676",
+  "2023-2798",
+  "2023-2602",
+  "2020-2734",
+  "2023-2972",
+  "2023-2947",
+  "2023-2964",
+  "2023-2965",
+  "2023-2948",
+  "2021-2949",
+  "2022-2689",
+  "2023-2630",
+  "2022-2811",
+  "2023-2806",
+  "2022-2921",
+  "2022-2686",
+  "2022-2963",
+  "2023-2775",
+  "2023-2967",
+  "2020-2739",
+  "2023-2854",
+  "2023-2952",
+  "2022-2945",
+  "2023-3002",
+  "2022-2938",
+  "2023-2960",
+  "2022-2679",
+  "2023-2541",
+  "2019-2502",
+  "2021-2615",
+  "2021-2555",
+  "2019-2745",
+  "2025-2680",
+  "2021-2799",
+  "2020-2653",
+  "2019-2526",
+  "2021-2621",
+  "2019-2970",
+  "2019-2971",
+  "2019-2919",
+  "2020-2603",
+  "2022-2524",
+  "2019-2862",
+  "2020-2888",
+  "2023-2917",
+  "2019-2782",
+  "2019-2992",
+  "2020-2713",
+  "2020-2611",
+  "2020-2715",
+  "2020-2741",
+  "2021-2963",
+  "2019-2528",
+  "2019-2505",
+  "2019-2741",
+  "2021-2518",
+  "2019-2577",
+  "2020-2869",
+  "2021-2898",
+  "2021-2608",
+  "2019-2747",
+  "2022-2520",
+  "2019-2504",
+  "2020-2771",
+  "2021-2697",
+  "2019-2501",
+  "2019-2776",
+  "2019-2753",
+  "2019-2538",
+  "2019-2566",
+  "2021-2650",
+  "2024-2901",
+  "2023-2716",
+  "2024-2915",
+  "2024-2756",
+  "2024-2778",
+  "2024-2794",
+  "2024-2775",
+  "2024-2779",
+  "2025-2502",
+  "2023-2726",
+  "2025-2525",
+  "2025-2535",
+  "2024-2645",
+  "2024-2629",
+  "2024-2636",
+  "2024-2627",
+  "2022-2902",
+  "2025-2607",
+  "2025-2615",
+  "2026-2951",
+  "2026-2827",
+  "2026-2822",
+  "2025-2083",
+  "2025-2008",
+  "2023-2003",
+  "2023-2082",
+  "2023-2052",
+  "2024-2118",
+  "2025-2114",
+  "2025-2018",
+  "2025-2017",
+  "2024-2104",
+  "2019-2190",
+  "2019-2184",
+  "2024-2051",
+  "2024-2105",
+  "2024-2084",
+  "2023-2124",
+  "2023-2064",
+  "2023-2027",
+  "2023-2059",
+  "2023-2077",
+  "2023-2068",
+  "2021-2169",
+  "2025-2026",
+  "2022-2014",
+  "2022-2153",
+  "2022-2050",
+  "2022-2048",
+  "2022-2049",
+  "2021-2204",
+  "2022-2150",
+  "2019-2166",
+  "2019-2189",
+  "2021-2071",
+  "2019-2161",
+  "2020-2086",
+  "2020-2087",
+  "2020-2127",
+  "2020-2128",
+  "2020-2075",
+  "2020-2077",
+  "2019-2132",
+  "2019-2111",
+  "2019-2135",
+  "2021-2074",
+  "2021-2076",
+  "2020-2256",
+  "2021-2100",
+  "2021-2101",
+  "2020-2016",
+  "2021-2039",
+  "2021-2013",
+  "2019-2175",
+  "2021-2008",
+  "2021-2184",
+  "2021-2062",
+  "2021-2016",
+  "2022-2013",
+  "2022-2139",
+  "2022-2182",
+  "2019-2208",
+  "2019-2170",
+  "2021-2237",
+  "2021-2236",
+  "2022-2046",
+  "2022-2063",
+  "2021-2187",
+  "2022-2038",
+  "2020-2029",
+  "2021-2235",
+  "2021-2162",
+  "2023-2083",
+  "2023-2067",
+  "2022-2027",
+  "2019-2131",
+  "2019-2129",
+  "2019-2130",
+  "2020-2036",
+  "2020-2022",
+  "2019-2212",
+  "2020-2078",
+  "2021-2248",
+  "2020-2041",
+  "2023-2080",
+  "2021-2252",
+  "2020-2132",
+  "2022-2172",
+  "2023-2044",
+  "2022-2059",
+  "2022-2079",
+  "2022-2080",
+  "2020-2135",
+  "2022-2023",
+  "2025-2166",
+  "2023-2120",
+  "2023-2108",
+  "2020-2258",
+  "2020-2257",
+  "2020-2259",
+  "2021-2176",
+  "2021-2179",
+  "2019-2157",
+  "2020-2048",
+  "2020-2044",
+  "2021-2079",
+  "2021-2025",
+  "2021-2246",
+  "2020-2260",
+  "2022-2146",
+  "2023-2061",
+  "2022-2200",
+  "2022-2199",
+  "2024-2079",
+  "2023-2128",
+  "2025-2073",
+  "2023-2121",
+  "2022-2075",
+  "2025-2137",
+  "2024-2054",
+  "2023-2112",
+  "2023-2045",
+  "2025-2027",
+  "2025-2061",
+  "2025-2211",
+  "2025-2255",
+  "2026-2013",
+  "2026-2014",
+  "2026-2100",
+  "2026-2140",
+  "2025-2210",
+  "2026-2027",
+  "2026-2003",
+  "2026-2070",
+  "2025-2209",
+  "2025-2239",
+  "2025-2040",
+  "2025-2167",
+  "2026-2054",
+  "2026-2053",
+  "2026-2037",
+  "2026-2122",
+  "2025-2050",
+  "2026-2057",
+  "2025-2010",
+  "2025-2249",
+  "2025-2213",
+  "2025-2081",
+  "2025-2062",
+  "2025-2132",
+  "2026-2119",
+  "2026-2006",
+  "2026-2036",
+  "2026-2038",
+  "2026-2073",
+  "2025-2260",
+  "2024-2120",
+  "2024-2123",
+  "2020-2045",
+  "2020-2043",
+  "2021-2077",
+  "2021-2005",
+  "2020-2222",
+  "2021-2019",
+  "2021-2020",
+  "2024-2122",
+  "2023-2043",
+  "2022-2062",
+  "2024-2055",
+  "2021-2207",
+  "2021-2208",
+  "2022-2003",
+  "2021-2198",
+  "2021-2251",
+  "2022-2060",
+  "2022-2005",
+  "2021-2245",
+  "2020-2072",
+  "2020-2242",
+  "2020-2208",
+  "2020-2261",
+  "2019-2177",
+  "2020-2113",
+  "2023-2110",
+  "2023-2019",
+  "2020-2079",
+  "2020-2080",
+  "2020-2115",
+  "2021-2058",
+  "2020-2123",
+  "2020-2209",
+  "2021-2181",
+  "2021-2043",
+  "2019-2167",
+  "2019-2159",
+  "2019-2163",
+  "2019-2187",
+  "2019-2196",
+  "2019-2194",
+  "2019-2195",
+  "2019-2201",
+  "2021-2017",
+  "2021-2002",
+  "2020-2010",
+  "2019-2174",
+  "2021-2177",
+  "2021-2178",
+  "2021-2182",
+  "2023-2075",
+  "2023-2047",
+  "2023-2123",
+  "2022-2047",
+  "2019-2185",
+  "2019-2210",
+  "2020-2081",
+  "2020-2042",
+  "2021-2249",
+  "2020-2215",
+  "2021-2047",
+  "2020-2269",
+  "2021-2011",
+  "2021-2023",
+  "2019-2172",
+  "2022-2002",
+  "2022-2078",
+  "2023-2034",
+  "2022-2148",
+  "2022-2149",
+  "2020-2118",
+  "2022-2145",
+  "2019-2136",
+  "2020-2028",
+  "2021-2004",
+  "2021-2170",
+  "2021-2168",
+  "2020-2007",
+  "2020-2015",
+  "2020-2017",
+  "2020-2223",
+  "2021-2040",
+  "2023-2125",
+  "2020-2116",
+  "2022-2020",
+  "2022-2058",
+  "2021-2188",
+  "2022-2022",
+  "2022-2195",
+  "2023-2031",
+  "2023-2042",
+  "2024-2056",
+  "2025-2051",
+  "2023-2004",
+  "2023-2072",
+  "2023-2115",
+  "2023-2081",
+  "2023-2058",
+  "2020-2202",
+  "2021-2231",
+  "2022-2152",
+  "2023-2119",
+  "2024-2057",
+  "2024-2112",
+  "2024-2083",
+  "2025-2088",
+  "2019-2199",
+  "2025-2004",
+  "2025-2024",
+  "2025-2060",
+  "2025-2011",
+  "2025-2033",
+  "2025-2057",
+  "2023-2085",
+  "2023-2116",
+  "2025-2034",
+  "2026-2059",
+  "2025-2113",
+  "2025-2240",
+  "2026-2071",
+  "2026-2123",
+  "2025-2074",
+  "2026-2024",
+  "2026-2117",
+  "2026-2072",
+  "2025-2250",
+  "2026-2029",
+  "2025-2258",
+  "2026-2138",
+  "2026-2139",
+  "2025-2237",
+  "2025-2180",
+  "2026-2103",
+  "2026-2116",
+  "2025-2118",
+  "2025-2139",
+  "2025-2112",
+  "2026-2058",
+  "2026-2142",
+  "2026-2141",
+  "2024-2126",
+  "2026-2144",
+  "2026-2147",
+  "2026-2046",
+  "2026-2044",
+  "2026-2045",
+  "2021-2213",
+  "2023-2114",
+  "2020-2001",
+  "2021-2163",
+  "2025-2037",
+  "2022-2207",
+  "2025-2052",
+  "2025-2036",
+  "2025-2164",
+  "2021-2056",
+  "2021-2230",
+  "2025-2021",
+  "2025-2055",
+  "2025-2019",
+  "2024-2081",
+  "2024-2080",
+  "2020-2046",
+  "2020-2047",
+  "2020-2039",
+  "2020-2070",
+  "2021-2014",
+  "2020-2267",
+  "2019-2204",
+  "2021-2041",
+  "2021-2097",
+  "2019-2156",
+  "2020-2002",
+  "2020-2274",
+  "2023-2002",
+  "2024-2103",
+  "2023-2113",
+  "2023-2065",
+  "2023-2118",
+  "2023-2229",
+  "2023-2028",
+  "2019-2110",
+  "2025-2084",
+  "2023-2062",
+  "2021-2064",
+  "2021-2046",
+  "2020-2275",
+  "2022-2188",
+  "2023-2015",
+  "2022-2026",
+  "2022-2039",
+  "2019-2168",
+  "2020-2008",
+  "2021-2009",
+  "2021-2185",
+  "2021-2189",
+  "2021-2205",
+  "2023-2010",
+  "2020-2137",
+  "2021-2200",
+  "2021-2203",
+  "2021-2201",
+  "2022-2053",
+  "2022-2154",
+  "2022-2205",
+  "2022-2204",
+  "2021-2080",
+  "2021-2015",
+  "2021-2055",
+  "2021-2037",
+  "2021-2018",
+  "2021-2102",
+  "2021-2012",
+  "2020-2244",
+  "2022-2183",
+  "2022-2201",
+  "2022-2021",
+  "2021-2232",
+  "2022-2064",
+  "2023-2066",
+  "2023-2018",
+  "2022-2196",
+  "2021-2243",
+  "2021-2244",
+  "2019-2186",
+  "2019-2211",
+  "2019-2202",
+  "2019-2158",
+  "2019-2162",
+  "2019-2165",
+  "2020-2126",
+  "2021-2234",
+  "2021-2165",
+  "2022-2016",
+  "2023-2053",
+  "2020-2124",
+  "2020-2114",
+  "2020-2121",
+  "2021-2166",
+  "2020-2013",
+  "2025-2015",
+  "2025-2183",
+  "2025-2214",
+  "2025-2143",
+  "2025-2075",
+  "2026-2005",
+  "2025-2142",
+  "2025-2032",
+  "2026-2015",
+  "2025-2095",
+  "2025-2111",
+  "2024-2124",
+  "2025-2053",
+  "2025-2256",
+  "2025-2016",
+  "2026-2137",
+  "2025-2212",
+  "2026-2143",
+  "2025-2039",
+  "2026-2056",
+  "2026-2011",
+  "2025-2184",
+  "2025-2215",
+  "2026-2039",
+  "2025-2059",
+  "2026-2101",
+  "2026-2118",
+  "2026-2113",
+  "2026-2114",
+  "2026-2012",
+  "2025-2115",
+  "2025-2169",
+  "2025-2134",
+  "2026-2112",
+  "2026-2152",
+  "2026-2040",
+  "2026-2004",
+  "2026-2026",
+  "2026-2034",
+  "2022-2202",
+  "2020-2131",
+  "2021-2253",
+  "2020-2125",
+  "2022-2025",
+  "2023-2126",
+  "2023-2127",
+  "2021-2255",
+  "2020-2117",
+  "2020-2111",
+  "2023-2107",
+  "2021-2250",
+  "2022-2006",
+  "2022-2007",
+  "2025-2048",
+  "2024-2116",
+  "2025-2009",
+  "2024-2121",
+  "2025-2119",
+  "2022-2141",
+  "2022-2037",
+  "2025-2049",
+  "2025-2087",
+  "2021-2065",
+  "2023-2086",
+  "2023-2063",
+  "2023-2048",
+  "2023-2076",
+  "2023-2078",
+  "2023-2049",
+  "2023-2117",
+  "2023-2111",
+  "2023-2106",
+  "2023-2054",
+  "2021-2099",
+  "2021-2063",
+  "2021-2066",
+  "2019-2197",
+  "2019-2209",
+  "2020-2085",
+  "2021-2061",
+  "2020-2020",
+  "2020-2023",
+  "2021-2247",
+  "2020-2246",
+  "2020-2276",
+  "2021-2180",
+  "2019-2171",
+  "2020-2136",
+  "2022-2036",
+  "2021-2206",
+  "2022-2206",
+  "2021-2060",
+  "2021-2075",
+  "2019-2205",
+  "2020-2241",
+  "2021-2098",
+  "2019-2207",
+  "2020-2266",
+  "2021-2003",
+  "2019-2176",
+  "2020-2058",
+  "2022-2015",
+  "2023-2087",
+  "2019-2134",
+  "2020-2119",
+  "2022-2032",
+  "2021-2239",
+  "2020-2120",
+  "2020-2268",
+  "2021-2167",
+  "2020-2243",
+  "2019-2125",
+  "2019-2126",
+  "2020-2262",
+  "2021-2007",
+  "2020-2216",
+  "2021-2006",
+  "2021-2057",
+  "2021-2036",
+  "2020-2084",
+  "2021-2238",
+  "2019-2169",
+  "2019-2160",
+  "2019-2164",
+  "2020-2201",
+  "2020-2091",
+  "2023-2046",
+  "2022-2138",
+  "2022-2147",
+  "2022-2057",
+  "2022-2061",
+  "2024-2052",
+  "2025-2022",
+  "2024-2109",
+  "2024-2082",
+  "2025-2025",
+  "2024-2053",
+  "2023-2073",
+  "2023-2109",
+  "2025-2085",
+  "2025-2058",
+  "2025-2070",
+  "2025-2138",
+  "2025-2144",
+  "2025-2038",
+  "2025-2110",
+  "2025-2086",
+  "2025-2013",
+  "2025-2056",
+  "2025-2216",
+  "2026-2069",
+  "2025-2253",
+  "2025-2254",
+  "2025-2054",
+  "2025-2135",
+  "2025-2259",
+  "2026-2041",
+  "2025-2248",
+  "2025-2181",
+  "2024-2117",
+  "2026-2102",
+  "2026-2124",
+  "2025-2069",
+  "2026-2115",
+  "2026-2074",
+  "2026-2042",
+  "2024-2119",
+  "2025-2035",
+  "2025-2182",
+  "2025-2012",
+  "2024-2106",
+  "2025-2041",
+  "2024-2125",
+  "2023-2105",
+  "2023-2084",
+  "2022-2198",
+  "2023-2001",
+  "2023-2050",
+  "2025-2020",
+  "2024-2085",
+  "2024-2078",
+  "2025-2023",
+  "2024-2077",
+  "2025-2028",
+  "2025-2165",
+  "2023-2122",
+  "2022-2142",
+  "2024-2107",
+  "2022-2076",
+  "2022-2171",
+  "2025-2014",
+  "2021-2186",
+  "2022-2024",
+  "2021-2233",
+  "2020-2133",
+  "2023-2079",
+  "2019-2193",
+  "2019-2192",
+  "2021-2254",
+  "2021-2202",
+  "2022-2040",
+  "2023-2041",
+  "2022-2170",
+  "2023-2000",
+  "2020-2112",
+  "2023-2030",
+  "2022-2008",
+  "2022-2137",
+  "2022-2140",
+  "2022-2143",
+  "2023-2017",
+  "2022-2004",
+  "2022-2203",
+  "2020-2038",
+  "2020-2071",
+  "2020-2074",
+  "2020-2134",
+  "2020-2263",
+  "2020-2245",
+  "2021-2103",
+  "2020-2027",
+  "2020-2003",
+  "2020-2004",
+  "2019-2203",
+  "2019-2198",
+  "2019-2200",
+  "2019-2206",
+  "2020-2217",
+  "2020-2221",
+  "2025-2082",
+  "2020-2037",
+  "2019-2128",
+  "2021-2042",
+  "2020-2122",
+  "2025-2007",
+  "2020-2076",
+  "2020-2009",
+  "2020-2021",
+  "2020-2088",
+  "2022-2151",
+  "2021-2164",
+  "2020-2040",
+  "2020-2207",
+  "2020-2206",
+  "2021-2183",
+  "2020-2011",
+  "2021-2010",
+  "2019-2127",
+  "2020-2273",
+  "2019-2178",
+  "2019-2133",
+  "2021-2038",
+  "2019-2173",
+  "2019-2191",
+  "2019-2188",
+  "2021-2199",
+  "2022-2077",
+  "2021-2209",
+  "2022-2197",
+  "2023-2016",
+  "2023-2074",
+  "2023-2029",
+  "2025-2168",
+  "2025-2072",
+  "2025-2090",
+  "2025-2116",
+  "2025-2042",
+  "2024-2108",
+  "2023-2060",
+  "2026-2028",
+  "2025-2006",
+  "2025-2133",
+  "2025-2179",
+  "2025-2120",
+  "2025-2136",
+  "2025-2252",
+  "2025-2251",
+  "2025-2257",
+  "2025-2238",
+  "2026-2035",
+  "2026-2145",
+  "2026-2060",
+  "2026-2055",
+  "2026-2025",
+  "2025-2089",
+  "2025-2117",
+  "2026-2154",
+  "2024-2127",
+  "2026-2120",
+  "2025-2071",
+  "2025-2121",
+  "2026-2121",
+  "2025-2208",
+  "2025-2263",
+  "2026-2061",
+  "2026-2153",
+  "2025-2261",
+  "2026-2043",
+  "2020-2005",
+  "2020-2018",
+  "2020-2019",
+  "2020-2034",
+  "2023-2051",
+  "2024-2076",
+  "2020-2130",
+  "2020-2073",
+  "2020-2255",
+  "2022-2051",
+  "2021-2161",
+  "2020-2129",
+  "2022-2194",
+  "2019-2183",
+  "2026-2052",
+  "2023-2104",
+  "2025-2079",
+  "2019-2182",
+  "2020-2014",
+  "2020-2006",
+  "2020-2051",
+  "2025-2080",
+  "2025-2206",
+  "2025-2130",
+  "2021-2229",
+  "2020-2026",
+  "2020-2035",
+  "2021-2054",
+  "2021-2053",
+  "2020-2220",
+  "2026-2125",
+  "2023-2184",
+  "2020-2012",
+  "2021-2026",
+  "2021-2035",
+  "2020-2254",
+  "2025-2131",
+  "2025-2195",
+  "2019-2181",
+  "2026-2023",
+  "2026-0196",
+  "2026-0314",
+  "2026-2979",
+  "2026-2999",
+  "2026-2105",
+  "2026-2082",
+  "2026-2922",
+  "2026-2091",
+  "2026-2973",
+  "2026-2079",
+  "2026-2080",
+  "2026-2090",
+  "2026-2172"
+ ],
+ "bootstrap_note": "2922 of 3815 files read",
+ "committee_agendas": {
+  "REGI-2026-12-03": {
+   "id": "ep-com-REGI-2026-12-03",
+   "date": "2026-12-03",
+   "source": "ep",
+   "body": "Comisión REGI del PE",
+   "title": "Orden del día de la reunión",
+   "url": "https://redmapl3.europarl.europa.eu/RedmapFront/media/reds_iCmOj/REGI-OJ-2026-12-03-1/REGI-OJ-2026-12-03-1_en.pdf",
+   "refs": [
+    "2026/0260(CNS)",
+    "2026/2079(DEC)",
+    "2026/2117(INI)"
+   ]
+  }
+ },
+ "committee_agendas_missing": {
+  "AGRI-2026-11-17": "2026-11-20",
+  "AGRI-2026-11-18": "2026-11-20",
+  "AGRI-2026-11-19": "2026-11-20",
+  "AGRI-2026-11-20": "2026-11-20",
+  "AGRI-2026-11-23": "2026-11-20",
+  "AGRI-2026-11-24": "2026-11-20",
+  "AGRI-2026-11-25": "2026-11-20",
+  "AGRI-2026-11-26": "2026-11-20",
+  "AGRI-2026-11-27": "2026-11-20",
+  "AGRI-2026-11-30": "2026-11-20",
+  "AGRI-2026-12-01": "2026-11-20",
+  "AGRI-2026-12-02": "2026-11-20",
+  "AGRI-2026-12-03": "2026-11-20",
+  "AGRI-2026-12-04": "2026-11-20",
+  "AGRI-2026-12-07": "2026-11-20",
+  "AGRI-2026-12-08": "2026-11-20",
+  "AGRI-2026-12-09": "2026-11-20",
+  "AGRI-2026-12-10": "2026-11-20",
+  "AGRI-2026-12-11": "2026-11-20",
+  "PECH-2026-11-17": "2026-11-20",
+  "PECH-2026-11-18": "2026-11-20",
+  "PECH-2026-11-19": "2026-11-20",
+  "PECH-2026-11-20": "2026-11-20",
+  "PECH-2026-11-23": "2026-11-20",
+  "PECH-2026-11-24": "2026-11-20",
+  "PECH-2026-11-25": "2026-11-20",
+  "PECH-2026-11-26": "2026-11-20",
+  "PECH-2026-11-27": "2026-11-20",
+  "PECH-2026-11-30": "2026-11-20",
+  "PECH-2026-12-01": "2026-11-20",
+  "PECH-2026-12-02": "2026-11-20",
+  "PECH-2026-12-03": "2026-11-20",
+  "PECH-2026-12-04": "2026-11-20",
+  "PECH-2026-12-07": "2026-11-20",
+  "PECH-2026-12-08": "2026-11-20",
+  "PECH-2026-12-09": "2026-11-20",
+  "PECH-2026-12-10": "2026-11-20",
+  "PECH-2026-12-11": "2026-11-20",
+  "REGI-2026-11-17": "2026-11-20",
+  "REGI-2026-11-18": "2026-11-20",
+  "REGI-2026-11-19": "2026-11-20",
+  "REGI-2026-11-20": "2026-11-20",
+  "REGI-2026-11-23": "2026-11-20",
+  "REGI-2026-11-24": "2026-11-20",
+  "REGI-2026-11-25": "2026-11-20",
+  "REGI-2026-11-26": "2026-11-20",
+  "REGI-2026-11-27": "2026-11-20",
+  "REGI-2026-11-30": "2026-11-20",
+  "REGI-2026-12-01": "2026-11-20",
+  "REGI-2026-12-02": "2026-11-20",
+  "REGI-2026-12-04": "2026-11-20",
+  "REGI-2026-12-07": "2026-11-20",
+  "REGI-2026-12-08": "2026-11-20",
+  "REGI-2026-12-09": "2026-11-20",
+  "REGI-2026-12-10": "2026-11-20",
+  "REGI-2026-12-11": "2026-11-20"
+ }
+}

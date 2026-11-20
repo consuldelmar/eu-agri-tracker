@@ -1,0 +1,269 @@
+{
+ "ref": "2023/0296(NLE)",
+ "id": "2023-0296",
+ "type": "NLE",
+ "title": "Acuerdo en forma de Canje de Notas entre la Unión Europea y la República Árabe de Egipto, en virtud del artículo XXVIII del Acuerdo General sobre Aranceles Aduaneros y Comercio (GATT) de 1994, en relación con la modificación de las concesiones en todos los contingentes arancelarios de la lista CLXXV de la Unión Europea como consecuencia de la retirada del Reino Unido de la Unión Europea",
+ "title_en": "Agreement in the form of an Exchange of Letters between the European Union and the Arab Republic of Egypt pursuant to Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions on all the tariff rate quotas included in the EU Schedule CLXXV as a consequence of the United Kingdom's withdrawal from the European Union",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "INTA",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "96747",
+   "name": "Arnaud DANJEAN",
+   "group": "PPE",
+   "country": "FRA",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2023-10-24"
+  },
+  {
+   "id": "124691",
+   "name": "Costas MAVRIDES",
+   "group": "S&D",
+   "country": "CY",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2023-10-24"
+  },
+  {
+   "id": "198490",
+   "name": "Emmanouil FRAGKOS",
+   "group": "ECR",
+   "country": "GR",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2023-10-24"
+  },
+  {
+   "id": "197504",
+   "name": "Jérémy DECERLE",
+   "group": "Renew",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2023-10-24"
+  },
+  {
+   "id": "197470",
+   "name": "Saskia BRICMONT",
+   "group": "Verts/ALE",
+   "country": "BE",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2023-10-24"
+  },
+  {
+   "id": "24505",
+   "name": "Emmanuel MAUREL",
+   "group": "The Left",
+   "country": "FRA",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2023-10-24"
+  },
+  {
+   "id": "35016",
+   "name": "Marco CAMPOMENOSI",
+   "group": "ID",
+   "country": "ITA",
+   "role": "rapporteur",
+   "committee": "INTA",
+   "since": "2023-10-24"
+  },
+  {
+   "id": "124808",
+   "name": "Norbert LINS",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2023-11-28"
+  }
+ ],
+ "started": "2023-12-05",
+ "last_activity": "2024-05-31",
+ "events": [
+  {
+   "date": "2023-12-05",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "INTA-PR-757170",
+     "title": "Proyecto de informe INTA (757170)",
+     "url": "https://www.europarl.europa.eu/doceo/document/INTA-PR-757170_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2023-12-07",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AL-757041",
+     "title": "AGRI-AL-757041",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2024-01-25",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-03-07",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-03-08",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0078",
+     "title": "Informe A9-0078/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0078_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-10",
+   "type": "PLENARY_DECISION",
+   "title": "Plenary decision",
+   "docs": [
+    {
+     "id": "TA-9-2024-0210",
+     "title": "Texto aprobado P9_TA(2024)0210",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0210_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-10",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-9-2024-04-10-ITM-021-35",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-04-10-ITM-021-35_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2024-04-10-ITM-021-35",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-04-10-ITM-021-35_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-10",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0078",
+     "title": "Informe A9-0078/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0078_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-05-31",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "INTA-PR-757170",
+   "title": "Proyecto de informe INTA (757170)",
+   "url": "https://www.europarl.europa.eu/doceo/document/INTA-PR-757170_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-12-05"
+  },
+  {
+   "id": "AGRI-AL-757041",
+   "title": "AGRI-AL-757041",
+   "url": "",
+   "kind": "other",
+   "date": "2023-12-07"
+  },
+  {
+   "id": "A-9-2024-0078",
+   "title": "Informe A9-0078/2024",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0078_EN.html",
+   "kind": "report",
+   "date": "2024-03-08"
+  },
+  {
+   "id": "TA-9-2024-0210",
+   "title": "Texto aprobado P9_TA(2024)0210",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0210_EN.html",
+   "kind": "adopted_text",
+   "date": "2024-04-10"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2024-04-10-OJ-ITM-V-32",
+   "date": "2024-04-10",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-32)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-04-10_EN.html",
+   "refs": [
+    "2023/0296(NLE)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0296(NLE)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_296",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_296?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-0296?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2024-04-10-OJ-ITM-V-32",
+   "date": "2024-04-10",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-32)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-04-10_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

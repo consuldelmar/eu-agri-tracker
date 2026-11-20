@@ -1,0 +1,50 @@
+{
+ "ref": "2024/2774(DEA)",
+ "id": "2024-2774",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el anexo I del Reglamento (UE) 2023/1231 del Parlamento Europeo y del Consejo en lo que respecta a la incorporación del Reglamento (UE) 2023/2419 del Parlamento Europeo y del Consejo a la lista de dicho anexo",
+ "title_en": "Commission Delegated Regulation amending Annex I to Regulation (EU) 2023/1231 of the European Parliament and of the Council as regards the addition of Regulation (EU) 2023/2419 of the European Parliament and of the Council to the list in that Annex",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "joint"
+  },
+  {
+   "code": "ENVI",
+   "role": "joint"
+  }
+ ],
+ "people": [],
+ "started": "2024-09-18",
+ "last_activity": "2024-09-18",
+ "events": [
+  {
+   "date": "2024-09-18",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2774(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2774",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2774?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2774?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (conjunta)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

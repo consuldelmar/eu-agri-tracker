@@ -1,0 +1,46 @@
+{
+ "ref": "2025/2874(DEA)",
+ "id": "2025-2874",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifican los Reglamentos Delegados (UE) 2016/232 y (UE) 2017/891 en lo que respecta a determinadas normas relativas a las organizaciones de productores, las obligaciones de notificación de los precios de producción y la aplicación de determinados mecanismos de importación en el sector de las frutas y hortalizas",
+ "title_en": "Commission Delegated Regulation amending Delegated Regulations (EU) 2016/232 and (EU) 2017/891 as regards certain rules on producer organisations, notification obligations of producer prices and implementation of certain import mechanisms in the fruit and vegetables sector",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2025-10-08",
+ "last_activity": "2025-10-08",
+ "events": [
+  {
+   "date": "2025-10-08",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2874(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2874",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2874?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2874?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

@@ -1,0 +1,434 @@
+{
+ "ref": "2023/0413(COD)",
+ "id": "2023-0413",
+ "type": "COD",
+ "title": "Marco de seguimiento para lograr unos bosques europeos resilientes",
+ "title_en": "Monitoring framework for resilient European forests",
+ "stage": "Posición del Parlamento aprobada en el Pleno",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "joint"
+  },
+  {
+   "code": "ENVI",
+   "role": "joint"
+  },
+  {
+   "code": "ITRE",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "197648",
+   "name": "Alexander BERNHUBER",
+   "group": "PPE",
+   "country": "AT",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2024-12-09"
+  },
+  {
+   "id": "210480",
+   "name": "Marta TEMIDO",
+   "group": "S&D",
+   "country": "PT",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2024-12-09"
+  },
+  {
+   "id": "257125",
+   "name": "Roberto VANNACCI",
+   "group": "PfE",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2024-12-09"
+  },
+  {
+   "id": "214839",
+   "name": "Emma YTTERELL",
+   "group": "Renew",
+   "country": "SE",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2024-09-12"
+  },
+  {
+   "id": "197398",
+   "name": "Pär HOLMGREN",
+   "group": "Verts/ALE",
+   "country": "SE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2024-12-09"
+  },
+  {
+   "id": "257023",
+   "name": "Per CLAUSEN",
+   "group": "The Left",
+   "country": "DK",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2024-12-09"
+  },
+  {
+   "id": "256973",
+   "name": "Stefan KÖHLER",
+   "group": "PPE",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2024-10-01"
+  },
+  {
+   "id": "256905",
+   "name": "Eric SARGIACOMO",
+   "group": "S&D",
+   "country": "FR",
+   "role": "rapporteur",
+   "committee": "AGRI",
+   "since": "2024-09-12"
+  },
+  {
+   "id": "236050",
+   "name": "Marie DAUCHY",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2024-10-01"
+  },
+  {
+   "id": "197572",
+   "name": "Anna ZALEWSKA",
+   "group": "ECR",
+   "country": "PL",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2024-10-01"
+  },
+  {
+   "id": "191693",
+   "name": "Elsi KATAINEN",
+   "group": "Renew",
+   "country": "FI",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2024-10-01"
+  },
+  {
+   "id": "58766",
+   "name": "Nicolae ȘTEFĂNUȚĂ",
+   "group": "Verts/ALE",
+   "country": "RO",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2024-10-01"
+  },
+  {
+   "id": "256911",
+   "name": "Arash SAEIDI",
+   "group": "The Left",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2024-10-01"
+  },
+  {
+   "id": "257255",
+   "name": "Stanislav STOYANOV",
+   "group": "ESN",
+   "country": "BG",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2024-10-01"
+  }
+ ],
+ "started": "2024-02-26",
+ "last_activity": "2025-10-21",
+ "events": [
+  {
+   "date": "2024-02-26",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-01-29",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "CJ14-PR-766935",
+     "title": "CJ14-PR-766935",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión (4 documentos)",
+   "docs": [
+    {
+     "id": "CJ14-AM-769949",
+     "title": "CJ14-AM-769949",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ14-AM-770064",
+     "title": "CJ14-AM-770064",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ14-AM-770065",
+     "title": "CJ14-AM-770065",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ14-AM-770078",
+     "title": "CJ14-AM-770078",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2025-09-23",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-10-02",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0176",
+     "title": "Informe A10-0176/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0176_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-10-14",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno (3 documentos)",
+   "docs": [
+    {
+     "id": "A-10-2025-0176-AM-002-002",
+     "title": "Enmiendas al Pleno 2-2 (informe A10-0176/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0176-AM-002-002_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2025-0176-AM-003-006",
+     "title": "Enmiendas al Pleno 3-6 (informe A10-0176/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0176-AM-003-006_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 4
+    },
+    {
+     "id": "A-10-2025-0176-AM-001-001",
+     "title": "Enmiendas al Pleno 1-1 (informe A10-0176/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0176-AM-001-001_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2025-10-15",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0176-AM-007-007",
+     "title": "Enmiendas al Pleno 7-7 (informe A10-0176/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0176-AM-007-007_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2025-10-21",
+   "type": "PLENARY_ADOPT_POSITION",
+   "title": "Posición del Parlamento aprobada en el Pleno",
+   "docs": [
+    {
+     "id": "TA-10-2025-0240",
+     "title": "Texto aprobado P10_TA(2025)0240",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2025-0240_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2025-10-21",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2025-10-21-ITM-006-10",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2025-10-21-ITM-006-10_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2025-10-21-ITM-006-10",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-10-21-ITM-006-10_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2025-10-21",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0176",
+     "title": "Informe A10-0176/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0176_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "CJ14-PR-766935",
+   "title": "CJ14-PR-766935",
+   "url": "",
+   "kind": "other",
+   "date": "2025-01-29"
+  },
+  {
+   "id": "CJ14-AM-769949",
+   "title": "CJ14-AM-769949",
+   "url": "",
+   "kind": "other",
+   "date": "2025-02-27"
+  },
+  {
+   "id": "CJ14-AM-770064",
+   "title": "CJ14-AM-770064",
+   "url": "",
+   "kind": "other",
+   "date": "2025-02-27"
+  },
+  {
+   "id": "CJ14-AM-770065",
+   "title": "CJ14-AM-770065",
+   "url": "",
+   "kind": "other",
+   "date": "2025-02-27"
+  },
+  {
+   "id": "CJ14-AM-770078",
+   "title": "CJ14-AM-770078",
+   "url": "",
+   "kind": "other",
+   "date": "2025-02-27"
+  },
+  {
+   "id": "A-10-2025-0176-AM-002-002",
+   "title": "Enmiendas al Pleno 2-2 (informe A10-0176/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0176-AM-002-002_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2025-10-14"
+  },
+  {
+   "id": "A-10-2025-0176-AM-003-006",
+   "title": "Enmiendas al Pleno 3-6 (informe A10-0176/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0176-AM-003-006_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 4,
+   "date": "2025-10-14"
+  },
+  {
+   "id": "A-10-2025-0176-AM-001-001",
+   "title": "Enmiendas al Pleno 1-1 (informe A10-0176/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0176-AM-001-001_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2025-10-14"
+  },
+  {
+   "id": "A-10-2025-0176-AM-007-007",
+   "title": "Enmiendas al Pleno 7-7 (informe A10-0176/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0176-AM-007-007_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2025-10-15"
+  },
+  {
+   "id": "A-10-2025-0176",
+   "title": "Informe A10-0176/2025",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0176_EN.html",
+   "kind": "report",
+   "date": "2025-10-21"
+  },
+  {
+   "id": "TA-10-2025-0240",
+   "title": "Texto aprobado P10_TA(2025)0240",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2025-0240_EN.html",
+   "kind": "adopted_text",
+   "date": "2025-10-21"
+  }
+ ],
+ "amendments": {
+  "plenary": 7,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2025-10-21-OJ-ITM-V-58",
+   "date": "2025-10-21",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-58)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-10-21_EN.html",
+   "refs": [
+    "2023/0413(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0413(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_413",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_413?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-0413?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (conjunta)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2025-10-21-OJ-ITM-V-58",
+   "date": "2025-10-21",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-58)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-10-21_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

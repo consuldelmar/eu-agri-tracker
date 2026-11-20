@@ -1,0 +1,56 @@
+{
+ "ref": "2024/2770(DEA)",
+ "id": "2024-2770",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2021/1698 en lo que respecta a la certificación de determinados operadores y grupos de operadores de terceros países y a los controles de sus productos ecológicos efectuados por las autoridades de control y los organismos de control",
+ "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2021/1698 as regards the certification of certain operators and groups of operators in third countries and the controls performed by control authorities and control bodies on their organic products",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [
+  {
+   "id": "197552",
+   "name": "Veronika VRECIONOVÁ",
+   "group": "ECR",
+   "country": "CZ",
+   "role": "rapporteur",
+   "committee": "AGRI",
+   "since": "2024-09-05"
+  }
+ ],
+ "started": "2024-09-18",
+ "last_activity": "2024-09-18",
+ "events": [
+  {
+   "date": "2024-09-18",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2770(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2770",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2770?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2770?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

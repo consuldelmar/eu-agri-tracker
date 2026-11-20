@@ -1,0 +1,46 @@
+{
+ "ref": "2023/2823(DEA)",
+ "id": "2023-2823",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) 2019/472 del Parlamento Europeo y del Consejo al precisar los detalles de la obligación de desembarque para determinadas pesquerías de las aguas occidentales durante el período 2024-2027",
+ "title_en": "Commission Delegated Regulation supplementing Regulation (EU) 2019/472 of the European Parliament and of the Council by specifying details of the landing obligation for certain fisheries in Western Waters for the period 2024-2027",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2023-09-13",
+ "last_activity": "2023-09-13",
+ "events": [
+  {
+   "date": "2023-09-13",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/2823(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_2823",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_2823?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-2823?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

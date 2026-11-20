@@ -1,0 +1,366 @@
+{
+ "ref": "2026/0044(COD)",
+ "id": "2026-0044",
+ "type": "COD",
+ "title": "Modificación del Reglamento (UE) 2019/1753 en lo que respecta a las modificaciones del Reglamento Común del Arreglo de Lisboa relativo a las Denominaciones de Origen y las Indicaciones Geográficas aprobadas por la Asamblea de la Unión de Lisboa el 14 de julio de 2025\n",
+ "title_en": "Amending Regulation (EU) 2019/1753 as regards amendments adopted by the Assembly of the Lisbon Union on 14 July 2025 to the Common Regulations under the Lisbon Agreement on Appellations of Origin and Geographical Indications",
+ "stage": "Posición del Parlamento aprobada en el Pleno",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "JURI",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "INTA",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "197552",
+   "name": "Veronika VRECIONOVÁ",
+   "group": "ECR",
+   "country": "CZ",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2026-02-24"
+  },
+  {
+   "id": "197429",
+   "name": "Marion WALSMANN",
+   "group": "PPE",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "JURI",
+   "since": "2026-05-05"
+  },
+  {
+   "id": "256993",
+   "name": "Leire PAJÍN",
+   "group": "S&D",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "JURI",
+   "since": "2026-05-18"
+  },
+  {
+   "id": "125052",
+   "name": "Juan Carlos GIRAUTA VIDAL",
+   "group": "PfE",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "JURI",
+   "since": "2026-05-19"
+  },
+  {
+   "id": "4395",
+   "name": "Mario MANTOVANI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "JURI",
+   "since": "2026-04-27"
+  },
+  {
+   "id": "256807",
+   "name": "Dainius ŽALIMAS",
+   "group": "Renew",
+   "country": "LT",
+   "role": "rapporteur",
+   "committee": "JURI",
+   "since": "2026-04-23"
+  },
+  {
+   "id": "197795",
+   "name": "Mario FURORE",
+   "group": "The Left",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "JURI",
+   "since": "2026-04-28"
+  },
+  {
+   "id": "257070",
+   "name": "Marcin SYPNIEWSKI",
+   "group": "ESN",
+   "country": "PL",
+   "role": "shadow",
+   "committee": "JURI",
+   "since": "2026-05-07"
+  }
+ ],
+ "started": "2026-03-09",
+ "last_activity": "2026-11-12",
+ "events": [
+  {
+   "date": "2026-03-09",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-06-12",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AL-791021",
+     "title": "AGRI-AL-791021",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-18",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "JURI-PR-789976",
+     "title": "Proyecto de informe JURI (789976)",
+     "url": "https://www.europarl.europa.eu/doceo/document/JURI-PR-789976_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-25",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "JURI-AM-790209",
+     "title": "Enmiendas en comisión JURI (790209)",
+     "url": "https://www.europarl.europa.eu/doceo/document/JURI-AM-790209_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-07-20",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0211",
+     "title": "Informe A10-0211/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0211_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "type": "PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
+   "title": "Plenary endorse committee interinstitutional negotiations",
+   "docs": []
+  },
+  {
+   "date": "2026-10-08",
+   "type": "COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT",
+   "title": "Acuerdo provisional aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-11-04",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0211-AM-036-036",
+     "title": "Enmiendas al Pleno 36-36 (informe A10-0211/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0211-AM-036-036_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0211-AM-001-035",
+     "title": "Enmiendas al Pleno 1-35 (informe A10-0211/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0211-AM-001-035_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 35
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "type": "PLENARY_ADOPT_POSITION",
+   "title": "Posición del Parlamento aprobada en el Pleno",
+   "docs": [
+    {
+     "id": "TA-10-2026-0374",
+     "title": "Texto aprobado P10_TA(2026)0374",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0374_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2026-11-12-ITM-006-09",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2026-11-12-ITM-006-09_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2026-11-12-ITM-006-09",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-12-ITM-006-09_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0211",
+     "title": "Informe A10-0211/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0211_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "AGRI-AL-791021",
+   "title": "AGRI-AL-791021",
+   "url": "",
+   "kind": "other",
+   "date": "2026-06-12"
+  },
+  {
+   "id": "JURI-PR-789976",
+   "title": "Proyecto de informe JURI (789976)",
+   "url": "https://www.europarl.europa.eu/doceo/document/JURI-PR-789976_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-06-18"
+  },
+  {
+   "id": "JURI-AM-790209",
+   "title": "Enmiendas en comisión JURI (790209)",
+   "url": "https://www.europarl.europa.eu/doceo/document/JURI-AM-790209_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-06-25"
+  },
+  {
+   "id": "A-10-2026-0211",
+   "title": "Informe A10-0211/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0211_EN.html",
+   "kind": "report",
+   "date": "2026-07-20"
+  },
+  {
+   "id": "A-10-2026-0211-AM-036-036",
+   "title": "Enmiendas al Pleno 36-36 (informe A10-0211/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0211-AM-036-036_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-11-04"
+  },
+  {
+   "id": "A-10-2026-0211-AM-001-035",
+   "title": "Enmiendas al Pleno 1-35 (informe A10-0211/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0211-AM-001-035_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 35,
+   "date": "2026-11-06"
+  },
+  {
+   "id": "TA-10-2026-0374",
+   "title": "Texto aprobado P10_TA(2026)0374",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0374_EN.html",
+   "kind": "adopted_text",
+   "date": "2026-11-12"
+  }
+ ],
+ "amendments": {
+  "plenary": 36,
+  "committee_documents": 1
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-12-OJ-ITM-V-35",
+   "date": "2026-11-12",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-35)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_EN.html",
+   "refs": [
+    "2026/0044(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0044(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_44",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_44?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-0044?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-12-OJ-ITM-V-35",
+   "date": "2026-11-12",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-35)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [
+  {
+   "id": "ST-15323-2026-INIT",
+   "code": "ST 15323/26",
+   "date": "2026-11-16",
+   "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2019/1753 as regards amendments adopted by the Assembly of the Lisbon Union on 14 July 2025 to the Common Regulations under the Lisbon Agreement on Appellations of Origin and Geographical Indications - Outcome of the European Parliament’s first reading (Brussels, 11 to 12 November 2026)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15323-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "PE-63-2026-INIT",
+   "code": "PE 63/26",
+   "date": "2026-11-18",
+   "title": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2019/1753 as regards amendments to the Common Regulations under the Lisbon Agreement for the Protection of Appellations of Origin and their International Registration and the Geneva Act of the Lisbon Agreement on Appellations of Origin and Geographical Indications",
+   "url": "https://data.consilium.europa.eu/doc/document/PE-63-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
+ "followed": false,
+ "follow_url": ""
+}

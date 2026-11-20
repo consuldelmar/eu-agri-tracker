@@ -1,0 +1,227 @@
+{
+ "ref": "2022/0362(NLE)",
+ "id": "2022-0362",
+ "type": "NLE",
+ "title": "Celebración de un acuerdo entre la Unión Europea y la República de Seychelles sobre el acceso de los buques pesqueros de Seychelles a las aguas de Mayotte",
+ "title_en": "Conclusion of an Agreement between the European union and the Republic of Seychelles on access for Seychelles fishing vessels to the waters of Mayotte",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [
+  {
+   "id": "125045",
+   "name": "Clara AGUILERA",
+   "group": "S&D",
+   "country": "ESP",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2023-12-13"
+  },
+  {
+   "id": "221463",
+   "name": "Ladislav ILČIĆ",
+   "group": "ECR",
+   "country": "HRV",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2024-01-16"
+  },
+  {
+   "id": "96922",
+   "name": "Izaskun BILBAO BARANDICA",
+   "group": "Renew",
+   "country": "ESP",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2023-12-07"
+  },
+  {
+   "id": "197645",
+   "name": "Francisco GUERREIRO",
+   "group": "Verts/ALE",
+   "country": "PRT",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2024-01-24"
+  },
+  {
+   "id": "136236",
+   "name": "João PIMENTA LOPES",
+   "group": "The Left",
+   "country": "PRT",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2024-01-24"
+  },
+  {
+   "id": "96936",
+   "name": "Gabriel MATO",
+   "group": "PPE",
+   "country": "ES",
+   "role": "rapporteur",
+   "committee": "PECH",
+   "since": "2023-12-07"
+  }
+ ],
+ "started": "2023-03-16",
+ "last_activity": "2024-03-27",
+ "events": [
+  {
+   "date": "2023-03-16",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-12-18",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "PECH-PR-757013",
+     "title": "Proyecto de informe PECH (757013)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-757013_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-19",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-02-20",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0043",
+     "title": "Informe A9-0043/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0043_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-29",
+   "type": "PLENARY_DECISION",
+   "title": "Plenary decision",
+   "docs": [
+    {
+     "id": "TA-9-2024-0111",
+     "title": "Texto aprobado P9_TA(2024)0111",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0111_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-29",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-9-2024-02-29-ITM-007-02",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-02-29-ITM-007-02_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2024-02-29-ITM-007-02",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-02-29-ITM-007-02_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-29",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0043",
+     "title": "Informe A9-0043/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0043_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-27",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "PECH-PR-757013",
+   "title": "Proyecto de informe PECH (757013)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-757013_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-12-18"
+  },
+  {
+   "id": "A-9-2024-0043",
+   "title": "Informe A9-0043/2024",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0043_EN.html",
+   "kind": "report",
+   "date": "2024-02-20"
+  },
+  {
+   "id": "TA-9-2024-0111",
+   "title": "Texto aprobado P9_TA(2024)0111",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0111_EN.html",
+   "kind": "adopted_text",
+   "date": "2024-02-29"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2024-02-29-OJ-ITM-V-53",
+   "date": "2024-02-29",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-53)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-02-29_EN.html",
+   "refs": [
+    "2022/0362(NLE)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0362(NLE)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2022_362",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2022_362?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2022-0362?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2024-02-29-OJ-ITM-V-53",
+   "date": "2024-02-29",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-53)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-02-29_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

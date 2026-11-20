@@ -1,0 +1,241 @@
+{
+ "ref": "2026/0265(COD)",
+ "id": "2026-0265",
+ "type": "COD",
+ "title": "Ley de Contratación Pública",
+ "title_en": "Public Procurement Act",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "IMCO",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "EMPL",
+   "role": "opinion"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  },
+  {
+   "code": "INTA",
+   "role": "opinion"
+  },
+  {
+   "code": "ITRE",
+   "role": "opinion"
+  },
+  {
+   "code": "JURI",
+   "role": "opinion"
+  },
+  {
+   "code": "LIBE",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "budget"
+  }
+ ],
+ "people": [
+  {
+   "id": "257437",
+   "name": "Catarina VIEIRA",
+   "group": "Verts/ALE",
+   "country": "NL",
+   "role": "opinion_rapporteur",
+   "committee": "INTA",
+   "since": "2026-11-12"
+  },
+  {
+   "id": "197649",
+   "name": "Gheorghe FALCĂ",
+   "group": "PPE",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2026-11-11"
+  },
+  {
+   "id": "199941",
+   "name": "Marianne VIND",
+   "group": "S&D",
+   "country": "DK",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2026-10-30"
+  },
+  {
+   "id": "236050",
+   "name": "Marie DAUCHY",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2026-11-04"
+  },
+  {
+   "id": "257143",
+   "name": "Mariateresa VIVALDINI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2026-10-20"
+  },
+  {
+   "id": "124700",
+   "name": "Jana TOOM",
+   "group": "Renew",
+   "country": "EE",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2026-10-21"
+  },
+  {
+   "id": "208722",
+   "name": "Sara MATTHIEU",
+   "group": "Verts/ALE",
+   "country": "BE",
+   "role": "opinion_rapporteur",
+   "committee": "EMPL",
+   "since": "2026-11-04"
+  },
+  {
+   "id": "257023",
+   "name": "Per CLAUSEN",
+   "group": "The Left",
+   "country": "DK",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2026-10-16"
+  },
+  {
+   "id": "257023",
+   "name": "Per CLAUSEN",
+   "group": "The Left",
+   "country": "DK",
+   "role": "opinion_rapporteur",
+   "committee": "ENVI",
+   "since": "2026-11-12"
+  },
+  {
+   "id": "119435",
+   "name": "Davor Ivo STIER",
+   "group": "PPE",
+   "country": "HR",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2026-10-09"
+  },
+  {
+   "id": "275087",
+   "name": "Georgia TRAMACERE",
+   "group": "S&D",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2026-10-13"
+  },
+  {
+   "id": "256882",
+   "name": "Julie RECHAGNEUX",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_rapporteur",
+   "committee": "ITRE",
+   "since": "2026-10-12"
+  },
+  {
+   "id": "256976",
+   "name": "Brigitte VAN DEN BERG",
+   "group": "Renew",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2026-10-13"
+  },
+  {
+   "id": "97236",
+   "name": "Marie TOUSSAINT",
+   "group": "Verts/ALE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2026-11-04"
+  },
+  {
+   "id": "257070",
+   "name": "Marcin SYPNIEWSKI",
+   "group": "ESN",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2026-11-09"
+  },
+  {
+   "id": "197473",
+   "name": "Christian DOLESCHAL",
+   "group": "PPE",
+   "country": "DE",
+   "role": "rapporteur",
+   "committee": "IMCO",
+   "since": "2026-11-16"
+  },
+  {
+   "id": "256803",
+   "name": "Maria GUZENINA",
+   "group": "S&D",
+   "country": "FI",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2026-11-17"
+  },
+  {
+   "id": "257003",
+   "name": "Jeannette BALJEU",
+   "group": "Renew",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2026-09-25"
+  }
+ ],
+ "started": "2026-11-11",
+ "last_activity": "2026-11-11",
+ "events": [
+  {
+   "date": "2026-11-11",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0265(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_265",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_265?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-0265?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

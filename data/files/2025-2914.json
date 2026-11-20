@@ -1,0 +1,46 @@
+{
+ "ref": "2025/2914(DEA)",
+ "id": "2025-2914",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2017/2107 del Parlamento Europeo y del Consejo en lo que respecta al número de dispositivos de concentración de peces permitidos en la zona del Convenio de la Comisión Internacional para la Conservación del Atún Atlántico",
+ "title_en": "Commission Delegated Regulation amending Regulation (EU) 2017/2107 of the European Parliament and of the Council as regards the number of fish aggregating devices permitted in the Convention area of the International Commission for the Conservation of Atlantic Tunas",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2025-10-08",
+ "last_activity": "2025-10-08",
+ "events": [
+  {
+   "date": "2025-10-08",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2914(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2914",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2914?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2914?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

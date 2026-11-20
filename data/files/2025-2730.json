@@ -1,0 +1,66 @@
+{
+ "ref": "2025/2730(DEA)",
+ "id": "2025-2730",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) 2024/1735 del Parlamento Europeo y del Consejo mediante la especificación de las normas relativas a la determinación de los productores autorizados de petróleo y gas que deben contribuir al propósito de alcanzar el objetivo a escala de la Unión de capacidad de inyección de CO2 disponible de aquí a 2030, al cálculo de sus contribuciones respectivas y a sus obligaciones de notificación",
+ "title_en": "Commission Delegated Regulation supplementing Regulation (EU) 2024/1735 of the European Parliament and of the Council by specifying the rules on the identification of authorised oil and gas producers who are required to contribute to the objective of reaching the Union-target for available CO2 injection capacity by 2030, on the calculation of their respective contributions, and on their reporting obligations",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ITRE",
+   "role": "lead"
+  },
+  {
+   "code": "ECON",
+   "role": "opinion"
+  },
+  {
+   "code": "EMPL",
+   "role": "opinion"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  },
+  {
+   "code": "IMCO",
+   "role": "opinion"
+  },
+  {
+   "code": "REGI",
+   "role": "opinion"
+  }
+ ],
+ "people": [],
+ "started": "2025-06-18",
+ "last_activity": "2025-06-18",
+ "events": [
+  {
+   "date": "2025-06-18",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2730(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2730",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2730?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2730?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

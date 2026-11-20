@@ -1,0 +1,352 @@
+{
+ "ref": "2023/0147(NLE)",
+ "id": "2023-0147",
+ "type": "NLE",
+ "title": "Protocolo de aplicación del Acuerdo de colaboración en el sector pesquero entre la Comunidad Europea, por una parte, y la República de Kiribati, por otra (2023‐2028)",
+ "title_en": "The Protocol on the implementation of the Fisheries Partnership Agreement between the European Community on the one hand, and the Republic of Kiribati, on the other (2023-2028)",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  },
+  {
+   "code": "BUDG",
+   "role": "opinion"
+  },
+  {
+   "code": "DEVE",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "125030",
+   "name": "Annie SCHREIJER-PIERIK",
+   "group": "PPE",
+   "country": "NLD",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2023-06-08"
+  },
+  {
+   "id": "125045",
+   "name": "Clara AGUILERA",
+   "group": "S&D",
+   "country": "ESP",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2023-07-12"
+  },
+  {
+   "id": "197544",
+   "name": "Elżbieta RAFALSKA",
+   "group": "ECR",
+   "country": "POL",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2023-06-07"
+  },
+  {
+   "id": "96922",
+   "name": "Izaskun BILBAO BARANDICA",
+   "group": "Renew",
+   "country": "ESP",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2023-07-05"
+  },
+  {
+   "id": "96734",
+   "name": "Ska KELLER",
+   "group": "Verts/ALE",
+   "country": "DEU",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2023-07-06"
+  },
+  {
+   "id": "197519",
+   "name": "Beata KEMPA",
+   "group": "ECR",
+   "country": "POL",
+   "role": "opinion_rapporteur",
+   "committee": "DEVE",
+   "since": "2023-07-18"
+  },
+  {
+   "id": "197412",
+   "name": "Niclas HERBST",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_rapporteur",
+   "committee": "BUDG",
+   "since": "2023-10-24"
+  },
+  {
+   "id": "136236",
+   "name": "João PIMENTA LOPES",
+   "group": "The Left",
+   "country": "PRT",
+   "role": "rapporteur",
+   "committee": "PECH",
+   "since": "2023-06-05"
+  }
+ ],
+ "started": "2023-08-29",
+ "last_activity": "2024-01-24",
+ "events": [
+  {
+   "date": "2023-08-29",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "DEVE-PA-752754",
+     "title": "Proyecto de opinión DEVE (752754)",
+     "url": "https://www.europarl.europa.eu/doceo/document/DEVE-PA-752754_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-20",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "DEVE-AD-752754",
+     "title": "Opinión DEVE (752754)",
+     "url": "https://www.europarl.europa.eu/doceo/document/DEVE-AD-752754_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-04",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "PECH-PR-753774",
+     "title": "Proyecto de informe PECH (753774)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-753774_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-19",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-10-26",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "BUDG-PA-755002",
+     "title": "Proyecto de opinión BUDG (755002)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-PA-755002_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-16",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "BUDG-AD-755002",
+     "title": "Opinión BUDG (755002)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-755002_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-29",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-11-30",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0380",
+     "title": "Informe A9-0380/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0380_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-12-12",
+   "type": "PLENARY_DECISION",
+   "title": "Plenary decision",
+   "docs": [
+    {
+     "id": "TA-9-2023-0452",
+     "title": "Texto aprobado P9_TA(2023)0452",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0452_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2023-12-12",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0380",
+     "title": "Informe A9-0380/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0380_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2023-0356",
+     "title": "Propuesta o documento recibido C9-0356/2023",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "CRE-9-2023-12-12-ITM-007-09",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2023-12-12-ITM-007-09_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2023-12-12-ITM-007-09",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2023-12-12-ITM-007-09_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2023-12-12",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0380",
+     "title": "Informe A9-0380/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0380_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-01-24",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "DEVE-PA-752754",
+   "title": "Proyecto de opinión DEVE (752754)",
+   "url": "https://www.europarl.europa.eu/doceo/document/DEVE-PA-752754_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2023-08-29"
+  },
+  {
+   "id": "DEVE-AD-752754",
+   "title": "Opinión DEVE (752754)",
+   "url": "https://www.europarl.europa.eu/doceo/document/DEVE-AD-752754_EN.pdf",
+   "kind": "opinion",
+   "date": "2023-09-20"
+  },
+  {
+   "id": "PECH-PR-753774",
+   "title": "Proyecto de informe PECH (753774)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-753774_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-10-04"
+  },
+  {
+   "id": "BUDG-PA-755002",
+   "title": "Proyecto de opinión BUDG (755002)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-PA-755002_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2023-10-26"
+  },
+  {
+   "id": "BUDG-AD-755002",
+   "title": "Opinión BUDG (755002)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-755002_EN.pdf",
+   "kind": "opinion",
+   "date": "2023-11-16"
+  },
+  {
+   "id": "A-9-2023-0380",
+   "title": "Informe A9-0380/2023",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0380_EN.html",
+   "kind": "report",
+   "date": "2023-12-12"
+  },
+  {
+   "id": "C-9-2023-0356",
+   "title": "Propuesta o documento recibido C9-0356/2023",
+   "url": "",
+   "kind": "proposal",
+   "date": "2023-12-12"
+  },
+  {
+   "id": "TA-9-2023-0452",
+   "title": "Texto aprobado P9_TA(2023)0452",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0452_EN.html",
+   "kind": "adopted_text",
+   "date": "2023-12-12"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2023-12-12-OJ-ITM-V-68",
+   "date": "2023-12-12",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-68)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2023-12-12_EN.html",
+   "refs": [
+    "2023/0147(NLE)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0147(NLE)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_147",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_147?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-0147?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2023-12-12-OJ-ITM-V-68",
+   "date": "2023-12-12",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-68)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2023-12-12_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

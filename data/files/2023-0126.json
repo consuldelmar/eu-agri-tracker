@@ -1,0 +1,418 @@
+{
+ "ref": "2023/0126(COD)",
+ "id": "2023-0126",
+ "type": "COD",
+ "title": "Certificado complementario de protección unitario para los productos fitosanitarios",
+ "title_en": "Unitary supplementary protection certificate for plant protection products",
+ "stage": "Plenary amend proposal",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "JURI",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "124808",
+   "name": "Norbert LINS",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2023-05-23"
+  },
+  {
+   "id": "197606",
+   "name": "Javier ZARZALEJOS",
+   "group": "PPE",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "JURI",
+   "since": "2023-09-07"
+  },
+  {
+   "id": "185619",
+   "name": "Tiemo WÖLKEN",
+   "group": "S&D",
+   "country": "DE",
+   "role": "rapporteur",
+   "committee": "JURI",
+   "since": "2023-07-19"
+  },
+  {
+   "id": "204400",
+   "name": "Adrián VÁZQUEZ LÁZARA",
+   "group": "Renew",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "JURI",
+   "since": "2023-09-13"
+  },
+  {
+   "id": "97236",
+   "name": "Marie TOUSSAINT",
+   "group": "Verts/ALE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "JURI",
+   "since": "2023-09-28"
+  },
+  {
+   "id": "24505",
+   "name": "Emmanuel MAUREL",
+   "group": "The Left",
+   "country": "FRA",
+   "role": "shadow",
+   "committee": "JURI",
+   "since": "2023-09-18"
+  }
+ ],
+ "started": "2023-07-06",
+ "last_activity": "2024-02-28",
+ "events": [
+  {
+   "date": "2023-07-06",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AL-750122",
+     "title": "AGRI-AL-750122",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-11",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-10-13",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "JURI-PR-753702",
+     "title": "Proyecto de informe JURI (753702)",
+     "url": "https://www.europarl.europa.eu/doceo/document/JURI-PR-753702_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-13",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "JURI-AM-756100",
+     "title": "Enmiendas en comisión JURI (756100)",
+     "url": "https://www.europarl.europa.eu/doceo/document/JURI-AM-756100_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2024-01-24",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-02-01",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0020",
+     "title": "Informe A9-0020/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0020_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-27",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0016",
+     "title": "Informe A9-0016/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0016_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2023-0147",
+     "title": "Propuesta o documento recibido C9-0147/2023",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2024-0023",
+     "title": "Informe A9-0023/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0023_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2023-0148",
+     "title": "Propuesta o documento recibido C9-0148/2023",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2024-0020",
+     "title": "Informe A9-0020/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0020_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2023-0152",
+     "title": "Propuesta o documento recibido C9-0152/2023",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "C-9-2023-0146",
+     "title": "Propuesta o documento recibido C9-0146/2023",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2024-0019",
+     "title": "Informe A9-0019/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0019_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2024-0022",
+     "title": "Informe A9-0022/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0022_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2023-0149",
+     "title": "Propuesta o documento recibido C9-0149/2023",
+     "url": "",
+     "kind": "proposal"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-28",
+   "type": "PLENARY_AMEND_PROPOSAL",
+   "title": "Plenary amend proposal",
+   "docs": [
+    {
+     "id": "TA-9-2024-0096",
+     "title": "Texto aprobado P9_TA(2024)0096",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0096_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-28",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-9-2024-02-28-ITM-008-02",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-02-28-ITM-008-02_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2024-02-28-ITM-008-02",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-02-28-ITM-008-02_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-28",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0020",
+     "title": "Informe A9-0020/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0020_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "AGRI-AL-750122",
+   "title": "AGRI-AL-750122",
+   "url": "",
+   "kind": "other",
+   "date": "2023-07-06"
+  },
+  {
+   "id": "JURI-PR-753702",
+   "title": "Proyecto de informe JURI (753702)",
+   "url": "https://www.europarl.europa.eu/doceo/document/JURI-PR-753702_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-10-13"
+  },
+  {
+   "id": "JURI-AM-756100",
+   "title": "Enmiendas en comisión JURI (756100)",
+   "url": "https://www.europarl.europa.eu/doceo/document/JURI-AM-756100_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2023-11-13"
+  },
+  {
+   "id": "A-9-2024-0020",
+   "title": "Informe A9-0020/2024",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0020_EN.html",
+   "kind": "report",
+   "date": "2024-02-01"
+  },
+  {
+   "id": "A-9-2024-0016",
+   "title": "Informe A9-0016/2024",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0016_EN.html",
+   "kind": "report",
+   "date": "2024-02-27"
+  },
+  {
+   "id": "C-9-2023-0147",
+   "title": "Propuesta o documento recibido C9-0147/2023",
+   "url": "",
+   "kind": "proposal",
+   "date": "2024-02-27"
+  },
+  {
+   "id": "A-9-2024-0023",
+   "title": "Informe A9-0023/2024",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0023_EN.html",
+   "kind": "report",
+   "date": "2024-02-27"
+  },
+  {
+   "id": "C-9-2023-0148",
+   "title": "Propuesta o documento recibido C9-0148/2023",
+   "url": "",
+   "kind": "proposal",
+   "date": "2024-02-27"
+  },
+  {
+   "id": "C-9-2023-0152",
+   "title": "Propuesta o documento recibido C9-0152/2023",
+   "url": "",
+   "kind": "proposal",
+   "date": "2024-02-27"
+  },
+  {
+   "id": "C-9-2023-0146",
+   "title": "Propuesta o documento recibido C9-0146/2023",
+   "url": "",
+   "kind": "proposal",
+   "date": "2024-02-27"
+  },
+  {
+   "id": "A-9-2024-0019",
+   "title": "Informe A9-0019/2024",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0019_EN.html",
+   "kind": "report",
+   "date": "2024-02-27"
+  },
+  {
+   "id": "A-9-2024-0022",
+   "title": "Informe A9-0022/2024",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0022_EN.html",
+   "kind": "report",
+   "date": "2024-02-27"
+  },
+  {
+   "id": "C-9-2023-0149",
+   "title": "Propuesta o documento recibido C9-0149/2023",
+   "url": "",
+   "kind": "proposal",
+   "date": "2024-02-27"
+  },
+  {
+   "id": "TA-9-2024-0096",
+   "title": "Texto aprobado P9_TA(2024)0096",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0096_EN.html",
+   "kind": "adopted_text",
+   "date": "2024-02-28"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 1
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2024-02-28-OJ-ITM-V-18",
+   "date": "2024-02-28",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-18)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-02-28_EN.html",
+   "refs": [
+    "2023/0126(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-02-27-OJ-ITM-D-18",
+   "date": "2024-02-27",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-18)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-02-27_EN.html",
+   "refs": [
+    "2023/0126(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0126(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_126",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_126?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-0126?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2024-02-27-OJ-ITM-D-18",
+   "date": "2024-02-27",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-18)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-02-27_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-02-28-OJ-ITM-V-18",
+   "date": "2024-02-28",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-18)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-02-28_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

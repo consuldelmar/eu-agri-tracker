@@ -1,0 +1,703 @@
+{
+ "ref": "2025/0531(COD)",
+ "id": "2025-0531",
+ "type": "COD",
+ "title": "Modificación de los Reglamentos (CE) n.º 1272/2008, (CE) n.º 1223/2009 y (UE) 2019/1009 en lo que respecta a la simplificación de determinados requisitos y procedimientos para los productos químicos",
+ "title_en": "Amending Regulations (EC) No 1272/2008, (EC) No 1223/2009 and (EU) 2019/1009 as regards simplification of certain requirements and procedures for chemical products",
+ "stage": "Debate en el Pleno",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "joint"
+  },
+  {
+   "code": "IMCO",
+   "role": "joint"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "256950",
+   "name": "Dimitris TSIODRAS",
+   "group": "PPE",
+   "country": "GR",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2025-12-10"
+  },
+  {
+   "id": "34232",
+   "name": "Kristian VIGENIN",
+   "group": "S&D",
+   "country": "BG",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-12-15"
+  },
+  {
+   "id": "256876",
+   "name": "Anne-Sophie FRIGOUT",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-12-19"
+  },
+  {
+   "id": "197607",
+   "name": "Pietro FIOCCHI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-12-15"
+  },
+  {
+   "id": "197770",
+   "name": "Martin HOJSÍK",
+   "group": "Renew",
+   "country": "SK",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-10-29"
+  },
+  {
+   "id": "256917",
+   "name": "Majdouline SBAI",
+   "group": "Verts/ALE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-12-11"
+  },
+  {
+   "id": "257023",
+   "name": "Per CLAUSEN",
+   "group": "The Left",
+   "country": "DK",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-09-25"
+  },
+  {
+   "id": "267485",
+   "name": "Volker SCHNURRBUSCH",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-02-05"
+  },
+  {
+   "id": "204333",
+   "name": "Salvatore DE MEO",
+   "group": "PPE",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "256994",
+   "name": "Idoia MENDIA",
+   "group": "S&D",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2025-12-12"
+  },
+  {
+   "id": "257080",
+   "name": "Piotr MÜLLER",
+   "group": "ECR",
+   "country": "PL",
+   "role": "rapporteur",
+   "committee": "IMCO",
+   "since": "2025-12-10"
+  },
+  {
+   "id": "257259",
+   "name": "Nikola MINCHEV",
+   "group": "Renew",
+   "country": "BG",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "197461",
+   "name": "Katrin LANGENSIEPEN",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2026-01-26"
+  },
+  {
+   "id": "256983",
+   "name": "Jessika VAN LEEUWEN",
+   "group": "PPE",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-12-09"
+  },
+  {
+   "id": "124785",
+   "name": "Maria GRAPINI",
+   "group": "S&D",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-12-03"
+  },
+  {
+   "id": "197552",
+   "name": "Veronika VRECIONOVÁ",
+   "group": "ECR",
+   "country": "CZ",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2025-07-15"
+  },
+  {
+   "id": "197558",
+   "name": "Asger CHRISTENSEN",
+   "group": "Renew",
+   "country": "DK",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-10-16"
+  }
+ ],
+ "started": "2025-09-08",
+ "last_activity": "2026-10-22",
+ "events": [
+  {
+   "date": "2025-09-08",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-01-09",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "CJ45-PR-782180",
+     "title": "CJ45-PR-782180",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-01-28",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "CJ45-AM-784138",
+     "title": "CJ45-AM-784138",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-02-06",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "CJ45-AM-784152",
+     "title": "CJ45-AM-784152",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-02-10",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "CJ45-AM-784370",
+     "title": "CJ45-AM-784370",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-02-24",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AD-778380",
+     "title": "Opinión AGRI (778380)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AD-778380_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-02-24",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "CJ45-AM-784369",
+     "title": "CJ45-AM-784369",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-15",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-04-20",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0104",
+     "title": "Informe A10-0104/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0104_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-29",
+   "type": "PLENARY_AMEND",
+   "title": "Enmiendas aprobadas en el Pleno",
+   "docs": [
+    {
+     "id": "TA-10-2026-0138",
+     "title": "Texto aprobado P10_TA(2026)0138",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0138_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-29",
+   "type": "PLENARY_REFER_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
+   "title": "Devuelto a comisión para negociaciones (trílogos)",
+   "docs": []
+  },
+  {
+   "date": "2026-04-29",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2026-04-29-ITM-005-15",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2026-04-29-ITM-005-15_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2026-04-29-ITM-005-15",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-04-29-ITM-005-15_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-29",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0104",
+     "title": "Informe A10-0104/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0104_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-16",
+   "type": "INTERINSTITUTIONAL_NEGOTIATION",
+   "title": "Trílogo",
+   "docs": []
+  },
+  {
+   "date": "2026-07-14",
+   "type": "COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT",
+   "title": "Acuerdo provisional aprobado en comisión",
+   "docs": [
+    {
+     "id": "CJ45-AG-790911",
+     "title": "CJ45-AG-790911",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno (5 documentos)",
+   "docs": [
+    {
+     "id": "A-10-2026-0104-AM-123-125",
+     "title": "Enmiendas al Pleno 123-125 (informe A10-0104/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0104-AM-123-125_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 3
+    },
+    {
+     "id": "A-10-2026-0104-AM-120-129",
+     "title": "Enmiendas al Pleno 120-129 (informe A10-0104/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0104-AM-120-129_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 10
+    },
+    {
+     "id": "A-10-2026-0104-AM-119-119",
+     "title": "Enmiendas al Pleno 119-119 (informe A10-0104/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0104-AM-119-119_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2026-0104-AM-118-118",
+     "title": "Enmiendas al Pleno 118-118 (informe A10-0104/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0104-AM-118-118_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2026-0104-AM-130-132",
+     "title": "Enmiendas al Pleno 130-132 (informe A10-0104/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0104-AM-130-132_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 3
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "type": "PLENARY_ADOPT_POSITION",
+   "title": "Posición del Parlamento aprobada en el Pleno",
+   "docs": [
+    {
+     "id": "TA-10-2026-0362",
+     "title": "Texto aprobado P10_TA(2026)0362",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0362_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0104",
+     "title": "Informe A10-0104/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0104_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-10-2025-0143",
+     "title": "Propuesta o documento recibido C10-0143/2025",
+     "url": "",
+     "kind": "proposal"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2026-10-22-ITM-007-03",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2026-10-22-ITM-007-03_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2026-10-22-ITM-007-03",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-22-ITM-007-03_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0104",
+     "title": "Informe A10-0104/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0104_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "CJ45-PR-782180",
+   "title": "CJ45-PR-782180",
+   "url": "",
+   "kind": "other",
+   "date": "2026-01-09"
+  },
+  {
+   "id": "CJ45-AM-784138",
+   "title": "CJ45-AM-784138",
+   "url": "",
+   "kind": "other",
+   "date": "2026-01-28"
+  },
+  {
+   "id": "CJ45-AM-784152",
+   "title": "CJ45-AM-784152",
+   "url": "",
+   "kind": "other",
+   "date": "2026-02-06"
+  },
+  {
+   "id": "CJ45-AM-784370",
+   "title": "CJ45-AM-784370",
+   "url": "",
+   "kind": "other",
+   "date": "2026-02-10"
+  },
+  {
+   "id": "CJ45-AM-784369",
+   "title": "CJ45-AM-784369",
+   "url": "",
+   "kind": "other",
+   "date": "2026-02-24"
+  },
+  {
+   "id": "AGRI-AD-778380",
+   "title": "Opinión AGRI (778380)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AD-778380_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-02-24"
+  },
+  {
+   "id": "TA-10-2026-0138",
+   "title": "Texto aprobado P10_TA(2026)0138",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0138_EN.html",
+   "kind": "adopted_text",
+   "date": "2026-04-29"
+  },
+  {
+   "id": "CJ45-AG-790911",
+   "title": "CJ45-AG-790911",
+   "url": "",
+   "kind": "other",
+   "date": "2026-07-14"
+  },
+  {
+   "id": "A-10-2026-0104-AM-123-125",
+   "title": "Enmiendas al Pleno 123-125 (informe A10-0104/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0104-AM-123-125_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 3,
+   "date": "2026-10-14"
+  },
+  {
+   "id": "A-10-2026-0104-AM-120-129",
+   "title": "Enmiendas al Pleno 120-129 (informe A10-0104/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0104-AM-120-129_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 10,
+   "date": "2026-10-14"
+  },
+  {
+   "id": "A-10-2026-0104-AM-119-119",
+   "title": "Enmiendas al Pleno 119-119 (informe A10-0104/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0104-AM-119-119_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-10-14"
+  },
+  {
+   "id": "A-10-2026-0104-AM-118-118",
+   "title": "Enmiendas al Pleno 118-118 (informe A10-0104/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0104-AM-118-118_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-10-14"
+  },
+  {
+   "id": "A-10-2026-0104-AM-130-132",
+   "title": "Enmiendas al Pleno 130-132 (informe A10-0104/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0104-AM-130-132_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 3,
+   "date": "2026-10-14"
+  },
+  {
+   "id": "A-10-2026-0104",
+   "title": "Informe A10-0104/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0104_EN.html",
+   "kind": "report",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "C-10-2025-0143",
+   "title": "Propuesta o documento recibido C10-0143/2025",
+   "url": "",
+   "kind": "proposal",
+   "date": "2026-10-22"
+  },
+  {
+   "id": "TA-10-2026-0362",
+   "title": "Texto aprobado P10_TA(2026)0362",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0362_EN.html",
+   "kind": "adopted_text",
+   "date": "2026-10-22"
+  }
+ ],
+ "amendments": {
+  "plenary": 18,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-10-22-OJ-ITM-V-35",
+   "date": "2026-10-22",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-35)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-22_EN.html",
+   "refs": [
+    "2025/0531(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2026-10-22-OJ-ITM-D-35",
+   "date": "2026-10-22",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-35)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-22_EN.html",
+   "refs": [
+    "2025/0531(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2026-04-29-OJ-ITM-V-46",
+   "date": "2026-04-29",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-46)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-04-29_EN.html",
+   "refs": [
+    "2025/0531(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0531(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_531",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_531?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0531?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-04-29-OJ-ITM-V-46",
+   "date": "2026-04-29",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-46)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-04-29_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2026-10-22-OJ-ITM-V-35",
+   "date": "2026-10-22",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-35)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-22_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2026-10-22-OJ-ITM-D-35",
+   "date": "2026-10-22",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-35)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-22_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [
+  {
+   "id": "PE-48-2026-INIT",
+   "code": "PE 48/26",
+   "date": "2026-11-04",
+   "title": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EC) No 1272/2008, (EC) No 1223/2009, (EU) 2019/1009 and (EU) 2024/2865 as regards simplification of certain requirements and procedures for chemical products",
+   "url": "https://data.consilium.europa.eu/doc/document/PE-48-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-15291-2026-INIT",
+   "code": "ST 15291/26",
+   "date": "2026-11-06",
+   "title": "Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EC) No 1272/2008, (EC) No 1223/2009, (EU) 2019/1009 and (EU) 2024/2865 as regards simplification of certain requirements and procedures for chemical products (first reading) - Adoption of the legislative act",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15291-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Adopción por el Consejo",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-15291-2026-REV-1",
+   "code": "ST 15291/26 REV 1",
+   "date": "2026-11-11",
+   "title": "Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EC) No 1272/2008, (EC) No 1223/2009, (EU) 2019/1009 and (EU) 2024/2865 as regards simplification of certain requirements and procedures for chemical products (first reading) - Adoption of the legislative act",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15291-2026-REV-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Adopción por el Consejo",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-15291-2026-REV-1-ADD-1",
+   "code": "ST 15291/26 REV 1 ADD 1",
+   "date": "2026-11-11",
+   "title": "Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EC) No 1272/2008, (EC) No 1223/2009, (EU) 2019/1009 and (EU) 2024/2865 as regards simplification of certain requirements and procedures for chemical products (first reading) — Adoption of the legislative act — Statement",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15291-2026-REV-1-ADD-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Adopción por el Consejo",
+   "meeting_date": null
+  }
+ ],
+ "followed": false,
+ "follow_url": ""
+}

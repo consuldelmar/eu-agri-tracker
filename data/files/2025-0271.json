@@ -1,0 +1,368 @@
+{
+ "ref": "2025/0271(NLE)",
+ "id": "2025-0271",
+ "type": "NLE",
+ "title": "Celebración, en nombre de la Unión Europea, del Acuerdo Comercial Interino entre la Unión Europea y los Estados Unidos Mexicanos",
+ "title_en": "Conclusion, on behalf of the European Union, of the Interim Agreement on Trade between the European Union and the United Mexican States",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "INTA",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "budget"
+  }
+ ],
+ "people": [
+  {
+   "id": "125204",
+   "name": "Borja GIMÉNEZ LARRAZ",
+   "group": "PPE",
+   "country": "ES",
+   "role": "rapporteur",
+   "committee": "INTA",
+   "since": "2025-09-24"
+  },
+  {
+   "id": "256992",
+   "name": "Hana JALLOUL MURO",
+   "group": "S&D",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2026-06-01"
+  },
+  {
+   "id": "96830",
+   "name": "Enikő GYŐRI",
+   "group": "PfE",
+   "country": "HU",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2026-07-06"
+  },
+  {
+   "id": "198490",
+   "name": "Emmanouil FRAGKOS",
+   "group": "ECR",
+   "country": "GR",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2026-05-26"
+  },
+  {
+   "id": "257057",
+   "name": "João COTRIM DE FIGUEIREDO",
+   "group": "Renew",
+   "country": "PT",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2026-03-26"
+  },
+  {
+   "id": "197533",
+   "name": "Manon AUBRY",
+   "group": "The Left",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2026-04-13"
+  },
+  {
+   "id": "197552",
+   "name": "Veronika VRECIONOVÁ",
+   "group": "ECR",
+   "country": "CZ",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2026-06-04"
+  }
+ ],
+ "started": "2026-03-19",
+ "last_activity": "2026-07-31",
+ "events": [
+  {
+   "date": "2026-03-19",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "INTA-PR-779724",
+     "title": "Proyecto de informe INTA (779724)",
+     "url": "https://www.europarl.europa.eu/doceo/document/INTA-PR-779724_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-21",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "INTA-AM-787663",
+     "title": "Enmiendas en comisión INTA (787663)",
+     "url": "https://www.europarl.europa.eu/doceo/document/INTA-AM-787663_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-18",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-06-29",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AL-790128",
+     "title": "AGRI-AL-790128",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-06",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-07-06",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0198",
+     "title": "Informe A10-0198/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0198_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-07",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0182",
+     "title": "Informe A10-0182/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0182_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-10-2026-0128",
+     "title": "Propuesta o documento recibido C10-0128/2026",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-10-2026-0181",
+     "title": "Informe A10-0181/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0181_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-10-2026-0126",
+     "title": "Propuesta o documento recibido C10-0126/2026",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-10-2026-0198",
+     "title": "Informe A10-0198/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0198_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-08",
+   "type": "PLENARY_DECISION",
+   "title": "Plenary decision",
+   "docs": [
+    {
+     "id": "TA-10-2026-0255",
+     "title": "Texto aprobado P10_TA(2026)0255",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0255_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-08",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2026-07-08-ITM-010-05",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2026-07-08-ITM-010-05_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2026-07-08-ITM-010-05",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-07-08-ITM-010-05_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-08",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0198",
+     "title": "Informe A10-0198/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0198_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-31",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "INTA-PR-779724",
+   "title": "Proyecto de informe INTA (779724)",
+   "url": "https://www.europarl.europa.eu/doceo/document/INTA-PR-779724_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-03-19"
+  },
+  {
+   "id": "INTA-AM-787663",
+   "title": "Enmiendas en comisión INTA (787663)",
+   "url": "https://www.europarl.europa.eu/doceo/document/INTA-AM-787663_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-04-21"
+  },
+  {
+   "id": "AGRI-AL-790128",
+   "title": "AGRI-AL-790128",
+   "url": "",
+   "kind": "other",
+   "date": "2026-06-29"
+  },
+  {
+   "id": "A-10-2026-0198",
+   "title": "Informe A10-0198/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0198_EN.html",
+   "kind": "report",
+   "date": "2026-07-06"
+  },
+  {
+   "id": "A-10-2026-0182",
+   "title": "Informe A10-0182/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0182_EN.html",
+   "kind": "report",
+   "date": "2026-07-07"
+  },
+  {
+   "id": "C-10-2026-0128",
+   "title": "Propuesta o documento recibido C10-0128/2026",
+   "url": "",
+   "kind": "proposal",
+   "date": "2026-07-07"
+  },
+  {
+   "id": "A-10-2026-0181",
+   "title": "Informe A10-0181/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0181_EN.html",
+   "kind": "report",
+   "date": "2026-07-07"
+  },
+  {
+   "id": "C-10-2026-0126",
+   "title": "Propuesta o documento recibido C10-0126/2026",
+   "url": "",
+   "kind": "proposal",
+   "date": "2026-07-07"
+  },
+  {
+   "id": "TA-10-2026-0255",
+   "title": "Texto aprobado P10_TA(2026)0255",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0255_EN.html",
+   "kind": "adopted_text",
+   "date": "2026-07-08"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 1
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-07-07-OJ-ITM-D-41",
+   "date": "2026-07-07",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-41)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-07-07_EN.html",
+   "refs": [
+    "2025/0271(NLE)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2026-07-08-OJ-ITM-V-41",
+   "date": "2026-07-08",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-41)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-07-08_EN.html",
+   "refs": [
+    "2025/0271(NLE)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0271(NLE)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_271",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_271?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0271?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-07-07-OJ-ITM-D-41",
+   "date": "2026-07-07",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-41)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-07-07_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2026-07-08-OJ-ITM-V-41",
+   "date": "2026-07-08",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-41)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-07-08_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

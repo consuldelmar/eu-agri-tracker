@@ -1,0 +1,221 @@
+{
+ "ref": "2025/0409(COD)",
+ "id": "2025-0409",
+ "type": "COD",
+ "title": "Modificación de la Directiva 98/58/CE del Consejo y la Directiva 2009/128/CE del Parlamento Europeo y del Consejo en lo que respecta a la simplificación y el refuerzo de los requisitos de seguridad de los alimentos y los piensos y derogación de las Directivas 82/711/CEE y 85/572/CEE del Consejo",
+ "title_en": "Amending Council Directive 98/58/EC and Directive 2009/128/EC of the European Parliament and of the Council as regards the simplification and strengthening of food and feed safety requirements, and repealing Council Directives 82/711/EEC and 85/572/EEC",
+ "stage": "Proyecto de informe presentado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "joint"
+  },
+  {
+   "code": "ENVI",
+   "role": "joint"
+  }
+ ],
+ "people": [
+  {
+   "id": "197404",
+   "name": "Jessica POLFJÄRD",
+   "group": "PPE",
+   "country": "SE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-06"
+  },
+  {
+   "id": "112748",
+   "name": "Biljana BORZAN",
+   "group": "S&D",
+   "country": "HR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-12"
+  },
+  {
+   "id": "256876",
+   "name": "Anne-Sophie FRIGOUT",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-11"
+  },
+  {
+   "id": "257150",
+   "name": "Michele PICARO",
+   "group": "ECR",
+   "country": "IT",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2026-04-16"
+  },
+  {
+   "id": "193292",
+   "name": "Tilly METZ",
+   "group": "Verts/ALE",
+   "country": "LU",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-02-18"
+  },
+  {
+   "id": "125023",
+   "name": "Anja HAZEKAMP",
+   "group": "The Left",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-12"
+  },
+  {
+   "id": "197556",
+   "name": "Ivan DAVID",
+   "group": "ESN",
+   "country": "CZ",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-05-26"
+  },
+  {
+   "id": "96787",
+   "name": "Herbert DORFMANN",
+   "group": "PPE",
+   "country": "IT",
+   "role": "rapporteur",
+   "committee": "AGRI",
+   "since": "2026-04-16"
+  },
+  {
+   "id": "257100",
+   "name": "Gheorghe CÂRCIU",
+   "group": "S&D",
+   "country": "RO",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-04-17"
+  },
+  {
+   "id": "257024",
+   "name": "Mireia BORRÁS PABÓN",
+   "group": "PfE",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-03-23"
+  },
+  {
+   "id": "96810",
+   "name": "Carlo FIDANZA",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-04-20"
+  },
+  {
+   "id": "256891",
+   "name": "Benoit CASSART",
+   "group": "Renew",
+   "country": "BE",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-03-20"
+  },
+  {
+   "id": "256990",
+   "name": "Anna STROLENBERG",
+   "group": "Verts/ALE",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-04-16"
+  }
+ ],
+ "started": "2026-02-09",
+ "last_activity": "2026-07-20",
+ "events": [
+  {
+   "date": "2026-02-09",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-06-19",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "CJ14-PR-789112",
+     "title": "CJ14-PR-789112",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "CJ14-AM-790943",
+     "title": "CJ14-AM-790943",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "CJ14-PR-789112",
+   "title": "CJ14-PR-789112",
+   "url": "",
+   "kind": "other",
+   "date": "2026-06-19"
+  },
+  {
+   "id": "CJ14-AM-790943",
+   "title": "CJ14-AM-790943",
+   "url": "",
+   "kind": "other",
+   "date": "2026-07-20"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0409(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_409",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_409?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0409?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (conjunta)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [
+  {
+   "id": "ST-15001-2026-INIT",
+   "code": "ST 15001/26",
+   "date": "2026-11-12",
+   "title": "AOB item for the meeting of the General Affairs Council on 19 November 2026 Omnibus simplification packages: state of play - Information from the Presidency",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15001-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
+ "followed": false,
+ "follow_url": ""
+}

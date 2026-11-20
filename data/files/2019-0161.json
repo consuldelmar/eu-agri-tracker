@@ -1,0 +1,200 @@
+{
+ "ref": "2019/0161(COD)",
+ "id": "2019-0161",
+ "type": "COD",
+ "title": "Marco de gobernanza del instrumento presupuestario de convergencia y competitividad para la zona del euro",
+ "title_en": "Governance framework for the budgetary instrument for convergence and competitiveness for the euro area",
+ "stage": "Proyecto de informe presentado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ECON",
+   "role": "lead"
+  },
+  {
+   "code": "BUDG",
+   "role": "associated"
+  },
+  {
+   "code": "EMPL",
+   "role": "opinion"
+  },
+  {
+   "code": "ITRE",
+   "role": "opinion"
+  },
+  {
+   "code": "JURI",
+   "role": "opinion"
+  },
+  {
+   "code": "REGI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "197787",
+   "name": "Antonio Maria RINALDI",
+   "group": "ID",
+   "country": "ITA",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2019-09-16"
+  },
+  {
+   "id": "4246",
+   "name": "Othmar KARAS",
+   "group": "PPE",
+   "country": "AUT",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2019-09-16"
+  },
+  {
+   "id": "124691",
+   "name": "Costas MAVRIDES",
+   "group": "S&D",
+   "country": "CY",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2019-09-16"
+  },
+  {
+   "id": "125106",
+   "name": "Johan VAN OVERTVELDT",
+   "group": "ECR",
+   "country": "BE",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2019-09-16"
+  },
+  {
+   "id": "124972",
+   "name": "Ernest URTASUN",
+   "group": "Verts/ALE",
+   "country": "ESP",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2019-09-16"
+  },
+  {
+   "id": "88715",
+   "name": "José GUSMÃO",
+   "group": "The Left",
+   "country": "PRT",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2019-09-16"
+  },
+  {
+   "id": "96991",
+   "name": "Eider GARDIAZABAL RUBIAL",
+   "group": "S&D",
+   "country": "ESP",
+   "role": "opinion_rapporteur",
+   "committee": "BUDG",
+   "since": "2019-10-10"
+  },
+  {
+   "id": "197663",
+   "name": "Dragoş PÎSLARU",
+   "group": "Renew",
+   "country": "ROU",
+   "role": "rapporteur",
+   "committee": "ECON",
+   "since": "2019-09-16"
+  }
+ ],
+ "started": "2019-09-16",
+ "last_activity": "2020-05-04",
+ "events": [
+  {
+   "date": "2019-09-16",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2020-03-04",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "BUDG-PA-648462",
+     "title": "Proyecto de opinión BUDG (648462)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-PA-648462_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2020-04-16",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "ECON-PR-648522",
+     "title": "Proyecto de informe ECON (648522)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ECON-PR-648522_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2020-05-04",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "BUDG-AD-648462",
+     "title": "Opinión BUDG (648462)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-648462_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "BUDG-PA-648462",
+   "title": "Proyecto de opinión BUDG (648462)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-PA-648462_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2020-03-04"
+  },
+  {
+   "id": "ECON-PR-648522",
+   "title": "Proyecto de informe ECON (648522)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ECON-PR-648522_EN.pdf",
+   "kind": "draft_report",
+   "date": "2020-04-16"
+  },
+  {
+   "id": "BUDG-AD-648462",
+   "title": "Opinión BUDG (648462)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-648462_EN.pdf",
+   "kind": "opinion",
+   "date": "2020-05-04"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2019/0161(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2019_161",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2019_161?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2019-0161?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

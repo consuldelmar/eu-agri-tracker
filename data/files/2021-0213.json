@@ -1,0 +1,569 @@
+{
+ "ref": "2021/0213(CNS)",
+ "id": "2021-0213",
+ "type": "CNS",
+ "title": "Reestructuración del régimen de la Unión de imposición de los productos energéticos y de la electricidad (versión refundida)",
+ "title_en": "Restructuring the Union framework for the taxation of energy products and electricity (recast)",
+ "stage": "Committee tabling opinion",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ECON",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "ITRE",
+   "role": "opinion"
+  },
+  {
+   "code": "JURI",
+   "role": "opinion"
+  },
+  {
+   "code": "PECH",
+   "role": "opinion"
+  },
+  {
+   "code": "TRAN",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "124828",
+   "name": "Fulvio MARTUSCIELLO",
+   "group": "PPE",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2024-09-12"
+  },
+  {
+   "id": "237465",
+   "name": "Matthias ECKE",
+   "group": "S&D",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2024-09-12"
+  },
+  {
+   "id": "256844",
+   "name": "Jaroslava POKORNÁ JERMANOVÁ",
+   "group": "PfE",
+   "country": "CZ",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2024-09-12"
+  },
+  {
+   "id": "125106",
+   "name": "Johan VAN OVERTVELDT",
+   "group": "ECR",
+   "country": "BE",
+   "role": "rapporteur",
+   "committee": "ECON",
+   "since": "2024-09-12"
+  },
+  {
+   "id": "198084",
+   "name": "Katri KULMUNI",
+   "group": "Renew",
+   "country": "FI",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2024-09-12"
+  },
+  {
+   "id": "197573",
+   "name": "Kira Marie PETER-HANSEN",
+   "group": "Verts/ALE",
+   "country": "DK",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2024-09-12"
+  },
+  {
+   "id": "257133",
+   "name": "Pasquale TRIDICO",
+   "group": "The Left",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2024-11-07"
+  },
+  {
+   "id": "257069",
+   "name": "Ewa ZAJĄCZKOWSKA-HERNIK",
+   "group": "ESN",
+   "country": "PL",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2024-09-12"
+  },
+  {
+   "id": "257047",
+   "name": "Borys BUDKA",
+   "group": "PPE",
+   "country": "PL",
+   "role": "opinion_rapporteur",
+   "committee": "ITRE",
+   "since": "2025-01-29"
+  },
+  {
+   "id": "125065",
+   "name": "Elissavet VOZEMBERG-VRIONIDI",
+   "group": "PPE",
+   "country": "GR",
+   "role": "opinion_rapporteur",
+   "committee": "TRAN",
+   "since": "2025-05-27"
+  },
+  {
+   "id": "124736",
+   "name": "Merja KYLLÖNEN",
+   "group": "The Left",
+   "country": "FI",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2025-06-18"
+  },
+  {
+   "id": "124895",
+   "name": "Krzysztof HETMAN",
+   "group": "PPE",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-07-09"
+  },
+  {
+   "id": "257169",
+   "name": "Annalisa CORRADO",
+   "group": "S&D",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-07-10"
+  },
+  {
+   "id": "256886",
+   "name": "Valérie DELOGE",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-02-20"
+  },
+  {
+   "id": "96810",
+   "name": "Carlo FIDANZA",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2025-06-06"
+  },
+  {
+   "id": "214839",
+   "name": "Emma YTTERELL",
+   "group": "Renew",
+   "country": "SE",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-07-11"
+  },
+  {
+   "id": "190464",
+   "name": "Thomas WAITZ",
+   "group": "Verts/ALE",
+   "country": "AT",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-07-04"
+  },
+  {
+   "id": "124985",
+   "name": "Luke Ming FLANAGAN",
+   "group": "The Left",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-06-06"
+  },
+  {
+   "id": "96936",
+   "name": "Gabriel MATO",
+   "group": "PPE",
+   "country": "ES",
+   "role": "opinion_rapporteur",
+   "committee": "PECH",
+   "since": "2025-06-25"
+  },
+  {
+   "id": "197718",
+   "name": "Nicolás GONZÁLEZ CASARES",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2025-10-01"
+  },
+  {
+   "id": "256915",
+   "name": "Mélissa CAMARA",
+   "group": "Verts/ALE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2025-10-01"
+  }
+ ],
+ "started": "2021-10-07",
+ "last_activity": "2025-11-05",
+ "events": [
+  {
+   "date": "2021-10-07",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2022-01-11",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "PECH-PA-700684",
+     "title": "Proyecto de opinión PECH (700684)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PA-700684_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2022-02-14",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "TRAN-PA-704637",
+     "title": "Proyecto de opinión TRAN (704637)",
+     "url": "https://www.europarl.europa.eu/doceo/document/TRAN-PA-704637_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2022-02-16",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "ITRE-PA-719575",
+     "title": "Proyecto de opinión ITRE (719575)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ITRE-PA-719575_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2022-02-28",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "ECON-PR-719624",
+     "title": "Proyecto de informe ECON (719624)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ECON-PR-719624_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2022-03-07",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "AGRI-PA-719785",
+     "title": "Proyecto de opinión AGRI (719785)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PA-719785_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2022-04-07",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "ECON-AM-731499",
+     "title": "Enmiendas en comisión ECON (731499)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ECON-AM-731499_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2022-04-08",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "ECON-AM-729998",
+     "title": "Enmiendas en comisión ECON (729998)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ECON-AM-729998_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2025-02-04",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "ITRE-PA-768158",
+     "title": "Proyecto de opinión ITRE (768158)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ITRE-PA-768158_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-02-19",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "ITRE-AD-768158",
+     "title": "Opinión ITRE (768158)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AD-768158_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-05",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "ECON-PR-770060",
+     "title": "Proyecto de informe ECON (770060)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ECON-PR-770060_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2025-06-17",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "TRAN-PA-774480",
+     "title": "Proyecto de opinión TRAN (774480)",
+     "url": "https://www.europarl.europa.eu/doceo/document/TRAN-PA-774480_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "AGRI-PA-774500",
+     "title": "Proyecto de opinión AGRI (774500)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PA-774500_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-06-23",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión (2 documentos)",
+   "docs": [
+    {
+     "id": "ECON-AM-774493",
+     "title": "Enmiendas en comisión ECON (774493)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ECON-AM-774493_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "ECON-AM-774594",
+     "title": "Enmiendas en comisión ECON (774594)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ECON-AM-774594_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2025-06-24",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-06-26",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "PECH-PA-775406",
+     "title": "Proyecto de opinión PECH (775406)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PA-775406_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-10-16",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-11-05",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "PECH-PA-700684",
+   "title": "Proyecto de opinión PECH (700684)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PA-700684_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2022-01-11"
+  },
+  {
+   "id": "TRAN-PA-704637",
+   "title": "Proyecto de opinión TRAN (704637)",
+   "url": "https://www.europarl.europa.eu/doceo/document/TRAN-PA-704637_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2022-02-14"
+  },
+  {
+   "id": "ITRE-PA-719575",
+   "title": "Proyecto de opinión ITRE (719575)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ITRE-PA-719575_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2022-02-16"
+  },
+  {
+   "id": "ECON-PR-719624",
+   "title": "Proyecto de informe ECON (719624)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ECON-PR-719624_EN.pdf",
+   "kind": "draft_report",
+   "date": "2022-02-28"
+  },
+  {
+   "id": "AGRI-PA-719785",
+   "title": "Proyecto de opinión AGRI (719785)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PA-719785_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2022-03-07"
+  },
+  {
+   "id": "ECON-AM-731499",
+   "title": "Enmiendas en comisión ECON (731499)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ECON-AM-731499_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2022-04-07"
+  },
+  {
+   "id": "ECON-AM-729998",
+   "title": "Enmiendas en comisión ECON (729998)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ECON-AM-729998_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2022-04-08"
+  },
+  {
+   "id": "ITRE-PA-768158",
+   "title": "Proyecto de opinión ITRE (768158)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ITRE-PA-768158_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-02-04"
+  },
+  {
+   "id": "ITRE-AD-768158",
+   "title": "Opinión ITRE (768158)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AD-768158_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-02-19"
+  },
+  {
+   "id": "ECON-PR-770060",
+   "title": "Proyecto de informe ECON (770060)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ECON-PR-770060_EN.pdf",
+   "kind": "draft_report",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "TRAN-PA-774480",
+   "title": "Proyecto de opinión TRAN (774480)",
+   "url": "https://www.europarl.europa.eu/doceo/document/TRAN-PA-774480_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-06-17"
+  },
+  {
+   "id": "AGRI-PA-774500",
+   "title": "Proyecto de opinión AGRI (774500)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PA-774500_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-06-18"
+  },
+  {
+   "id": "ECON-AM-774493",
+   "title": "Enmiendas en comisión ECON (774493)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ECON-AM-774493_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "ECON-AM-774594",
+   "title": "Enmiendas en comisión ECON (774594)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ECON-AM-774594_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "PECH-PA-775406",
+   "title": "Proyecto de opinión PECH (775406)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PA-775406_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-06-26"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 4
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0213(CNS)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2021_213",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2021_213?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2021-0213?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)",
+  "PECH (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

@@ -1,0 +1,46 @@
+{
+ "ref": "2023/2820(DEA)",
+ "id": "2023-2820",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) n.° 1308/2013 del Parlamento Europeo y del Consejo, en lo que se refiere a las normas de comercialización para el sector de las frutas y hortalizas, determinados productos procedentes de frutas y hortalizas transformadas y el sector de los plátanos, y por el que se derogan el Reglamento (CE) n.º 1666/1999 de la Comisión y los Reglamentos de Ejecución (UE) n.º 543/2011 y (UE) n.º 1333/2011 de la Comisión",
+ "title_en": "Commission Delegated Regulation supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards marketing standards for the fruit and vegetables sector, certain processed fruit and vegetable products and the bananas sector, and repealing Commission Regulation (EC) No 1666/1999 and Commission Implementing Regulations (EU) No 543/2011 and (EU) No 1333/2011",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2023-09-13",
+ "last_activity": "2023-09-13",
+ "events": [
+  {
+   "date": "2023-09-13",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/2820(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_2820",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_2820?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-2820?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

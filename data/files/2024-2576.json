@@ -1,0 +1,54 @@
+{
+ "ref": "2024/2576(RPS)",
+ "id": "2024-2576",
+ "type": "RPS",
+ "title": "Reglamento de la Comisión por el que se definen los requisitos sobre datos para la aprobación de protectores y sinergistas y se establece un programa de trabajo para la revisión paulatina de los protectores y sinergistas presentes en el mercado de conformidad con el Reglamento (CE) n.º 1107/2009 del Parlamento Europeo y del Consejo",
+ "title_en": "Commission Regulation defining data requirements for the approval of safeners and synergists and establishing a work programme for the gradual review of safeners and synergists on the market in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "associated"
+  },
+  {
+   "code": "IMCO",
+   "role": "associated"
+  }
+ ],
+ "people": [],
+ "started": "2024-02-28",
+ "last_activity": "2024-02-28",
+ "events": [
+  {
+   "date": "2024-02-28",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2576(RPS)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2576",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2576?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2576?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (asociada)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

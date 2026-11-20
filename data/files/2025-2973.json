@@ -1,0 +1,46 @@
+{
+ "ref": "2025/2973(DEA)",
+ "id": "2025-2973",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (CE) n.º 1059/2003 del Parlamento Europeo y del Consejo en lo que respecta a la clasificación NUTS y las listas de unidades administrativas existentes y unidades administrativas locales",
+ "title_en": "Commission Delegated Regulation amending Regulation (EC) No 1059/2003 of the European Parliament and of the Council as regards the NUTS classification and the lists of existing administrative units and local administrative units",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "REGI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2025-11-26",
+ "last_activity": "2025-11-26",
+ "events": [
+  {
+   "date": "2025-11-26",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2973(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2973",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2973?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2973?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

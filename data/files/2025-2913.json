@@ -1,0 +1,46 @@
+{
+ "ref": "2025/2913(DEA)",
+ "id": "2025-2913",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo en lo que se refiere a las normas de comercialización de la carne de aves de corral y se deroga el Reglamento (CE) n.º 543/2008 de la Comisión",
+ "title_en": "Commission Delegated Regulation supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards marketing standards for poultrymeat, and repealing Commission Regulation (EC) No 543/2008",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2025-10-08",
+ "last_activity": "2025-10-08",
+ "events": [
+  {
+   "date": "2025-10-08",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2913(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2913",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2913?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2913?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

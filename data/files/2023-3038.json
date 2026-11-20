@@ -1,0 +1,46 @@
+{
+ "ref": "2023/3038(DEA)",
+ "id": "2023-3038",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifican el Reglamento (UE) 2019/833 del Parlamento Europeo y del Consejo y el Reglamento Delegado (UE) 2020/124 de la Comisión en lo que respecta a determinadas disposiciones y anexos de las medidas de conservación y control de la Organización de Pesquerías del Atlántico Noroeste (NAFO)",
+ "title_en": "Commission Delegated Regulation amending Regulation (EU) 2019/833 of the European Parliament and of the Council, and Commission Delegated Regulation (EU) 2020/124 as regards certain provisions of, and Annexes to the conservation and enforcement measures to the Northwest Atlantic Fisheries Organisation (NAFO)",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2024-01-17",
+ "last_activity": "2024-01-17",
+ "events": [
+  {
+   "date": "2024-01-17",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/3038(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_3038",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_3038?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-3038?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

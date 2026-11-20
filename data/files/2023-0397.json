@@ -1,0 +1,481 @@
+{
+ "ref": "2023/0397(COD)",
+ "id": "2023-0397",
+ "type": "COD",
+ "title": "Establecimiento del Mecanismo de Reforma y Crecimiento para los Balcanes Occidentales",
+ "title_en": "Establishing the Reform and Growth Facility for the Western Balkans",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "AFET",
+   "role": "joint"
+  },
+  {
+   "code": "BUDG",
+   "role": "joint"
+  },
+  {
+   "code": "CONT",
+   "role": "opinion"
+  },
+  {
+   "code": "INTA",
+   "role": "opinion"
+  },
+  {
+   "code": "REGI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "185341",
+   "name": "Željana ZOVKO",
+   "group": "PPE",
+   "country": "HR",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2024-01-24"
+  },
+  {
+   "id": "96991",
+   "name": "Eider GARDIAZABAL RUBIAL",
+   "group": "S&D",
+   "country": "ESP",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2024-01-23"
+  },
+  {
+   "id": "124873",
+   "name": "Angel DZHAMBAZKI",
+   "group": "ECR",
+   "country": "BGR",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2024-01-23"
+  },
+  {
+   "id": "197545",
+   "name": "Bogdan RZOŃCA",
+   "group": "ECR",
+   "country": "PL",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2024-01-23"
+  },
+  {
+   "id": "125063",
+   "name": "Georgios KYRTSOS",
+   "group": "Renew",
+   "country": "GRC",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2024-01-24"
+  },
+  {
+   "id": "22858",
+   "name": "Fabienne KELLER",
+   "group": "Renew",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2024-02-12"
+  },
+  {
+   "id": "197451",
+   "name": "Viola VON CRAMON-TAUBADEL",
+   "group": "Verts/ALE",
+   "country": "DEU",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2024-01-23"
+  },
+  {
+   "id": "197645",
+   "name": "Francisco GUERREIRO",
+   "group": "Verts/ALE",
+   "country": "PRT",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2024-01-23"
+  },
+  {
+   "id": "28586",
+   "name": "Dimitrios PAPADIMOULIS",
+   "group": "The Left",
+   "country": "GRC",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2024-01-23"
+  },
+  {
+   "id": "130833",
+   "name": "Stelios KOULOGLOU",
+   "group": "The Left",
+   "country": "GRC",
+   "role": "shadow",
+   "committee": "AFET",
+   "since": "2024-02-09"
+  },
+  {
+   "id": "112744",
+   "name": "Tonino PICULA",
+   "group": "S&D",
+   "country": "HR",
+   "role": "rapporteur",
+   "committee": "AFET",
+   "since": "2024-01-17"
+  },
+  {
+   "id": "96646",
+   "name": "Helmut SCHOLZ",
+   "group": "The Left",
+   "country": "DEU",
+   "role": "opinion_rapporteur",
+   "committee": "INTA",
+   "since": "2023-11-28"
+  },
+  {
+   "id": "197413",
+   "name": "Karlo RESSLER",
+   "group": "PPE",
+   "country": "HR",
+   "role": "rapporteur",
+   "committee": "BUDG",
+   "since": "2024-01-17"
+  },
+  {
+   "id": "1892",
+   "name": "Carlos COELHO",
+   "group": "PPE",
+   "country": "PRT",
+   "role": "opinion_rapporteur",
+   "committee": "CONT",
+   "since": "2023-12-07"
+  },
+  {
+   "id": "197692",
+   "name": "Stelios KYMPOUROPOULOS",
+   "group": "PPE",
+   "country": "GRC",
+   "role": "opinion_rapporteur",
+   "committee": "REGI",
+   "since": "2024-01-10"
+  }
+ ],
+ "started": "2024-01-18",
+ "last_activity": "2024-05-24",
+ "events": [
+  {
+   "date": "2024-01-18",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-01-24",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "INTA-PA-758090",
+     "title": "Proyecto de opinión INTA (758090)",
+     "url": "https://www.europarl.europa.eu/doceo/document/INTA-PA-758090_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-09",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "CJ15-PR-758888",
+     "title": "CJ15-PR-758888",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-14",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "REGI-AD-759038",
+     "title": "Opinión REGI (759038)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-AD-759038_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-19",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "INTA-AD-758090",
+     "title": "Opinión INTA (758090)",
+     "url": "https://www.europarl.europa.eu/doceo/document/INTA-AD-758090_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-22",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "CONT-AL-758991",
+     "title": "CONT-AL-758991",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-11",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-03-11",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0085",
+     "title": "Informe A9-0085/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0085_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-14",
+   "type": "PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
+   "title": "Plenary endorse committee interinstitutional negotiations",
+   "docs": []
+  },
+  {
+   "date": "2024-04-09",
+   "type": "COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT",
+   "title": "Acuerdo provisional aprobado en comisión",
+   "docs": [
+    {
+     "id": "CJ15-AG-760968",
+     "title": "CJ15-AG-760968",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-23",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0085",
+     "title": "Informe A9-0085/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0085_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2023-0408",
+     "title": "Propuesta o documento recibido C9-0408/2023",
+     "url": "",
+     "kind": "proposal"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-24",
+   "type": "PLENARY_AMEND_PROPOSAL",
+   "title": "Plenary amend proposal",
+   "docs": [
+    {
+     "id": "TA-9-2024-0343",
+     "title": "Texto aprobado P9_TA(2024)0343",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0343_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-24",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-9-2024-04-24-ITM-007-30",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-04-24-ITM-007-30_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2024-04-24-ITM-007-30",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-04-24-ITM-007-30_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-24",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0085",
+     "title": "Informe A9-0085/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0085_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-05-14",
+   "type": "SIGNATURE",
+   "title": "Acto firmado",
+   "docs": []
+  },
+  {
+   "date": "2024-05-24",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "INTA-PA-758090",
+   "title": "Proyecto de opinión INTA (758090)",
+   "url": "https://www.europarl.europa.eu/doceo/document/INTA-PA-758090_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2024-01-24"
+  },
+  {
+   "id": "CJ15-PR-758888",
+   "title": "CJ15-PR-758888",
+   "url": "",
+   "kind": "other",
+   "date": "2024-02-09"
+  },
+  {
+   "id": "REGI-AD-759038",
+   "title": "Opinión REGI (759038)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-AD-759038_EN.pdf",
+   "kind": "opinion",
+   "date": "2024-02-14"
+  },
+  {
+   "id": "INTA-AD-758090",
+   "title": "Opinión INTA (758090)",
+   "url": "https://www.europarl.europa.eu/doceo/document/INTA-AD-758090_EN.pdf",
+   "kind": "opinion",
+   "date": "2024-02-19"
+  },
+  {
+   "id": "CONT-AL-758991",
+   "title": "CONT-AL-758991",
+   "url": "",
+   "kind": "other",
+   "date": "2024-02-22"
+  },
+  {
+   "id": "CJ15-AG-760968",
+   "title": "CJ15-AG-760968",
+   "url": "",
+   "kind": "other",
+   "date": "2024-04-09"
+  },
+  {
+   "id": "A-9-2024-0085",
+   "title": "Informe A9-0085/2024",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0085_EN.html",
+   "kind": "report",
+   "date": "2024-04-23"
+  },
+  {
+   "id": "C-9-2023-0408",
+   "title": "Propuesta o documento recibido C9-0408/2023",
+   "url": "",
+   "kind": "proposal",
+   "date": "2024-04-23"
+  },
+  {
+   "id": "TA-9-2024-0343",
+   "title": "Texto aprobado P9_TA(2024)0343",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0343_EN.html",
+   "kind": "adopted_text",
+   "date": "2024-04-24"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2024-04-24-OJ-ITM-V-116",
+   "date": "2024-04-24",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-116)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-04-24_EN.html",
+   "refs": [
+    "2023/0397(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-04-23-OJ-ITM-D-116",
+   "date": "2024-04-23",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-116)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-04-23_EN.html",
+   "refs": [
+    "2023/0397(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0397(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_397",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_397?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-0397?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2024-04-23-OJ-ITM-D-116",
+   "date": "2024-04-23",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-116)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-04-23_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-04-24-OJ-ITM-V-116",
+   "date": "2024-04-24",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-116)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-04-24_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

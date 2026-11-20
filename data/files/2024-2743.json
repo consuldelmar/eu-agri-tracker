@@ -1,0 +1,46 @@
+{
+ "ref": "2024/2743(DEA)",
+ "id": "2024-2743",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se establece una medida excepcional de destilación de crisis de carácter temporal para hacer frente a las perturbaciones del mercado en el sector vitivinícola de Portugal en la campaña de comercialización 2024/25",
+ "title_en": "Commission Delegated Regulation on a temporary exceptional crisis distillation measure to address the market disturbance in the wine sector in Portugal in the marketing year 2024/2025",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2024-09-18",
+ "last_activity": "2024-09-18",
+ "events": [
+  {
+   "date": "2024-09-18",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2743(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2743",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2743?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2743?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

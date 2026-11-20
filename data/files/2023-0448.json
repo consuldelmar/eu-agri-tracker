@@ -1,0 +1,422 @@
+{
+ "ref": "2023/0448(COD)",
+ "id": "2023-0448",
+ "type": "COD",
+ "title": "Protección de los animales durante el transporte y las operaciones conexas",
+ "title_en": "Protection of animals during transport and related operations",
+ "stage": "Proyecto de informe presentado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "joint"
+  },
+  {
+   "code": "TRAN",
+   "role": "joint"
+  },
+  {
+   "code": "PECH",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "125204",
+   "name": "Borja GIMÉNEZ LARRAZ",
+   "group": "PPE",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2024-09-19"
+  },
+  {
+   "id": "199941",
+   "name": "Marianne VIND",
+   "group": "S&D",
+   "country": "DK",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2024-10-01"
+  },
+  {
+   "id": "256859",
+   "name": "Annamária VICSEK",
+   "group": "PfE",
+   "country": "HU",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2025-03-19"
+  },
+  {
+   "id": "257117",
+   "name": "Adrian-George AXINIA",
+   "group": "ECR",
+   "country": "RO",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2024-09-19"
+  },
+  {
+   "id": "256891",
+   "name": "Benoit CASSART",
+   "group": "Renew",
+   "country": "BE",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2024-09-19"
+  },
+  {
+   "id": "193292",
+   "name": "Tilly METZ",
+   "group": "Verts/ALE",
+   "country": "LU",
+   "role": "rapporteur",
+   "committee": "TRAN",
+   "since": "2024-09-19"
+  },
+  {
+   "id": "256911",
+   "name": "Arash SAEIDI",
+   "group": "The Left",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2025-02-03"
+  },
+  {
+   "id": "257255",
+   "name": "Stanislav STOYANOV",
+   "group": "ESN",
+   "country": "BG",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2024-09-19"
+  },
+  {
+   "id": "125012",
+   "name": "Daniel BUDA",
+   "group": "PPE",
+   "country": "RO",
+   "role": "rapporteur",
+   "committee": "AGRI",
+   "since": "2024-09-19"
+  },
+  {
+   "id": "124836",
+   "name": "Maria NOICHL",
+   "group": "S&D",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2024-09-19"
+  },
+  {
+   "id": "256886",
+   "name": "Valérie DELOGE",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2024-09-19"
+  },
+  {
+   "id": "198490",
+   "name": "Emmanouil FRAGKOS",
+   "group": "ECR",
+   "country": "GR",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2024-12-02"
+  },
+  {
+   "id": "197558",
+   "name": "Asger CHRISTENSEN",
+   "group": "Renew",
+   "country": "DK",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2024-12-02"
+  },
+  {
+   "id": "190464",
+   "name": "Thomas WAITZ",
+   "group": "Verts/ALE",
+   "country": "AT",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2024-12-02"
+  },
+  {
+   "id": "125023",
+   "name": "Anja HAZEKAMP",
+   "group": "The Left",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2024-12-02"
+  },
+  {
+   "id": "197556",
+   "name": "Ivan DAVID",
+   "group": "ESN",
+   "country": "CZ",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2024-09-19"
+  },
+  {
+   "id": "257034",
+   "name": "Carmen CRESPO DÍAZ",
+   "group": "PPE",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2024-11-08"
+  },
+  {
+   "id": "256994",
+   "name": "Idoia MENDIA",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2024-10-08"
+  },
+  {
+   "id": "256981",
+   "name": "Ton DIEPEVEEN",
+   "group": "PfE",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2025-02-20"
+  },
+  {
+   "id": "257000",
+   "name": "Stephen Nikola BARTULICA",
+   "group": "ECR",
+   "country": "HR",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2024-10-17"
+  },
+  {
+   "id": "214839",
+   "name": "Emma YTTERELL",
+   "group": "Renew",
+   "country": "SE",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2024-11-28"
+  },
+  {
+   "id": "96675",
+   "name": "Isabella LÖVIN",
+   "group": "Verts/ALE",
+   "country": "SE",
+   "role": "opinion_rapporteur",
+   "committee": "PECH",
+   "since": "2024-10-10"
+  },
+  {
+   "id": "256913",
+   "name": "Emma FOURREAU",
+   "group": "The Left",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2024-11-25"
+  }
+ ],
+ "started": "2024-02-26",
+ "last_activity": "2025-04-16",
+ "events": [
+  {
+   "date": "2024-02-26",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-01-29",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "PECH-PA-768036",
+     "title": "Proyecto de opinión PECH (768036)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PA-768036_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-03-03",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "CJ48-PR-770070",
+     "title": "CJ48-PR-770070",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión (2 documentos)",
+   "docs": [
+    {
+     "id": "CJ48-AM-773034",
+     "title": "CJ48-AM-773034",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ48-AM-773035",
+     "title": "CJ48-AM-773035",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2025-04-16",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión (6 documentos)",
+   "docs": [
+    {
+     "id": "CJ48-AM-773032",
+     "title": "CJ48-AM-773032",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ48-AM-773033",
+     "title": "CJ48-AM-773033",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ48-AM-773028",
+     "title": "CJ48-AM-773028",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ48-AM-773029",
+     "title": "CJ48-AM-773029",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ48-AM-773030",
+     "title": "CJ48-AM-773030",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ48-AM-773031",
+     "title": "CJ48-AM-773031",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "PECH-PA-768036",
+   "title": "Proyecto de opinión PECH (768036)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PA-768036_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-01-29"
+  },
+  {
+   "id": "CJ48-PR-770070",
+   "title": "CJ48-PR-770070",
+   "url": "",
+   "kind": "other",
+   "date": "2025-03-03"
+  },
+  {
+   "id": "CJ48-AM-773034",
+   "title": "CJ48-AM-773034",
+   "url": "",
+   "kind": "other",
+   "date": "2025-04-15"
+  },
+  {
+   "id": "CJ48-AM-773035",
+   "title": "CJ48-AM-773035",
+   "url": "",
+   "kind": "other",
+   "date": "2025-04-15"
+  },
+  {
+   "id": "CJ48-AM-773032",
+   "title": "CJ48-AM-773032",
+   "url": "",
+   "kind": "other",
+   "date": "2025-04-16"
+  },
+  {
+   "id": "CJ48-AM-773033",
+   "title": "CJ48-AM-773033",
+   "url": "",
+   "kind": "other",
+   "date": "2025-04-16"
+  },
+  {
+   "id": "CJ48-AM-773028",
+   "title": "CJ48-AM-773028",
+   "url": "",
+   "kind": "other",
+   "date": "2025-04-16"
+  },
+  {
+   "id": "CJ48-AM-773029",
+   "title": "CJ48-AM-773029",
+   "url": "",
+   "kind": "other",
+   "date": "2025-04-16"
+  },
+  {
+   "id": "CJ48-AM-773030",
+   "title": "CJ48-AM-773030",
+   "url": "",
+   "kind": "other",
+   "date": "2025-04-16"
+  },
+  {
+   "id": "CJ48-AM-773031",
+   "title": "CJ48-AM-773031",
+   "url": "",
+   "kind": "other",
+   "date": "2025-04-16"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0448(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_448",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_448?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-0448?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (conjunta)",
+  "PECH (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

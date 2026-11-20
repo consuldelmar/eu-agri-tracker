@@ -1,0 +1,337 @@
+{
+ "ref": "2025/0237(COD)",
+ "id": "2025-0237",
+ "type": "COD",
+ "title": "Modificación del Reglamento (UE) n.º 1308/2013 en lo que respecta al programa de distribución de frutas, hortalizas y leche en los centros escolares («programa escolar de la UE»), las intervenciones sectoriales, la creación de un sector de las proteaginosas, los requisitos para el cáñamo, la posibilidad de establecer normas de comercialización para el queso, las proteaginosas y la carne, la aplicación de derechos de importación adicionales, las normas sobre la disponibilidad de suministros en tiempos de emergencia y crisis graves y las garantías",
+ "title_en": "Amending Regulation (EU) No 1308/2013 as regards the school fruit, vegetables and milk scheme (‘EU school scheme’), sectoral interventions, the creation of a protein sector, requirements for hemp, the possibility for marketing standards for cheese, protein crops and meat, application of additional import duties, rules on the availability of supplies in time of emergencies and severe crisis and securities",
+ "stage": "Proyecto de informe presentado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  },
+  {
+   "code": "REGI",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "budget"
+  }
+ ],
+ "people": [
+  {
+   "id": "257030",
+   "name": "Raúl DE LA HOZ QUINTANO",
+   "group": "PPE",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-21"
+  },
+  {
+   "id": "204413",
+   "name": "Marcos ROS SEMPERE",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-21"
+  },
+  {
+   "id": "197690",
+   "name": "André ROUGÉ",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-02-24"
+  },
+  {
+   "id": "197824",
+   "name": "Giuseppe MILAZZO",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "191693",
+   "name": "Elsi KATAINEN",
+   "group": "Renew",
+   "country": "FI",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-21"
+  },
+  {
+   "id": "257130",
+   "name": "Cristina GUARDA",
+   "group": "Verts/ALE",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-16"
+  },
+  {
+   "id": "257135",
+   "name": "Valentina PALMISANO",
+   "group": "The Left",
+   "country": "IT",
+   "role": "opinion_rapporteur",
+   "committee": "REGI",
+   "since": "2026-01-20"
+  },
+  {
+   "id": "256945",
+   "name": "Irmhild BOSSDORF",
+   "group": "ESN",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-21"
+  },
+  {
+   "id": "125012",
+   "name": "Daniel BUDA",
+   "group": "PPE",
+   "country": "RO",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-01-15"
+  },
+  {
+   "id": "256905",
+   "name": "Eric SARGIACOMO",
+   "group": "S&D",
+   "country": "FR",
+   "role": "rapporteur",
+   "committee": "AGRI",
+   "since": "2026-03-11"
+  },
+  {
+   "id": "256886",
+   "name": "Valérie DELOGE",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-03-10"
+  },
+  {
+   "id": "257114",
+   "name": "Claudiu-Richard TÂRZIU",
+   "group": "ECR",
+   "country": "RO",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-01-29"
+  },
+  {
+   "id": "197504",
+   "name": "Jérémy DECERLE",
+   "group": "Renew",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-04-30"
+  },
+  {
+   "id": "257130",
+   "name": "Cristina GUARDA",
+   "group": "Verts/ALE",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-03-12"
+  },
+  {
+   "id": "125023",
+   "name": "Anja HAZEKAMP",
+   "group": "The Left",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-03-03"
+  },
+  {
+   "id": "257255",
+   "name": "Stanislav STOYANOV",
+   "group": "ESN",
+   "country": "BG",
+   "role": "shadow",
+   "committee": "AGRI",
+   "since": "2026-03-05"
+  }
+ ],
+ "started": "2025-10-06",
+ "last_activity": "2026-07-27",
+ "events": [
+  {
+   "date": "2025-10-06",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-05-06",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "REGI-AD-782254",
+     "title": "Opinión REGI (782254)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-AD-782254_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-10",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "AGRI-PR-789874",
+     "title": "Proyecto de informe AGRI (789874)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PR-789874_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión (5 documentos)",
+   "docs": [
+    {
+     "id": "AGRI-AM-791111",
+     "title": "Enmiendas en comisión AGRI (791111)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-791111_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "AGRI-AM-791865",
+     "title": "Enmiendas en comisión AGRI (791865)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-791865_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "AGRI-AM-791108",
+     "title": "Enmiendas en comisión AGRI (791108)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-791108_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "AGRI-AM-791109",
+     "title": "Enmiendas en comisión AGRI (791109)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-791109_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "AGRI-AM-791110",
+     "title": "Enmiendas en comisión AGRI (791110)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-791110_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AM-791107",
+     "title": "Enmiendas en comisión AGRI (791107)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-791107_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "REGI-AD-782254",
+   "title": "Opinión REGI (782254)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-AD-782254_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-05-06"
+  },
+  {
+   "id": "AGRI-PR-789874",
+   "title": "Proyecto de informe AGRI (789874)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PR-789874_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-06-10"
+  },
+  {
+   "id": "AGRI-AM-791111",
+   "title": "Enmiendas en comisión AGRI (791111)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-791111_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-07-23"
+  },
+  {
+   "id": "AGRI-AM-791865",
+   "title": "Enmiendas en comisión AGRI (791865)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-791865_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-07-23"
+  },
+  {
+   "id": "AGRI-AM-791108",
+   "title": "Enmiendas en comisión AGRI (791108)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-791108_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-07-23"
+  },
+  {
+   "id": "AGRI-AM-791109",
+   "title": "Enmiendas en comisión AGRI (791109)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-791109_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-07-23"
+  },
+  {
+   "id": "AGRI-AM-791110",
+   "title": "Enmiendas en comisión AGRI (791110)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-791110_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-07-23"
+  },
+  {
+   "id": "AGRI-AM-791107",
+   "title": "Enmiendas en comisión AGRI (791107)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AM-791107_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-07-27"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 6
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0237(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_237",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_237?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0237?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)",
+  "REGI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

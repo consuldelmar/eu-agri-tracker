@@ -1,0 +1,46 @@
+{
+ "ref": "2023/2898(DEA)",
+ "id": "2023-2898",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo en lo que respecta a las disposiciones relativas a la importación en los sectores del arroz, los cereales, el azúcar y el lúpulo y se derogan los Reglamentos (CE) n.º 3330/94, (CE) n.º 2810/95, (CE) n.º 951/2006, (CE) n.º 972/2006, (CE) n.º 504/2007, (CE) n.º 1375/2007, (CE) n.º 402/2008, (CE) n.º 1295/2008, (CE) n.º 1312/2008 y (UE) n.º 642/2010, (CEE) n.º 1361/76, (CEE) n.º 1842/81, (CEE) n.º 3556/87, (CEE) n.º 3846/87, (CEE) n.º 815/89, (CE) n.º 765/2002, (CE) n.º 1993/2005, (CE) n.º 1670/2006, (CE) n.º 1731/2006, (CE) n.º 1741/2006, (CE) n.º 433/2007, (CE) n.º 1359/2007, (CE) n.º 1454/2007, (CE) n.º 508/2008, (CE) n.º 903/2008, (CE) n.º 147/2009, (CE) n.º 612/2009, (UE) n.º 817/2010, (UE) n.º 1178/2010, (UE) n.º 90/2011 de la Comisión y el Reglamento de Ejecución (UE) n.º 1373/2013 de la Comisión",
+ "title_en": "Commission Delegated Regulation supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards rules on import in the sectors of rice, cereals, sugar and hops, and repealing Commission Regulations (EC) No 3330/94, (EC) No 2810/95, (EC) No 951/2006, (EC) No 972/2006, (EC) No 504/2007, (EC) No 1375/2007, (EC) No 402/2008, (EC) No 1295/2008, (EC) No 1312/2008 and (EU) No 642/2010, (EEC) No 1361/76, (EEC) No 1842/81, (EEC) No 3556/87, (EEC) No 3846/87, (EEC) No 815/89, (EC) No 765/2002, (EC) No 1993/2005, (EC) No 1670/2006, (EC) No 1731/2006, (EC) No 1741/2006, (EC) No 433/2007, (EC) No 1359/2007, (EC) No 1454/2007, (EC) No 508/2008, (EC) No 903/2008, (EC) No 147/2009, (EC) No 612/2009, (EU) No 817/2010, (EU) No 1178/2010, (EU) No 90/2011 and Commission Implementing Regulation (EU) No 1373/2013",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2023-10-18",
+ "last_activity": "2023-10-18",
+ "events": [
+  {
+   "date": "2023-10-18",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/2898(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_2898",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_2898?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-2898?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

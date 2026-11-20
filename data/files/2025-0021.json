@@ -1,0 +1,395 @@
+{
+ "ref": "2025/0021(COD)",
+ "id": "2025-0021",
+ "type": "COD",
+ "title": "Modificación de los derechos de aduana aplicables a las importaciones de determinadas mercancías originarias de la Federación de Rusia y de la República de Bielorrusia o exportadas directa o indirectamente desde estos países",
+ "title_en": "Modification of customs duties applicable to imports of certain goods originating in or exported directly or indirectly from the Russian Federation and the Republic of Belarus",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "INTA",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "budget"
+  }
+ ],
+ "people": [
+  {
+   "id": "28617",
+   "name": "Inese VAIDERE",
+   "group": "PPE",
+   "country": "LV",
+   "role": "rapporteur",
+   "committee": "INTA",
+   "since": "2025-02-19"
+  },
+  {
+   "id": "28307",
+   "name": "Francisco ASSIS",
+   "group": "S&D",
+   "country": "PT",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2025-02-19"
+  },
+  {
+   "id": "198490",
+   "name": "Emmanouil FRAGKOS",
+   "group": "ECR",
+   "country": "GR",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2025-02-19"
+  },
+  {
+   "id": "257013",
+   "name": "Ľubica KARVAŠOVÁ",
+   "group": "Renew",
+   "country": "SK",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2025-02-19"
+  },
+  {
+   "id": "197549",
+   "name": "Markéta GREGOROVÁ",
+   "group": "Verts/ALE",
+   "country": "CZ",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2025-02-19"
+  },
+  {
+   "id": "257155",
+   "name": "Danilo DELLA VALLE",
+   "group": "The Left",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2025-02-19"
+  },
+  {
+   "id": "128483",
+   "name": "Markus BUCHHEIT",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2025-02-19"
+  },
+  {
+   "id": "124895",
+   "name": "Krzysztof HETMAN",
+   "group": "PPE",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-03-18"
+  },
+  {
+   "id": "124785",
+   "name": "Maria GRAPINI",
+   "group": "S&D",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-03-19"
+  },
+  {
+   "id": "197572",
+   "name": "Anna ZALEWSKA",
+   "group": "ECR",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-03-19"
+  },
+  {
+   "id": "197552",
+   "name": "Veronika VRECIONOVÁ",
+   "group": "ECR",
+   "country": "CZ",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2025-05-07"
+  },
+  {
+   "id": "191693",
+   "name": "Elsi KATAINEN",
+   "group": "Renew",
+   "country": "FI",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-03-18"
+  },
+  {
+   "id": "257130",
+   "name": "Cristina GUARDA",
+   "group": "Verts/ALE",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-03-26"
+  },
+  {
+   "id": "256961",
+   "name": "Sebastian EVERDING",
+   "group": "The Left",
+   "country": "DEU",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2025-03-26"
+  }
+ ],
+ "started": "2025-03-10",
+ "last_activity": "2025-06-20",
+ "events": [
+  {
+   "date": "2025-03-10",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-03-12",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "INTA-PR-770210",
+     "title": "Proyecto de informe INTA (770210)",
+     "url": "https://www.europarl.europa.eu/doceo/document/INTA-PR-770210_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "AGRI-PA-770263",
+     "title": "Proyecto de opinión AGRI (770263)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PA-770263_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-04-11",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "INTA-AM-772197",
+     "title": "Enmiendas en comisión INTA (772197)",
+     "url": "https://www.europarl.europa.eu/doceo/document/INTA-AM-772197_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-05",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AD-770263",
+     "title": "Opinión AGRI (770263)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AD-770263_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-15",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-05-16",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0087",
+     "title": "Informe A10-0087/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0087_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-19",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0087-AM-001-001",
+     "title": "Enmiendas al Pleno 1-1 (informe A10-0087/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0087-AM-001-001_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2025-05-22",
+   "type": "PLENARY_ADOPT_POSITION",
+   "title": "Posición del Parlamento aprobada en el Pleno",
+   "docs": [
+    {
+     "id": "TA-10-2025-0109",
+     "title": "Texto aprobado P10_TA(2025)0109",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2025-0109_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-22",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "PV-10-2025-05-22-ITM-005-03",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-05-22-ITM-005-03_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "CRE-10-2025-05-22-ITM-005-03",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2025-05-22-ITM-005-03_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-22",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0087",
+     "title": "Informe A10-0087/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0087_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-06-17",
+   "type": "SIGNATURE",
+   "title": "Acto firmado",
+   "docs": []
+  },
+  {
+   "date": "2025-06-20",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "INTA-PR-770210",
+   "title": "Proyecto de informe INTA (770210)",
+   "url": "https://www.europarl.europa.eu/doceo/document/INTA-PR-770210_EN.pdf",
+   "kind": "draft_report",
+   "date": "2025-03-12"
+  },
+  {
+   "id": "AGRI-PA-770263",
+   "title": "Proyecto de opinión AGRI (770263)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PA-770263_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-03-18"
+  },
+  {
+   "id": "INTA-AM-772197",
+   "title": "Enmiendas en comisión INTA (772197)",
+   "url": "https://www.europarl.europa.eu/doceo/document/INTA-AM-772197_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2025-04-11"
+  },
+  {
+   "id": "AGRI-AD-770263",
+   "title": "Opinión AGRI (770263)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AD-770263_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-05-05"
+  },
+  {
+   "id": "A-10-2025-0087",
+   "title": "Informe A10-0087/2025",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0087_EN.html",
+   "kind": "report",
+   "date": "2025-05-16"
+  },
+  {
+   "id": "A-10-2025-0087-AM-001-001",
+   "title": "Enmiendas al Pleno 1-1 (informe A10-0087/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0087-AM-001-001_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2025-05-19"
+  },
+  {
+   "id": "TA-10-2025-0109",
+   "title": "Texto aprobado P10_TA(2025)0109",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2025-0109_EN.html",
+   "kind": "adopted_text",
+   "date": "2025-05-22"
+  }
+ ],
+ "amendments": {
+  "plenary": 1,
+  "committee_documents": 1
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2025-05-22-OJ-ITM-V-8",
+   "date": "2025-05-22",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-8)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-05-22_EN.html",
+   "refs": [
+    "2025/0021(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0021(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_21",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_21?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0021?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2025-05-22-OJ-ITM-V-8",
+   "date": "2025-05-22",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-8)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-05-22_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

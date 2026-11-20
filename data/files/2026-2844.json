@@ -1,0 +1,50 @@
+{
+ "ref": "2026/2844(DEA)",
+ "id": "2026-2844",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2019/2090 en lo que respecta a las medidas coercitivas en caso de incumplimiento del período de espera, de los límites máximos de residuos o los niveles máximos y en caso de tratamiento ilegal",
+ "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2019/2090 as regards the enforcement actions in case of non-compliance with the withdrawal period, maximum residue limits or maximum levels and in case of illegal treatment",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  }
+ ],
+ "people": [],
+ "started": "2026-09-16",
+ "last_activity": "2026-09-16",
+ "events": [
+  {
+   "date": "2026-09-16",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2844(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2844",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2844?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2844?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

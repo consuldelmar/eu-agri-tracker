@@ -1,0 +1,304 @@
+{
+ "ref": "2020/0106(COD)",
+ "id": "2020-0106",
+ "type": "COD",
+ "title": "Propuesta de Reglamento por el que se modifica el Reglamento (UE) 2015/1017 en lo referente a la creación de un Instrumento de Apoyo a la Solvencia",
+ "title_en": "Amending Regulation (EU) 2015/1017 as regards creation of a Solvency Support Instrument",
+ "stage": "Proyecto de informe presentado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "BUDG",
+   "role": "joint"
+  },
+  {
+   "code": "ECON",
+   "role": "joint"
+  },
+  {
+   "code": "ENVI",
+   "role": "associated"
+  },
+  {
+   "code": "ITRE",
+   "role": "associated"
+  },
+  {
+   "code": "TRAN",
+   "role": "associated"
+  },
+  {
+   "code": "CONT",
+   "role": "opinion"
+  },
+  {
+   "code": "EMPL",
+   "role": "opinion"
+  },
+  {
+   "code": "IMCO",
+   "role": "opinion"
+  },
+  {
+   "code": "REGI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "197597",
+   "name": "Hélène LAPORTE",
+   "group": "ID",
+   "country": "FRA",
+   "role": "shadow",
+   "committee": "BUDG",
+   "since": "2020-07-22"
+  },
+  {
+   "id": "96899",
+   "name": "José Manuel FERNANDES",
+   "group": "PPE",
+   "country": "PRT",
+   "role": "rapporteur",
+   "committee": "BUDG",
+   "since": "2020-07-22"
+  },
+  {
+   "id": "88882",
+   "name": "Victor NEGRESCU",
+   "group": "S&D",
+   "country": "RO",
+   "role": "shadow",
+   "committee": "BUDG",
+   "since": "2020-07-22"
+  },
+  {
+   "id": "125106",
+   "name": "Johan VAN OVERTVELDT",
+   "group": "ECR",
+   "country": "BE",
+   "role": "shadow",
+   "committee": "BUDG",
+   "since": "2020-07-22"
+  },
+  {
+   "id": "114268",
+   "name": "Nils TORVALDS",
+   "group": "Renew",
+   "country": "FIN",
+   "role": "rapporteur",
+   "committee": "BUDG",
+   "since": "2020-07-22"
+  },
+  {
+   "id": "197457",
+   "name": "Henrike HAHN",
+   "group": "Verts/ALE",
+   "country": "DEU",
+   "role": "shadow",
+   "committee": "BUDG",
+   "since": "2020-07-22"
+  },
+  {
+   "id": "28586",
+   "name": "Dimitrios PAPADIMOULIS",
+   "group": "The Left",
+   "country": "GRC",
+   "role": "shadow",
+   "committee": "BUDG",
+   "since": "2020-07-22"
+  },
+  {
+   "id": "132191",
+   "name": "Gunnar BECK",
+   "group": "ID",
+   "country": "DEU",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2020-07-22"
+  },
+  {
+   "id": "197720",
+   "name": "Frances FITZGERALD",
+   "group": "PPE",
+   "country": "IRL",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2020-07-22"
+  },
+  {
+   "id": "197591",
+   "name": "Irene TINAGLI",
+   "group": "S&D",
+   "country": "IT",
+   "role": "rapporteur",
+   "committee": "ECON",
+   "since": "2020-07-22"
+  },
+  {
+   "id": "197545",
+   "name": "Bogdan RZOŃCA",
+   "group": "ECR",
+   "country": "PL",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2020-07-22"
+  },
+  {
+   "id": "197818",
+   "name": "Billy KELLEHER",
+   "group": "Renew",
+   "country": "IE",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2020-07-22"
+  },
+  {
+   "id": "204420",
+   "name": "Claude GRUFFAT",
+   "group": "Verts/ALE",
+   "country": "FRA",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2020-07-22"
+  },
+  {
+   "id": "88715",
+   "name": "José GUSMÃO",
+   "group": "The Left",
+   "country": "PRT",
+   "role": "shadow",
+   "committee": "ECON",
+   "since": "2020-07-22"
+  },
+  {
+   "id": "96711",
+   "name": "Pascal CANFIN",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_rapporteur",
+   "committee": "ENVI",
+   "since": "2020-06-10"
+  },
+  {
+   "id": "34578",
+   "name": "Robert HAJŠEL",
+   "group": "S&D",
+   "country": "SVK",
+   "role": "opinion_rapporteur",
+   "committee": "ITRE",
+   "since": "2020-07-06"
+  }
+ ],
+ "started": "2020-06-17",
+ "last_activity": "2020-09-03",
+ "events": [
+  {
+   "date": "2020-06-17",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2020-07-13",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "ITRE-PA-654115",
+     "title": "Proyecto de opinión ITRE (654115)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ITRE-PA-654115_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2020-07-29",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "CJ16-PR-655850",
+     "title": "CJ16-PR-655850",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2020-09-01",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "ITRE-AD-654115",
+     "title": "Opinión ITRE (654115)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AD-654115_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2020-09-03",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "ENVI-AD-657184",
+     "title": "Opinión ENVI (657184)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AD-657184_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "ITRE-PA-654115",
+   "title": "Proyecto de opinión ITRE (654115)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ITRE-PA-654115_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2020-07-13"
+  },
+  {
+   "id": "CJ16-PR-655850",
+   "title": "CJ16-PR-655850",
+   "url": "",
+   "kind": "other",
+   "date": "2020-07-29"
+  },
+  {
+   "id": "ITRE-AD-654115",
+   "title": "Opinión ITRE (654115)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AD-654115_EN.pdf",
+   "kind": "opinion",
+   "date": "2020-09-01"
+  },
+  {
+   "id": "ENVI-AD-657184",
+   "title": "Opinión ENVI (657184)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AD-657184_EN.pdf",
+   "kind": "opinion",
+   "date": "2020-09-03"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2020/0106(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2020_106",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2020_106?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2020-0106?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

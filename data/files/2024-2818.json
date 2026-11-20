@@ -1,0 +1,46 @@
+{
+ "ref": "2024/2818(DEA)",
+ "id": "2024-2818",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2017/117 en lo que respecta a las medidas de conservación de las pesquerías en las zonas del mar Báltico de Fehmarnbelt, Kadetrinne, Westliche Rönnebank, Adlergrund y Pommersche Bucht mit Oderbank",
+ "title_en": "Commission delegated regulation amending Delegated Regulation (EU) 2017/117 as regards fisheries conservation measures in the Baltic Sea areas of Fehmarnbelt, Kadetrinne, Westliche Rönnebank, Adlergrund and Pommersche Bucht mit Oderbank",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2024-10-09",
+ "last_activity": "2024-10-09",
+ "events": [
+  {
+   "date": "2024-10-09",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2818(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2818",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2818?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2818?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

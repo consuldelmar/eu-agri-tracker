@@ -1,0 +1,46 @@
+{
+ "ref": "2026/0290(COD)",
+ "id": "2026-0290",
+ "type": "COD",
+ "title": "Zona de la Convención de la Comisión de Pesca del Pacífico Norte: medidas de gestión, de conservación y de control",
+ "title_en": "Convention area of the North Pacific Fisheries Commission: management, conservation and control measures",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2026-10-19",
+ "last_activity": "2026-10-19",
+ "events": [
+  {
+   "date": "2026-10-19",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0290(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_290",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_290?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-0290?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

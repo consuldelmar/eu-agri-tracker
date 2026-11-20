@@ -1,0 +1,229 @@
+{
+ "ref": "2024/0048(NLE)",
+ "id": "2024-0048",
+ "type": "NLE",
+ "title": "Adhesión de Tonga al Acuerdo de Asociación Interino entre la Comunidad Europea y los Estados del Pacífico",
+ "title_en": "Accession of Tonga to the Interim Partnership Agreement between the European Community, and the Pacific States",
+ "stage": "Plenary decision",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "INTA",
+   "role": "lead"
+  },
+  {
+   "code": "DEVE",
+   "role": "opinion"
+  },
+  {
+   "code": "PECH",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "28307",
+   "name": "Francisco ASSIS",
+   "group": "S&D",
+   "country": "PT",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2024-09-30"
+  },
+  {
+   "id": "198490",
+   "name": "Emmanouil FRAGKOS",
+   "group": "ECR",
+   "country": "GR",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2024-09-30"
+  },
+  {
+   "id": "257297",
+   "name": "Barry COWEN",
+   "group": "Renew",
+   "country": "IE",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2024-09-30"
+  },
+  {
+   "id": "256890",
+   "name": "Rudi KENNES",
+   "group": "The Left",
+   "country": "BE",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2024-09-30"
+  },
+  {
+   "id": "256929",
+   "name": "René AUST",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2024-09-30"
+  },
+  {
+   "id": "257031",
+   "name": "Dariusz JOŃSKI",
+   "group": "PPE",
+   "country": "PL",
+   "role": "rapporteur",
+   "committee": "INTA",
+   "since": "2024-09-30"
+  }
+ ],
+ "started": "2024-09-16",
+ "last_activity": "2024-12-18",
+ "events": [
+  {
+   "date": "2024-09-16",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-11-14",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "INTA-PR-765179",
+     "title": "Proyecto de informe INTA (765179)",
+     "url": "https://www.europarl.europa.eu/doceo/document/INTA-PR-765179_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2024-12-03",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-12-05",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2024-0023",
+     "title": "Informe A10-0023/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2024-0023_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-12-18",
+   "type": "PLENARY_DECISION",
+   "title": "Plenary decision",
+   "docs": [
+    {
+     "id": "TA-10-2024-0068",
+     "title": "Texto aprobado P10_TA(2024)0068",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2024-0068_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2024-12-18",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2024-12-18-ITM-010-05",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2024-12-18-ITM-010-05_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2024-12-18-ITM-010-05",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2024-12-18-ITM-010-05_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2024-12-18",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2024-0023",
+     "title": "Informe A10-0023/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2024-0023_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "INTA-PR-765179",
+   "title": "Proyecto de informe INTA (765179)",
+   "url": "https://www.europarl.europa.eu/doceo/document/INTA-PR-765179_EN.pdf",
+   "kind": "draft_report",
+   "date": "2024-11-14"
+  },
+  {
+   "id": "A-10-2024-0023",
+   "title": "Informe A10-0023/2024",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2024-0023_EN.html",
+   "kind": "report",
+   "date": "2024-12-05"
+  },
+  {
+   "id": "TA-10-2024-0068",
+   "title": "Texto aprobado P10_TA(2024)0068",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2024-0068_EN.html",
+   "kind": "adopted_text",
+   "date": "2024-12-18"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2024-12-18-OJ-ITM-V-34",
+   "date": "2024-12-18",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-34)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-12-18_EN.html",
+   "refs": [
+    "2024/0048(NLE)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/0048(NLE)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_48",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_48?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-0048?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2024-12-18-OJ-ITM-V-34",
+   "date": "2024-12-18",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-34)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-12-18_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

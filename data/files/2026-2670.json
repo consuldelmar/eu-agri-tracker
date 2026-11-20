@@ -1,0 +1,50 @@
+{
+ "ref": "2026/2670(DEA)",
+ "id": "2026-2670",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2020/687 en lo que respecta a las medidas de control de la infección por el virus de la lengua azul (serotipos 1-24)",
+ "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2020/687 as regards the infection with bluetongue virus (serotype 1-24) disease control measures",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  }
+ ],
+ "people": [],
+ "started": "2026-04-29",
+ "last_activity": "2026-04-29",
+ "events": [
+  {
+   "date": "2026-04-29",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2670(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2670",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2670?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2670?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

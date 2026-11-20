@@ -1,0 +1,46 @@
+{
+ "ref": "2024/3012(DEA)",
+ "id": "2024-3012",
+ "type": "DEA",
+ "title": "Corrección de errores del Reglamento Delegado de la Comisión, de 18 de septiembre de 2024, por el que se modifica el Reglamento Delegado (UE) 2018/273 en lo que respecta a la certificación de los productos vitivinícolas importados y a la importación de vino originario de Nueva Zelanda [C(2024) 6473 final]",
+ "title_en": "Corrigendum to Commission Delegated Regulation of 18 September 2024 amending Delegated Regulation (EU) 2018/273 as regards the certification of imported wine products and the import of wine originating in New Zealand (C(2024) 6473 final)",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2024-12-18",
+ "last_activity": "2024-12-18",
+ "events": [
+  {
+   "date": "2024-12-18",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/3012(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_3012",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_3012?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-3012?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

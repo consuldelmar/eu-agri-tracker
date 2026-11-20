@@ -1,0 +1,768 @@
+{
+ "ref": "2023/0131(COD)",
+ "id": "2023-0131",
+ "type": "COD",
+ "title": "Establecimiento de los procedimientos de la Unión para la autorización y el control de los medicamentos de uso humano, establecimiento de las normas por las que se rige la Agencia Europea de Medicamentos, modificación del Reglamento (CE) n.º 1394/2007 y el Reglamento (UE) n.º 536/2014 y derogación del Reglamento (CE) n.º 726/2004, el Reglamento (CE) n.º 141/2000 y el Reglamento (CE) n.º 1901/2006",
+ "title_en": "Laying down Union procedures for the authorisation and supervision of medicinal products for human use and establishing rules governing the European Medicines Agency, amending Regulation (EC) No 1394/2007 and Regulation (EU) No 536/2014 and repealing Regulation (EC) No 726/2004, Regulation (EC) No 141/2000 and Regulation (EC) No 1901/2006",
+ "stage": "Informe aprobado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "joint"
+  },
+  {
+   "code": "SANT",
+   "role": "joint"
+  },
+  {
+   "code": "ITRE",
+   "role": "associated"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "opinion"
+  },
+  {
+   "code": "CONT",
+   "role": "opinion"
+  },
+  {
+   "code": "IMCO",
+   "role": "opinion"
+  },
+  {
+   "code": "LIBE",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "125106",
+   "name": "Johan VAN OVERTVELDT",
+   "group": "ECR",
+   "country": "BE",
+   "role": "opinion_rapporteur",
+   "committee": "BUDG",
+   "since": "2023-05-23"
+  },
+  {
+   "id": "197417",
+   "name": "Tomislav SOKOL",
+   "group": "PPE",
+   "country": "HR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2023-05-15"
+  },
+  {
+   "id": "185619",
+   "name": "Tiemo WÖLKEN",
+   "group": "S&D",
+   "country": "DE",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2023-05-11"
+  },
+  {
+   "id": "185619",
+   "name": "Tiemo WÖLKEN",
+   "group": "S&D",
+   "country": "DE",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2025-02-19"
+  },
+  {
+   "id": "4253",
+   "name": "Frédérique RIES",
+   "group": "Renew",
+   "country": "BEL",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2023-07-07"
+  },
+  {
+   "id": "193292",
+   "name": "Tilly METZ",
+   "group": "Verts/ALE",
+   "country": "LU",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2023-07-07"
+  },
+  {
+   "id": "197849",
+   "name": "Andrey SLABAKOV",
+   "group": "ECR",
+   "country": "BGR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2023-07-07"
+  },
+  {
+   "id": "124875",
+   "name": "Anders VISTISEN",
+   "group": "ID",
+   "country": "DNK",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2023-10-10"
+  },
+  {
+   "id": "23699",
+   "name": "Kateřina KONEČNÁ",
+   "group": "The Left",
+   "country": "CZ",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2023-07-07"
+  },
+  {
+   "id": "197417",
+   "name": "Tomislav SOKOL",
+   "group": "PPE",
+   "country": "HR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-03-20"
+  },
+  {
+   "id": "204414",
+   "name": "Margarita DE LA PISA CARRIÓN",
+   "group": "PfE",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-03-18"
+  },
+  {
+   "id": "257150",
+   "name": "Michele PICARO",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-03-19"
+  },
+  {
+   "id": "257020",
+   "name": "Stine BOSSE",
+   "group": "Renew",
+   "country": "DK",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-03-18"
+  },
+  {
+   "id": "193292",
+   "name": "Tilly METZ",
+   "group": "Verts/ALE",
+   "country": "LU",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-03-24"
+  },
+  {
+   "id": "197416",
+   "name": "Giorgos GEORGIOU",
+   "group": "The Left",
+   "country": "CY",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-03-20"
+  },
+  {
+   "id": "197475",
+   "name": "Christine ANDERSON",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2025-10-02"
+  },
+  {
+   "id": "124726",
+   "name": "Henna VIRKKUNEN",
+   "group": "PPE",
+   "country": "FIN",
+   "role": "opinion_rapporteur",
+   "committee": "ITRE",
+   "since": "2023-10-05"
+  },
+  {
+   "id": "247735",
+   "name": "Laura BALLARÍN CEREZA",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2023-10-23"
+  },
+  {
+   "id": "197784",
+   "name": "Susana SOLÍS PÉREZ",
+   "group": "Renew",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2023-10-10"
+  },
+  {
+   "id": "197802",
+   "name": "Ville NIINISTÖ",
+   "group": "Verts/ALE",
+   "country": "FI",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2023-10-10"
+  },
+  {
+   "id": "204414",
+   "name": "Margarita DE LA PISA CARRIÓN",
+   "group": "ECR",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2023-10-18"
+  },
+  {
+   "id": "124808",
+   "name": "Norbert LINS",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2023-05-23"
+  },
+  {
+   "id": "124985",
+   "name": "Luke Ming FLANAGAN",
+   "group": "The Left",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2023-07-03"
+  }
+ ],
+ "started": "2023-09-14",
+ "last_activity": "2026-11-13",
+ "events": [
+  {
+   "date": "2023-09-14",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-10-20",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "ENVI-PR-753550",
+     "title": "Proyecto de informe ENVI (753550)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-PR-753550_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-21",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión (8 documentos)",
+   "docs": [
+    {
+     "id": "ENVI-AM-756133",
+     "title": "Enmiendas en comisión ENVI (756133)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756133_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "ENVI-AM-756136",
+     "title": "Enmiendas en comisión ENVI (756136)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756136_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "ENVI-AM-756134",
+     "title": "Enmiendas en comisión ENVI (756134)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756134_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "ENVI-AM-756132",
+     "title": "Enmiendas en comisión ENVI (756132)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756132_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "ENVI-AM-756137",
+     "title": "Enmiendas en comisión ENVI (756137)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756137_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "ENVI-AM-756138",
+     "title": "Enmiendas en comisión ENVI (756138)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756138_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "ENVI-AM-756131",
+     "title": "Enmiendas en comisión ENVI (756131)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756131_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "ENVI-AM-756135",
+     "title": "Enmiendas en comisión ENVI (756135)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756135_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2024-01-24",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AL-757314",
+     "title": "AGRI-AL-757314",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-14",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "BUDG-AL-759054",
+     "title": "BUDG-AL-759054",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-22",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "ITRE-AD-754772",
+     "title": "Opinión ITRE (754772)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AD-754772_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-19",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-03-21",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0141",
+     "title": "Informe A9-0141/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0141_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-10",
+   "type": "PLENARY_AMEND_PROPOSAL",
+   "title": "Plenary amend proposal",
+   "docs": [
+    {
+     "id": "TA-9-2024-0221",
+     "title": "Texto aprobado P9_TA(2024)0221",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0221_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-10",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0141",
+     "title": "Informe A9-0141/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0141_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2024-0140",
+     "title": "Informe A9-0140/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0140_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2023-0144",
+     "title": "Propuesta o documento recibido C9-0144/2023",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "C-9-2023-0143",
+     "title": "Propuesta o documento recibido C9-0143/2023",
+     "url": "",
+     "kind": "proposal"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-10",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-9-2024-04-10-ITM-021-46",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-04-10-ITM-021-46_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2024-04-10-ITM-021-46",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-04-10-ITM-021-46_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-10",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0141",
+     "title": "Informe A9-0141/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0141_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-06-17",
+   "type": "INTERINSTITUTIONAL_NEGOTIATION",
+   "title": "Trílogo",
+   "docs": []
+  },
+  {
+   "date": "2025-10-07",
+   "type": "INTERINSTITUTIONAL_NEGOTIATION",
+   "title": "Trílogo",
+   "docs": []
+  },
+  {
+   "date": "2025-11-11",
+   "type": "INTERINSTITUTIONAL_NEGOTIATION",
+   "title": "Trílogo",
+   "docs": []
+  },
+  {
+   "date": "2025-12-10",
+   "type": "INTERINSTITUTIONAL_NEGOTIATION",
+   "title": "Trílogo",
+   "docs": []
+  },
+  {
+   "date": "2026-03-18",
+   "type": "COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT",
+   "title": "Acuerdo provisional aprobado en comisión",
+   "docs": [
+    {
+     "id": "SANT-AG-792227",
+     "title": "SANT-AG-792227",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-10-12",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "SANT-PR-796377",
+     "title": "Proyecto de informe SANT (796377)",
+     "url": "https://www.europarl.europa.eu/doceo/document/SANT-PR-796377_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-11-13",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0296",
+     "title": "Informe A10-0296/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0296_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "ENVI-PR-753550",
+   "title": "Proyecto de informe ENVI (753550)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-PR-753550_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-10-20"
+  },
+  {
+   "id": "ENVI-AM-756133",
+   "title": "Enmiendas en comisión ENVI (756133)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756133_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2023-11-21"
+  },
+  {
+   "id": "ENVI-AM-756136",
+   "title": "Enmiendas en comisión ENVI (756136)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756136_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2023-11-21"
+  },
+  {
+   "id": "ENVI-AM-756134",
+   "title": "Enmiendas en comisión ENVI (756134)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756134_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2023-11-21"
+  },
+  {
+   "id": "ENVI-AM-756132",
+   "title": "Enmiendas en comisión ENVI (756132)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756132_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2023-11-21"
+  },
+  {
+   "id": "ENVI-AM-756137",
+   "title": "Enmiendas en comisión ENVI (756137)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756137_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2023-11-21"
+  },
+  {
+   "id": "ENVI-AM-756138",
+   "title": "Enmiendas en comisión ENVI (756138)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756138_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2023-11-21"
+  },
+  {
+   "id": "ENVI-AM-756131",
+   "title": "Enmiendas en comisión ENVI (756131)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756131_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2023-11-21"
+  },
+  {
+   "id": "ENVI-AM-756135",
+   "title": "Enmiendas en comisión ENVI (756135)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-756135_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2023-11-21"
+  },
+  {
+   "id": "AGRI-AL-757314",
+   "title": "AGRI-AL-757314",
+   "url": "",
+   "kind": "other",
+   "date": "2024-01-24"
+  },
+  {
+   "id": "BUDG-AL-759054",
+   "title": "BUDG-AL-759054",
+   "url": "",
+   "kind": "other",
+   "date": "2024-02-14"
+  },
+  {
+   "id": "ITRE-AD-754772",
+   "title": "Opinión ITRE (754772)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AD-754772_EN.pdf",
+   "kind": "opinion",
+   "date": "2024-02-22"
+  },
+  {
+   "id": "A-9-2024-0141",
+   "title": "Informe A9-0141/2024",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0141_EN.html",
+   "kind": "report",
+   "date": "2024-04-10"
+  },
+  {
+   "id": "A-9-2024-0140",
+   "title": "Informe A9-0140/2024",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0140_EN.html",
+   "kind": "report",
+   "date": "2024-04-10"
+  },
+  {
+   "id": "C-9-2023-0144",
+   "title": "Propuesta o documento recibido C9-0144/2023",
+   "url": "",
+   "kind": "proposal",
+   "date": "2024-04-10"
+  },
+  {
+   "id": "C-9-2023-0143",
+   "title": "Propuesta o documento recibido C9-0143/2023",
+   "url": "",
+   "kind": "proposal",
+   "date": "2024-04-10"
+  },
+  {
+   "id": "TA-9-2024-0221",
+   "title": "Texto aprobado P9_TA(2024)0221",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0221_EN.html",
+   "kind": "adopted_text",
+   "date": "2024-04-10"
+  },
+  {
+   "id": "SANT-AG-792227",
+   "title": "SANT-AG-792227",
+   "url": "",
+   "kind": "other",
+   "date": "2026-03-18"
+  },
+  {
+   "id": "SANT-PR-796377",
+   "title": "Proyecto de informe SANT (796377)",
+   "url": "https://www.europarl.europa.eu/doceo/document/SANT-PR-796377_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "A-10-2026-0296",
+   "title": "Informe A10-0296/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0296_EN.html",
+   "kind": "report",
+   "date": "2026-11-13"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 8
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-61",
+   "date": "2026-11-25",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-61)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
+   "refs": [
+    "2023/0131(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-04-10-OJ-ITM-V-34",
+   "date": "2024-04-10",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-34)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-04-10_EN.html",
+   "refs": [
+    "2023/0131(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-04-10-OJ-ITM-D-34",
+   "date": "2024-04-10",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-34)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-04-10_EN.html",
+   "refs": [
+    "2023/0131(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0131(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_131",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_131?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-0131?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2024-04-10-OJ-ITM-V-34",
+   "date": "2024-04-10",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-34)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-04-10_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-04-10-OJ-ITM-D-34",
+   "date": "2024-04-10",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-34)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-04-10_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-61",
+   "date": "2026-11-25",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-61)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-61",
+   "date": "2026-11-25",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-61)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
+   "source": "ep"
+  }
+ ],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

@@ -1,0 +1,369 @@
+{
+ "ref": "2024/0133(NLE)",
+ "id": "2024-0133",
+ "type": "NLE",
+ "title": "Celebración, en nombre de la Unión, del Protocolo (2024-2029) de aplicación del Acuerdo de asociación en el sector pesquero entre la Comunidad Europea y la República de Cabo Verde",
+ "title_en": "Conclusion, on behalf of the Union, of the Protocol (2024-2029) implementing the Fisheries Partnership Agreement between the European Community and the Republic of Cabo Verde",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  },
+  {
+   "code": "DEVE",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "budget"
+  }
+ ],
+ "people": [
+  {
+   "id": "256901",
+   "name": "Jean-Marc GERMAIN",
+   "group": "S&D",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "",
+   "since": "2024-10-14"
+  },
+  {
+   "id": "197718",
+   "name": "Nicolás GONZÁLEZ CASARES",
+   "group": "S&D",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2024-09-19"
+  },
+  {
+   "id": "197824",
+   "name": "Giuseppe MILAZZO",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2024-09-19"
+  },
+  {
+   "id": "256987",
+   "name": "Oihane AGIRREGOITIA MARTÍNEZ",
+   "group": "Renew",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2024-09-23"
+  },
+  {
+   "id": "256915",
+   "name": "Mélissa CAMARA",
+   "group": "Verts/ALE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2024-10-10"
+  },
+  {
+   "id": "257044",
+   "name": "Rasmus NORDQVIST",
+   "group": "Verts/ALE",
+   "country": "DK",
+   "role": "opinion_shadow",
+   "committee": "",
+   "since": "2024-09-30"
+  },
+  {
+   "id": "125023",
+   "name": "Anja HAZEKAMP",
+   "group": "The Left",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2024-11-07"
+  },
+  {
+   "id": "96811",
+   "name": "Rosa ESTARÀS FERRAGUT",
+   "group": "PPE",
+   "country": "ES",
+   "role": "opinion_rapporteur",
+   "committee": "DEVE",
+   "since": "2024-10-15"
+  },
+  {
+   "id": "257068",
+   "name": "Hélder SOUSA SILVA",
+   "group": "PPE",
+   "country": "PT",
+   "role": "opinion_rapporteur",
+   "committee": "BUDG",
+   "since": "2024-09-16"
+  },
+  {
+   "id": "257020",
+   "name": "Stine BOSSE",
+   "group": "Renew",
+   "country": "DK",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2024-12-09"
+  },
+  {
+   "id": "257048",
+   "name": "Paulo DO NASCIMENTO CABRAL",
+   "group": "PPE",
+   "country": "PT",
+   "role": "rapporteur",
+   "committee": "PECH",
+   "since": "2024-09-19"
+  },
+  {
+   "id": "257050",
+   "name": "António TÂNGER CORRÊA",
+   "group": "PfE",
+   "country": "PT",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2024-12-03"
+  }
+ ],
+ "started": "2024-09-19",
+ "last_activity": "2025-03-28",
+ "events": [
+  {
+   "date": "2024-09-19",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-10-03",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "BUDG-PA-765016",
+     "title": "Proyecto de opinión BUDG (765016)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-PA-765016_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2024-10-22",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "PECH-PR-763283",
+     "title": "Proyecto de informe PECH (763283)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-763283_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2024-11-08",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "DEVE-PA-765301",
+     "title": "Proyecto de opinión DEVE (765301)",
+     "url": "https://www.europarl.europa.eu/doceo/document/DEVE-PA-765301_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2024-11-21",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "BUDG-AD-765016",
+     "title": "Opinión BUDG (765016)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-765016_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2024-12-04",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "DEVE-AD-765301",
+     "title": "Opinión DEVE (765301)",
+     "url": "https://www.europarl.europa.eu/doceo/document/DEVE-AD-765301_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-01-28",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-01-30",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0004",
+     "title": "Informe A10-0004/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0004_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "type": "PLENARY_DECISION",
+   "title": "Plenary decision",
+   "docs": [
+    {
+     "id": "TA-10-2025-0009",
+     "title": "Texto aprobado P10_TA(2025)0009",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2025-0009_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2025-02-11-ITM-007-02",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2025-02-11-ITM-007-02_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2025-02-11-ITM-007-02",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-02-11-ITM-007-02_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0004",
+     "title": "Informe A10-0004/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0004_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-03-28",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "BUDG-PA-765016",
+   "title": "Proyecto de opinión BUDG (765016)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-PA-765016_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2024-10-03"
+  },
+  {
+   "id": "PECH-PR-763283",
+   "title": "Proyecto de informe PECH (763283)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-763283_EN.pdf",
+   "kind": "draft_report",
+   "date": "2024-10-22"
+  },
+  {
+   "id": "DEVE-PA-765301",
+   "title": "Proyecto de opinión DEVE (765301)",
+   "url": "https://www.europarl.europa.eu/doceo/document/DEVE-PA-765301_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2024-11-08"
+  },
+  {
+   "id": "BUDG-AD-765016",
+   "title": "Opinión BUDG (765016)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-765016_EN.pdf",
+   "kind": "opinion",
+   "date": "2024-11-21"
+  },
+  {
+   "id": "DEVE-AD-765301",
+   "title": "Opinión DEVE (765301)",
+   "url": "https://www.europarl.europa.eu/doceo/document/DEVE-AD-765301_EN.pdf",
+   "kind": "opinion",
+   "date": "2024-12-04"
+  },
+  {
+   "id": "A-10-2025-0004",
+   "title": "Informe A10-0004/2025",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0004_EN.html",
+   "kind": "report",
+   "date": "2025-02-11"
+  },
+  {
+   "id": "TA-10-2025-0009",
+   "title": "Texto aprobado P10_TA(2025)0009",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2025-0009_EN.html",
+   "kind": "adopted_text",
+   "date": "2025-02-11"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2025-02-11-OJ-ITM-V-16",
+   "date": "2025-02-11",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-16)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-02-11_EN.html",
+   "refs": [
+    "2024/0133(NLE)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/0133(NLE)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_133",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_133?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-0133?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2025-02-11-OJ-ITM-V-16",
+   "date": "2025-02-11",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-16)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-02-11_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

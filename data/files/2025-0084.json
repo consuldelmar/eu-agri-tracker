@@ -1,0 +1,941 @@
+{
+ "ref": "2025/0084(COD)",
+ "id": "2025-0084",
+ "type": "COD",
+ "title": "Modificación de los Reglamentos (UE) 2021/1058 y (UE) 2021/1056 en lo que respecta a medidas específicas para hacer frente a retos estratégicos en el contexto de la revisión intermedia",
+ "title_en": "Amending Regulations (EU) 2021/1058 and (EU) 2021/1056 as regards specific measures to address strategic challenges in the context of the mid-term review",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "REGI",
+   "role": "lead"
+  },
+  {
+   "code": "EMPL",
+   "role": "opinion"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  },
+  {
+   "code": "ITRE",
+   "role": "opinion"
+  },
+  {
+   "code": "SEDE",
+   "role": "opinion"
+  },
+  {
+   "code": "TRAN",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "budget"
+  }
+ ],
+ "people": [
+  {
+   "id": "204449",
+   "name": "Riho TERRAS",
+   "group": "PPE",
+   "country": "EE",
+   "role": "opinion_rapporteur",
+   "committee": "SEDE",
+   "since": "2025-05-13"
+  },
+  {
+   "id": "257002",
+   "name": "José CEPEDA",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2025-05-13"
+  },
+  {
+   "id": "256907",
+   "name": "Reinis POZŅAKS",
+   "group": "ECR",
+   "country": "LV",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2025-05-19"
+  },
+  {
+   "id": "124766",
+   "name": "Petras AUŠTREVIČIUS",
+   "group": "Renew",
+   "country": "LT",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2025-05-19"
+  },
+  {
+   "id": "111412",
+   "name": "Villy SØVNDAL",
+   "group": "Verts/ALE",
+   "country": "DK",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2025-05-16"
+  },
+  {
+   "id": "187917",
+   "name": "Marc BOTENGA",
+   "group": "The Left",
+   "country": "BE",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2025-05-19"
+  },
+  {
+   "id": "256847",
+   "name": "Danuše NERUDOVÁ",
+   "group": "PPE",
+   "country": "CZ",
+   "role": "opinion_rapporteur",
+   "committee": "BUDG",
+   "since": "2025-05-12"
+  },
+  {
+   "id": "257124",
+   "name": "Giuseppe LUPO",
+   "group": "S&D",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2025-05-28"
+  },
+  {
+   "id": "256843",
+   "name": "Jana NAGYOVÁ",
+   "group": "PfE",
+   "country": "CZ",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2025-05-20"
+  },
+  {
+   "id": "257104",
+   "name": "Ruggero RAZZA",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2025-06-02"
+  },
+  {
+   "id": "257011",
+   "name": "Lucia YAR",
+   "group": "Renew",
+   "country": "SK",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2025-05-19"
+  },
+  {
+   "id": "197448",
+   "name": "Rasmus ANDRESEN",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2025-05-23"
+  },
+  {
+   "id": "197649",
+   "name": "Gheorghe FALCĂ",
+   "group": "PPE",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "",
+   "since": "2025-05-20"
+  },
+  {
+   "id": "91636",
+   "name": "Marit MAIJ",
+   "group": "S&D",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "",
+   "since": "2025-06-03"
+  },
+  {
+   "id": "261796",
+   "name": "Séverine WERBROUCK",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "",
+   "since": "2025-05-21"
+  },
+  {
+   "id": "257163",
+   "name": "Francesco TORSELLI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "",
+   "since": "2025-05-28"
+  },
+  {
+   "id": "257139",
+   "name": "Benedetta SCUDERI",
+   "group": "Verts/ALE",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "",
+   "since": "2025-06-02"
+  },
+  {
+   "id": "256968",
+   "name": "Ingeborg TER LAAK",
+   "group": "PPE",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2025-05-21"
+  },
+  {
+   "id": "257122",
+   "name": "Antonio DECARO",
+   "group": "S&D",
+   "country": "ITA",
+   "role": "opinion_rapporteur",
+   "committee": "ENVI",
+   "since": "2025-05-20"
+  },
+  {
+   "id": "256876",
+   "name": "Anne-Sophie FRIGOUT",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2025-05-21"
+  },
+  {
+   "id": "197537",
+   "name": "Alexandr VONDRA",
+   "group": "ECR",
+   "country": "CZ",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2025-05-21"
+  },
+  {
+   "id": "96711",
+   "name": "Pascal CANFIN",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2025-05-21"
+  },
+  {
+   "id": "208722",
+   "name": "Sara MATTHIEU",
+   "group": "Verts/ALE",
+   "country": "BE",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2025-05-21"
+  },
+  {
+   "id": "257065",
+   "name": "Sérgio HUMBERTO",
+   "group": "PPE",
+   "country": "PT",
+   "role": "opinion_rapporteur",
+   "committee": "TRAN",
+   "since": "2025-05-27"
+  },
+  {
+   "id": "257079",
+   "name": "Sérgio GONÇALVES",
+   "group": "S&D",
+   "country": "PT",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2025-06-02"
+  },
+  {
+   "id": "28615",
+   "name": "Roberts ZĪLE",
+   "group": "ECR",
+   "country": "LV",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2025-06-19"
+  },
+  {
+   "id": "197432",
+   "name": "Jan-Christoph OETJEN",
+   "group": "Renew",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2025-06-02"
+  },
+  {
+   "id": "257016",
+   "name": "Vicent MARZÀ IBÁÑEZ",
+   "group": "Verts/ALE",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2025-05-15"
+  },
+  {
+   "id": "124736",
+   "name": "Merja KYLLÖNEN",
+   "group": "The Left",
+   "country": "FI",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2025-04-11"
+  },
+  {
+   "id": "267485",
+   "name": "Volker SCHNURRBUSCH",
+   "group": "ESN",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2025-05-26"
+  },
+  {
+   "id": "124895",
+   "name": "Krzysztof HETMAN",
+   "group": "PPE",
+   "country": "PL",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2025-06-20"
+  },
+  {
+   "id": "197658",
+   "name": "Dragoş BENEA",
+   "group": "S&D",
+   "country": "RO",
+   "role": "rapporteur",
+   "committee": "REGI",
+   "since": "2025-05-13"
+  },
+  {
+   "id": "256853",
+   "name": "Klara DOSTALOVA",
+   "group": "PfE",
+   "country": "CZ",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2025-05-19"
+  },
+  {
+   "id": "239260",
+   "name": "Denis NESCI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2025-05-14"
+  },
+  {
+   "id": "257013",
+   "name": "Ľubica KARVAŠOVÁ",
+   "group": "Renew",
+   "country": "SK",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2025-05-22"
+  },
+  {
+   "id": "257130",
+   "name": "Cristina GUARDA",
+   "group": "Verts/ALE",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2025-06-02"
+  },
+  {
+   "id": "257135",
+   "name": "Valentina PALMISANO",
+   "group": "The Left",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2025-06-23"
+  },
+  {
+   "id": "256945",
+   "name": "Irmhild BOSSDORF",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2025-06-24"
+  }
+ ],
+ "started": "2025-05-05",
+ "last_activity": "2025-09-19",
+ "events": [
+  {
+   "date": "2025-05-05",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-05-07",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2025-05-07-ITM-008-01",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2025-05-07-ITM-008-01_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2025-05-07-ITM-008-01",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-05-07-ITM-008-01_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-21",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "BUDG-PA-773419",
+     "title": "Proyecto de opinión BUDG (773419)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-PA-773419_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-26",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión (2 documentos)",
+   "docs": [
+    {
+     "id": "REGI-AM-773414",
+     "title": "Enmiendas en comisión REGI (773414)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-773414_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "REGI-AM-773415",
+     "title": "Enmiendas en comisión REGI (773415)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-773415_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2025-05-27",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "REGI-AM-774292",
+     "title": "Enmiendas en comisión REGI (774292)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-774292_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2025-06-03",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "TRAN-AL-774307",
+     "title": "TRAN-AL-774307",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2025-06-04",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "ENVI-AL-773339",
+     "title": "ENVI-AL-773339",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2025-06-16",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "SEDE-AD-774437",
+     "title": "Opinión SEDE (774437)",
+     "url": "https://www.europarl.europa.eu/doceo/document/SEDE-AD-774437_EN.pdf",
+     "kind": "opinion"
+    },
+    {
+     "id": "BUDG-AD-773419",
+     "title": "Opinión BUDG (773419)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-773419_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2025-06-20",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "REGI-AM-774526",
+     "title": "Enmiendas en comisión REGI (774526)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-774526_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2025-06-25",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-07-02",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0129",
+     "title": "Informe A10-0129/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-07-09",
+   "type": "PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
+   "title": "Plenary endorse committee interinstitutional negotiations",
+   "docs": []
+  },
+  {
+   "date": "2025-07-15",
+   "type": "INTERINSTITUTIONAL_NEGOTIATION",
+   "title": "Trílogo",
+   "docs": []
+  },
+  {
+   "date": "2025-09-03",
+   "type": "COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT",
+   "title": "Acuerdo provisional aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-09-04",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno (3 documentos)",
+   "docs": [
+    {
+     "id": "A-10-2025-0129-AM-081-081",
+     "title": "Enmiendas al Pleno 81-81 (informe A10-0129/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-081-081_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2025-0129-AM-083-088",
+     "title": "Enmiendas al Pleno 83-88 (informe A10-0129/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-083-088_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 6
+    },
+    {
+     "id": "A-10-2025-0129-AM-080-080",
+     "title": "Enmiendas al Pleno 80-80 (informe A10-0129/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-080-080_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2025-09-05",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno (6 documentos)",
+   "docs": [
+    {
+     "id": "A-10-2025-0129-AM-077-077",
+     "title": "Enmiendas al Pleno 77-77 (informe A10-0129/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-077-077_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2025-0129-AM-089-090",
+     "title": "Enmiendas al Pleno 89-90 (informe A10-0129/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-089-090_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 2
+    },
+    {
+     "id": "A-10-2025-0129-AM-001-076",
+     "title": "Enmiendas al Pleno 1-76 (informe A10-0129/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-001-076_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 76
+    },
+    {
+     "id": "A-10-2025-0129-AM-082-082",
+     "title": "Enmiendas al Pleno 82-82 (informe A10-0129/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-082-082_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2025-0129-AM-079-079",
+     "title": "Enmiendas al Pleno 79-79 (informe A10-0129/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-079-079_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2025-0129-AM-078-078",
+     "title": "Enmiendas al Pleno 78-78 (informe A10-0129/2025)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-078-078_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2025-09-09",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0129",
+     "title": "Informe A10-0129/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-10-2025-0063",
+     "title": "Propuesta o documento recibido C10-0063/2025",
+     "url": "",
+     "kind": "proposal"
+    }
+   ]
+  },
+  {
+   "date": "2025-09-10",
+   "type": "PLENARY_ADOPT_POSITION",
+   "title": "Posición del Parlamento aprobada en el Pleno",
+   "docs": [
+    {
+     "id": "TA-10-2025-0177",
+     "title": "Texto aprobado P10_TA(2025)0177",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2025-0177_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2025-09-10",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "PV-10-2025-09-10-ITM-005-02",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2025-09-10-ITM-005-02_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "CRE-10-2025-09-10-ITM-005-02",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2025-09-10-ITM-005-02_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2025-09-10",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2025-0129",
+     "title": "Informe A10-0129/2025",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2025-09-18",
+   "type": "SIGNATURE",
+   "title": "Acto firmado",
+   "docs": []
+  },
+  {
+   "date": "2025-09-19",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "BUDG-PA-773419",
+   "title": "Proyecto de opinión BUDG (773419)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-PA-773419_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2025-05-21"
+  },
+  {
+   "id": "REGI-AM-773414",
+   "title": "Enmiendas en comisión REGI (773414)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-773414_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2025-05-26"
+  },
+  {
+   "id": "REGI-AM-773415",
+   "title": "Enmiendas en comisión REGI (773415)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-773415_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2025-05-26"
+  },
+  {
+   "id": "REGI-AM-774292",
+   "title": "Enmiendas en comisión REGI (774292)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-774292_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2025-05-27"
+  },
+  {
+   "id": "TRAN-AL-774307",
+   "title": "TRAN-AL-774307",
+   "url": "",
+   "kind": "other",
+   "date": "2025-06-03"
+  },
+  {
+   "id": "ENVI-AL-773339",
+   "title": "ENVI-AL-773339",
+   "url": "",
+   "kind": "other",
+   "date": "2025-06-04"
+  },
+  {
+   "id": "SEDE-AD-774437",
+   "title": "Opinión SEDE (774437)",
+   "url": "https://www.europarl.europa.eu/doceo/document/SEDE-AD-774437_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-06-16"
+  },
+  {
+   "id": "BUDG-AD-773419",
+   "title": "Opinión BUDG (773419)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-773419_EN.pdf",
+   "kind": "opinion",
+   "date": "2025-06-16"
+  },
+  {
+   "id": "REGI-AM-774526",
+   "title": "Enmiendas en comisión REGI (774526)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-774526_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2025-06-20"
+  },
+  {
+   "id": "A-10-2025-0129",
+   "title": "Informe A10-0129/2025",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129_EN.html",
+   "kind": "report",
+   "date": "2025-07-02"
+  },
+  {
+   "id": "A-10-2025-0129-AM-081-081",
+   "title": "Enmiendas al Pleno 81-81 (informe A10-0129/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-081-081_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2025-09-04"
+  },
+  {
+   "id": "A-10-2025-0129-AM-083-088",
+   "title": "Enmiendas al Pleno 83-88 (informe A10-0129/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-083-088_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 6,
+   "date": "2025-09-04"
+  },
+  {
+   "id": "A-10-2025-0129-AM-080-080",
+   "title": "Enmiendas al Pleno 80-80 (informe A10-0129/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-080-080_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2025-09-04"
+  },
+  {
+   "id": "A-10-2025-0129-AM-077-077",
+   "title": "Enmiendas al Pleno 77-77 (informe A10-0129/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-077-077_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2025-09-05"
+  },
+  {
+   "id": "A-10-2025-0129-AM-089-090",
+   "title": "Enmiendas al Pleno 89-90 (informe A10-0129/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-089-090_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 2,
+   "date": "2025-09-05"
+  },
+  {
+   "id": "A-10-2025-0129-AM-001-076",
+   "title": "Enmiendas al Pleno 1-76 (informe A10-0129/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-001-076_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 76,
+   "date": "2025-09-05"
+  },
+  {
+   "id": "A-10-2025-0129-AM-082-082",
+   "title": "Enmiendas al Pleno 82-82 (informe A10-0129/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-082-082_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2025-09-05"
+  },
+  {
+   "id": "A-10-2025-0129-AM-079-079",
+   "title": "Enmiendas al Pleno 79-79 (informe A10-0129/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-079-079_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2025-09-05"
+  },
+  {
+   "id": "A-10-2025-0129-AM-078-078",
+   "title": "Enmiendas al Pleno 78-78 (informe A10-0129/2025)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2025-0129-AM-078-078_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2025-09-05"
+  },
+  {
+   "id": "C-10-2025-0063",
+   "title": "Propuesta o documento recibido C10-0063/2025",
+   "url": "",
+   "kind": "proposal",
+   "date": "2025-09-09"
+  },
+  {
+   "id": "TA-10-2025-0177",
+   "title": "Texto aprobado P10_TA(2025)0177",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2025-0177_EN.html",
+   "kind": "adopted_text",
+   "date": "2025-09-10"
+  }
+ ],
+ "amendments": {
+  "plenary": 90,
+  "committee_documents": 4
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2025-09-10-OJ-ITM-V-55",
+   "date": "2025-09-10",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-55)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-09-10_EN.html",
+   "refs": [
+    "2025/0084(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-09-09-OJ-ITM-D-55",
+   "date": "2025-09-09",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-55)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-09-09_EN.html",
+   "refs": [
+    "2025/0084(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-05-07-OJ-ITM-V-115",
+   "date": "2025-05-07",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Request vote urgency (punto V-115)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-05-07_EN.html",
+   "refs": [
+    "2025/0084(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0084(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_84",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_84?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0084?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (responsable)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2025-05-07-OJ-ITM-V-115",
+   "date": "2025-05-07",
+   "body": "Pleno del PE",
+   "title": "Request vote urgency (punto V-115)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-05-07_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-09-09-OJ-ITM-D-55",
+   "date": "2025-09-09",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-55)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-09-09_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2025-09-10-OJ-ITM-V-55",
+   "date": "2025-09-10",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-55)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2025-09-10_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

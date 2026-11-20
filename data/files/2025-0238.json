@@ -1,0 +1,456 @@
+{
+ "ref": "2025/0238(COD)",
+ "id": "2025-0238",
+ "type": "COD",
+ "title": "Establecimiento del Fondo Europeo de Desarrollo Regional, en particular para la cooperación territorial europea (Interreg) y el Fondo de Cohesión como parte del Fondo establecido en el Reglamento (UE) [...] [Reglamento sobre los planes CNR], y establecimiento de las condiciones para la ejecución del apoyo de la Unión al desarrollo regional para el período 2028-2034",
+ "title_en": "Establishing the European Fund for Regional Development including for European Territorial Cooperation (Interreg) and the Cohesion Fund as part of the Fund set out in Regulation (EU) […]  [NRP] and establishing conditions for the implementation of the Union support to regional development from 2028 to 2034",
+ "stage": "Proyecto de informe presentado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "REGI",
+   "role": "lead"
+  },
+  {
+   "code": "EMPL",
+   "role": "opinion"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "budget"
+  }
+ ],
+ "people": [
+  {
+   "id": "257041",
+   "name": "Jacek PROTAS",
+   "group": "PPE",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-04-23"
+  },
+  {
+   "id": "237465",
+   "name": "Matthias ECKE",
+   "group": "S&D",
+   "country": "DE",
+   "role": "opinion_rapporteur",
+   "committee": "BUDG",
+   "since": "2026-03-12"
+  },
+  {
+   "id": "88552",
+   "name": "Julien SANCHEZ",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-04-30"
+  },
+  {
+   "id": "257104",
+   "name": "Ruggero RAZZA",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-04-07"
+  },
+  {
+   "id": "256962",
+   "name": "Joachim STREIT",
+   "group": "Renew",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-05-04"
+  },
+  {
+   "id": "197448",
+   "name": "Rasmus ANDRESEN",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-05-04"
+  },
+  {
+   "id": "257128",
+   "name": "Giusi PRINCI",
+   "group": "PPE",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2026-02-11"
+  },
+  {
+   "id": "204418",
+   "name": "Nora MEBAREK",
+   "group": "S&D",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-12-18"
+  },
+  {
+   "id": "236050",
+   "name": "Marie DAUCHY",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2026-03-19"
+  },
+  {
+   "id": "256956",
+   "name": "Galato ALEXANDRAKI",
+   "group": "ECR",
+   "country": "GR",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2026-01-23"
+  },
+  {
+   "id": "124700",
+   "name": "Jana TOOM",
+   "group": "Renew",
+   "country": "EE",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2026-02-16"
+  },
+  {
+   "id": "257083",
+   "name": "João OLIVEIRA",
+   "group": "The Left",
+   "country": "PT",
+   "role": "opinion_rapporteur",
+   "committee": "EMPL",
+   "since": "2026-01-16"
+  },
+  {
+   "id": "125012",
+   "name": "Daniel BUDA",
+   "group": "PPE",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2026-01-05"
+  },
+  {
+   "id": "257001",
+   "name": "Elena SANCHO MURILLO",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "256843",
+   "name": "Jana NAGYOVÁ",
+   "group": "PfE",
+   "country": "CZ",
+   "role": "opinion_rapporteur",
+   "committee": "ENVI",
+   "since": "2026-02-03"
+  },
+  {
+   "id": "257113",
+   "name": "Antonella SBERNA",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2025-12-15"
+  },
+  {
+   "id": "197769",
+   "name": "Michal WIEZIK",
+   "group": "Renew",
+   "country": "SK",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2025-12-09"
+  },
+  {
+   "id": "256833",
+   "name": "Lena SCHILLING",
+   "group": "Verts/ALE",
+   "country": "AT",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2026-01-21"
+  },
+  {
+   "id": "257135",
+   "name": "Valentina PALMISANO",
+   "group": "The Left",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2026-02-11"
+  },
+  {
+   "id": "24922",
+   "name": "Pascal ARIMONT",
+   "group": "PPE",
+   "country": "BE",
+   "role": "rapporteur",
+   "committee": "REGI",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "204413",
+   "name": "Marcos ROS SEMPERE",
+   "group": "S&D",
+   "country": "ES",
+   "role": "rapporteur",
+   "committee": "REGI",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "256853",
+   "name": "Klara DOSTALOVA",
+   "group": "PfE",
+   "country": "CZ",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2026-01-07"
+  },
+  {
+   "id": "239260",
+   "name": "Denis NESCI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2026-01-16"
+  },
+  {
+   "id": "256970",
+   "name": "Raquel GARCÍA HERMIDA-VAN DER WALLE",
+   "group": "Renew",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2026-01-16"
+  },
+  {
+   "id": "197448",
+   "name": "Rasmus ANDRESEN",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2026-01-20"
+  },
+  {
+   "id": "257299",
+   "name": "Kathleen FUNCHION",
+   "group": "The Left",
+   "country": "IE",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2026-01-14"
+  },
+  {
+   "id": "256945",
+   "name": "Irmhild BOSSDORF",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2026-03-30"
+  }
+ ],
+ "started": "2025-10-23",
+ "last_activity": "2026-09-16",
+ "events": [
+  {
+   "date": "2025-10-23",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-07-13",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "REGI-PR-790942",
+     "title": "Proyecto de informe REGI (790942)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-PR-790942_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "ENVI-AD-786677",
+     "title": "Opinión ENVI (786677)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AD-786677_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "BUDG-AD-787661",
+     "title": "Opinión BUDG (787661)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-787661_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión (2 documentos)",
+   "docs": [
+    {
+     "id": "REGI-AM-792058",
+     "title": "Enmiendas en comisión REGI (792058)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-792058_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "REGI-AM-792056",
+     "title": "Enmiendas en comisión REGI (792056)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-792056_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-08",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "REGI-AM-792066",
+     "title": "Enmiendas en comisión REGI (792066)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-792066_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "EMPL-AD-786812",
+     "title": "Opinión EMPL (786812)",
+     "url": "https://www.europarl.europa.eu/doceo/document/EMPL-AD-786812_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "REGI-AM-792057",
+     "title": "Enmiendas en comisión REGI (792057)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-792057_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "REGI-PR-790942",
+   "title": "Proyecto de informe REGI (790942)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-PR-790942_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-07-13"
+  },
+  {
+   "id": "ENVI-AD-786677",
+   "title": "Opinión ENVI (786677)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AD-786677_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-07-14"
+  },
+  {
+   "id": "BUDG-AD-787661",
+   "title": "Opinión BUDG (787661)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-787661_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-07-15"
+  },
+  {
+   "id": "REGI-AM-792058",
+   "title": "Enmiendas en comisión REGI (792058)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-792058_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-09-07"
+  },
+  {
+   "id": "REGI-AM-792056",
+   "title": "Enmiendas en comisión REGI (792056)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-792056_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-09-07"
+  },
+  {
+   "id": "REGI-AM-792066",
+   "title": "Enmiendas en comisión REGI (792066)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-792066_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-09-08"
+  },
+  {
+   "id": "EMPL-AD-786812",
+   "title": "Opinión EMPL (786812)",
+   "url": "https://www.europarl.europa.eu/doceo/document/EMPL-AD-786812_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-09-10"
+  },
+  {
+   "id": "REGI-AM-792057",
+   "title": "Enmiendas en comisión REGI (792057)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-AM-792057_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-09-16"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 4
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0238(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_238",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_238?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0238?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

@@ -1,0 +1,46 @@
+{
+ "ref": "2024/2959(DEA)",
+ "id": "2024-2959",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifican el Reglamento (UE) 2019/833 del Parlamento Europeo y del Consejo y el Reglamento Delegado (UE) 2020/124 de la Comisión en lo que respecta a nuevos tamaños de malla en la pesca del bacalao y a la plantilla del informe del observador",
+ "title_en": "Commission Delegated Regulation amending Regulation (EU) 2019/833 of the European Parliament and of the Council, and Commission Delegated Regulation (EU) 2020/124 as regards new mesh sizes in cod fishery and the observer report template",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2024-11-27",
+ "last_activity": "2024-11-27",
+ "events": [
+  {
+   "date": "2024-11-27",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2959(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2959",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2959?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2959?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

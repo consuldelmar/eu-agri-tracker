@@ -1,0 +1,46 @@
+{
+ "ref": "2024/3020(DEA)",
+ "id": "2024-3020",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (CE) n.º 1005/2008 del Consejo mediante el establecimiento de un modelo para el documento a que se refiere su artículo 14, apartado 1, letra b), inciso ii)",
+ "title_en": "Commission Delegated Regulation (EU) supplementing Council Regulation (EC) No 1005/2008 by establishing a template for the document referred to in Article 14(1), point (b)(ii), thereof",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2025-01-22",
+ "last_activity": "2025-01-22",
+ "events": [
+  {
+   "date": "2025-01-22",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/3020(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_3020",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_3020?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-3020?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

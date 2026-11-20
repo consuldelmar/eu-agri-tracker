@@ -1,0 +1,46 @@
+{
+ "ref": "2026/2588(DEA)",
+ "id": "2026-2588",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2022/1172, por el que se completa el Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo en lo que respecta al sistema integrado de gestión y control de la política agrícola común",
+ "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2022/1172 supplementing Regulation (EU) 2021/2116 of the European Parliament and of the Council with regard to the integrated administration and control system in the common agricultural policy",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2026-02-11",
+ "last_activity": "2026-02-11",
+ "events": [
+  {
+   "date": "2026-02-11",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2588(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2588",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2588?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2588?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

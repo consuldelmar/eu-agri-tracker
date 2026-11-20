@@ -1,0 +1,188 @@
+{
+ "ref": "2026/0182(NLE)",
+ "id": "2026-0182",
+ "type": "NLE",
+ "title": "Acuerdo de Asociación Económica Global entre la Unión Europea e Indonesia",
+ "title_en": "EU–Indonesia Comprehensive Economic Partnership Agreement",
+ "stage": "Proyecto de informe presentado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "INTA",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "PECH",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "39725",
+   "name": "Iuliu WINKLER",
+   "group": "PPE",
+   "country": "RO",
+   "role": "rapporteur",
+   "committee": "INTA",
+   "since": "2026-07-13"
+  },
+  {
+   "id": "5729",
+   "name": "Kathleen VAN BREMPT",
+   "group": "S&D",
+   "country": "BE",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2026-09-29"
+  },
+  {
+   "id": "261797",
+   "name": "Christophe BAY",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2026-09-28"
+  },
+  {
+   "id": "256884",
+   "name": "Kris VAN DIJCK",
+   "group": "ECR",
+   "country": "BE",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2026-09-23"
+  },
+  {
+   "id": "257437",
+   "name": "Catarina VIEIRA",
+   "group": "Verts/ALE",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2026-09-29"
+  },
+  {
+   "id": "236053",
+   "name": "Marina MESURE",
+   "group": "The Left",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "INTA",
+   "since": "2026-09-29"
+  },
+  {
+   "id": "197552",
+   "name": "Veronika VRECIONOVÁ",
+   "group": "ECR",
+   "country": "CZ",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2026-10-02"
+  },
+  {
+   "id": "185341",
+   "name": "Željana ZOVKO",
+   "group": "PPE",
+   "country": "HR",
+   "role": "opinion_rapporteur",
+   "committee": "PECH",
+   "since": "2026-10-12"
+  },
+  {
+   "id": "257066",
+   "name": "André FRANQUEIRA RODRIGUES",
+   "group": "S&D",
+   "country": "PT",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2026-11-05"
+  },
+  {
+   "id": "125325",
+   "name": "Sander SMIT",
+   "group": "ECR",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2026-10-29"
+  },
+  {
+   "id": "197401",
+   "name": "Karin KARLSBRO",
+   "group": "Renew",
+   "country": "SE",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2026-10-16"
+  },
+  {
+   "id": "96675",
+   "name": "Isabella LÖVIN",
+   "group": "Verts/ALE",
+   "country": "SE",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2026-11-03"
+  },
+  {
+   "id": "198471",
+   "name": "Robert GABEL",
+   "group": "The Left",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2026-11-03"
+  }
+ ],
+ "started": "2026-10-21",
+ "last_activity": "2026-10-21",
+ "events": [
+  {
+   "date": "2026-10-21",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "INTA-PR-797390",
+     "title": "Proyecto de informe INTA (797390)",
+     "url": "https://www.europarl.europa.eu/doceo/document/INTA-PR-797390_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "INTA-PR-797390",
+   "title": "Proyecto de informe INTA (797390)",
+   "url": "https://www.europarl.europa.eu/doceo/document/INTA-PR-797390_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-10-21"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0182(NLE)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_182",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_182?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-0182?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)",
+  "PECH (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

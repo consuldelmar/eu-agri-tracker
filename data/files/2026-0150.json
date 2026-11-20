@@ -1,0 +1,157 @@
+{
+ "ref": "2026/0150(COD)",
+ "id": "2026-0150",
+ "type": "COD",
+ "title": "Ayuda temporal y pago de anticipos en respuesta al aumento de los precios de los fertilizantes a consecuencia de la crisis de Oriente Próximo",
+ "title_en": "Temporary support and payment of advances regarding the increased fertiliser prices due to the Middle East crisis",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2026-06-15",
+ "last_activity": "2026-07-21",
+ "events": [
+  {
+   "date": "2026-06-15",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-06-16",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2026-06-16-ITM-007-02",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2026-06-16-ITM-007-02_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2026-06-16-ITM-007-02",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-06-16-ITM-007-02_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-07",
+   "type": "PLENARY_ADOPT_POSITION",
+   "title": "Posición del Parlamento aprobada en el Pleno",
+   "docs": [
+    {
+     "id": "TA-10-2026-0240",
+     "title": "Texto aprobado P10_TA(2026)0240",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0240_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-07",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "PV-10-2026-07-07-ITM-007-09",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-07-07-ITM-007-09_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "CRE-10-2026-07-07-ITM-007-09",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2026-07-07-ITM-007-09_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "type": "SIGNATURE",
+   "title": "Acto firmado",
+   "docs": []
+  },
+  {
+   "date": "2026-07-21",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "TA-10-2026-0240",
+   "title": "Texto aprobado P10_TA(2026)0240",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0240_EN.html",
+   "kind": "adopted_text",
+   "date": "2026-07-07"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-06-16-OJ-ITM-V-105",
+   "date": "2026-06-16",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Request vote urgency (punto V-105)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-06-16_EN.html",
+   "refs": [
+    "2026/0150(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2026-07-07-OJ-ITM-V-71",
+   "date": "2026-07-07",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-71)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-07-07_EN.html",
+   "refs": [
+    "2026/0150(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0150(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_150",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_150?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-0150?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-06-16-OJ-ITM-V-105",
+   "date": "2026-06-16",
+   "body": "Pleno del PE",
+   "title": "Request vote urgency (punto V-105)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-06-16_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2026-07-07-OJ-ITM-V-71",
+   "date": "2026-07-07",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-71)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-07-07_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

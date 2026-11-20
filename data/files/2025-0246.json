@@ -1,0 +1,219 @@
+{
+ "ref": "2025/0246(COD)",
+ "id": "2025-0246",
+ "type": "COD",
+ "title": "Estadísticas europeas de pesca y acuicultura y derogación de los Reglamentos (CE) n.º 1921/2006, (CE) n.º 762/2008, (CE) n.º 216/2009, (CE) n.º 217/2009 y (CE) n.º 218/2009",
+ "title_en": "European fisheries and aquaculture statistics and repealing Regulations (EC) No 1921/2006, (EC) No 762/2008, (EC) No 216/2009, (EC) No 217/2009 and (EC) No 218/2009",
+ "stage": "Trílogo",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  },
+  {
+   "code": "BUDG",
+   "role": "budget"
+  }
+ ],
+ "people": [
+  {
+   "id": "256920",
+   "name": "Isabelle LE CALLENNEC",
+   "group": "PPE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2025-12-23"
+  },
+  {
+   "id": "256829",
+   "name": "Sakis ARNAOUTOGLOU",
+   "group": "S&D",
+   "country": "GR",
+   "role": "rapporteur",
+   "committee": "PECH",
+   "since": "2025-10-21"
+  },
+  {
+   "id": "257050",
+   "name": "António TÂNGER CORRÊA",
+   "group": "PfE",
+   "country": "PT",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2025-10-21"
+  },
+  {
+   "id": "257000",
+   "name": "Stephen Nikola BARTULICA",
+   "group": "ECR",
+   "country": "HR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-03-03"
+  },
+  {
+   "id": "197769",
+   "name": "Michal WIEZIK",
+   "group": "Renew",
+   "country": "SK",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2025-10-28"
+  },
+  {
+   "id": "24942",
+   "name": "Ana MIRANDA PAZ",
+   "group": "Verts/ALE",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2025-12-22"
+  },
+  {
+   "id": "256913",
+   "name": "Emma FOURREAU",
+   "group": "The Left",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2025-12-08"
+  }
+ ],
+ "started": "2025-10-06",
+ "last_activity": "2026-10-13",
+ "events": [
+  {
+   "date": "2025-10-06",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-02-04",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "PECH-PR-781323",
+     "title": "Proyecto de informe PECH (781323)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-781323_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-12",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "PECH-AM-784255",
+     "title": "Enmiendas en comisión PECH (784255)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-AM-784255_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-20",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "PECH-AM-785271",
+     "title": "Enmiendas en comisión PECH (785271)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-AM-785271_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-05-06",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-05-08",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0135",
+     "title": "Informe A10-0135/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0135_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-05-20",
+   "type": "PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
+   "title": "Plenary endorse committee interinstitutional negotiations",
+   "docs": []
+  },
+  {
+   "date": "2026-06-04",
+   "type": "INTERINSTITUTIONAL_NEGOTIATION",
+   "title": "Trílogo",
+   "docs": []
+  },
+  {
+   "date": "2026-10-13",
+   "type": "INTERINSTITUTIONAL_NEGOTIATION",
+   "title": "Trílogo",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "PECH-PR-781323",
+   "title": "Proyecto de informe PECH (781323)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-781323_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-02-04"
+  },
+  {
+   "id": "PECH-AM-784255",
+   "title": "Enmiendas en comisión PECH (784255)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-AM-784255_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-03-12"
+  },
+  {
+   "id": "PECH-AM-785271",
+   "title": "Enmiendas en comisión PECH (785271)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-AM-785271_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-03-20"
+  },
+  {
+   "id": "A-10-2026-0135",
+   "title": "Informe A10-0135/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0135_EN.html",
+   "kind": "report",
+   "date": "2026-05-08"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 2
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0246(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_246",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_246?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0246?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

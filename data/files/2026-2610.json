@@ -1,0 +1,50 @@
+{
+ "ref": "2026/2610(DEA)",
+ "id": "2026-2610",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica y corrige el Reglamento Delegado (UE) 2019/2122 en lo que respecta a determinadas categorías de animales y mercancías exentas de controles oficiales en los puestos de control fronterizos",
+ "title_en": "Commission Delegated Regulation amending and correcting Delegated Regulation (EU) 2019/2122 as regards certain categories of animals and goods exempted from official controls at border control posts",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  }
+ ],
+ "people": [],
+ "started": "2026-02-11",
+ "last_activity": "2026-02-11",
+ "events": [
+  {
+   "date": "2026-02-11",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2610(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2610",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2610?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2610?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

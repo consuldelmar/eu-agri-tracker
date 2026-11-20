@@ -1,0 +1,411 @@
+{
+ "ref": "2022/0379(COD)",
+ "id": "2022-0379",
+ "type": "COD",
+ "title": "Establecimiento de medidas a fin de garantizar un alto nivel de interoperabilidad del sector público en toda la Unión (Ley sobre la Europa Interoperable)",
+ "title_en": "Laying down measures for a high level of public sector interoperability across the Union (Interoperable Europe Act)",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "ITRE",
+   "role": "lead"
+  },
+  {
+   "code": "LIBE",
+   "role": "associated"
+  },
+  {
+   "code": "BUDG",
+   "role": "opinion"
+  },
+  {
+   "code": "IMCO",
+   "role": "opinion"
+  },
+  {
+   "code": "REGI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "236050",
+   "name": "Marie DAUCHY",
+   "group": "ID",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ITRE",
+   "since": "2023-02-14"
+  },
+  {
+   "id": "238639",
+   "name": "Johan NISSINEN",
+   "group": "ECR",
+   "country": "SWE",
+   "role": "shadow",
+   "committee": "ITRE",
+   "since": "2022-12-15"
+  },
+  {
+   "id": "185974",
+   "name": "Jordi SOLÉ",
+   "group": "Verts/ALE",
+   "country": "ESP",
+   "role": "shadow",
+   "committee": "ITRE",
+   "since": "2023-02-14"
+  },
+  {
+   "id": "197649",
+   "name": "Gheorghe FALCĂ",
+   "group": "PPE",
+   "country": "RO",
+   "role": "shadow",
+   "committee": "ITRE",
+   "since": "2022-12-15"
+  },
+  {
+   "id": "197394",
+   "name": "Josianne CUTAJAR",
+   "group": "S&D",
+   "country": "MLT",
+   "role": "shadow",
+   "committee": "ITRE",
+   "since": "2022-12-15"
+  },
+  {
+   "id": "197624",
+   "name": "Ivars IJABS",
+   "group": "Renew",
+   "country": "LV",
+   "role": "rapporteur",
+   "committee": "ITRE",
+   "since": "2022-12-15"
+  },
+  {
+   "id": "197645",
+   "name": "Francisco GUERREIRO",
+   "group": "Verts/ALE",
+   "country": "PRT",
+   "role": "opinion_rapporteur",
+   "committee": "IMCO",
+   "since": "2023-03-01"
+  },
+  {
+   "id": "209091",
+   "name": "Cyrus ENGERER",
+   "group": "S&D",
+   "country": "MLT",
+   "role": "opinion_rapporteur",
+   "committee": "LIBE",
+   "since": "2023-04-13"
+  }
+ ],
+ "started": "2022-11-21",
+ "last_activity": "2024-03-22",
+ "events": [
+  {
+   "date": "2022-11-21",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-03-28",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "ITRE-PR-745497",
+     "title": "Proyecto de informe ITRE (745497)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ITRE-PR-745497_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2023-04-03",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "IMCO-PA-745487",
+     "title": "Proyecto de opinión IMCO (745487)",
+     "url": "https://www.europarl.europa.eu/doceo/document/IMCO-PA-745487_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-04-25",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "LIBE-PA-746882",
+     "title": "Proyecto de opinión LIBE (746882)",
+     "url": "https://www.europarl.europa.eu/doceo/document/LIBE-PA-746882_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-06-29",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "LIBE-AD-746882",
+     "title": "Opinión LIBE (746882)",
+     "url": "https://www.europarl.europa.eu/doceo/document/LIBE-AD-746882_EN.pdf",
+     "kind": "opinion"
+    },
+    {
+     "id": "IMCO-AD-745487",
+     "title": "Opinión IMCO (745487)",
+     "url": "https://www.europarl.europa.eu/doceo/document/IMCO-AD-745487_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2023-07-19",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2023-07-27",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0254",
+     "title": "Informe A9-0254/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0254_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-13",
+   "type": "PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
+   "title": "Plenary endorse committee interinstitutional negotiations",
+   "docs": []
+  },
+  {
+   "date": "2023-11-28",
+   "type": "COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT",
+   "title": "Acuerdo provisional aprobado en comisión",
+   "docs": [
+    {
+     "id": "ITRE-AG-756340",
+     "title": "ITRE-AG-756340",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-05",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "C-9-2022-0387",
+     "title": "Propuesta o documento recibido C9-0387/2022",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2023-0254",
+     "title": "Informe A9-0254/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0254_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-06",
+   "type": "PLENARY_ADOPT_POSITION",
+   "title": "Posición del Parlamento aprobada en el Pleno",
+   "docs": [
+    {
+     "id": "TA-9-2024-0060",
+     "title": "Texto aprobado P9_TA(2024)0060",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0060_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-06",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-9-2024-02-06-ITM-005-07",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-02-06-ITM-005-07_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2024-02-06-ITM-005-07",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-02-06-ITM-005-07_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-06",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2023-0254",
+     "title": "Informe A9-0254/2023",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0254_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-13",
+   "type": "SIGNATURE",
+   "title": "Acto firmado",
+   "docs": []
+  },
+  {
+   "date": "2024-03-22",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "ITRE-PR-745497",
+   "title": "Proyecto de informe ITRE (745497)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ITRE-PR-745497_EN.pdf",
+   "kind": "draft_report",
+   "date": "2023-03-28"
+  },
+  {
+   "id": "IMCO-PA-745487",
+   "title": "Proyecto de opinión IMCO (745487)",
+   "url": "https://www.europarl.europa.eu/doceo/document/IMCO-PA-745487_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2023-04-03"
+  },
+  {
+   "id": "LIBE-PA-746882",
+   "title": "Proyecto de opinión LIBE (746882)",
+   "url": "https://www.europarl.europa.eu/doceo/document/LIBE-PA-746882_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2023-04-25"
+  },
+  {
+   "id": "LIBE-AD-746882",
+   "title": "Opinión LIBE (746882)",
+   "url": "https://www.europarl.europa.eu/doceo/document/LIBE-AD-746882_EN.pdf",
+   "kind": "opinion",
+   "date": "2023-06-29"
+  },
+  {
+   "id": "IMCO-AD-745487",
+   "title": "Opinión IMCO (745487)",
+   "url": "https://www.europarl.europa.eu/doceo/document/IMCO-AD-745487_EN.pdf",
+   "kind": "opinion",
+   "date": "2023-06-29"
+  },
+  {
+   "id": "ITRE-AG-756340",
+   "title": "ITRE-AG-756340",
+   "url": "",
+   "kind": "other",
+   "date": "2023-11-28"
+  },
+  {
+   "id": "C-9-2022-0387",
+   "title": "Propuesta o documento recibido C9-0387/2022",
+   "url": "",
+   "kind": "proposal",
+   "date": "2024-02-05"
+  },
+  {
+   "id": "A-9-2023-0254",
+   "title": "Informe A9-0254/2023",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2023-0254_EN.html",
+   "kind": "report",
+   "date": "2024-02-05"
+  },
+  {
+   "id": "TA-9-2024-0060",
+   "title": "Texto aprobado P9_TA(2024)0060",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0060_EN.html",
+   "kind": "adopted_text",
+   "date": "2024-02-06"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2024-02-05-OJ-ITM-D-33",
+   "date": "2024-02-05",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-33)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-02-05_EN.html",
+   "refs": [
+    "2022/0379(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-02-06-OJ-ITM-V-33",
+   "date": "2024-02-06",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-33)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-02-06_EN.html",
+   "refs": [
+    "2022/0379(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0379(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2022_379",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2022_379?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2022-0379?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2024-02-05-OJ-ITM-D-33",
+   "date": "2024-02-05",
+   "body": "Pleno del PE",
+   "title": "Debate (punto D-33)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-02-05_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-02-06-OJ-ITM-V-33",
+   "date": "2024-02-06",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-33)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-02-06_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

@@ -1,0 +1,46 @@
+{
+ "ref": "2025/2708(DEA)",
+ "id": "2025-2708",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifican los Reglamentos Delegados (UE) 2016/1237 y (UE) 2020/760 como consecuencia del establecimiento del sistema electrónico para las formalidades no aduaneras de los productos agrícolas (ELAN)",
+ "title_en": "Commission Delegated Regulation amending Delegated Regulations (EU) 2016/1237 and (EU) 2020/760 as a consequence of the establishment of the Electronic system for Agricultural Non-customs formalities (ELAN)",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2025-05-21",
+ "last_activity": "2025-05-21",
+ "events": [
+  {
+   "date": "2025-05-21",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2708(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2708",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2708?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2708?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

@@ -1,0 +1,988 @@
+{
+ "ref": "2025/0571(APP)",
+ "id": "2025-0571",
+ "type": "APP",
+ "title": "Establecimiento del marco financiero plurianual para el período 2028-2034",
+ "title_en": "Laying down the multiannual financial framework for the years 2028 to 2034",
+ "stage": "",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "BUDG",
+   "role": "lead"
+  },
+  {
+   "code": "AFCO",
+   "role": "opinion"
+  },
+  {
+   "code": "AFET",
+   "role": "opinion"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "CONT",
+   "role": "opinion"
+  },
+  {
+   "code": "CULT",
+   "role": "opinion"
+  },
+  {
+   "code": "DEVE",
+   "role": "opinion"
+  },
+  {
+   "code": "EMPL",
+   "role": "opinion"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  },
+  {
+   "code": "FEMM",
+   "role": "opinion"
+  },
+  {
+   "code": "ITRE",
+   "role": "opinion"
+  },
+  {
+   "code": "JURI",
+   "role": "opinion"
+  },
+  {
+   "code": "LIBE",
+   "role": "opinion"
+  },
+  {
+   "code": "PECH",
+   "role": "opinion"
+  },
+  {
+   "code": "REGI",
+   "role": "opinion"
+  },
+  {
+   "code": "SEDE",
+   "role": "opinion"
+  },
+  {
+   "code": "TRAN",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "2341",
+   "name": "Michael GAHLER",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "AFET",
+   "since": "2026-01-14"
+  },
+  {
+   "id": "256997",
+   "name": "Sandra GÓMEZ LÓPEZ",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "AFET",
+   "since": "2026-01-14"
+  },
+  {
+   "id": "220840",
+   "name": "Jaroslav BŽOCH",
+   "group": "PfE",
+   "country": "CZ",
+   "role": "opinion_shadow",
+   "committee": "AFET",
+   "since": "2026-01-07"
+  },
+  {
+   "id": "197655",
+   "name": "Cristian TERHEŞ",
+   "group": "ECR",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "AFET",
+   "since": "2026-01-22"
+  },
+  {
+   "id": "257110",
+   "name": "Dan BARNA",
+   "group": "Renew",
+   "country": "RO",
+   "role": "opinion_rapporteur",
+   "committee": "AFET",
+   "since": "2025-12-04"
+  },
+  {
+   "id": "197772",
+   "name": "Tineke STRIK",
+   "group": "Verts/ALE",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "AFET",
+   "since": "2026-01-05"
+  },
+  {
+   "id": "197468",
+   "name": "Özlem DEMIREL",
+   "group": "The Left",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "AFET",
+   "since": "2026-01-12"
+  },
+  {
+   "id": "256959",
+   "name": "Alexander SELL",
+   "group": "ESN",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "AFET",
+   "since": "2026-02-06"
+  },
+  {
+   "id": "257089",
+   "name": "Alice TEODORESCU MÅWE",
+   "group": "PPE",
+   "country": "SE",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2026-02-02"
+  },
+  {
+   "id": "257002",
+   "name": "José CEPEDA",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2026-02-02"
+  },
+  {
+   "id": "256907",
+   "name": "Reinis POZŅAKS",
+   "group": "ECR",
+   "country": "LV",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2026-02-02"
+  },
+  {
+   "id": "256926",
+   "name": "Marie-Agnes STRACK-ZIMMERMANN",
+   "group": "Renew",
+   "country": "DE",
+   "role": "opinion_rapporteur",
+   "committee": "SEDE",
+   "since": "2025-11-05"
+  },
+  {
+   "id": "197802",
+   "name": "Ville NIINISTÖ",
+   "group": "Verts/ALE",
+   "country": "FI",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2026-01-29"
+  },
+  {
+   "id": "251874",
+   "name": "Niels GEUKING",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_rapporteur",
+   "committee": "DEVE",
+   "since": "2025-12-18"
+  },
+  {
+   "id": "204332",
+   "name": "Barry ANDREWS",
+   "group": "Renew",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "DEVE",
+   "since": "2026-01-16"
+  },
+  {
+   "id": "197462",
+   "name": "Erik MARQUARDT",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "DEVE",
+   "since": "2026-01-13"
+  },
+  {
+   "id": "124802",
+   "name": "Siegfried MUREŞAN",
+   "group": "PPE",
+   "country": "RO",
+   "role": "rapporteur",
+   "committee": "BUDG",
+   "since": "2025-11-25"
+  },
+  {
+   "id": "257071",
+   "name": "Carla TAVARES",
+   "group": "S&D",
+   "country": "PT",
+   "role": "rapporteur",
+   "committee": "BUDG",
+   "since": "2025-11-25"
+  },
+  {
+   "id": "96826",
+   "name": "Tamás DEUTSCH",
+   "group": "PfE",
+   "country": "HU",
+   "role": "shadow",
+   "committee": "BUDG",
+   "since": "2025-11-26"
+  },
+  {
+   "id": "28615",
+   "name": "Roberts ZĪLE",
+   "group": "ECR",
+   "country": "LV",
+   "role": "shadow",
+   "committee": "BUDG",
+   "since": "2025-11-25"
+  },
+  {
+   "id": "22858",
+   "name": "Fabienne KELLER",
+   "group": "Renew",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "BUDG",
+   "since": "2025-11-25"
+  },
+  {
+   "id": "257044",
+   "name": "Rasmus NORDQVIST",
+   "group": "Verts/ALE",
+   "country": "DK",
+   "role": "shadow",
+   "committee": "BUDG",
+   "since": "2025-11-12"
+  },
+  {
+   "id": "257083",
+   "name": "João OLIVEIRA",
+   "group": "The Left",
+   "country": "PT",
+   "role": "shadow",
+   "committee": "BUDG",
+   "since": "2025-12-08"
+  },
+  {
+   "id": "256941",
+   "name": "Alexander JUNGBLUTH",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "BUDG",
+   "since": "2025-11-12"
+  },
+  {
+   "id": "257041",
+   "name": "Jacek PROTAS",
+   "group": "PPE",
+   "country": "PL",
+   "role": "opinion_rapporteur",
+   "committee": "CONT",
+   "since": "2025-12-15"
+  },
+  {
+   "id": "257124",
+   "name": "Giuseppe LUPO",
+   "group": "S&D",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-01-23"
+  },
+  {
+   "id": "96826",
+   "name": "Tamás DEUTSCH",
+   "group": "PfE",
+   "country": "HU",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-02-03"
+  },
+  {
+   "id": "197501",
+   "name": "Joachim Stanisław BRUDZIŃSKI",
+   "group": "ECR",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-01-28"
+  },
+  {
+   "id": "197577",
+   "name": "Gilles BOYER",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-01-20"
+  },
+  {
+   "id": "30482",
+   "name": "Younous OMARJEE",
+   "group": "The Left",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-01-14"
+  },
+  {
+   "id": "125104",
+   "name": "Romana TOMC",
+   "group": "PPE",
+   "country": "SI",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2026-01-15"
+  },
+  {
+   "id": "197579",
+   "name": "Klára DOBREV",
+   "group": "S&D",
+   "country": "HU",
+   "role": "opinion_rapporteur",
+   "committee": "EMPL",
+   "since": "2025-12-11"
+  },
+  {
+   "id": "256852",
+   "name": "Nikola BARTŮŠEK",
+   "group": "PfE",
+   "country": "CZ",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-12-09"
+  },
+  {
+   "id": "257149",
+   "name": "Lara MAGONI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-12-16"
+  },
+  {
+   "id": "197672",
+   "name": "Eugen TOMAC",
+   "group": "Renew",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-12-19"
+  },
+  {
+   "id": "198076",
+   "name": "Maria OHISALO",
+   "group": "Verts/ALE",
+   "country": "FI",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2025-11-20"
+  },
+  {
+   "id": "257083",
+   "name": "João OLIVEIRA",
+   "group": "The Left",
+   "country": "PT",
+   "role": "opinion_shadow",
+   "committee": "EMPL",
+   "since": "2026-01-20"
+  },
+  {
+   "id": "256985",
+   "name": "Michalis HADJIPANTELA",
+   "group": "PPE",
+   "country": "CY",
+   "role": "opinion_rapporteur",
+   "committee": "ENVI",
+   "since": "2025-12-08"
+  },
+  {
+   "id": "256857",
+   "name": "Viktória FERENC",
+   "group": "PfE",
+   "country": "HU",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2025-12-08"
+  },
+  {
+   "id": "2268",
+   "name": "Jonas SJÖSTEDT",
+   "group": "The Left",
+   "country": "SE",
+   "role": "opinion_shadow",
+   "committee": "ENVI",
+   "since": "2025-12-14"
+  },
+  {
+   "id": "257047",
+   "name": "Borys BUDKA",
+   "group": "PPE",
+   "country": "PL",
+   "role": "opinion_rapporteur",
+   "committee": "ITRE",
+   "since": "2025-11-13"
+  },
+  {
+   "id": "28226",
+   "name": "Christian EHLER",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2025-11-27"
+  },
+  {
+   "id": "257111",
+   "name": "Dario NARDELLA",
+   "group": "S&D",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2025-11-14"
+  },
+  {
+   "id": "101039",
+   "name": "Paolo BORCHIA",
+   "group": "PfE",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2026-02-05"
+  },
+  {
+   "id": "220871",
+   "name": "Rihards KOLS",
+   "group": "ECR",
+   "country": "LV",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2025-11-17"
+  },
+  {
+   "id": "256976",
+   "name": "Brigitte VAN DEN BERG",
+   "group": "Renew",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2025-11-25"
+  },
+  {
+   "id": "197449",
+   "name": "Michael BLOSS",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2026-01-23"
+  },
+  {
+   "id": "197649",
+   "name": "Gheorghe FALCĂ",
+   "group": "PPE",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2025-12-15"
+  },
+  {
+   "id": "257079",
+   "name": "Sérgio GONÇALVES",
+   "group": "S&D",
+   "country": "PT",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2025-12-16"
+  },
+  {
+   "id": "257117",
+   "name": "Adrian-George AXINIA",
+   "group": "ECR",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2026-01-21"
+  },
+  {
+   "id": "256891",
+   "name": "Benoit CASSART",
+   "group": "Renew",
+   "country": "BE",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2026-02-13"
+  },
+  {
+   "id": "256833",
+   "name": "Lena SCHILLING",
+   "group": "Verts/ALE",
+   "country": "AT",
+   "role": "opinion_shadow",
+   "committee": "TRAN",
+   "since": "2026-01-21"
+  },
+  {
+   "id": "124736",
+   "name": "Merja KYLLÖNEN",
+   "group": "The Left",
+   "country": "FI",
+   "role": "opinion_rapporteur",
+   "committee": "TRAN",
+   "since": "2025-12-16"
+  },
+  {
+   "id": "125012",
+   "name": "Daniel BUDA",
+   "group": "PPE",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2025-12-02"
+  },
+  {
+   "id": "197658",
+   "name": "Dragoş BENEA",
+   "group": "S&D",
+   "country": "RO",
+   "role": "opinion_rapporteur",
+   "committee": "REGI",
+   "since": "2025-12-01"
+  },
+  {
+   "id": "197690",
+   "name": "André ROUGÉ",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-08"
+  },
+  {
+   "id": "99878",
+   "name": "Waldemar BUDA",
+   "group": "ECR",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-13"
+  },
+  {
+   "id": "256962",
+   "name": "Joachim STREIT",
+   "group": "Renew",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-08"
+  },
+  {
+   "id": "257130",
+   "name": "Cristina GUARDA",
+   "group": "Verts/ALE",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-07"
+  },
+  {
+   "id": "257135",
+   "name": "Valentina PALMISANO",
+   "group": "The Left",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2025-11-21"
+  },
+  {
+   "id": "256945",
+   "name": "Irmhild BOSSDORF",
+   "group": "ESN",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2025-12-04"
+  },
+  {
+   "id": "125012",
+   "name": "Daniel BUDA",
+   "group": "PPE",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2026-01-30"
+  },
+  {
+   "id": "257108",
+   "name": "Stefano BONACCINI",
+   "group": "S&D",
+   "country": "IT",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2025-12-15"
+  },
+  {
+   "id": "257024",
+   "name": "Mireia BORRÁS PABÓN",
+   "group": "PfE",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2026-01-30"
+  },
+  {
+   "id": "99878",
+   "name": "Waldemar BUDA",
+   "group": "ECR",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2026-01-30"
+  },
+  {
+   "id": "840",
+   "name": "Charles GOERENS",
+   "group": "Renew",
+   "country": "LU",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2026-01-05"
+  },
+  {
+   "id": "58766",
+   "name": "Nicolae ȘTEFĂNUȚĂ",
+   "group": "Verts/ALE",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2026-01-30"
+  },
+  {
+   "id": "124985",
+   "name": "Luke Ming FLANAGAN",
+   "group": "The Left",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2026-01-30"
+  },
+  {
+   "id": "256947",
+   "name": "Fredis BELERIS",
+   "group": "PPE",
+   "country": "GR",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2025-12-08"
+  },
+  {
+   "id": "257124",
+   "name": "Giuseppe LUPO",
+   "group": "S&D",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2026-01-07"
+  },
+  {
+   "id": "256981",
+   "name": "Ton DIEPEVEEN",
+   "group": "PfE",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2025-12-08"
+  },
+  {
+   "id": "197773",
+   "name": "Bert-Jan RUISSEN",
+   "group": "ECR",
+   "country": "NL",
+   "role": "opinion_rapporteur",
+   "committee": "PECH",
+   "since": "2025-11-27"
+  },
+  {
+   "id": "214839",
+   "name": "Emma YTTERELL",
+   "group": "Renew",
+   "country": "SE",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2025-12-01"
+  },
+  {
+   "id": "257044",
+   "name": "Rasmus NORDQVIST",
+   "group": "Verts/ALE",
+   "country": "DK",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2026-01-12"
+  },
+  {
+   "id": "256913",
+   "name": "Emma FOURREAU",
+   "group": "The Left",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "PECH",
+   "since": "2025-12-08"
+  },
+  {
+   "id": "257068",
+   "name": "Hélder SOUSA SILVA",
+   "group": "PPE",
+   "country": "PT",
+   "role": "opinion_rapporteur",
+   "committee": "CULT",
+   "since": "2025-11-10"
+  },
+  {
+   "id": "197682",
+   "name": "Hannes HEIDE",
+   "group": "S&D",
+   "country": "AT",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-11-26"
+  },
+  {
+   "id": "256859",
+   "name": "Annamária VICSEK",
+   "group": "PfE",
+   "country": "HU",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-11-26"
+  },
+  {
+   "id": "30123",
+   "name": "Guillaume PELTIER",
+   "group": "ECR",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-11-27"
+  },
+  {
+   "id": "197589",
+   "name": "Laurence FARRENG",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-11-26"
+  },
+  {
+   "id": "197832",
+   "name": "Diana RIBA I GINER",
+   "group": "Verts/ALE",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-11-19"
+  },
+  {
+   "id": "256952",
+   "name": "Nikos PAPPAS",
+   "group": "The Left",
+   "country": "GR",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "257457",
+   "name": "Zsuzsanna BORVENDÉG",
+   "group": "ESN",
+   "country": "HU",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-11-25"
+  },
+  {
+   "id": "257043",
+   "name": "Maravillas ABADÍA JOVER",
+   "group": "PPE",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "JURI",
+   "since": "2025-12-10"
+  },
+  {
+   "id": "88882",
+   "name": "Victor NEGRESCU",
+   "group": "S&D",
+   "country": "RO",
+   "role": "opinion_rapporteur",
+   "committee": "JURI",
+   "since": "2025-11-04"
+  },
+  {
+   "id": "4395",
+   "name": "Mario MANTOVANI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "JURI",
+   "since": "2025-12-03"
+  },
+  {
+   "id": "256911",
+   "name": "Arash SAEIDI",
+   "group": "The Left",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "JURI",
+   "since": "2025-12-10"
+  },
+  {
+   "id": "197426",
+   "name": "Sven SIMON",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_rapporteur",
+   "committee": "AFCO",
+   "since": "2025-11-04"
+  },
+  {
+   "id": "33998",
+   "name": "Vasile DÎNCU",
+   "group": "S&D",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "AFCO",
+   "since": "2025-12-16"
+  },
+  {
+   "id": "124973",
+   "name": "Gerolf ANNEMANS",
+   "group": "PfE",
+   "country": "BE",
+   "role": "opinion_shadow",
+   "committee": "AFCO",
+   "since": "2025-12-11"
+  },
+  {
+   "id": "197516",
+   "name": "Patryk JAKI",
+   "group": "ECR",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "AFCO",
+   "since": "2025-12-01"
+  },
+  {
+   "id": "204419",
+   "name": "Sandro GOZI",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "AFCO",
+   "since": "2025-12-10"
+  },
+  {
+   "id": "256823",
+   "name": "Nikolas FARANTOURIS",
+   "group": "The Left",
+   "country": "GR",
+   "role": "opinion_shadow",
+   "committee": "AFCO",
+   "since": "2025-12-02"
+  },
+  {
+   "id": "257062",
+   "name": "Stanisław TYSZKA",
+   "group": "ESN",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "AFCO",
+   "since": "2025-12-01"
+  },
+  {
+   "id": "257084",
+   "name": "Joanna SCHEURING-WIELGUS",
+   "group": "S&D",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "FEMM",
+   "since": "2026-02-09"
+  },
+  {
+   "id": "197702",
+   "name": "Lina GÁLVEZ",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_rapporteur",
+   "committee": "FEMM",
+   "since": "2026-01-15"
+  },
+  {
+   "id": "130881",
+   "name": "Mieke ANDRIESE",
+   "group": "PfE",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "FEMM",
+   "since": "2026-02-09"
+  },
+  {
+   "id": "256870",
+   "name": "Valérie DEVAUX",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "FEMM",
+   "since": "2026-02-09"
+  }
+ ],
+ "started": null,
+ "last_activity": null,
+ "events": [],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0571(APP)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_571",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_571?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0571?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)",
+  "PECH (opinión)",
+  "REGI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

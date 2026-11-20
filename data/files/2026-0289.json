@@ -1,0 +1,118 @@
+{
+ "ref": "2026/0289(COD)",
+ "id": "2026-0289",
+ "type": "COD",
+ "title": "Fondo Europeo Marítimo, de Pesca y de Acuicultura: simplificación y transposición del Acuerdo de la OMC sobre Subvenciones a la Pesca",
+ "title_en": "European Maritime, Fisheries and Aquaculture Fund: simplification and transposition of the WTO Agreement on Fisheries Subsidies",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  },
+  {
+   "code": "BUDG",
+   "role": "opinion"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "257048",
+   "name": "Paulo DO NASCIMENTO CABRAL",
+   "group": "PPE",
+   "country": "PT",
+   "role": "rapporteur",
+   "committee": "PECH",
+   "since": "2026-10-21"
+  },
+  {
+   "id": "257066",
+   "name": "André FRANQUEIRA RODRIGUES",
+   "group": "S&D",
+   "country": "PT",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-11-05"
+  },
+  {
+   "id": "189065",
+   "name": "France JAMET",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-11-04"
+  },
+  {
+   "id": "197824",
+   "name": "Giuseppe MILAZZO",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-11-05"
+  },
+  {
+   "id": "197581",
+   "name": "Stéphanie YON-COURTIN",
+   "group": "Renew",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-11-03"
+  },
+  {
+   "id": "96675",
+   "name": "Isabella LÖVIN",
+   "group": "Verts/ALE",
+   "country": "SE",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-11-03"
+  },
+  {
+   "id": "124985",
+   "name": "Luke Ming FLANAGAN",
+   "group": "The Left",
+   "country": "IE",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-10-13"
+  }
+ ],
+ "started": "2026-10-19",
+ "last_activity": "2026-10-19",
+ "events": [
+  {
+   "date": "2026-10-19",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0289(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_289",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_289?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-0289?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

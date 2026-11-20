@@ -1,0 +1,46 @@
+{
+ "ref": "2025/2830(DEA)",
+ "id": "2025-2830",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2017/118 en lo que respecta a las medidas de conservación en el Doggerbank y en determinadas zonas del Kattegat",
+ "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2017/118 as regards conservation measures in the Dogger Bank and in some areas in the Kattegat",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2025-09-10",
+ "last_activity": "2025-09-10",
+ "events": [
+  {
+   "date": "2025-09-10",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2830(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2830",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2830?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2830?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

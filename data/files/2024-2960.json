@@ -1,0 +1,46 @@
+{
+ "ref": "2024/2960(DEA)",
+ "id": "2024-2960",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2017/40 en lo que respecta al seguimiento de la aplicación del régimen de ayudas de la Unión para el suministro de frutas y hortalizas, plátanos y leche en los centros escolares",
+ "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2017/40 as regards the monitoring of the implementation of the Union aid scheme for the supply of fruit and vegetables, bananas and milk in educational establishments",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2024-11-27",
+ "last_activity": "2024-11-27",
+ "events": [
+  {
+   "date": "2024-11-27",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2960(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2960",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2960?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2960?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

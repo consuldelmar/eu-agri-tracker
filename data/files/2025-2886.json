@@ -1,0 +1,55 @@
+{
+ "ref": "2025/2886(DEA)",
+ "id": "2025-2886",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) 2024/1991 del Parlamento Europeo y del Consejo mediante el establecimiento de un método con base científica para el seguimiento de la diversidad y las poblaciones de polinizadores",
+ "title_en": "Commission Delegated Regulation supplementing Regulation (EU) 2024/1991 of the European Parliament and of the Council by establishing a science-based method for monitoring pollinator diversity and pollinator populations",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "PECH",
+   "role": "opinion"
+  }
+ ],
+ "people": [],
+ "started": "2025-10-08",
+ "last_activity": "2025-10-08",
+ "events": [
+  {
+   "date": "2025-10-08",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2886(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2886",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2886?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2886?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)",
+  "PECH (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

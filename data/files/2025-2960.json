@@ -1,0 +1,46 @@
+{
+ "ref": "2025/2960(DEA)",
+ "id": "2025-2960",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2017/117 en lo que respecta a las medidas de conservación para el lugar Havet kring Ven, en el mar Báltico, y a la corrección de varios errores de dicho Reglamento",
+ "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2017/117 as regards conservation measures in the Havet kring Ven site in the Baltic Sea and the correction of a number of errors thereof",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2025-11-12",
+ "last_activity": "2025-11-12",
+ "events": [
+  {
+   "date": "2025-11-12",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2960(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2960",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2960?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2960?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

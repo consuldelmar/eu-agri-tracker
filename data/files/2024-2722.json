@@ -1,0 +1,46 @@
+{
+ "ref": "2024/2722(DEA)",
+ "id": "2024-2722",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión relativo a la aplicación de las obligaciones internacionales de la Unión, a que se hace referencia en el artículo 15, apartado 2, del Reglamento (UE) n.º 1380/2013 del Parlamento Europeo y del Consejo, en virtud del Acuerdo de Comercio y Cooperación entre la Unión Europea y la Comunidad Europea de la Energía Atómica, por una parte, y el Reino Unido de Gran Bretaña e Irlanda del Norte, por otra, en lo que respecta a la mielga",
+ "title_en": "Commission Delegated Regulation on the implementation of the Union's international obligations, as referred to in Article 15(2) of Regulation (EU) No 1380/2013 of the European Parliament and of the Council, under the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part, as regards picked dogfish",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2024-09-18",
+ "last_activity": "2024-09-18",
+ "events": [
+  {
+   "date": "2024-09-18",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2722(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2722",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2722?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2722?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

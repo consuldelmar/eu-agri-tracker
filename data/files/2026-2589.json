@@ -1,0 +1,50 @@
+{
+ "ref": "2026/2589(DEA)",
+ "id": "2026-2589",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión que modifica el Reglamento Delegado (UE) 2022/126, por el que se completa el Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo en lo relativo a los requisitos adicionales para determinados tipos de intervención especificados por los Estados miembros en sus planes estratégicos de la PAC para el período 2023-2027 en virtud de dicho Reglamento, y a las normas sobre la proporción relativa a la norma 1 de las buenas condiciones agrarias y medioambientales (BCAM)",
+ "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2022/126 supplementing Regulation (EU) 2021/2115 of the European Parliament and of the Council with additional requirements for certain types of intervention specified by Member States in their CAP Strategic Plans for the period 2023 to 2027 under that Regulation as well as rules on the ratio for the good agricultural and environmental conditions (GAEC) standard 1",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  }
+ ],
+ "people": [],
+ "started": "2026-02-11",
+ "last_activity": "2026-02-11",
+ "events": [
+  {
+   "date": "2026-02-11",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2589(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2589",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2589?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2589?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

@@ -1,0 +1,235 @@
+{
+ "ref": "2023/0353(NLE)",
+ "id": "2023-0353",
+ "type": "NLE",
+ "title": "Acuerdo en el marco de la Convención de las Naciones Unidas sobre el Derecho del Mar relativo a la conservación y el uso sostenible de la diversidad biológica marina de las zonas situadas fuera de la jurisdicción nacional",
+ "title_en": "Agreement under the United Nations Convention on the Law of the Sea on the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "lead"
+  },
+  {
+   "code": "PECH",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "197805",
+   "name": "Silvia MODIG",
+   "group": "The Left",
+   "country": "FIN",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2023-12-04"
+  },
+  {
+   "id": "197441",
+   "name": "Predrag Fred MATIĆ",
+   "group": "S&D",
+   "country": "HRV",
+   "role": "opinion_rapporteur",
+   "committee": "PECH",
+   "since": "2023-12-13"
+  }
+ ],
+ "started": "2024-01-23",
+ "last_activity": "2024-07-19",
+ "events": [
+  {
+   "date": "2024-01-23",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "PECH-PA-758196",
+     "title": "Proyecto de opinión PECH (758196)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PA-758196_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-20",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "PECH-AD-758196",
+     "title": "Opinión PECH (758196)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-AD-758196_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-22",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "ENVI-PR-759989",
+     "title": "Proyecto de informe ENVI (759989)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-PR-759989_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-18",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-04-19",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0177",
+     "title": "Informe A9-0177/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0177_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-22",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-04-24",
+   "type": "PLENARY_DECISION",
+   "title": "Plenary decision",
+   "docs": [
+    {
+     "id": "TA-9-2024-0337",
+     "title": "Texto aprobado P9_TA(2024)0337",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0337_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-24",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-9-2024-04-24-ITM-007-24",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-04-24-ITM-007-24_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2024-04-24-ITM-007-24",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-04-24-ITM-007-24_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-24",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2024-0177",
+     "title": "Informe A9-0177/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0177_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-07-19",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "PECH-PA-758196",
+   "title": "Proyecto de opinión PECH (758196)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PA-758196_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2024-01-23"
+  },
+  {
+   "id": "PECH-AD-758196",
+   "title": "Opinión PECH (758196)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-AD-758196_EN.pdf",
+   "kind": "opinion",
+   "date": "2024-03-20"
+  },
+  {
+   "id": "ENVI-PR-759989",
+   "title": "Proyecto de informe ENVI (759989)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-PR-759989_EN.pdf",
+   "kind": "draft_report",
+   "date": "2024-03-22"
+  },
+  {
+   "id": "A-9-2024-0177",
+   "title": "Informe A9-0177/2024",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2024-0177_EN.html",
+   "kind": "report",
+   "date": "2024-04-24"
+  },
+  {
+   "id": "TA-9-2024-0337",
+   "title": "Texto aprobado P9_TA(2024)0337",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0337_EN.html",
+   "kind": "adopted_text",
+   "date": "2024-04-24"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2024-04-24-OJ-ITM-V-153",
+   "date": "2024-04-24",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-153)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-04-24_EN.html",
+   "refs": [
+    "2023/0353(NLE)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0353(NLE)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_353",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_353?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-0353?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2024-04-24-OJ-ITM-V-153",
+   "date": "2024-04-24",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-153)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-04-24_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

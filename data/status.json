@@ -1,7 +1,12 @@
 {
- "started": "2026-11-20T12:02:07+00:00",
+ "started": "2026-11-20T13:27:55+00:00",
  "parliament": {
-  "error": "'<' not supported between instances of 'list' and 'int'"
+  "changed_in_feed": 73,
+  "files_read": 2935,
+  "queue_left": 893,
+  "tracked": 312,
+  "failed": 0,
+  "throttled": 1
  },
  "council": {
   "agri": "50 meetings",
@@ -10,15 +15,13 @@
   "AGNDCSA": "500 documents in feed",
   "AGNDCRP1": "500 documents in feed",
   "THMAF": "500 documents in feed",
-  "pdfs": "80 read, 240 left for the next run",
-  "press": "2 relevant press releases"
+  "pdfs": "80 read, 325 left for the next run",
+  "press": "3 relevant press releases"
  },
  "changes": 0,
- "finished": "2026-11-20T12:13:22+00:00",
- "requests": 601,
- "request_errors": 11,
- "files": 0,
- "problems": [
-  "Parliament: TypeError: '<' not supported between instances of 'list' and 'int'"
- ]
+ "finished": "2026-11-20T16:00:56+00:00",
+ "requests": 3395,
+ "request_errors": 0,
+ "files": 312,
+ "problems": []
 }

@@ -1,0 +1,50 @@
+{
+ "ref": "2026/2776(DEA)",
+ "id": "2026-2776",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2022/2292 en lo relativo a los requisitos para la entrada en la Unión de determinados productos lácteos, determinados productos de la pesca y moluscos bivalvos, equinodermos, tunicados y gasterópodos marinos",
+ "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2022/2292 as regards the requirements for the entry into the Union of certain dairy products, certain fishery products and bivalve molluscs, echinoderms, tunicates and marine gastropods",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  }
+ ],
+ "people": [],
+ "started": "2026-06-17",
+ "last_activity": "2026-06-17",
+ "events": [
+  {
+   "date": "2026-06-17",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2776(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2776",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2776?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2776?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

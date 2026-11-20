@@ -1,0 +1,143 @@
+{
+ "ref": "2026/2819(DEA)",
+ "id": "2026-2819",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se completa el Reglamento (UE) 2024/3012 del Parlamento Europeo y del Consejo mediante el establecimiento de las metodologías de certificación para las actividades de carbonocultura",
+ "title_en": "Commission Delegated Regulation supplementing Regulation (EU) 2024/3012 of the European Parliament and of the Council by establishing the certification methodologies for carbon farming activities",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "ITRE",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "185619",
+   "name": "Tiemo WÖLKEN",
+   "group": "S&D",
+   "country": "DE",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2026-09-07"
+  },
+  {
+   "id": "197449",
+   "name": "Michael BLOSS",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2026-09-07"
+  },
+  {
+   "id": "270719",
+   "name": "Martin GÜNTHER",
+   "group": "The Left",
+   "country": "DE",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2026-09-07"
+  }
+ ],
+ "started": "2026-09-16",
+ "last_activity": "2026-10-20",
+ "events": [
+  {
+   "date": "2026-09-16",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-10-20",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2026-10-20-ITM-006-11",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2026-10-20-ITM-006-11_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2026-10-20-ITM-006-11",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-20-ITM-006-11_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "B-10-2026-0471",
+     "title": "B-10-2026-0471",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "B-10-2026-0471",
+   "title": "B-10-2026-0471",
+   "url": "",
+   "kind": "other",
+   "date": "2026-10-20"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-10-20-OJ-ITM-V-79",
+   "date": "2026-10-20",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-79)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-20_EN.html",
+   "refs": [
+    "2026/2819(DEA)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2819(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2819",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2819?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2819?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-10-20-OJ-ITM-V-79",
+   "date": "2026-10-20",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-79)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-20_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

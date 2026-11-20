@@ -1,0 +1,46 @@
+{
+ "ref": "2025/2845(DEA)",
+ "id": "2025-2845",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión que completa el Reglamento (CE) n.º 1224/2009 del Consejo mediante el establecimiento de normas sobre el control de la pesca y sobre la vigilancia e inspección de las actividades pesqueras, así como sobre la ejecución y el cumplimiento",
+ "title_en": "Commission Delegated Regulation supplementing Council Regulation (EC) No 1224/2009 by laying down rules on the control of fisheries and on the surveillance and inspection of fishing activities, enforcement and compliance",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2025-09-10",
+ "last_activity": "2025-09-10",
+ "events": [
+  {
+   "date": "2025-09-10",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2845(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2845",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2845?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2845?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

@@ -1,0 +1,56 @@
+{
+ "ref": "2025/2888(DEA)",
+ "id": "2025-2888",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el anexo I del Reglamento (UE) 2021/1060 del Parlamento Europeo y del Consejo en lo referente a la nomenclatura de las dimensiones y los códigos de los tipos de intervención correspondientes al FEDER, el FSE+, el Fondo de Cohesión y el FTJ",
+ "title_en": "Commission Delegated Regulation amending Annex I to Regulation (EU) 2021/1060 of the European Parliament and of the Council as regards the nomenclature for the dimensions and codes for the types of intervention for the ERDF, the ESF+, the Cohesion Fund and the JTF",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "REGI",
+   "role": "lead"
+  }
+ ],
+ "people": [
+  {
+   "id": "197658",
+   "name": "Dragoş BENEA",
+   "group": "S&D",
+   "country": "RO",
+   "role": "rapporteur",
+   "committee": "REGI",
+   "since": "2025-09-23"
+  }
+ ],
+ "started": "2025-10-08",
+ "last_activity": "2025-10-08",
+ "events": [
+  {
+   "date": "2025-10-08",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2888(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2888",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2888?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2888?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

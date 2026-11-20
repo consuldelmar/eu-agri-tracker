@@ -1,0 +1,46 @@
+{
+ "ref": "2026/2842(DEA)",
+ "id": "2026-2842",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se establece una medida excepcional de destilación de crisis de carácter temporal para hacer frente a las perturbaciones del mercado en el sector vinícola de Alemania en la campaña de comercialización 2026/2027",
+ "title_en": "Commission Delegated Regulation on a temporary exceptional crisis distillation measure to address the market disturbance in the wine sector in Germany in the marketing year 2026/2027",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2026-09-16",
+ "last_activity": "2026-09-16",
+ "events": [
+  {
+   "date": "2026-09-16",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2842(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2842",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2842?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2842?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

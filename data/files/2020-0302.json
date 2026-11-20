@@ -1,0 +1,578 @@
+{
+ "ref": "2020/0302(COD)",
+ "id": "2020-0302",
+ "type": "COD",
+ "title": "Establecimiento de un programa de documentación de capturas de atún rojo (Thunnus thynnus) y derogación del Reglamento (UE) n.º 640/2010",
+ "title_en": "Establishing a catch documentation programme for bluefin tuna (Thunnus thynnus) and repealing Regulation (EU) No 640/2010",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [
+  {
+   "id": "197806",
+   "name": "Annalisa TARDINO",
+   "group": "ID",
+   "country": "ITA",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2021-01-14"
+  },
+  {
+   "id": "96936",
+   "name": "Gabriel MATO",
+   "group": "PPE",
+   "country": "ES",
+   "role": "rapporteur",
+   "committee": "PECH",
+   "since": "2020-12-09"
+  },
+  {
+   "id": "197441",
+   "name": "Predrag Fred MATIĆ",
+   "group": "S&D",
+   "country": "HRV",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2021-01-14"
+  },
+  {
+   "id": "197825",
+   "name": "Raffaele STANCANELLI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2021-01-14"
+  },
+  {
+   "id": "96922",
+   "name": "Izaskun BILBAO BARANDICA",
+   "group": "Renew",
+   "country": "ESP",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2021-01-14"
+  },
+  {
+   "id": "197506",
+   "name": "Caroline ROOSE",
+   "group": "Verts/ALE",
+   "country": "BEL",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2021-01-14"
+  }
+ ],
+ "started": "2020-11-11",
+ "last_activity": "2023-12-20",
+ "events": [
+  {
+   "date": "2020-11-11",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2021-04-29",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "PECH-PR-692613",
+     "title": "Proyecto de informe PECH (692613)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-692613_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2021-05-25",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2022-02-14",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2021-0172",
+     "title": "Informe A9-0172/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0172_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2022-02-15",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2021-0172",
+     "title": "Informe A9-0172/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0172_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2020-0336",
+     "title": "Propuesta o documento recibido C9-0336/2020",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "C-9-2022-0028",
+     "title": "Propuesta o documento recibido C9-0028/2022",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2022-0014",
+     "title": "Informe A9-0014/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0014_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2022-0013",
+     "title": "Informe A9-0013/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0013_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2022-0001",
+     "title": "Propuesta o documento recibido C9-0001/2022",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2022-0017",
+     "title": "Informe A9-0017/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0017_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2022-0008",
+     "title": "Informe A9-0008/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0008_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2021-0420",
+     "title": "Propuesta o documento recibido C9-0420/2021",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2022-0016",
+     "title": "Informe A9-0016/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0016_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2022-0015",
+     "title": "Informe A9-0015/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0015_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "CRE-9-2022-02-15-ITM-002",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2022-02-15-ITM-002_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2022-02-15-ITM-002",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2022-02-15-ITM-002_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2022-02-15",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2021-0172",
+     "title": "Informe A9-0172/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0172_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2022-02-16",
+   "type": "PLENARY_AMEND",
+   "title": "Enmiendas aprobadas en el Pleno",
+   "docs": []
+  },
+  {
+   "date": "2022-02-16",
+   "type": "PLENARY_REFER_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
+   "title": "Devuelto a comisión para negociaciones (trílogos)",
+   "docs": []
+  },
+  {
+   "date": "2022-02-16",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2021-0357",
+     "title": "Informe A9-0357/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0357_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2021-0296",
+     "title": "Informe A9-0296/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0296_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2022-0013",
+     "title": "Informe A9-0013/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0013_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2021-0172",
+     "title": "Informe A9-0172/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0172_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2020-0336",
+     "title": "Propuesta o documento recibido C9-0336/2020",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2021-0342",
+     "title": "Informe A9-0342/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0342_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2021-0351",
+     "title": "Informe A9-0351/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0351_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2021-0339",
+     "title": "Informe A9-0339/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0339_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2021-0355",
+     "title": "Informe A9-0355/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0355_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2022-0001",
+     "title": "Informe A9-0001/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0001_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "CRE-9-2022-02-16-ITM-002",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2022-02-16-ITM-002_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2022-02-16-ITM-002",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2022-02-16-ITM-002_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2022-02-16",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2021-0172",
+     "title": "Informe A9-0172/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0172_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2022-02-17",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2021-0172",
+     "title": "Informe A9-0172/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0172_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-20",
+   "type": "COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT",
+   "title": "Acuerdo provisional aprobado en comisión",
+   "docs": [
+    {
+     "id": "PECH-AG-753443",
+     "title": "PECH-AG-753443",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-21",
+   "type": "PLENARY_ADOPT_POSITION",
+   "title": "Posición del Parlamento aprobada en el Pleno",
+   "docs": [
+    {
+     "id": "TA-9-2023-0399",
+     "title": "Texto aprobado P9_TA(2023)0399",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0399_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-21",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "C-9-2020-0336",
+     "title": "Propuesta o documento recibido C9-0336/2020",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2021-0172",
+     "title": "Informe A9-0172/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0172_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "CRE-9-2023-11-21-ITM-007-02",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2023-11-21-ITM-007-02_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2023-11-21-ITM-007-02",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2023-11-21-ITM-007-02_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-21",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2021-0172",
+     "title": "Informe A9-0172/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0172_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-12-13",
+   "type": "SIGNATURE",
+   "title": "Acto firmado",
+   "docs": []
+  },
+  {
+   "date": "2023-12-20",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "PECH-PR-692613",
+   "title": "Proyecto de informe PECH (692613)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-692613_EN.pdf",
+   "kind": "draft_report",
+   "date": "2021-04-29"
+  },
+  {
+   "id": "C-9-2022-0028",
+   "title": "Propuesta o documento recibido C9-0028/2022",
+   "url": "",
+   "kind": "proposal",
+   "date": "2022-02-15"
+  },
+  {
+   "id": "A-9-2022-0014",
+   "title": "Informe A9-0014/2022",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0014_EN.html",
+   "kind": "report",
+   "date": "2022-02-15"
+  },
+  {
+   "id": "C-9-2022-0001",
+   "title": "Propuesta o documento recibido C9-0001/2022",
+   "url": "",
+   "kind": "proposal",
+   "date": "2022-02-15"
+  },
+  {
+   "id": "A-9-2022-0017",
+   "title": "Informe A9-0017/2022",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0017_EN.html",
+   "kind": "report",
+   "date": "2022-02-15"
+  },
+  {
+   "id": "A-9-2022-0008",
+   "title": "Informe A9-0008/2022",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0008_EN.html",
+   "kind": "report",
+   "date": "2022-02-15"
+  },
+  {
+   "id": "C-9-2021-0420",
+   "title": "Propuesta o documento recibido C9-0420/2021",
+   "url": "",
+   "kind": "proposal",
+   "date": "2022-02-15"
+  },
+  {
+   "id": "A-9-2022-0016",
+   "title": "Informe A9-0016/2022",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0016_EN.html",
+   "kind": "report",
+   "date": "2022-02-15"
+  },
+  {
+   "id": "A-9-2022-0015",
+   "title": "Informe A9-0015/2022",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0015_EN.html",
+   "kind": "report",
+   "date": "2022-02-15"
+  },
+  {
+   "id": "A-9-2021-0357",
+   "title": "Informe A9-0357/2021",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0357_EN.html",
+   "kind": "report",
+   "date": "2022-02-16"
+  },
+  {
+   "id": "A-9-2021-0296",
+   "title": "Informe A9-0296/2021",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0296_EN.html",
+   "kind": "report",
+   "date": "2022-02-16"
+  },
+  {
+   "id": "A-9-2022-0013",
+   "title": "Informe A9-0013/2022",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0013_EN.html",
+   "kind": "report",
+   "date": "2022-02-16"
+  },
+  {
+   "id": "A-9-2021-0172",
+   "title": "Informe A9-0172/2021",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0172_EN.html",
+   "kind": "report",
+   "date": "2022-02-16"
+  },
+  {
+   "id": "C-9-2020-0336",
+   "title": "Propuesta o documento recibido C9-0336/2020",
+   "url": "",
+   "kind": "proposal",
+   "date": "2022-02-16"
+  },
+  {
+   "id": "A-9-2021-0342",
+   "title": "Informe A9-0342/2021",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0342_EN.html",
+   "kind": "report",
+   "date": "2022-02-16"
+  },
+  {
+   "id": "A-9-2021-0351",
+   "title": "Informe A9-0351/2021",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0351_EN.html",
+   "kind": "report",
+   "date": "2022-02-16"
+  },
+  {
+   "id": "A-9-2021-0339",
+   "title": "Informe A9-0339/2021",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0339_EN.html",
+   "kind": "report",
+   "date": "2022-02-16"
+  },
+  {
+   "id": "A-9-2021-0355",
+   "title": "Informe A9-0355/2021",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0355_EN.html",
+   "kind": "report",
+   "date": "2022-02-16"
+  },
+  {
+   "id": "A-9-2022-0001",
+   "title": "Informe A9-0001/2022",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0001_EN.html",
+   "kind": "report",
+   "date": "2022-02-16"
+  },
+  {
+   "id": "PECH-AG-753443",
+   "title": "PECH-AG-753443",
+   "url": "",
+   "kind": "other",
+   "date": "2023-09-20"
+  },
+  {
+   "id": "TA-9-2023-0399",
+   "title": "Texto aprobado P9_TA(2023)0399",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0399_EN.html",
+   "kind": "adopted_text",
+   "date": "2023-11-21"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2020/0302(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2020_302",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2020_302?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2020-0302?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

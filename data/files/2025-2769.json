@@ -1,0 +1,46 @@
+{
+ "ref": "2025/2769(DEA)",
+ "id": "2025-2769",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2019/1241 del Parlamento Europeo y del Consejo en lo que respecta al aumento del tamaño mínimo de malla para la pesca de calamar en el mar del Norte y en las aguas noroccidentales",
+ "title_en": "Commission Delegated Regulation amending Regulation (EU) 2019/1241 of the European Parliament and of the Council as regards an increase of the minimum mesh size when fishing for squid in the North Sea and North Western Waters",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2025-07-09",
+ "last_activity": "2025-07-09",
+ "events": [
+  {
+   "date": "2025-07-09",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2769(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2769",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2769?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2769?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

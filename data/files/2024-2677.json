@@ -1,0 +1,56 @@
+{
+ "ref": "2024/2677(DEA)",
+ "id": "2024-2677",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2020/760 de la Comisión en lo que respecta a algunas disposiciones adoptadas tras el Acuerdo de Libre Comercio entre la Unión Europea y Nueva Zelanda y se suprimen disposiciones obsoletas referidas a un contingente arancelario de exportación de leche en polvo",
+ "title_en": "Commission Delegated Regulation amending Commission Delegated Regulation (EU) 2020/760 as regards some provisions following the free trade agreement between the European Union and New Zealand and deletion of obsolete provisions as regards export tariff quota for milk powder",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [
+  {
+   "id": "124808",
+   "name": "Norbert LINS",
+   "group": "PPE",
+   "country": "DE",
+   "role": "rapporteur",
+   "committee": "AGRI",
+   "since": "2024-03-19"
+  }
+ ],
+ "started": "2024-04-10",
+ "last_activity": "2024-04-10",
+ "events": [
+  {
+   "date": "2024-04-10",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2677(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2677",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2677?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2677?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

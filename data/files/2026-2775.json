@@ -1,0 +1,46 @@
+{
+ "ref": "2026/2775(DEA)",
+ "id": "2026-2775",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2018/975 del Parlamento Europeo y del Consejo en lo que respecta a los plazos para la presentación del informe científico anual y de la notificación del total anual de capturas, las normas relativas al lastrado de los palangres que figuran en el anexo I, los requisitos en materia de datos del buque que figuran en el anexo V, los requisitos en materia de datos del observador que figuran en el anexo X y los requisitos en materia de datos del puerto que figuran en los anexos XI y XII",
+ "title_en": "Commission Delegated Regulation amending Regulation (EU) 2018/975 of the European Parliament and of the Council as regards the time limits for the submission of the annual scientific report and total annual catch reporting, line weighting standards in Annex I, vessel data requirements in Annex V, observer data requirements in Annex X, and port data requirements in Annexes XI and XII",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2026-06-17",
+ "last_activity": "2026-06-17",
+ "events": [
+  {
+   "date": "2026-06-17",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2775(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2775",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2775?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2775?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

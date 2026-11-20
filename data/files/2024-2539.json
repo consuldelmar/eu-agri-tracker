@@ -1,0 +1,46 @@
+{
+ "ref": "2024/2539(DEA)",
+ "id": "2024-2539",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2019/1241 del Parlamento Europeo y del Consejo en lo que se refiere a las medidas técnicas relativas al fletán en el Skagerrak y el Kattegat",
+ "title_en": "Commission Delegated Regulation amending Regulation (EU) 2019/1241 of the European Parliament and of the Council as regards technical measures for Atlantic halibut in the Skagerrak and Kattegat",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2024-02-07",
+ "last_activity": "2024-02-07",
+ "events": [
+  {
+   "date": "2024-02-07",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2539(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2539",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2539?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2539?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

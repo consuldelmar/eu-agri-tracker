@@ -1,0 +1,721 @@
+{
+ "ref": "2025/0543(COD)",
+ "id": "2025-0543",
+ "type": "COD",
+ "title": "Creación del Programa Marco de Investigación e Innovación «Horizonte Europa» para el período 2028-2034, establecimiento de sus normas de participación y difusión, y derogación del Reglamento (UE) 2021/695",
+ "title_en": "Establishing Horizon Europe, the Framework Programme for Research and Innovation, for the period 2028-2034 laying down its rules for participation and dissemination, and repealing Regulation (EU) 2021/695",
+ "stage": "Informe aprobado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ITRE",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "CONT",
+   "role": "opinion"
+  },
+  {
+   "code": "CULT",
+   "role": "opinion"
+  },
+  {
+   "code": "REGI",
+   "role": "opinion"
+  },
+  {
+   "code": "SEDE",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "budget"
+  }
+ ],
+ "people": [
+  {
+   "id": "256865",
+   "name": "Eszter LAKOS",
+   "group": "PPE",
+   "country": "HU",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2025-11-20"
+  },
+  {
+   "id": "124691",
+   "name": "Costas MAVRIDES",
+   "group": "S&D",
+   "country": "CY",
+   "role": "opinion_rapporteur",
+   "committee": "SEDE",
+   "since": "2025-11-19"
+  },
+  {
+   "id": "261797",
+   "name": "Christophe BAY",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2026-01-28"
+  },
+  {
+   "id": "256907",
+   "name": "Reinis POZŅAKS",
+   "group": "ECR",
+   "country": "LV",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2026-02-16"
+  },
+  {
+   "id": "257097",
+   "name": "Alberico GAMBINO",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2025-11-26"
+  },
+  {
+   "id": "129073",
+   "name": "Urmas PAET",
+   "group": "Renew",
+   "country": "EE",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2025-11-11"
+  },
+  {
+   "id": "197802",
+   "name": "Ville NIINISTÖ",
+   "group": "Verts/ALE",
+   "country": "FI",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2026-01-22"
+  },
+  {
+   "id": "187917",
+   "name": "Marc BOTENGA",
+   "group": "The Left",
+   "country": "BE",
+   "role": "opinion_shadow",
+   "committee": "SEDE",
+   "since": "2026-01-26"
+  },
+  {
+   "id": "257068",
+   "name": "Hélder SOUSA SILVA",
+   "group": "PPE",
+   "country": "PT",
+   "role": "opinion_rapporteur",
+   "committee": "BUDG",
+   "since": "2026-01-13"
+  },
+  {
+   "id": "197782",
+   "name": "Mohammed CHAHIM",
+   "group": "S&D",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-01-15"
+  },
+  {
+   "id": "256843",
+   "name": "Jana NAGYOVÁ",
+   "group": "PfE",
+   "country": "CZ",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-04-07"
+  },
+  {
+   "id": "197553",
+   "name": "Beata SZYDŁO",
+   "group": "ECR",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-04-08"
+  },
+  {
+   "id": "197463",
+   "name": "Olivier CHASTEL",
+   "group": "Renew",
+   "country": "BE",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-04-01"
+  },
+  {
+   "id": "58766",
+   "name": "Nicolae ȘTEFĂNUȚĂ",
+   "group": "Verts/ALE",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-03-23"
+  },
+  {
+   "id": "96780",
+   "name": "Monika HOHLMEIER",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-01-15"
+  },
+  {
+   "id": "197800",
+   "name": "Eero HEINÄLUOMA",
+   "group": "S&D",
+   "country": "FI",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-01-19"
+  },
+  {
+   "id": "197528",
+   "name": "Ondřej KNOTEK",
+   "group": "PfE",
+   "country": "CZ",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-02-04"
+  },
+  {
+   "id": "257119",
+   "name": "Şerban Dimitrie STURDZA",
+   "group": "ECR",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-01-12"
+  },
+  {
+   "id": "197463",
+   "name": "Olivier CHASTEL",
+   "group": "Renew",
+   "country": "BE",
+   "role": "opinion_rapporteur",
+   "committee": "CONT",
+   "since": "2026-01-15"
+  },
+  {
+   "id": "256890",
+   "name": "Rudi KENNES",
+   "group": "The Left",
+   "country": "BE",
+   "role": "opinion_shadow",
+   "committee": "CONT",
+   "since": "2026-01-16"
+  },
+  {
+   "id": "28226",
+   "name": "Christian EHLER",
+   "group": "PPE",
+   "country": "DE",
+   "role": "rapporteur",
+   "committee": "ITRE",
+   "since": "2025-11-06"
+  },
+  {
+   "id": "197702",
+   "name": "Lina GÁLVEZ",
+   "group": "S&D",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "ITRE",
+   "since": "2025-11-26"
+  },
+  {
+   "id": "256882",
+   "name": "Julie RECHAGNEUX",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ITRE",
+   "since": "2025-11-19"
+  },
+  {
+   "id": "197572",
+   "name": "Anna ZALEWSKA",
+   "group": "ECR",
+   "country": "PL",
+   "role": "shadow",
+   "committee": "ITRE",
+   "since": "2025-12-03"
+  },
+  {
+   "id": "197624",
+   "name": "Ivars IJABS",
+   "group": "Renew",
+   "country": "LV",
+   "role": "shadow",
+   "committee": "ITRE",
+   "since": "2025-12-05"
+  },
+  {
+   "id": "197802",
+   "name": "Ville NIINISTÖ",
+   "group": "Verts/ALE",
+   "country": "FI",
+   "role": "shadow",
+   "committee": "ITRE",
+   "since": "2025-12-16"
+  },
+  {
+   "id": "256952",
+   "name": "Nikos PAPPAS",
+   "group": "The Left",
+   "country": "GR",
+   "role": "shadow",
+   "committee": "ITRE",
+   "since": "2025-11-18"
+  },
+  {
+   "id": "124895",
+   "name": "Krzysztof HETMAN",
+   "group": "PPE",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "197845",
+   "name": "Tsvetelina PENKOVA",
+   "group": "S&D",
+   "country": "BG",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "96826",
+   "name": "Tamás DEUTSCH",
+   "group": "PfE",
+   "country": "HU",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-02-16"
+  },
+  {
+   "id": "257119",
+   "name": "Şerban Dimitrie STURDZA",
+   "group": "ECR",
+   "country": "RO",
+   "role": "opinion_rapporteur",
+   "committee": "REGI",
+   "since": "2026-01-26"
+  },
+  {
+   "id": "204419",
+   "name": "Sandro GOZI",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-02-09"
+  },
+  {
+   "id": "24942",
+   "name": "Ana MIRANDA PAZ",
+   "group": "Verts/ALE",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-02-02"
+  },
+  {
+   "id": "197863",
+   "name": "Maria WALSH",
+   "group": "PPE",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "257001",
+   "name": "Elena SANCHO MURILLO",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "261038",
+   "name": "Tomáš KUBÍN",
+   "group": "PfE",
+   "country": "CZ",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "197773",
+   "name": "Bert-Jan RUISSEN",
+   "group": "ECR",
+   "country": "NL",
+   "role": "opinion_rapporteur",
+   "committee": "AGRI",
+   "since": "2026-01-05"
+  },
+  {
+   "id": "214839",
+   "name": "Emma YTTERELL",
+   "group": "Renew",
+   "country": "SE",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "256990",
+   "name": "Anna STROLENBERG",
+   "group": "Verts/ALE",
+   "country": "NL",
+   "role": "opinion_shadow",
+   "committee": "AGRI",
+   "since": "2026-01-09"
+  },
+  {
+   "id": "257068",
+   "name": "Hélder SOUSA SILVA",
+   "group": "PPE",
+   "country": "PT",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-11-19"
+  },
+  {
+   "id": "256935",
+   "name": "Sabrina REPP",
+   "group": "S&D",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-12-03"
+  },
+  {
+   "id": "256859",
+   "name": "Annamária VICSEK",
+   "group": "PfE",
+   "country": "HU",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-11-19"
+  },
+  {
+   "id": "257109",
+   "name": "Marco SQUARTA",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-11-27"
+  },
+  {
+   "id": "197589",
+   "name": "Laurence FARRENG",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_rapporteur",
+   "committee": "CULT",
+   "since": "2025-11-19"
+  },
+  {
+   "id": "256964",
+   "name": "Nela RIEHL",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-11-27"
+  },
+  {
+   "id": "256952",
+   "name": "Nikos PAPPAS",
+   "group": "The Left",
+   "country": "GR",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-12-15"
+  },
+  {
+   "id": "257457",
+   "name": "Zsuzsanna BORVENDÉG",
+   "group": "ESN",
+   "country": "HU",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-12-04"
+  }
+ ],
+ "started": "2025-10-23",
+ "last_activity": "2026-11-13",
+ "events": [
+  {
+   "date": "2025-10-23",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-03-13",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "ITRE-PR-785237",
+     "title": "Proyecto de informe ITRE (785237)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ITRE-PR-785237_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-18",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "CULT-AD-782406",
+     "title": "Opinión CULT (782406)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CULT-AD-782406_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-19",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "SEDE-AD-782488",
+     "title": "Opinión SEDE (782488)",
+     "url": "https://www.europarl.europa.eu/doceo/document/SEDE-AD-782488_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-24",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "CONT-AD-784221",
+     "title": "Opinión CONT (784221)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CONT-AD-784221_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-25",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "REGI-AD-782392",
+     "title": "Opinión REGI (782392)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-AD-782392_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-08",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "AGRI-AD-782309",
+     "title": "Opinión AGRI (782309)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AD-782309_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-10",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión (4 documentos)",
+   "docs": [
+    {
+     "id": "ITRE-AM-786960",
+     "title": "Enmiendas en comisión ITRE (786960)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AM-786960_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "ITRE-AM-786953",
+     "title": "Enmiendas en comisión ITRE (786953)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AM-786953_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "ITRE-AM-786968",
+     "title": "Enmiendas en comisión ITRE (786968)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AM-786968_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "ITRE-AM-786961",
+     "title": "Enmiendas en comisión ITRE (786961)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AM-786961_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-23",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "BUDG-AD-782453",
+     "title": "Opinión BUDG (782453)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-782453_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-11-13",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0299",
+     "title": "Informe A10-0299/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0299_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "ITRE-PR-785237",
+   "title": "Proyecto de informe ITRE (785237)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ITRE-PR-785237_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-03-13"
+  },
+  {
+   "id": "CULT-AD-782406",
+   "title": "Opinión CULT (782406)",
+   "url": "https://www.europarl.europa.eu/doceo/document/CULT-AD-782406_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-03-18"
+  },
+  {
+   "id": "SEDE-AD-782488",
+   "title": "Opinión SEDE (782488)",
+   "url": "https://www.europarl.europa.eu/doceo/document/SEDE-AD-782488_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-03-19"
+  },
+  {
+   "id": "CONT-AD-784221",
+   "title": "Opinión CONT (784221)",
+   "url": "https://www.europarl.europa.eu/doceo/document/CONT-AD-784221_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-03-24"
+  },
+  {
+   "id": "REGI-AD-782392",
+   "title": "Opinión REGI (782392)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-AD-782392_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-03-25"
+  },
+  {
+   "id": "AGRI-AD-782309",
+   "title": "Opinión AGRI (782309)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-AD-782309_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-04-08"
+  },
+  {
+   "id": "ITRE-AM-786960",
+   "title": "Enmiendas en comisión ITRE (786960)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AM-786960_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-04-10"
+  },
+  {
+   "id": "ITRE-AM-786953",
+   "title": "Enmiendas en comisión ITRE (786953)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AM-786953_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-04-10"
+  },
+  {
+   "id": "ITRE-AM-786968",
+   "title": "Enmiendas en comisión ITRE (786968)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AM-786968_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-04-10"
+  },
+  {
+   "id": "ITRE-AM-786961",
+   "title": "Enmiendas en comisión ITRE (786961)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AM-786961_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-04-10"
+  },
+  {
+   "id": "BUDG-AD-782453",
+   "title": "Opinión BUDG (782453)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-782453_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-06-23"
+  },
+  {
+   "id": "A-10-2026-0299",
+   "title": "Informe A10-0299/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0299_EN.html",
+   "kind": "report",
+   "date": "2026-11-13"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 4
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0543(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_543",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_543?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0543?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)",
+  "REGI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

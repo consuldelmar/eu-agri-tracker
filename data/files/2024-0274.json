@@ -1,0 +1,306 @@
+{
+ "ref": "2024/0274(COD)",
+ "id": "2024-0274",
+ "type": "COD",
+ "title": "Medidas específicas adoptadas con cargo al Fondo Europeo Agrícola de Desarrollo Rural (Feader) para proporcionar ayuda adicional a los Estados miembros afectados por catástrofes naturales",
+ "title_en": "Specific measures under the European Agricultural Fund for Rural Development (EAFRD) to provide additional assistance to Member States affected by natural disasters",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  },
+  {
+   "code": "BUDG",
+   "role": "budget"
+  }
+ ],
+ "people": [
+  {
+   "id": "88882",
+   "name": "Victor NEGRESCU",
+   "group": "S&D",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "",
+   "since": "2024-11-19"
+  },
+  {
+   "id": "135511",
+   "name": "Valérie HAYER",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "",
+   "since": "2024-11-18"
+  },
+  {
+   "id": "257132",
+   "name": "Ignazio Roberto MARINO",
+   "group": "Verts/ALE",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "",
+   "since": "2024-11-18"
+  },
+  {
+   "id": "257068",
+   "name": "Hélder SOUSA SILVA",
+   "group": "PPE",
+   "country": "PT",
+   "role": "opinion_rapporteur",
+   "committee": "BUDG",
+   "since": "2024-11-13"
+  },
+  {
+   "id": "197552",
+   "name": "Veronika VRECIONOVÁ",
+   "group": "ECR",
+   "country": "CZ",
+   "role": "rapporteur",
+   "committee": "AGRI",
+   "since": "2024-11-19"
+  }
+ ],
+ "started": "2024-11-13",
+ "last_activity": "2024-12-23",
+ "events": [
+  {
+   "date": "2024-11-13",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-11-14",
+   "type": "COMMITTEE_TABLING_OPINION",
+   "title": "Committee tabling opinion",
+   "docs": [
+    {
+     "id": "BUDG-PA-765331",
+     "title": "Proyecto de opinión BUDG (765331)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-PA-765331_EN.pdf",
+     "kind": "draft_opinion"
+    }
+   ]
+  },
+  {
+   "date": "2024-11-14",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "PV-10-2024-11-14-ITM-007-02",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2024-11-14-ITM-007-02_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "CRE-10-2024-11-14-ITM-007-02",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2024-11-14-ITM-007-02_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2024-11-19",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "AGRI-PR-766620",
+     "title": "Proyecto de informe AGRI (766620)",
+     "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PR-766620_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2024-11-21",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "BUDG-AD-765331",
+     "title": "Opinión BUDG (765331)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-765331_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2024-12-03",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2024-12-05",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2024-0026",
+     "title": "Informe A10-0026/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2024-0026_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-12-17",
+   "type": "PLENARY_ADOPT_POSITION",
+   "title": "Posición del Parlamento aprobada en el Pleno",
+   "docs": [
+    {
+     "id": "TA-10-2024-0060",
+     "title": "Texto aprobado P10_TA(2024)0060",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2024-0060_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2024-12-17",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "PV-10-2024-12-17-ITM-008-05",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2024-12-17-ITM-008-05_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "CRE-10-2024-12-17-ITM-008-05",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2024-12-17-ITM-008-05_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2024-12-17",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2024-0026",
+     "title": "Informe A10-0026/2024",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2024-0026_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2024-12-19",
+   "type": "SIGNATURE",
+   "title": "Acto firmado",
+   "docs": []
+  },
+  {
+   "date": "2024-12-23",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "BUDG-PA-765331",
+   "title": "Proyecto de opinión BUDG (765331)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-PA-765331_EN.pdf",
+   "kind": "draft_opinion",
+   "date": "2024-11-14"
+  },
+  {
+   "id": "AGRI-PR-766620",
+   "title": "Proyecto de informe AGRI (766620)",
+   "url": "https://www.europarl.europa.eu/doceo/document/AGRI-PR-766620_EN.pdf",
+   "kind": "draft_report",
+   "date": "2024-11-19"
+  },
+  {
+   "id": "BUDG-AD-765331",
+   "title": "Opinión BUDG (765331)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-765331_EN.pdf",
+   "kind": "opinion",
+   "date": "2024-11-21"
+  },
+  {
+   "id": "A-10-2024-0026",
+   "title": "Informe A10-0026/2024",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2024-0026_EN.html",
+   "kind": "report",
+   "date": "2024-12-05"
+  },
+  {
+   "id": "TA-10-2024-0060",
+   "title": "Texto aprobado P10_TA(2024)0060",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2024-0060_EN.html",
+   "kind": "adopted_text",
+   "date": "2024-12-17"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2024-12-17-OJ-ITM-V-39",
+   "date": "2024-12-17",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-39)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-12-17_EN.html",
+   "refs": [
+    "2024/0274(COD)"
+   ]
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-11-14-OJ-ITM-V-23",
+   "date": "2024-11-14",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Request vote urgency (punto V-23)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-11-14_EN.html",
+   "refs": [
+    "2024/0274(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/0274(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_274",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_274?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-0274?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2024-11-14-OJ-ITM-V-23",
+   "date": "2024-11-14",
+   "body": "Pleno del PE",
+   "title": "Request vote urgency (punto V-23)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-11-14_EN.html",
+   "source": "ep"
+  },
+  {
+   "id": "ep-pl-MTG-PL-2024-12-17-OJ-ITM-V-39",
+   "date": "2024-12-17",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-39)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2024-12-17_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

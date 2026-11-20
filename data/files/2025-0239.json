@@ -1,0 +1,522 @@
+{
+ "ref": "2025/0239(COD)",
+ "id": "2025-0239",
+ "type": "COD",
+ "title": "Creación del Fondo Social Europeo como parte de los planes de colaboración nacional y regional establecidos en el Reglamento (UE) [planes CNR], por el que se establecen las condiciones para la ejecución de la ayuda de la Unión destinada al empleo de calidad, las capacidades y la inclusión social para el período 2028-2034",
+ "title_en": "Establishing the European Social Fund as part of the National and Regional Partnership Plan set out in Regulation (EU) […] [NRPPlan] establishing conditions for the implementation of the Union support to quality employment, skills and social inclusion for the period from 2028 to 2034",
+ "stage": "Informe aprobado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "EMPL",
+   "role": "lead"
+  },
+  {
+   "code": "CULT",
+   "role": "opinion"
+  },
+  {
+   "code": "FEMM",
+   "role": "opinion"
+  },
+  {
+   "code": "REGI",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "budget"
+  }
+ ],
+ "people": [
+  {
+   "id": "256861",
+   "name": "Kinga KOLLÁR",
+   "group": "PPE",
+   "country": "HU",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-01-13"
+  },
+  {
+   "id": "257124",
+   "name": "Giuseppe LUPO",
+   "group": "S&D",
+   "country": "IT",
+   "role": "opinion_rapporteur",
+   "committee": "BUDG",
+   "since": "2026-01-23"
+  },
+  {
+   "id": "256896",
+   "name": "Angéline FURET",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-02-11"
+  },
+  {
+   "id": "197545",
+   "name": "Bogdan RZOŃCA",
+   "group": "ECR",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-06-09"
+  },
+  {
+   "id": "22858",
+   "name": "Fabienne KELLER",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-04-30"
+  },
+  {
+   "id": "197448",
+   "name": "Rasmus ANDRESEN",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "BUDG",
+   "since": "2026-05-04"
+  },
+  {
+   "id": "28122",
+   "name": "David CASA",
+   "group": "PPE",
+   "country": "MT",
+   "role": "rapporteur",
+   "committee": "EMPL",
+   "since": "2025-12-16"
+  },
+  {
+   "id": "91636",
+   "name": "Marit MAIJ",
+   "group": "S&D",
+   "country": "NL",
+   "role": "rapporteur",
+   "committee": "EMPL",
+   "since": "2025-12-16"
+  },
+  {
+   "id": "261796",
+   "name": "Séverine WERBROUCK",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "EMPL",
+   "since": "2026-02-25"
+  },
+  {
+   "id": "257116",
+   "name": "Georgiana TEODORESCU",
+   "group": "ECR",
+   "country": "RO",
+   "role": "shadow",
+   "committee": "EMPL",
+   "since": "2025-12-09"
+  },
+  {
+   "id": "256976",
+   "name": "Brigitte VAN DEN BERG",
+   "group": "Renew",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "EMPL",
+   "since": "2026-01-14"
+  },
+  {
+   "id": "197573",
+   "name": "Kira Marie PETER-HANSEN",
+   "group": "Verts/ALE",
+   "country": "DK",
+   "role": "shadow",
+   "committee": "EMPL",
+   "since": "2026-05-22"
+  },
+  {
+   "id": "257012",
+   "name": "Estrella GALÁN",
+   "group": "The Left",
+   "country": "ES",
+   "role": "shadow",
+   "committee": "EMPL",
+   "since": "2025-12-09"
+  },
+  {
+   "id": "257039",
+   "name": "Elena NEVADO DEL CAMPO",
+   "group": "PPE",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-16"
+  },
+  {
+   "id": "204418",
+   "name": "Nora MEBAREK",
+   "group": "S&D",
+   "country": "FR",
+   "role": "opinion_rapporteur",
+   "committee": "REGI",
+   "since": "2026-01-16"
+  },
+  {
+   "id": "256853",
+   "name": "Klara DOSTALOVA",
+   "group": "PfE",
+   "country": "CZ",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-06-01"
+  },
+  {
+   "id": "257119",
+   "name": "Şerban Dimitrie STURDZA",
+   "group": "ECR",
+   "country": "RO",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-19"
+  },
+  {
+   "id": "257298",
+   "name": "Ciaran MULLOOLY",
+   "group": "Renew",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-16"
+  },
+  {
+   "id": "257130",
+   "name": "Cristina GUARDA",
+   "group": "Verts/ALE",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-16"
+  },
+  {
+   "id": "257299",
+   "name": "Kathleen FUNCHION",
+   "group": "The Left",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "REGI",
+   "since": "2026-01-14"
+  },
+  {
+   "id": "257128",
+   "name": "Giusi PRINCI",
+   "group": "PPE",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-12-16"
+  },
+  {
+   "id": "257075",
+   "name": "Isilda GOMES",
+   "group": "S&D",
+   "country": "PT",
+   "role": "opinion_rapporteur",
+   "committee": "CULT",
+   "since": "2025-12-09"
+  },
+  {
+   "id": "94649",
+   "name": "Catherine GRISET",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2026-02-16"
+  },
+  {
+   "id": "257149",
+   "name": "Lara MAGONI",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2026-03-24"
+  },
+  {
+   "id": "197589",
+   "name": "Laurence FARRENG",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2026-01-15"
+  },
+  {
+   "id": "197462",
+   "name": "Erik MARQUARDT",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2026-01-15"
+  },
+  {
+   "id": "256910",
+   "name": "Anthony SMITH",
+   "group": "The Left",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-12-04"
+  },
+  {
+   "id": "257457",
+   "name": "Zsuzsanna BORVENDÉG",
+   "group": "ESN",
+   "country": "HU",
+   "role": "opinion_shadow",
+   "committee": "CULT",
+   "since": "2025-12-09"
+  },
+  {
+   "id": "197406",
+   "name": "Arba KOKALARI",
+   "group": "PPE",
+   "country": "SE",
+   "role": "opinion_shadow",
+   "committee": "FEMM",
+   "since": "2026-03-24"
+  },
+  {
+   "id": "124799",
+   "name": "Alessandra MORETTI",
+   "group": "S&D",
+   "country": "IT",
+   "role": "opinion_rapporteur",
+   "committee": "FEMM",
+   "since": "2026-01-12"
+  },
+  {
+   "id": "204414",
+   "name": "Margarita DE LA PISA CARRIÓN",
+   "group": "PfE",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "FEMM",
+   "since": "2025-12-08"
+  },
+  {
+   "id": "256870",
+   "name": "Valérie DEVAUX",
+   "group": "Renew",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "FEMM",
+   "since": "2026-01-14"
+  },
+  {
+   "id": "257139",
+   "name": "Benedetta SCUDERI",
+   "group": "Verts/ALE",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "FEMM",
+   "since": "2026-03-23"
+  },
+  {
+   "id": "257299",
+   "name": "Kathleen FUNCHION",
+   "group": "The Left",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "FEMM",
+   "since": "2026-04-13"
+  }
+ ],
+ "started": "2025-10-23",
+ "last_activity": "2026-11-11",
+ "events": [
+  {
+   "date": "2025-10-23",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-04-20",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "EMPL-PR-784181",
+     "title": "Proyecto de informe EMPL (784181)",
+     "url": "https://www.europarl.europa.eu/doceo/document/EMPL-PR-784181_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2026-05-12",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión (2 documentos)",
+   "docs": [
+    {
+     "id": "EMPL-AM-788860",
+     "title": "Enmiendas en comisión EMPL (788860)",
+     "url": "https://www.europarl.europa.eu/doceo/document/EMPL-AM-788860_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "EMPL-AM-788859",
+     "title": "Enmiendas en comisión EMPL (788859)",
+     "url": "https://www.europarl.europa.eu/doceo/document/EMPL-AM-788859_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-03",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "CULT-AD-785225",
+     "title": "Opinión CULT (785225)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CULT-AD-785225_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-23",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "FEMM-AD-785117",
+     "title": "Opinión FEMM (785117)",
+     "url": "https://www.europarl.europa.eu/doceo/document/FEMM-AD-785117_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "BUDG-AD-787632",
+     "title": "Opinión BUDG (787632)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-787632_EN.pdf",
+     "kind": "opinion"
+    },
+    {
+     "id": "REGI-AD-785226",
+     "title": "Opinión REGI (785226)",
+     "url": "https://www.europarl.europa.eu/doceo/document/REGI-AD-785226_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-11-11",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0291",
+     "title": "Informe A10-0291/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0291_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "EMPL-PR-784181",
+   "title": "Proyecto de informe EMPL (784181)",
+   "url": "https://www.europarl.europa.eu/doceo/document/EMPL-PR-784181_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-04-20"
+  },
+  {
+   "id": "EMPL-AM-788860",
+   "title": "Enmiendas en comisión EMPL (788860)",
+   "url": "https://www.europarl.europa.eu/doceo/document/EMPL-AM-788860_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-05-12"
+  },
+  {
+   "id": "EMPL-AM-788859",
+   "title": "Enmiendas en comisión EMPL (788859)",
+   "url": "https://www.europarl.europa.eu/doceo/document/EMPL-AM-788859_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-05-12"
+  },
+  {
+   "id": "CULT-AD-785225",
+   "title": "Opinión CULT (785225)",
+   "url": "https://www.europarl.europa.eu/doceo/document/CULT-AD-785225_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-06-03"
+  },
+  {
+   "id": "FEMM-AD-785117",
+   "title": "Opinión FEMM (785117)",
+   "url": "https://www.europarl.europa.eu/doceo/document/FEMM-AD-785117_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-06-23"
+  },
+  {
+   "id": "BUDG-AD-787632",
+   "title": "Opinión BUDG (787632)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-787632_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-07-15"
+  },
+  {
+   "id": "REGI-AD-785226",
+   "title": "Opinión REGI (785226)",
+   "url": "https://www.europarl.europa.eu/doceo/document/REGI-AD-785226_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-07-15"
+  },
+  {
+   "id": "A-10-2026-0291",
+   "title": "Informe A10-0291/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0291_EN.html",
+   "kind": "report",
+   "date": "2026-11-11"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 2
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0239(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_239",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_239?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0239?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

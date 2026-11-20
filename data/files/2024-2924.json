@@ -1,0 +1,50 @@
+{
+ "ref": "2024/2924(DEA)",
+ "id": "2024-2924",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2019/2123 en lo que respecta a las condiciones en que se presenta un documento sanitario común de entrada separado para las partidas que van desde un puesto de control fronterizo hasta un punto de control en el que han de efectuarse controles de identidad y físicos",
+ "title_en": "Commission Delegated Regulation amending Delegated Regulation (EU) 2019/2123 as regards the conditions under which a separate Common Health Entry Document is submitted for consignments leaving a border control post for a control point where identity and physical checks are to be performed",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  }
+ ],
+ "people": [],
+ "started": "2024-11-13",
+ "last_activity": "2024-11-13",
+ "events": [
+  {
+   "date": "2024-11-13",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2924(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2924",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2924?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2924?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

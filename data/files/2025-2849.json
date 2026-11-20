@@ -1,0 +1,46 @@
+{
+ "ref": "2025/2849(DEA)",
+ "id": "2025-2849",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2024/2594 del Parlamento Europeo y del Consejo en lo que respecta a las medidas técnicas y de control aplicables en la zona regulada por el Convenio sobre la futura cooperación multilateral en los caladeros del Atlántico nororiental, y se deroga el Reglamento Delegado (UE) n.° 32/2012 de la Comisión",
+ "title_en": "Commission Delegated Regulation (EU) amending Regulation (EU) 2024/2594 of the European Parliament and of the Council as regards technical and control measures applicable in the area covered by the Convention on future multilateral cooperation in the North-East Atlantic fisheries, and repealing Commission Delegated Regulation (EU) No 32/2012",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2025-09-10",
+ "last_activity": "2025-09-10",
+ "events": [
+  {
+   "date": "2025-09-10",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2849(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2849",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2849?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2849?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

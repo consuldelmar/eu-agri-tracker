@@ -1,0 +1,50 @@
+{
+ "ref": "2023/2858(DEA)",
+ "id": "2023-2858",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica y corrige el Reglamento Delegado (UE) 2022/2292 en lo que respecta a los requisitos para la entrada en la Unión de miel, carne, productos muy refinados, cápsulas de gelatina y productos de la pesca y los requisitos relativos a los certificados privados, y por el que se modifica el Reglamento Delegado (UE) 2021/630 en lo que respecta a los requisitos relativos a los certificados privados aplicables a los productos compuestos exentos de controles oficiales en los puestos de control fronterizos",
+ "title_en": "Commission Delegated Regulation amending and correcting Delegated Regulation (EU) 2022/2292 with regard to requirements for the entry into the Union of honey, meat, highly refined products, gelatine capsules, fishery products and requirements for private attestation and amending Delegated Regulation (EU) 2021/630 as regards private attestation requirements for composite products exempted from official controls at border control posts",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "associated"
+  }
+ ],
+ "people": [],
+ "started": "2023-10-04",
+ "last_activity": "2023-10-04",
+ "events": [
+  {
+   "date": "2023-10-04",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/2858(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2023_2858",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2023_2858?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2023-2858?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (asociada)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

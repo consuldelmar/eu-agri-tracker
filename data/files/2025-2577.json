@@ -1,0 +1,46 @@
+{
+ "ref": "2025/2577(DEA)",
+ "id": "2025-2577",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2018/975 del Parlamento Europeo y del Consejo en lo que respecta a la comunicación de los datos relativos a la pesquería de jurel chileno, el fallo técnico de los dispositivos de localización por satélite, los requisitos del anexo V en materia de datos del buque, los requisitos de los anexos VII, VIII y IX en materia de datos de transbordo y los requisitos de los anexos XI y XII en materia de datos relativos a los puertos",
+ "title_en": "Commission Delegated Regulation amending Regulation (EU) 2018/975 of the European Parliament and of the Council as regards data reporting for the jack mackerel fishery, technical failure of the satellite-tracking device, vessel data requirements in Annex V, transhipment data requirements in Annexes VII, VIII, IX, and port data requirements in Annexes XI and XII",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2025-03-12",
+ "last_activity": "2025-03-12",
+ "events": [
+  {
+   "date": "2025-03-12",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2577(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_2577",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_2577?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-2577?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

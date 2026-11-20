@@ -1,0 +1,50 @@
+{
+ "ref": "2024/2670(DEA)",
+ "id": "2024-2670",
+ "type": "DEA",
+ "title": "Directiva Delegada de la Comisión por la que se modifica la Directiva 2010/63/UE del Parlamento Europeo y del Consejo con respecto a los requisitos relativos a los establecimientos y al alojamiento y al cuidado de los animales, y con respecto a los métodos de sacrificio de animales",
+ "title_en": "Commission Delegated Directive amending Directive 2010/63/EU of the European Parliament and of the Council as regards the requirements for establishments and for the care and accommodation of animals, and as regards the methods of killing animals",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  },
+  {
+   "code": "ITRE",
+   "role": "associated"
+  }
+ ],
+ "people": [],
+ "started": "2024-04-10",
+ "last_activity": "2024-04-10",
+ "events": [
+  {
+   "date": "2024-04-10",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/2670(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2024_2670",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2024_2670?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2024-2670?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

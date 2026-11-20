@@ -1,0 +1,73 @@
+{
+ "ref": "2025/0184(NLE)",
+ "id": "2025-0184",
+ "type": "NLE",
+ "title": "Celebración, en nombre de la Unión Europea, del Acuerdo Interino de Comercio entre la Unión Europea, por una parte, y el Mercado Común del Sur, la República Argentina, la República Federativa de Brasil, la República del Paraguay y la República Oriental del Uruguay, por otra",
+ "title_en": "Conclusion, on behalf of the European Union, of the Interim Agreement on Trade between the European Union, of the one part, and the Common Market of the South, the Argentine Republic, the Federative Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, of the other part",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "INTA",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "BUDG",
+   "role": "budget"
+  }
+ ],
+ "people": [
+  {
+   "id": "96936",
+   "name": "Gabriel MATO",
+   "group": "PPE",
+   "country": "ES",
+   "role": "rapporteur",
+   "committee": "INTA",
+   "since": "2025-09-24"
+  },
+  {
+   "id": "124985",
+   "name": "Luke Ming FLANAGAN",
+   "group": "The Left",
+   "country": "IE",
+   "role": "opinion_shadow",
+   "committee": "",
+   "since": "2026-01-12"
+  }
+ ],
+ "started": "2026-02-09",
+ "last_activity": "2026-02-09",
+ "events": [
+  {
+   "date": "2026-02-09",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0184(NLE)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_184",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_184?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0184?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

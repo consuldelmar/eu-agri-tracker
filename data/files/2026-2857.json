@@ -1,0 +1,46 @@
+{
+ "ref": "2026/2857(DEA)",
+ "id": "2026-2857",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento (UE) 2019/1241 del Parlamento Europeo y del Consejo en lo que respecta a las medidas para reducir las capturas accidentales de delfín común (Delphinus delphis) y otros cetáceos pequeños en el Golfo de Vizcaya",
+ "title_en": "Commission Delegated Regulation amending Regulation (EU) 2019/1241 of the European Parliament and of the Council as regards measures to reduce incidental catches of common dolphin (Delphinus delphis) and other small cetaceans in the Bay of Biscay",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2026-09-16",
+ "last_activity": "2026-09-16",
+ "events": [
+  {
+   "date": "2026-09-16",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2857(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2857",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2857?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2857?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

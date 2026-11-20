@@ -1,0 +1,50 @@
+{
+ "ref": "2025/3008(DEA)",
+ "id": "2025-3008",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión que modifica el Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo en lo que atañe a las asignaciones de los Estados miembros para pagos directos y al desglose anual por Estado miembro de la ayuda de la Unión para el desarrollo rural",
+ "title_en": "Commission Delegated Regulation amending Regulation (EU) 2021/2115 of the European Parliament and of the Council as regards Member States allocations for direct payments and the annual breakdown by Member State of the Union support for rural development",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  }
+ ],
+ "people": [],
+ "started": "2025-12-17",
+ "last_activity": "2025-12-17",
+ "events": [
+  {
+   "date": "2025-12-17",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/3008(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_3008",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_3008?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-3008?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}

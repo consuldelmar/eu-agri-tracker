@@ -1,0 +1,333 @@
+{
+ "ref": "2025/0106(COD)",
+ "id": "2025-0106",
+ "type": "COD",
+ "title": "Incorporación al Derecho de la Unión de medidas adoptadas por varias organizaciones regionales de ordenación pesquera",
+ "title_en": "Implementation into Union law of measures adopted by several Regional Fisheries Management Organisations",
+ "stage": "Acto firmado",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  },
+  {
+   "code": "ENVI",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "185341",
+   "name": "Željana ZOVKO",
+   "group": "PPE",
+   "country": "HR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-01-05"
+  },
+  {
+   "id": "256936",
+   "name": "Thomas BAJADA",
+   "group": "S&D",
+   "country": "MT",
+   "role": "rapporteur",
+   "committee": "PECH",
+   "since": "2025-06-26"
+  },
+  {
+   "id": "261796",
+   "name": "Séverine WERBROUCK",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2025-12-02"
+  },
+  {
+   "id": "257000",
+   "name": "Stephen Nikola BARTULICA",
+   "group": "ECR",
+   "country": "HR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-04-20"
+  },
+  {
+   "id": "214839",
+   "name": "Emma YTTERELL",
+   "group": "Renew",
+   "country": "SE",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-01-05"
+  },
+  {
+   "id": "96675",
+   "name": "Isabella LÖVIN",
+   "group": "Verts/ALE",
+   "country": "SE",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2025-09-15"
+  }
+ ],
+ "started": "2025-06-16",
+ "last_activity": "2026-10-21",
+ "events": [
+  {
+   "date": "2025-06-16",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2025-11-13",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "PECH-PR-779561",
+     "title": "Proyecto de informe PECH (779561)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-779561_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2025-12-11",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "PECH-AM-781389",
+     "title": "Enmiendas en comisión PECH (781389)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-AM-781389_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-02-25",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-03-03",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0039",
+     "title": "Informe A10-0039/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0039_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-11",
+   "type": "PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
+   "title": "Plenary endorse committee interinstitutional negotiations",
+   "docs": []
+  },
+  {
+   "date": "2026-05-06",
+   "type": "COMMITTEE_APPROVE_PROVISIONAL_AGREEMENT",
+   "title": "Acuerdo provisional aprobado en comisión",
+   "docs": [
+    {
+     "id": "PECH-AG-788798",
+     "title": "PECH-AG-788798",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0039-AM-292-292",
+     "title": "Enmiendas al Pleno 292-292 (informe A10-0039/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0039-AM-292-292_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0039-AM-001-291",
+     "title": "Enmiendas al Pleno 1-291 (informe A10-0039/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0039-AM-001-291_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 291
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "type": "PLENARY_ADOPT_POSITION",
+   "title": "Posición del Parlamento aprobada en el Pleno",
+   "docs": [
+    {
+     "id": "TA-10-2026-0280",
+     "title": "Texto aprobado P10_TA(2026)0280",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0280_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "PV-10-2026-09-15-ITM-005-10",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-09-15-ITM-005-10_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "CRE-10-2026-09-15-ITM-005-10",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2026-09-15-ITM-005-10_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0039",
+     "title": "Informe A10-0039/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0039_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "type": "SIGNATURE",
+   "title": "Acto firmado",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "PECH-PR-779561",
+   "title": "Proyecto de informe PECH (779561)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-779561_EN.pdf",
+   "kind": "draft_report",
+   "date": "2025-11-13"
+  },
+  {
+   "id": "PECH-AM-781389",
+   "title": "Enmiendas en comisión PECH (781389)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-AM-781389_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2025-12-11"
+  },
+  {
+   "id": "A-10-2026-0039",
+   "title": "Informe A10-0039/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0039_EN.html",
+   "kind": "report",
+   "date": "2026-03-03"
+  },
+  {
+   "id": "PECH-AG-788798",
+   "title": "PECH-AG-788798",
+   "url": "",
+   "kind": "other",
+   "date": "2026-05-06"
+  },
+  {
+   "id": "A-10-2026-0039-AM-292-292",
+   "title": "Enmiendas al Pleno 292-292 (informe A10-0039/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0039-AM-292-292_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-09-09"
+  },
+  {
+   "id": "A-10-2026-0039-AM-001-291",
+   "title": "Enmiendas al Pleno 1-291 (informe A10-0039/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0039-AM-001-291_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 291,
+   "date": "2026-09-11"
+  },
+  {
+   "id": "TA-10-2026-0280",
+   "title": "Texto aprobado P10_TA(2026)0280",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0280_EN.html",
+   "kind": "adopted_text",
+   "date": "2026-09-15"
+  }
+ ],
+ "amendments": {
+  "plenary": 292,
+  "committee_documents": 1
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-09-15-OJ-ITM-V-38",
+   "date": "2026-09-15",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-38)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-09-15_EN.html",
+   "refs": [
+    "2025/0106(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0106(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_106",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_106?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0106?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-09-15-OJ-ITM-V-38",
+   "date": "2026-09-15",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-38)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-09-15_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [
+  {
+   "id": "ST-16020-2026-INIT",
+   "code": "ST 16020/26",
+   "date": "2026-11-19",
+   "title": "Regulation of the European Parliament of the Council amending Regulation (EU) 2017/2107 laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), Regulation (EU) 2018/975 laying down management, conservation and control measures applicable in the South Pacific Regional Fisheries Management Organisation (SPRFMO) Convention Area, Regulation (EU) 2019/833 laying down conservation and enforcement measures applicable in the Regulatory Area of the Northwest Atlantic Fisheries Organisation, Regulation (EU) 2021/56 laying down management, conservation and control measures applicable in the Inter-American Tropical Tuna Convention, Regulation (EU) 2022/2056 laying down conservation and management measures applicable in the Western and Central Pacific Fisheries Convention Area, Regulation (EU) 2022/2343 laying down management, conservation and control measures applicable in the Indian Ocean Tuna Commission (IOTC) Area of Competence, and Regulation (EU) 2023/2053 establishing a multiannual management plan for bluefin tuna in the eastern Atlantic and the Mediterranean",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-16020-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
+ "followed": false,
+ "follow_url": ""
+}

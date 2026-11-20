@@ -1,0 +1,133 @@
+{
+ "ref": "2026/0111(COD)",
+ "id": "2026-0111",
+ "type": "COD",
+ "title": "Incorporación al Derecho de la Unión de las últimas medidas adoptadas por organizaciones regionales de ordenación pesquera",
+ "title_en": "Implementation into Union law of the latest measures adopted by regional fisheries management organisations",
+ "stage": "Proyecto de informe presentado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "PECH",
+   "role": "lead"
+  }
+ ],
+ "people": [
+  {
+   "id": "185341",
+   "name": "Željana ZOVKO",
+   "group": "PPE",
+   "country": "HR",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-10-05"
+  },
+  {
+   "id": "256936",
+   "name": "Thomas BAJADA",
+   "group": "S&D",
+   "country": "MT",
+   "role": "rapporteur",
+   "committee": "PECH",
+   "since": "2026-06-22"
+  },
+  {
+   "id": "197824",
+   "name": "Giuseppe MILAZZO",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-10-02"
+  },
+  {
+   "id": "214839",
+   "name": "Emma YTTERELL",
+   "group": "Renew",
+   "country": "SE",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-11-04"
+  },
+  {
+   "id": "96675",
+   "name": "Isabella LÖVIN",
+   "group": "Verts/ALE",
+   "country": "SE",
+   "role": "shadow",
+   "committee": "PECH",
+   "since": "2026-10-01"
+  }
+ ],
+ "started": "2026-06-15",
+ "last_activity": "2026-10-21",
+ "events": [
+  {
+   "date": "2026-06-15",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-09-23",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "PECH-PR-796153",
+     "title": "Proyecto de informe PECH (796153)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-796153_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "PECH-AM-796461",
+     "title": "Enmiendas en comisión PECH (796461)",
+     "url": "https://www.europarl.europa.eu/doceo/document/PECH-AM-796461_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "PECH-PR-796153",
+   "title": "Proyecto de informe PECH (796153)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-PR-796153_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-09-23"
+  },
+  {
+   "id": "PECH-AM-796461",
+   "title": "Enmiendas en comisión PECH (796461)",
+   "url": "https://www.europarl.europa.eu/doceo/document/PECH-AM-796461_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-10-21"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 1
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0111(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_111",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_111?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-0111?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "PECH (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "followed": false,
+ "follow_url": ""
+}
