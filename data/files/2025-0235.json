@@ -332,7 +332,19 @@
  ],
  "agenda": [],
  "scheduled": [],
- "council_docs": [],
+ "council_docs": [
+  {
+   "id": "ST-13729-2026-INIT",
+   "code": "ST 13729/26",
+   "date": "2026-09-30",
+   "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing the conditions for the implementation of the Union support to the Common Fisheries Policy, to the European Ocean Pact and of the Union’s maritime and aquaculture policy as part of the National and Regional Partnership Fund set out in Regulation (EU) [...] [NRP Fund] for the period from 2028 to 2034 - Partial general approach",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13729-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": null
+  }
+ ],
  "followed": false,
  "follow_url": ""
 }

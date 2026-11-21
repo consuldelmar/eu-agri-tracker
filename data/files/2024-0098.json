@@ -336,6 +336,17 @@
  "scheduled": [],
  "council_docs": [
   {
+   "id": "PE-26-2026-INIT",
+   "code": "PE 26/26",
+   "date": "2026-09-30",
+   "title": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2023/2124 on certain provisions for fishing in the General Fisheries Commission for the Mediterranean (GFCM) Agreement area",
+   "url": "https://data.consilium.europa.eu/doc/document/PE-26-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
    "id": "ST-13040-2026-INIT",
    "code": "ST 13040/26",
    "date": "2026-10-02",

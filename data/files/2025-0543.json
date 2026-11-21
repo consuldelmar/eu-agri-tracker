@@ -715,7 +715,19 @@
  ],
  "agenda": [],
  "scheduled": [],
- "council_docs": [],
+ "council_docs": [
+  {
+   "id": "WK-15055-2026-INIT",
+   "code": "WK 15055/26",
+   "date": "2026-09-30",
+   "title": "JOINT STATEMENT ON SUPPORT FOR STRENGTHENING EUROPEAN COMPETITIVENESS AND SECURITY THROUGH THE INTEGRATION OF DUAL-USE RESEARCH AND INNOVATION IN THE NEXT FRAMEWORK PROGRAMME FOR RESEARCH AND INNOVATION by Denmark, Estonia,Finland, Latvia, Lithuania, Poland, Romania and Sweden",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-15055-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
  "followed": false,
  "follow_url": ""
 }

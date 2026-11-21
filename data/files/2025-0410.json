@@ -278,6 +278,28 @@
  "scheduled": [],
  "council_docs": [
   {
+   "id": "ST-13587-2026-INIT",
+   "code": "ST 13587/26",
+   "date": "2026-09-28",
+   "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EC) No 999/2001, (EC) No 1829/2003, (EC) No 1831/2003, (EC) No 852/2004, (EC) No 853/2004, (EC) No 396/2005, (EC) No 1099/2009, (EC) No 1107/2009, (EU) No 528/2012, (EU) 2017/625 as regards the simplification and strengthening of food and feed safety requirements - Mandate for negotiations with the European Parliament",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13587-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Mandato de negociación con el PE",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-13785-2026-INIT",
+   "code": "ST 13785/26",
+   "date": "2026-09-30",
+   "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EC) No 999/2001, (EC) No 1829/2003, (EC) No 1831/2003, (EC) No 852/2004, (EC) No 853/2004, (EC) No 396/2005, (EC) No 1099/2009, (EC) No 1107/2009, (EU) No 528/2012, (EU) 2017/625 as regards the simplification and strengthening of food and feed safety requirements - Mandate for negotiations with the European Parliament",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13785-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Mandato de negociación con el PE",
+   "meeting_date": null
+  },
+  {
    "id": "ST-13819-2026-INIT",
    "code": "ST 13819/26",
    "date": "2026-10-11",

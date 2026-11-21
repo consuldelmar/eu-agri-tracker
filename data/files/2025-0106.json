@@ -325,6 +325,17 @@
  "scheduled": [],
  "council_docs": [
   {
+   "id": "PE-28-2026-INIT",
+   "code": "PE 28/26",
+   "date": "2026-09-30",
+   "title": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2017/2107 laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), Regulation (EU) 2018/975 laying down management, conservation and control measures applicable in the South Pacific Regional Fisheries Management Organisation (SPRFMO) Convention Area, Regulation (EU) 2019/833 laying down conservation and enforcement measures applicable in the Regulatory Area of the Northwest Atlantic Fisheries Organisation, Regulation (EU) 2021/56 laying down management, conservation and control measures applicable in the Inter-American Tropical Tuna Convention, Regulation (EU) 2022/2056 laying down conservation and management measures applicable in the Western and Central Pacific Fisheries Convention Area, Regulation (EU) 2022/2343 laying down management, conservation and control measures applicable in the Indian Ocean Tuna Commission (IOTC) Area of Competence, and Regulation (EU) 2023/2053 establishing a multiannual management plan for bluefin tuna in the eastern Atlantic and the Mediterranean",
+   "url": "https://data.consilium.europa.eu/doc/document/PE-28-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
    "id": "ST-13039-2026-INIT",
    "code": "ST 13039/26",
    "date": "2026-10-02",

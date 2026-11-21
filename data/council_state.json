@@ -5246,14 +5246,23 @@
   "ST-13665-2026-INIT": {
    "id": "ST-13665-2026-INIT",
    "code": "ST 13665/26",
-   "kind": "document",
+   "kind": "agenda",
    "body": "Coreper I",
    "title": "PERMANENT REPRESENTATIVES COMMITTEE (Part 1)",
    "url": "https://data.consilium.europa.eu/doc/document/ST-13665-2026-INIT/en/pdf",
    "date": "2026-09-28",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true,
+   "meeting_date": "2026-09-30",
+   "doc_numbers": [
+    "12849/26",
+    "13241/26",
+    "13435/26",
+    "13464/26",
+    "13665/26",
+    "2003/87"
+   ]
   },
   "CM-4245-2026-INIT": {
    "id": "CM-4245-2026-INIT",
@@ -5348,8 +5357,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-13587-2026-INIT/en/pdf",
    "date": "2026-09-28",
    "step": "Mandato de negociación con el PE",
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0410(COD)"
+   ],
+   "read": true
   },
   "ST-13633-2026-INIT": {
    "id": "ST-13633-2026-INIT",
@@ -5385,9 +5396,12 @@
    "title": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities Council Regulation amending the fixing Regulation as regards the EU school scheme - Exchange of views",
    "url": "https://data.consilium.europa.eu/doc/document/ST-13814-2026-INIT/en/pdf",
    "date": "2026-10-01",
-   "step": null,
-   "refs": [],
-   "read": false
+   "step": "Texto de compromiso de la Presidencia",
+   "refs": [
+    "2025/0234(NLE)",
+    "2025/0237(COD)"
+   ],
+   "read": true
   },
   "WK-14964-2026-INIT": {
    "id": "WK-14964-2026-INIT",
@@ -5546,8 +5560,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/WK-15165-2026-INIT/en/pdf",
    "date": "2026-10-01",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0241(COD)"
+   ],
+   "read": true
   },
   "ST-15697-2026-INIT": {
    "id": "ST-15697-2026-INIT",
@@ -5611,8 +5627,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-13507-2026-INIT/en/pdf",
    "date": "2026-09-30",
    "step": "Texto de compromiso de la Presidencia",
-   "refs": [],
-   "read": false
+   "refs": [
+    "2026/0252(NLE)"
+   ],
+   "read": true
   },
   "ST-13817-2026-INIT": {
    "id": "ST-13817-2026-INIT",
@@ -5651,8 +5669,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/WK-15055-2026-INIT/en/pdf",
    "date": "2026-09-30",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0543(COD)"
+   ],
+   "read": true
   },
   "ST-13962-2026-ADD-1": {
    "id": "ST-13962-2026-ADD-1",
@@ -6029,8 +6049,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-13690-2026-INIT/en/pdf",
    "date": "2026-10-01",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "1995/0302(CNS)"
+   ],
+   "read": true
   },
   "PE-28-2026-INIT": {
    "id": "PE-28-2026-INIT",
@@ -6041,8 +6063,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/PE-28-2026-INIT/en/pdf",
    "date": "2026-09-30",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0106(COD)"
+   ],
+   "read": true
   },
   "ST-12926-2026-INIT": {
    "id": "ST-12926-2026-INIT",
@@ -6053,8 +6077,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-12926-2026-INIT/en/pdf",
    "date": "2026-10-01",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2021/0218(COD)"
+   ],
+   "read": true
   },
   "ST-13563-2026-INIT": {
    "id": "ST-13563-2026-INIT",
@@ -6064,9 +6090,11 @@
    "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2019/1753 as regards amendments adopted by the Assembly of the Lisbon Union on 14 July 2025 to the Common Regulations under the Lisbon Agreement on Appellations of Origin and Geographical Indications – Letter to the Chair of the European Parliament Committee on Legal Affairs (JURI)",
    "url": "https://data.consilium.europa.eu/doc/document/ST-13563-2026-INIT/en/pdf",
    "date": "2026-10-01",
-   "step": null,
-   "refs": [],
-   "read": false
+   "step": "Texto final de compromiso (acuerdo con el PE)",
+   "refs": [
+    "2026/0044(COD)"
+   ],
+   "read": true
   },
   "ST-13812-2026-ADD-1": {
    "id": "ST-13812-2026-ADD-1",
@@ -6078,7 +6106,7 @@
    "date": "2026-09-30",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-13812-2026-INIT": {
    "id": "ST-13812-2026-INIT",
@@ -6090,19 +6118,23 @@
    "date": "2026-09-30",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "CM-4379-2026-INIT": {
    "id": "CM-4379-2026-INIT",
    "code": "CM 4379/26",
-   "kind": "document",
-   "body": "Consejo",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Maritime Issues",
    "title": "Working Party on Maritime Issues - EU Maritime Security Strategy (EUMSS)",
    "url": "https://data.consilium.europa.eu/doc/document/CM-4379-2026-INIT/en/pdf",
    "date": "2026-09-29",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true,
+   "meeting_date": "2026-10-07",
+   "doc_numbers": [
+    "4379/26"
+   ]
   },
   "PE-26-2026-INIT": {
    "id": "PE-26-2026-INIT",
@@ -6113,8 +6145,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/PE-26-2026-INIT/en/pdf",
    "date": "2026-09-30",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2024/0098(COD)"
+   ],
+   "read": true
   },
   "ST-13729-2026-INIT": {
    "id": "ST-13729-2026-INIT",
@@ -6125,8 +6159,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-13729-2026-INIT/en/pdf",
    "date": "2026-09-30",
    "step": "Orientación general o mandato parcial",
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0235(COD)"
+   ],
+   "read": true
   },
   "ST-13785-2026-INIT": {
    "id": "ST-13785-2026-INIT",
@@ -6137,8 +6173,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-13785-2026-INIT/en/pdf",
    "date": "2026-09-30",
    "step": "Mandato de negociación con el PE",
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0410(COD)"
+   ],
+   "read": true
   },
   "ST-13768-2026-INIT": {
    "id": "ST-13768-2026-INIT",
@@ -6149,8 +6187,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-13768-2026-INIT/en/pdf",
    "date": "2026-09-29",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2023/0131(COD)"
+   ],
+   "read": true
   },
   "ST-13702-2026-INIT": {
    "id": "ST-13702-2026-INIT",
@@ -6164,7 +6204,7 @@
    "refs": [
     "2026/0229(COD)"
    ],
-   "read": false
+   "read": true
   },
   "ST-7105-2026-REV-2": {
    "id": "ST-7105-2026-REV-2",

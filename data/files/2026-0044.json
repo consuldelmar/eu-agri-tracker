@@ -347,6 +347,17 @@
  "scheduled": [],
  "council_docs": [
   {
+   "id": "ST-13563-2026-INIT",
+   "code": "ST 13563/26",
+   "date": "2026-10-01",
+   "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2019/1753 as regards amendments adopted by the Assembly of the Lisbon Union on 14 July 2025 to the Common Regulations under the Lisbon Agreement on Appellations of Origin and Geographical Indications – Letter to the Chair of the European Parliament Committee on Legal Affairs (JURI)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13563-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Texto final de compromiso (acuerdo con el PE)",
+   "meeting_date": null
+  },
+  {
    "id": "CM-4424-2026-REV-1",
    "code": "CM 4424/26 REV 1",
    "date": "2026-10-07",
