@@ -42,5 +42,40 @@
  "scheduled": [],
  "council_docs": [],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [
+  "PAC"
+ ],
+ "progress": {
+  "stages": [
+   {
+    "key": "transmitted",
+    "label": "Transmitido al PE",
+    "state": "done",
+    "date": "2026-06-17",
+    "detail": ""
+   },
+   {
+    "key": "scrutiny",
+    "label": "Plazo de control",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "outcome",
+    "label": "Resultado",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 1,
+  "total": 3,
+  "current": "scrutiny",
+  "current_label": "Plazo de control",
+  "hint": "El PE puede objetar durante el plazo de control",
+  "next_label": "Resultado",
+  "next_date": null
+ }
 }

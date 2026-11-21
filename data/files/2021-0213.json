@@ -565,5 +565,52 @@
  "scheduled": [],
  "council_docs": [],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2021-10-07",
+    "detail": ""
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_plenary",
+    "label": "Dictamen del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 1,
+  "total": 5,
+  "current": "ep_committee",
+  "current_label": "Comisión del PE",
+  "hint": "La comisión del PE prepara y vota su informe",
+  "next_label": "Dictamen del PE",
+  "next_date": null
+ }
 }

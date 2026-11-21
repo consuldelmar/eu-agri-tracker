@@ -52,5 +52,55 @@
  "scheduled": [],
  "council_docs": [],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [
+  "Pesca",
+  "Comercio"
+ ],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2020-09-14",
+    "detail": ""
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_plenary",
+    "label": "Dictamen del PE",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "done",
+    "date": "2020-12-01",
+    "detail": ""
+   }
+  ],
+  "done": 5,
+  "total": 5,
+  "current": null,
+  "current_label": "Diario Oficial",
+  "hint": "",
+  "next_label": "",
+  "next_date": null
+ }
 }

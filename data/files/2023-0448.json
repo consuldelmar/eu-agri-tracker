@@ -416,7 +416,105 @@
  ],
  "agenda": [],
  "scheduled": [],
- "council_docs": [],
+ "council_docs": [
+  {
+   "id": "ST-12192-2026-REV-1",
+   "code": "ST 12192/26 REV 1",
+   "date": "2026-09-22",
+   "title": "Proposal for a Regulation of the European Parliament and of the Council on the protection of animals during transport and related operations, amending Council Regulation (EC) No 1255/97 and repealing Council Regulation (EC) No 1/2005 - Revised consolidated articles",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-12192-2026-REV-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-12193-2026-REV-1",
+   "code": "ST 12193/26 REV 1",
+   "date": "2026-09-22",
+   "title": "Proposal for a Regulation of the European Parliament and of the Council on the protection of animals during transport and related operations, amending Council Regulation (EC) No 1255/97 and repealing Council Regulation (EC) No 1/2005 - Revised consolidated annexes",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-12193-2026-REV-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2024-02-26",
+    "detail": "remitido al Parlamento"
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 1,
+  "total": 9,
+  "current": "ep_committee",
+  "current_label": "Comisión del PE",
+  "hint": "La comisión del PE prepara y vota su informe",
+  "next_label": "Posición del PE",
+  "next_date": null
+ }
 }

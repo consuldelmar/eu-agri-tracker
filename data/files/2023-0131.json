@@ -736,6 +736,39 @@
  "scheduled": [],
  "council_docs": [
   {
+   "id": "ST-7105-2026-ADD-1-COR-1",
+   "code": "ST 7105/26 ADD 1 COR 1",
+   "date": "2026-09-24",
+   "title": "Position of the Council at first reading with a view to the adoption of a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down Union procedures for the authorisation and supervision of medicinal products for human use and establishing rules governing the European Medicines Agency, amending Regulations (EC) No 1394/2007 and (EU) No 536/2014 and repealing Regulations (EC) No 141/2000, (EC) No 726/2004 and (EC) No 1901/2006 – Draft Statement of the Council's reasons",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-7105-2026-ADD-1-COR-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Posición del Consejo",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-7105-2026-REV-2-ADD-1",
+   "code": "ST 7105/26 REV 2 ADD 1",
+   "date": "2026-09-28",
+   "title": "Position of the Council at first reading with a view to the adoption of a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down Union procedures for the authorisation and supervision of medicinal products for human use and establishing rules governing the European Medicines Agency, amending Regulations (EC) No 1394/2007 and (EU) No 536/2014 and repealing Regulations (EC) No 141/2000, (EC) No 726/2004 and (EC) No 1901/2006 – Statement of the Council's reasons – Adopted by the Council on 28 September 2026",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-7105-2026-REV-2-ADD-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Posición del Consejo",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-7105-2026-REV-2",
+   "code": "ST 7105/26 REV 2",
+   "date": "2026-09-28",
+   "title": "Position of the Council at first reading with a view to the adoption of a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down Union procedures for the authorisation and supervision of medicinal products for human use and establishing rules governing the European Medicines Agency, amending Regulations (EC) No 1394/2007 and (EU) No 536/2014 and repealing Regulations (EC) No 141/2000, (EC) No 726/2004 and (EC) No 1901/2006 – Adopted by the Council on 28 September 2026",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-7105-2026-REV-2/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Posición del Consejo",
+   "meeting_date": null
+  },
+  {
    "id": "ST-13768-2026-INIT",
    "code": "ST 13768/26",
    "date": "2026-09-29",
@@ -748,5 +781,80 @@
   }
  ],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2023-09-14",
+    "detail": "remitido al Parlamento"
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "done",
+    "date": "2024-03-19",
+    "detail": "informe aprobado"
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "done",
+    "date": "2024-04-10",
+    "detail": "enmiendas del Pleno; vuelve a comisión para negociar"
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "done",
+    "date": "2025-06-17",
+    "detail": "4 trílogo(s), último 2025-12-10"
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "done",
+    "date": "2026-03-18",
+    "detail": "aprobado en comisión"
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 6,
+  "total": 9,
+  "current": "ep_approval",
+  "current_label": "Aprobación del PE",
+  "hint": "Votación final en el Pleno del PE",
+  "next_label": "Adopción del Consejo",
+  "next_date": null
+ }
 }

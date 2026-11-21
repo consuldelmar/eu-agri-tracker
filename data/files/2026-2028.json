@@ -42,5 +42,40 @@
  "scheduled": [],
  "council_docs": [],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [
+  "Pesca"
+ ],
+ "progress": {
+  "stages": [
+   {
+    "key": "start",
+    "label": "Inicio",
+    "state": "done",
+    "date": "2026-03-12",
+    "detail": ""
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_plenary",
+    "label": "Pleno del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 1,
+  "total": 3,
+  "current": "ep_committee",
+  "current_label": "Comisión del PE",
+  "hint": "La comisión del PE prepara y vota su informe",
+  "next_label": "Pleno del PE",
+  "next_date": null
+ }
 }

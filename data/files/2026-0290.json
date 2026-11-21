@@ -38,9 +38,51 @@
  "scope": [
   "PECH (responsable)"
  ],
- "agenda": [],
+ "agenda": [
+  {
+   "id": "council-agenda-CM-4319-2026-INIT",
+   "date": "2026-10-01",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Orden del día (CM 4319/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4319-2026-INIT/en/pdf",
+   "source": "council"
+  }
+ ],
  "scheduled": [],
  "council_docs": [
+  {
+   "id": "CM-4319-2026-INIT",
+   "code": "CM 4319/26",
+   "date": "2026-09-25",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4319-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": "2026-10-01"
+  },
+  {
+   "id": "ST-13675-2026-ADD-1",
+   "code": "ST 13675/26 ADD 1",
+   "date": "2026-09-28",
+   "title": "ANNEX to the Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down management, conservation and control measures applicable in the Convention area of the North Pacific Fisheries Commission",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13675-2026-ADD-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-13675-2026-INIT",
+   "code": "ST 13675/26",
+   "date": "2026-09-28",
+   "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down management, conservation and control measures applicable in the Convention area of the North Pacific Fisheries Commission",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13675-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
   {
    "id": "ST-14825-2026-INIT",
    "code": "ST 14825/26",
@@ -54,5 +96,82 @@
   }
  ],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [
+  "Pesca"
+ ],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2026-10-19",
+    "detail": "remitido al Parlamento"
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 1,
+  "total": 9,
+  "current": "ep_committee",
+  "current_label": "Comisión del PE",
+  "hint": "La comisión del PE prepara y vota su informe",
+  "next_label": "Posición del PE",
+  "next_date": null
+ }
 }

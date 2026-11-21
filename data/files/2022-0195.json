@@ -489,6 +489,17 @@
  "scheduled": [],
  "council_docs": [
   {
+   "id": "WK-1822-2023-ADD-1",
+   "code": "WK 1822/23 ADD 1",
+   "date": "2026-09-24",
+   "title": "Nature Restoration Regulation - Comments from delegations on Chapter II, Articles 4, 5 and 6",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-1822-2023-ADD-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
    "id": "WK-10746-2022-INIT",
    "code": "WK 10746/22",
    "date": "2026-10-12",
@@ -633,5 +644,80 @@
   }
  ],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2022-07-04",
+    "detail": "remitido al Parlamento"
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "done",
+    "date": "2023-07-12",
+    "detail": "devuelto a comisión para negociar"
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "done",
+    "date": "2023-11-29",
+    "detail": "aprobado en comisión"
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "done",
+    "date": "2024-02-27",
+    "detail": "votado en el Pleno"
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "done",
+    "date": "2024-06-24",
+    "detail": "adoptado y firmado"
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "done",
+    "date": "2024-07-29",
+    "detail": "publicado"
+   }
+  ],
+  "done": 9,
+  "total": 9,
+  "current": null,
+  "current_label": "Diario Oficial",
+  "hint": "",
+  "next_label": "",
+  "next_date": null
+ }
 }

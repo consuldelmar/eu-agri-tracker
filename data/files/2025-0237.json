@@ -331,6 +331,14 @@
  ],
  "agenda": [
   {
+   "id": "council-agenda-ST-13894-2026-INIT",
+   "date": "2026-10-05",
+   "body": "Comité Especial de Agricultura (CEA)",
+   "title": "Orden del día (ST 13894/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13894-2026-INIT/en/pdf",
+   "source": "council"
+  },
+  {
    "id": "council-agenda-ST-14199-2026-INIT",
    "date": "2026-10-12",
    "body": "Comité Especial de Agricultura (CEA)",
@@ -350,6 +358,17 @@
  "scheduled": [],
  "council_docs": [
   {
+   "id": "WK-14545-2026-INIT",
+   "code": "WK 14545/26",
+   "date": "2026-09-22",
+   "title": "Meeting of the Working Party on Agricultural Products on 23 September 2026\n- Presidency presentation",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-14545-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
    "id": "ST-13814-2026-INIT",
    "code": "ST 13814/26",
    "date": "2026-10-01",
@@ -359,6 +378,17 @@
    "body": "Consejo",
    "step": "Texto de compromiso de la Presidencia",
    "meeting_date": null
+  },
+  {
+   "id": "ST-13894-2026-INIT",
+   "code": "ST 13894/26",
+   "date": "2026-10-01",
+   "title": "1780th meeting of the SCA",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13894-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Comité Especial de Agricultura (CEA)",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": "2026-10-05"
   },
   {
    "id": "ST-14113-2026-INIT",
@@ -439,5 +469,82 @@
   }
  ],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [
+  "PAC"
+ ],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2025-10-06",
+    "detail": "remitido al Parlamento"
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "partial",
+    "date": "2026-10-15",
+    "detail": "parcial (ST 14402/26)"
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 1,
+  "total": 9,
+  "current": "ep_committee",
+  "current_label": "Comisión del PE",
+  "hint": "La comisión del PE prepara y vota su informe",
+  "next_label": "Posición del PE",
+  "next_date": null
+ }
 }

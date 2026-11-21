@@ -586,7 +586,9 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-15180-2026-INIT/en/pdf",
    "date": "2026-11-04",
    "step": "Mandato de negociación con el PE",
-   "refs": [],
+   "refs": [
+    "2025/0543(COD)"
+   ],
    "read": true,
    "meeting_date": "2026-11-06",
    "doc_numbers": [
@@ -610,7 +612,9 @@
    "url": "https://data.consilium.europa.eu/doc/document/CM-4750-2026-INIT/en/pdf",
    "date": "2026-10-30",
    "step": "Mandato de negociación con el PE",
-   "refs": [],
+   "refs": [
+    "2025/0543(COD)"
+   ],
    "read": true,
    "meeting_date": "2026-11-06",
    "doc_numbers": [
@@ -5035,7 +5039,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-13894-2026-INIT/en/pdf",
    "date": "2026-10-01",
    "step": "Orientación general o mandato parcial",
-   "refs": [],
+   "refs": [
+    "2025/0234(NLE)",
+    "2025/0237(COD)"
+   ],
    "read": true,
    "meeting_date": "2026-10-05",
    "doc_numbers": [
@@ -5310,14 +5317,23 @@
   "ST-13424-2026-REV-1": {
    "id": "ST-13424-2026-REV-1",
    "code": "ST 13424/26 REV 1",
-   "kind": "document",
+   "kind": "agenda",
    "body": "Coreper I",
    "title": "PERMANENT REPRESENTATIVES COMMITTEE (Part 1)",
    "url": "https://data.consilium.europa.eu/doc/document/ST-13424-2026-REV-1/en/pdf",
    "date": "2026-09-22",
-   "step": null,
+   "step": "Orientación general o mandato parcial",
    "refs": [],
-   "read": false
+   "read": true,
+   "meeting_date": "2026-09-23",
+   "doc_numbers": [
+    "13046/26",
+    "13099/26",
+    "13108/26",
+    "13245/26",
+    "13251/26",
+    "13321/26"
+   ]
   },
   "CM-4194-2026-ADD-1": {
    "id": "CM-4194-2026-ADD-1",
@@ -5385,8 +5401,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/WK-14551-2026-INIT/en/pdf",
    "date": "2026-09-25",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0406(COD)"
+   ],
+   "read": true
   },
   "ST-13814-2026-INIT": {
    "id": "ST-13814-2026-INIT",
@@ -5413,7 +5431,7 @@
    "date": "2026-09-28",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-12192-2026-REV-1": {
    "id": "ST-12192-2026-REV-1",
@@ -5424,8 +5442,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-12192-2026-REV-1/en/pdf",
    "date": "2026-09-22",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2023/0448(COD)"
+   ],
+   "read": true
   },
   "ST-12193-2026-REV-1": {
    "id": "ST-12193-2026-REV-1",
@@ -5436,8 +5456,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-12193-2026-REV-1/en/pdf",
    "date": "2026-09-22",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2023/0448(COD)"
+   ],
+   "read": true
   },
   "WK-14661-2026-INIT": {
    "id": "WK-14661-2026-INIT",
@@ -5447,9 +5469,9 @@
    "title": "Working Party on Animals and Veterinary Questions (Animal Welfare) on 30 September and 1 October 2026 - Presidency flash",
    "url": "https://data.consilium.europa.eu/doc/document/WK-14661-2026-INIT/en/pdf",
    "date": "2026-09-23",
-   "step": null,
+   "step": "Texto de compromiso de la Presidencia",
    "refs": [],
-   "read": false
+   "read": true
   },
   "WK-15361-2026-INIT": {
    "id": "WK-15361-2026-INIT",
@@ -5485,7 +5507,7 @@
    "date": "2026-09-23",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "WK-14297-2026-REV-1": {
    "id": "WK-14297-2026-REV-1",
@@ -5495,9 +5517,9 @@
    "title": "76th session of the EPPO Council (22-24 September 2026, Paris, France) - finalised version of the division of competences and EUMS positions",
    "url": "https://data.consilium.europa.eu/doc/document/WK-14297-2026-REV-1/en/pdf",
    "date": "2026-09-25",
-   "step": null,
+   "step": "Informe de situación",
    "refs": [],
-   "read": false
+   "read": true
   },
   "WK-14277-2026-ADD-2": {
    "id": "WK-14277-2026-ADD-2",
@@ -5508,8 +5530,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/WK-14277-2026-ADD-2/en/pdf",
    "date": "2026-09-25",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0241(COD)"
+   ],
+   "read": true
   },
   "WK-14277-2026-ADD-3": {
    "id": "WK-14277-2026-ADD-3",
@@ -5520,8 +5544,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/WK-14277-2026-ADD-3/en/pdf",
    "date": "2026-09-28",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0241(COD)"
+   ],
+   "read": true
   },
   "WK-14277-2026-ADD-4": {
    "id": "WK-14277-2026-ADD-4",
@@ -5695,8 +5721,11 @@
    "url": "https://data.consilium.europa.eu/doc/document/WK-14545-2026-INIT/en/pdf",
    "date": "2026-09-22",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0234(NLE)",
+    "2025/0237(COD)"
+   ],
+   "read": true
   },
   "WK-13250-2026-REV-1": {
    "id": "WK-13250-2026-REV-1",
@@ -5707,8 +5736,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/WK-13250-2026-REV-1/en/pdf",
    "date": "2026-09-25",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0241(COD)"
+   ],
+   "read": true
   },
   "WK-14277-2026-ADD-1": {
    "id": "WK-14277-2026-ADD-1",
@@ -5731,8 +5762,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/WK-14734-2026-INIT/en/pdf",
    "date": "2026-09-24",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0241(COD)"
+   ],
+   "read": true
   },
   "WK-14949-2026-INIT": {
    "id": "WK-14949-2026-INIT",
@@ -5743,8 +5776,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/WK-14949-2026-INIT/en/pdf",
    "date": "2026-09-28",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0241(COD)"
+   ],
+   "read": true
   },
   "WK-11714-2022-ADD-1": {
    "id": "WK-11714-2022-ADD-1",
@@ -5791,8 +5826,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/WK-1822-2023-ADD-1/en/pdf",
    "date": "2026-09-24",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2022/0195(COD)"
+   ],
+   "read": true
   },
   "ST-13033-2026-INIT": {
    "id": "ST-13033-2026-INIT",
@@ -5803,8 +5840,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-13033-2026-INIT/en/pdf",
    "date": "2026-09-23",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0106(COD)"
+   ],
+   "read": true
   },
   "CM-4430-2026-INIT": {
    "id": "CM-4430-2026-INIT",
@@ -6037,8 +6076,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-7105-2026-REV-2-ADD-1/en/pdf",
    "date": "2026-09-28",
    "step": "Posición del Consejo",
-   "refs": [],
-   "read": false
+   "refs": [
+    "2023/0131(COD)"
+   ],
+   "read": true
   },
   "ST-13690-2026-INIT": {
    "id": "ST-13690-2026-INIT",
@@ -6215,8 +6256,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-7105-2026-REV-2/en/pdf",
    "date": "2026-09-28",
    "step": "Posición del Consejo",
-   "refs": [],
-   "read": false
+   "refs": [
+    "2023/0131(COD)"
+   ],
+   "read": true
   },
   "CM-4320-2026-REV-1": {
    "id": "CM-4320-2026-REV-1",
@@ -6228,7 +6271,7 @@
    "date": "2026-09-28",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-13675-2026-ADD-1": {
    "id": "ST-13675-2026-ADD-1",
@@ -6239,8 +6282,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-13675-2026-ADD-1/en/pdf",
    "date": "2026-09-28",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2026/0290(COD)"
+   ],
+   "read": true
   },
   "ST-13675-2026-INIT": {
    "id": "ST-13675-2026-INIT",
@@ -6251,8 +6296,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-13675-2026-INIT/en/pdf",
    "date": "2026-09-28",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2026/0290(COD)"
+   ],
+   "read": true
   },
   "ST-13164-2026-INIT": {
    "id": "ST-13164-2026-INIT",
@@ -6263,20 +6310,26 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-13164-2026-INIT/en/pdf",
    "date": "2026-09-28",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2015/0275(COD)"
+   ],
+   "read": true
   },
   "CM-4133-2026-INIT": {
    "id": "CM-4133-2026-INIT",
    "code": "CM 4133/26",
-   "kind": "document",
-   "body": "Consejo",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Genetic Resources and Innovation in Agriculture (Plant Breeders' Rights)",
    "title": "Working Party on Genetic Resources and Innovation in Agriculture (Plant Breeders' Rights)",
    "url": "https://data.consilium.europa.eu/doc/document/CM-4133-2026-INIT/en/pdf",
    "date": "2026-09-25",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true,
+   "meeting_date": "2026-10-14",
+   "doc_numbers": [
+    "4133/26"
+   ]
   },
   "ST-13254-2026-INIT": {
    "id": "ST-13254-2026-INIT",
@@ -6287,20 +6340,38 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-13254-2026-INIT/en/pdf",
    "date": "2026-09-23",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2026/0227(NLE)"
+   ],
+   "read": true
   },
   "ST-13265-2026-INIT": {
    "id": "ST-13265-2026-INIT",
    "code": "ST 13265/26",
-   "kind": "document",
+   "kind": "agenda",
    "body": "Consejo",
    "title": "COUNCIL OF THE EUROPEAN UNION (Agriculture and Fisheries)",
    "url": "https://data.consilium.europa.eu/doc/document/ST-13265-2026-INIT/en/pdf",
    "date": "2026-09-25",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0241(COD)"
+   ],
+   "read": true,
+   "meeting_date": "2026-09-28",
+   "doc_numbers": [
+    "12891/26",
+    "12978/26",
+    "13238/26",
+    "13265/26",
+    "13316/26",
+    "13470/26",
+    "13473/26",
+    "13521/26",
+    "13535/26",
+    "13536/26",
+    "13542/26"
+   ]
   },
   "ST-13534-2026-INIT": {
    "id": "ST-13534-2026-INIT",
@@ -6312,7 +6383,7 @@
    "date": "2026-09-25",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-13538-2026-INIT": {
    "id": "ST-13538-2026-INIT",
@@ -6324,7 +6395,7 @@
    "date": "2026-09-25",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-7105-2026-ADD-1-COR-1": {
    "id": "ST-7105-2026-ADD-1-COR-1",
@@ -6335,20 +6406,37 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-7105-2026-ADD-1-COR-1/en/pdf",
    "date": "2026-09-24",
    "step": "Posición del Consejo",
-   "refs": [],
-   "read": false
+   "refs": [
+    "2023/0131(COD)"
+   ],
+   "read": true
   },
   "CM-4319-2026-INIT": {
    "id": "CM-4319-2026-INIT",
    "code": "CM 4319/26",
-   "kind": "document",
-   "body": "Consejo",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
    "title": "Working Party on Fisheries Policy",
    "url": "https://data.consilium.europa.eu/doc/document/CM-4319-2026-INIT/en/pdf",
    "date": "2026-09-25",
-   "step": null,
-   "refs": [],
-   "read": false
+   "step": "Texto de compromiso de la Presidencia",
+   "refs": [
+    "2026/0252(NLE)",
+    "2026/0290(COD)"
+   ],
+   "read": true,
+   "meeting_date": "2026-10-01",
+   "doc_numbers": [
+    "12027/26",
+    "13315/26",
+    "13317/26",
+    "13338/26",
+    "13507/26",
+    "13675/26",
+    "13676/26",
+    "13684/26",
+    "4319/26"
+   ]
   },
   "CM-4320-2026-INIT": {
    "id": "CM-4320-2026-INIT",
@@ -6360,7 +6448,7 @@
    "date": "2026-09-25",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-13432-2026-INIT": {
    "id": "ST-13432-2026-INIT",
@@ -6372,7 +6460,7 @@
    "date": "2026-09-25",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-13436-2026-INIT": {
    "id": "ST-13436-2026-INIT",
@@ -6384,19 +6472,23 @@
    "date": "2026-09-25",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "CM-4191-2026-INIT": {
    "id": "CM-4191-2026-INIT",
    "code": "CM 4191/26",
-   "kind": "document",
-   "body": "Consejo",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: International Food and Agricultural Questions (FAO)",
    "title": "Working Party on International Food and Agricultural Questions (FAO)",
    "url": "https://data.consilium.europa.eu/doc/document/CM-4191-2026-INIT/en/pdf",
    "date": "2026-09-25",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true,
+   "meeting_date": "2026-10-08",
+   "doc_numbers": [
+    "4191/26"
+   ]
   },
   "ST-13385-2026-INIT": {
    "id": "ST-13385-2026-INIT",
@@ -6408,7 +6500,7 @@
    "date": "2026-09-25",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-13542-2026-INIT": {
    "id": "ST-13542-2026-INIT",
@@ -6420,7 +6512,7 @@
    "date": "2026-09-24",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-12891-2026-INIT": {
    "id": "ST-12891-2026-INIT",
@@ -6432,7 +6524,7 @@
    "date": "2026-09-23",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-12262-2026-ADD-1": {
    "id": "ST-12262-2026-ADD-1",
@@ -6468,7 +6560,7 @@
    "date": "2026-09-24",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-13399-2026-REV-1": {
    "id": "ST-13399-2026-REV-1",
@@ -6480,7 +6572,7 @@
    "date": "2026-09-23",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-13527-2026-INIT": {
    "id": "ST-13527-2026-INIT",
@@ -6492,7 +6584,7 @@
    "date": "2026-09-23",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-13540-2026-INIT": {
    "id": "ST-13540-2026-INIT",
@@ -6504,7 +6596,7 @@
    "date": "2026-09-23",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-13541-2026-INIT": {
    "id": "ST-13541-2026-INIT",
@@ -6516,7 +6608,7 @@
    "date": "2026-09-23",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-13473-2026-INIT": {
    "id": "ST-13473-2026-INIT",
@@ -6527,8 +6619,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-13473-2026-INIT/en/pdf",
    "date": "2026-09-23",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2025/0241(COD)"
+   ],
+   "read": true
   },
   "ST-13551-2026-INIT": {
    "id": "ST-13551-2026-INIT",
@@ -6540,19 +6634,33 @@
    "date": "2026-09-23",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "CM-4153-2026-REV-1": {
    "id": "CM-4153-2026-REV-1",
    "code": "CM 4153/26 REV 1",
-   "kind": "document",
-   "body": "Consejo",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
    "title": "Working Party on Fisheries Policy",
    "url": "https://data.consilium.europa.eu/doc/document/CM-4153-2026-REV-1/en/pdf",
    "date": "2026-09-23",
-   "step": null,
+   "step": "Texto de compromiso de la Presidencia",
    "refs": [],
-   "read": false
+   "read": true,
+   "meeting_date": "2026-09-24",
+   "doc_numbers": [
+    "12522/26",
+    "12913/26",
+    "13006/26",
+    "13059/26",
+    "13315/26",
+    "13317/26",
+    "13318/26",
+    "13322/26",
+    "13386/26",
+    "13392/26",
+    "13544/26"
+   ]
   },
   "ST-13470-2026-INIT": {
    "id": "ST-13470-2026-INIT",
@@ -6564,7 +6672,7 @@
    "date": "2026-09-22",
    "step": null,
    "refs": [],
-   "read": false
+   "read": true
   },
   "ST-13386-2026-INIT": {
    "id": "ST-13386-2026-INIT",
@@ -6587,8 +6695,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-13284-2026-INIT/en/pdf",
    "date": "2026-09-22",
    "step": null,
-   "refs": [],
-   "read": false
+   "refs": [
+    "2021/0048(NLE)"
+   ],
+   "read": true
   },
   "ST-13517-2026-INIT": {
    "id": "ST-13517-2026-INIT",
@@ -6599,8 +6709,10 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-13517-2026-INIT/en/pdf",
    "date": "2026-09-23",
    "step": "Mandato de negociación con el PE",
-   "refs": [],
-   "read": false
+   "refs": [
+    "2026/0085(COD)"
+   ],
+   "read": true
   },
   "ST-13399-2026-INIT": {
    "id": "ST-13399-2026-INIT",
@@ -6709,6 +6821,104 @@
    "step": null,
    "refs": [],
    "read": false
+  },
+  "ST-16040-2026-REV-1": {
+   "id": "ST-16040-2026-REV-1",
+   "code": "ST 16040/26 REV 1",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "AOB item for the meeting of the “Agriculture and Fisheries” Council on 23 November 2026: Geographical indications' protection in third countries' markets - Information from Italy, supported by Austria, Bulgaria, Czechia, Cyprus, France, Greece, Hungary, Poland, Portugal, Slovenia and Spain",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-16040-2026-REV-1/en/pdf",
+   "date": "2026-11-20",
+   "step": null,
+   "refs": [],
+   "read": true
+  },
+  "ST-12915-2026-REV-1": {
+   "id": "ST-12915-2026-REV-1",
+   "code": "ST 12915/26 REV 1",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing the European Fund for economic, social and territorial cohesion, agriculture and rural, fisheries and maritime, prosperity and security for the period 2028-2034 and amending Regulation (EU) 2023/955 and Regulation (EU, Euratom) 2024/2509 - Revised Presidency compromise proposal (Block 9)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-12915-2026-REV-1/en/pdf",
+   "date": "2026-10-02",
+   "step": "Texto de compromiso de la Presidencia",
+   "refs": [
+    "2025/0240(COD)"
+   ],
+   "read": true
+  },
+  "ST-15920-2026-INIT": {
+   "id": "ST-15920-2026-INIT",
+   "code": "ST 15920/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "COUNCIL REGULATION fixing the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea for 2027 and amending Regulation (EU) 2026/249 as regards certain fishing opportunities in other waters - Adoption",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15920-2026-INIT/en/pdf",
+   "date": "2026-11-20",
+   "step": null,
+   "refs": [
+    "2026/0240(NLE)"
+   ],
+   "read": true
+  },
+  "CM-5110-2026-INIT": {
+   "id": "CM-5110-2026-INIT",
+   "code": "CM 5110/26",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: International Food and Agricultural Questions (Codex - CCFH)",
+   "title": "Informal videoconference of the members of the Working Party on International Food and Agricultural Questions (Codex - CCFH)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5110-2026-INIT/en/pdf",
+   "date": "2026-11-20",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "meeting_date": "2026-11-25",
+   "doc_numbers": [
+    "5110/26"
+   ]
+  },
+  "ST-15750-2026-INIT": {
+   "id": "ST-15750-2026-INIT",
+   "code": "ST 15750/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2019/1753 as regards amendments to the Common Regulations under the Lisbon Agreement for the Protection of Appellations of Origin and their International Registration and the Geneva Act of the Lisbon Agreement on Appellations of Origin and Geographical Indications (first reading) - Adoption of the legislative act",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15750-2026-INIT/en/pdf",
+   "date": "2026-11-20",
+   "step": "Adopción por el Consejo",
+   "refs": [
+    "2026/0044(COD)"
+   ],
+   "read": true
+  },
+  "ST-16052-2026-INIT": {
+   "id": "ST-16052-2026-INIT",
+   "code": "ST 16052/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Chemicals Agency and amending Regulations (EC) No 1907/2006, (EU) No 528/2012, (EU) No 649/2012 and (EU) 2019/1021 (first reading) - Adoption of the legislative act",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-16052-2026-INIT/en/pdf",
+   "date": "2026-11-20",
+   "step": "Adopción por el Consejo",
+   "refs": [
+    "2025/0207(COD)"
+   ],
+   "read": true
+  },
+  "ST-16229-2026-INIT": {
+   "id": "ST-16229-2026-INIT",
+   "code": "ST 16229/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2024/1787 on the reduction of methane emissions in the energy sector as regards the postponement of certain obligations - Letter to the European Parliament Committee on Industry, Research and Energy (ITRE) and the European Parliament Committee on the Environment, Public Health and Food Safety (ENVI)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-16229-2026-INIT/en/pdf",
+   "date": "2026-11-20",
+   "step": "Texto final de compromiso (acuerdo con el PE)",
+   "refs": [
+    "2026/0325(COD)"
+   ],
+   "read": true
   }
  },
  "first_run_done": true

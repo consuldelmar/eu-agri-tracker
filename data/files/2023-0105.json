@@ -449,5 +449,80 @@
  "scheduled": [],
  "council_docs": [],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2023-05-08",
+    "detail": "remitido al Parlamento"
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "done",
+    "date": "2023-11-29",
+    "detail": "informe aprobado"
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "done",
+    "date": "2023-12-12",
+    "detail": "devuelto a comisión para negociar"
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "done",
+    "date": "2024-02-14",
+    "detail": "aprobado en comisión"
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "done",
+    "date": "2024-05-14",
+    "detail": "adoptado y firmado"
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "done",
+    "date": "2024-05-24",
+    "detail": "publicado"
+   }
+  ],
+  "done": 9,
+  "total": 9,
+  "current": null,
+  "current_label": "Diario Oficial",
+  "hint": "",
+  "next_label": "",
+  "next_date": null
+ }
 }

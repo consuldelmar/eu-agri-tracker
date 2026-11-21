@@ -389,8 +389,94 @@
    "body": "Consejo",
    "step": null,
    "meeting_date": null
+  },
+  {
+   "id": "ST-15750-2026-INIT",
+   "code": "ST 15750/26",
+   "date": "2026-11-20",
+   "title": "Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2019/1753 as regards amendments to the Common Regulations under the Lisbon Agreement for the Protection of Appellations of Origin and their International Registration and the Geneva Act of the Lisbon Agreement on Appellations of Origin and Geographical Indications (first reading) - Adoption of the legislative act",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15750-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Adopción por el Consejo",
+   "meeting_date": null
   }
  ],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2026-03-09",
+    "detail": "remitido al Parlamento"
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "done",
+    "date": "2026-07-15",
+    "detail": "informe aprobado"
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "done",
+    "date": "2026-09-16",
+    "detail": "mandato confirmado por el Pleno"
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "done",
+    "date": "2026-10-01",
+    "detail": "aprobado en comisión"
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "done",
+    "date": "2026-11-12",
+    "detail": "votado en el Pleno"
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "done",
+    "date": "2026-11-20",
+    "detail": "adoptado y firmado"
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 8,
+  "total": 9,
+  "current": "published",
+  "current_label": "Diario Oficial",
+  "hint": "Publicación en el Diario Oficial",
+  "next_label": "",
+  "next_date": null
+ }
 }

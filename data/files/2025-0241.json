@@ -565,6 +565,14 @@
  ],
  "agenda": [
   {
+   "id": "council-agenda-ST-13265-2026-INIT",
+   "date": "2026-09-28",
+   "body": "Consejo",
+   "title": "Orden del día (ST 13265/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13265-2026-INIT/en/pdf",
+   "source": "council"
+  },
+  {
    "id": "council-agenda-ST-14199-2026-INIT",
    "date": "2026-10-12",
    "body": "Comité Especial de Agricultura (CEA)",
@@ -607,6 +615,83 @@
  ],
  "scheduled": [],
  "council_docs": [
+  {
+   "id": "ST-13473-2026-INIT",
+   "code": "ST 13473/26",
+   "date": "2026-09-23",
+   "title": "AOB item for the meeting of the “Agriculture and Fisheries” Council on 28-29 September 2026: Request for the continuation of Transitional National Aid - Information from Romania, on behalf of Bulgaria, Cyprus, Hungary, Poland, Romania and Slovakia",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13473-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-14734-2026-INIT",
+   "code": "WK 14734/26",
+   "date": "2026-09-24",
+   "title": "Working Party on Horizontal Agricultural Questions (Post-2027 CAP) \non 30 September - 1 October 2026\n- Presentations from the Irish Presidency - drafting suggestions for blocks 7a, 7b and 7c",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-14734-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-14277-2026-ADD-2",
+   "code": "WK 14277/26 ADD 2",
+   "date": "2026-09-25",
+   "title": "Regulation establishing the conditions for the implementation of Union support\nunder the CAP\n- Comments from Latvia on the CAP post-2027 Regulation",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-14277-2026-ADD-2/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-13250-2026-REV-1",
+   "code": "WK 13250/26 REV 1",
+   "date": "2026-09-25",
+   "title": "Working Party on Horizontal Agricultural Questions (Post-2027 CAP)\non 30 September -  1 October 2026\n- Presidency flash note - revised",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-13250-2026-REV-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-13265-2026-INIT",
+   "code": "ST 13265/26",
+   "date": "2026-09-25",
+   "title": "COUNCIL OF THE EUROPEAN UNION (Agriculture and Fisheries)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13265-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": "2026-09-28"
+  },
+  {
+   "id": "WK-14277-2026-ADD-3",
+   "code": "WK 14277/26 ADD 3",
+   "date": "2026-09-28",
+   "title": "Regulation establishing the conditions for the implementation of Union support\nunder the CAP\n- Comments from Denmark on the CAP post-2027 Regulation",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-14277-2026-ADD-3/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-14949-2026-INIT",
+   "code": "WK 14949/26",
+   "date": "2026-09-28",
+   "title": "Working Party on Horizontal Agricultural Questions (Post-2027 CAP) \non 30 September - 1 October 2026\n- Presentations from the Commission on labeling interventions to farm practices for the CAP post-2027",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-14949-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
   {
    "id": "WK-15165-2026-INIT",
    "code": "WK 15165/26",
@@ -796,5 +881,83 @@
   }
  ],
  "followed": true,
- "follow_url": "https://github.com/consuldelmar/eu-agri-tracker/issues/1"
+ "follow_url": "https://github.com/consuldelmar/eu-agri-tracker/issues/1",
+ "tags": [
+  "PAC",
+  "MFF 2028-2034"
+ ],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2025-10-23",
+    "detail": "remitido al Parlamento"
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "partial",
+    "date": "2026-10-08",
+    "detail": "parcial (ST 14185/26)"
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 1,
+  "total": 9,
+  "current": "ep_committee",
+  "current_label": "Comisión del PE",
+  "hint": "La comisión del PE prepara y vota su informe",
+  "next_label": "Posición del PE",
+  "next_date": null
+ }
 }

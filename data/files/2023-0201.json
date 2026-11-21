@@ -580,5 +580,52 @@
  "scheduled": [],
  "council_docs": [],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2024-02-12",
+    "detail": ""
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "done",
+    "date": "2024-02-22",
+    "detail": "informe aprobado"
+   },
+   {
+    "key": "ep_plenary",
+    "label": "Aprobación del PE",
+    "state": "done",
+    "date": "2024-02-27",
+    "detail": "votado en el Pleno"
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "done",
+    "date": "2024-02-29",
+    "detail": ""
+   }
+  ],
+  "done": 5,
+  "total": 5,
+  "current": null,
+  "current_label": "Diario Oficial",
+  "hint": "",
+  "next_label": "",
+  "next_date": null
+ }
 }

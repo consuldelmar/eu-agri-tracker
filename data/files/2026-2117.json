@@ -158,5 +158,43 @@
  ],
  "council_docs": [],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [
+  "Cohesión"
+ ],
+ "progress": {
+  "stages": [
+   {
+    "key": "start",
+    "label": "Inicio",
+    "state": "done",
+    "date": "2026-09-17",
+    "detail": ""
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_plenary",
+    "label": "Pleno del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 1,
+  "total": 3,
+  "current": "ep_committee",
+  "current_label": "Comisión del PE",
+  "hint": "La comisión del PE prepara y vota su informe",
+  "next_label": "Pleno del PE",
+  "next_date": {
+   "date": "2026-12-03",
+   "body": "Comisión REGI del PE"
+  }
+ }
 }

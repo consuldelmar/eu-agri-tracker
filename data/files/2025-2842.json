@@ -70,5 +70,38 @@
  "scheduled": [],
  "council_docs": [],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "transmitted",
+    "label": "Transmitido al PE",
+    "state": "done",
+    "date": "2025-09-10",
+    "detail": ""
+   },
+   {
+    "key": "scrutiny",
+    "label": "Plazo de control",
+    "state": "done",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "outcome",
+    "label": "Resultado",
+    "state": "done",
+    "date": null,
+    "detail": "sin objeción"
+   }
+  ],
+  "done": 3,
+  "total": 3,
+  "current": null,
+  "current_label": "Resultado",
+  "hint": "",
+  "next_label": "",
+  "next_date": null
+ }
 }

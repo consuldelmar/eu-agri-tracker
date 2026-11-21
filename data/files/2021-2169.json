@@ -238,5 +238,40 @@
  "scheduled": [],
  "council_docs": [],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [
+  "Pesca"
+ ],
+ "progress": {
+  "stages": [
+   {
+    "key": "start",
+    "label": "Inicio",
+    "state": "done",
+    "date": "2021-10-07",
+    "detail": ""
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "done",
+    "date": "2023-10-24",
+    "detail": "informe aprobado"
+   },
+   {
+    "key": "ep_plenary",
+    "label": "Pleno del PE",
+    "state": "done",
+    "date": "2024-01-18",
+    "detail": "votado en el Pleno"
+   }
+  ],
+  "done": 3,
+  "total": 3,
+  "current": null,
+  "current_label": "Pleno del PE",
+  "hint": "",
+  "next_label": "",
+  "next_date": null
+ }
 }

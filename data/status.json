@@ -1,22 +1,27 @@
 {
- "started": "2026-11-21T16:40:06+00:00",
+ "started": "2026-11-21T16:51:44+00:00",
  "parliament": {
-  "changed_in_feed": 94,
-  "files_read": 93,
+  "changed_in_feed": 5,
+  "files_read": 5,
   "queue_left": 0,
   "tracked": 365,
   "failed": 0,
-  "throttled": 1
+  "throttled": 0
  },
  "council": {
-  "error": "('Connection broken: IncompleteRead(1785598 bytes read, 509843 more expected)', IncompleteRead(1785598 bytes read, 509843 more expected))"
+  "agri": "50 meetings",
+  "wp-agri": "41 meetings",
+  "coreper": "46 meetings",
+  "AGNDCSA": "500 documents in feed",
+  "AGNDCRP1": "500 documents in feed",
+  "THMAF": "500 documents in feed",
+  "pdfs": "54 read, 0 left for the next run",
+  "press": "4 relevant press releases"
  },
- "changes": 10,
- "finished": "2026-11-21T16:44:24+00:00",
- "requests": 175,
+ "changes": 1,
+ "finished": "2026-11-21T16:54:17+00:00",
+ "requests": 115,
  "request_errors": 0,
  "files": 365,
- "problems": [
-  "Council: ChunkedEncodingError: ('Connection broken: IncompleteRead(1785598 bytes read, 509843 more expected)', IncompleteRead(1785598 bytes read, 509843 more expected))"
- ]
+ "problems": []
 }

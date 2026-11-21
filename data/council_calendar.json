@@ -910,16 +910,6 @@
   "refs": []
  },
  {
-  "id": "council-wp-agri-mpo_370424",
-  "date": "2026-10-19",
-  "source": "council",
-  "body": "Grupo de trabajo del Consejo",
-  "title": "Grupo de trabajo: Animals And Veterinary Questions (Potsdam Group)",
-  "description": "",
-  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2026/10/wp-on-animals-and-veterinary-questions-potsdam-group-(370424)/",
-  "refs": []
- },
- {
   "id": "council-coreper-mpo_372937",
   "date": "2026-11-23",
   "source": "council",
@@ -1439,6 +1429,17 @@
   ]
  },
  {
+  "id": "council-agenda-CM-4750-2026-COR-1",
+  "date": "2026-11-06",
+  "source": "council",
+  "body": "Coreper I",
+  "title": "Orden del día (CM 4750/26 COR 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-4750-2026-COR-1/en/pdf",
+  "refs": [
+   "2025/0543(COD)"
+  ]
+ },
+ {
   "id": "council-agenda-ST-14592-2026-REV-1",
   "date": "2026-10-21",
   "source": "council",
@@ -1562,6 +1563,18 @@
   ]
  },
  {
+  "id": "council-agenda-ST-13894-2026-INIT",
+  "date": "2026-10-05",
+  "source": "council",
+  "body": "Comité Especial de Agricultura (CEA)",
+  "title": "Orden del día (ST 13894/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-13894-2026-INIT/en/pdf",
+  "refs": [
+   "2025/0234(NLE)",
+   "2025/0237(COD)"
+  ]
+ },
+ {
   "id": "council-agenda-CM-4349-2026-REV-1",
   "date": "2026-10-07",
   "source": "council",
@@ -1571,6 +1584,29 @@
   "refs": [
    "2024/0098(COD)",
    "2025/0106(COD)"
+  ]
+ },
+ {
+  "id": "council-agenda-ST-13265-2026-INIT",
+  "date": "2026-09-28",
+  "source": "council",
+  "body": "Consejo",
+  "title": "Orden del día (ST 13265/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-13265-2026-INIT/en/pdf",
+  "refs": [
+   "2025/0241(COD)"
+  ]
+ },
+ {
+  "id": "council-agenda-CM-4319-2026-INIT",
+  "date": "2026-10-01",
+  "source": "council",
+  "body": "Grupo de trabajo: Fisheries Policy",
+  "title": "Orden del día (CM 4319/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-4319-2026-INIT/en/pdf",
+  "refs": [
+   "2026/0252(NLE)",
+   "2026/0290(COD)"
   ]
  }
 ]

@@ -103,5 +103,38 @@
  "scheduled": [],
  "council_docs": [],
  "followed": false,
- "follow_url": ""
+ "follow_url": "",
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "transmitted",
+    "label": "Transmitido al PE",
+    "state": "done",
+    "date": "2024-10-09",
+    "detail": ""
+   },
+   {
+    "key": "scrutiny",
+    "label": "Plazo de control",
+    "state": "done",
+    "date": "2024-11-27",
+    "detail": ""
+   },
+   {
+    "key": "outcome",
+    "label": "Resultado",
+    "state": "done",
+    "date": "2024-11-27",
+    "detail": "votación en el Pleno"
+   }
+  ],
+  "done": 3,
+  "total": 3,
+  "current": null,
+  "current_label": "Resultado",
+  "hint": "",
+  "next_label": "",
+  "next_date": null
+ }
 }
