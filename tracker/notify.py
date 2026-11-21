@@ -11,7 +11,7 @@ import os
 
 import requests
 
-from .common import log, normalize_ref, refs_in
+from .common import days_ago, log, normalize_ref, refs_in, today
 
 API = "https://api.github.com"
 LABEL = "follow"
@@ -66,8 +66,16 @@ def _issue_title(ref: str, title: str) -> str:
 
 def _status_block(rec: dict, site_url: str) -> str:
     lines = [f"**{rec.get('title') or rec['ref']}**", ""]
+    pr = rec.get("progress") or {}
+    if pr.get("stages"):
+        marks = {"done": "✅", "implied": "☑️", "partial": "◐", "current": "📍", "pending": "○"}
+        lines.append("- Procedimiento: " + " → ".join(
+            f"{marks.get(st['state'], '○')} {st['label']}" for st in pr["stages"]))
+        if pr.get("current_label"):
+            lines.append(f"- Ahora: **{pr['current_label']}**" +
+                         (f" · después: {pr['next_label']}" if pr.get("next_label") else ""))
     if rec.get("stage"):
-        lines.append(f"- Fase: {rec['stage']}")
+        lines.append(f"- Último paso en el PE: {rec['stage']}")
     lead = [c["code"] for c in rec.get("committees", []) if c.get("role") in ("lead", "joint")]
     if lead:
         lines.append(f"- Comisión responsable: {', '.join(lead)}")
@@ -94,16 +102,40 @@ def _status_block(rec: dict, site_url: str) -> str:
     return "\n".join(lines)
 
 
+def _line(c: dict) -> str:
+    icon = KIND_ICON.get(c["kind"], "•")
+    return f"- {icon} {c['text']}" + (f" ([enlace]({c['url']}))" if c.get("url") else "")
+
+
 def _changes_block(changes: list[dict]) -> str:
-    rows = []
-    for c in changes:
-        icon = KIND_ICON.get(c["kind"], "•")
-        text = c["text"]
-        rows.append(f"- {icon} {text}" + (f" ([enlace]({c['url']}))" if c.get("url") else ""))
-    return "\n".join(rows)
+    """Important items first, then normal ones; minor items folded into one line."""
+    high = [c for c in changes if c.get("importance") == "high"]
+    normal = [c for c in changes if c.get("importance", "normal") == "normal"]
+    low = [c for c in changes if c.get("importance") == "low"]
+    parts = []
+    if high:
+        parts.append("**Lo importante**\n" + "\n".join(_line(c) for c in high))
+    if normal:
+        parts.append(("**Otros movimientos**\n" if high else "") + "\n".join(_line(c) for c in normal))
+    if low:
+        parts.append(f"<details><summary>{len(low)} movimiento(s) menor(es): documentos y trámites</summary>\n\n" +
+                     "\n".join(_line(c) for c in low) + "\n</details>")
+    return "\n\n".join(parts)
 
 
-def run(records: dict, changes: list[dict], cfg: dict, state: dict, site_url: str) -> tuple[dict, dict]:
+def _pending(changes_log: list[dict], ref: str, sent: set[str]) -> list[dict]:
+    return [c for c in changes_log if c.get("ref") == ref and c["id"] not in sent
+            and (c.get("seen") or "") >= days_ago(30)]
+
+
+def _due(pending: list[dict]) -> bool:
+    """Post now if something matters; minor-only items wait for a weekly round-up."""
+    if any(c.get("importance", "normal") in ("high", "normal") for c in pending):
+        return True
+    return any((c.get("seen") or today()) <= days_ago(7) for c in pending)
+
+
+def run(records: dict, changes_log: list[dict], cfg: dict, state: dict, site_url: str) -> tuple[dict, dict]:
     """Post notifications. Returns (new notify state, {ref: issue url} for followed files)."""
     gh = GitHub()
     followed_urls: dict[str, str] = {}
@@ -135,49 +167,53 @@ def run(records: dict, changes: list[dict], cfg: dict, state: dict, site_url: st
                 by_ref[ref] = issue
                 log(f"  created follow issue for {ref}")
 
-    by_file: dict[str, list[dict]] = {}
-    for c in changes:
-        by_file.setdefault(c["ref"], []).append(c)
-
     for ref, issue in by_ref.items():
         number = issue["number"]
         followed_urls[ref] = issue.get("html_url", "")
         rec = records.get(ref)
+        already = set(sent.get(ref, []))
+        pending = _pending(changes_log, ref, already)
         if number not in welcomed:
             if rec:
                 body = ("👋 Siguiendo este expediente. Situación actual:\n\n" + _status_block(rec, site_url) +
-                        "\n\nRecibirás un comentario aquí (y un correo de GitHub) cada vez que cambie algo.")
+                        "\n\nRecibirás un comentario aquí (y un correo de GitHub) cuando haya novedades. "
+                        "Los pasos importantes se avisan enseguida; los trámites menores, en un resumen semanal.")
             else:
                 body = (f"👋 Siguiendo {ref}. Todavía no está en los datos del tracker: si es un expediente del "
                         "Parlamento, aparecerá en la próxima actualización.")
             if gh.call("POST", f"/issues/{number}/comments", json={"body": body}) is not None:
                 welcomed.append(number)
-            # Changes already described by the welcome message are marked as sent
-            sent.setdefault(ref, []).extend(c["id"] for c in by_file.get(ref, []))
+                sent.setdefault(ref, []).extend(c["id"] for c in pending)
             continue
-        new = [c for c in by_file.get(ref, []) if c["id"] not in set(sent.get(ref, []))]
-        if not new:
+        if not pending or not _due(pending):
             continue
         title = rec.get("title") if rec else ref
-        body = (f"**Novedades en {ref}** — {title}\n\n" + _changes_block(new) +
+        where = ""
+        if rec and rec.get("progress", {}).get("current_label"):
+            pr = rec["progress"]
+            where = f"\n\n📍 Ahora: **{pr['current_label']}**" + (f" · después: {pr['next_label']}" if pr.get("next_label") else "")
+            if pr.get("next_date"):
+                where += f" · próxima fecha: {pr['next_date']['body']}, {pr['next_date']['date']}"
+        body = (f"**Novedades en {ref}** — {title}\n\n" + _changes_block(pending) + where +
                 (f"\n\n[Ver la ficha]({site_url}#/expediente/{rec.get('id')})" if site_url and rec else ""))
         if gh.call("POST", f"/issues/{number}/comments", json={"body": body}) is not None:
-            sent.setdefault(ref, []).extend(c["id"] for c in new)
-            log(f"  notified {len(new)} change(s) on {ref} (issue #{number})")
+            sent.setdefault(ref, []).extend(c["id"] for c in pending)
+            log(f"  notified {len(pending)} change(s) on {ref} (issue #{number})")
 
-    # Optional daily digest of all changes
-    if cfg["notifications"].get("daily_digest") and changes:
-        gh.ensure_label(DIGEST_LABEL, "8e7cc3", "Resumen diario de cambios")
-        digest = gh.open_issues(DIGEST_LABEL)
-        if digest:
-            number = digest[0]["number"]
-        else:
-            created = gh.call("POST", "/issues", json={
-                "title": "Cambios diarios", "labels": [DIGEST_LABEL],
-                "body": f"@{gh.owner} aquí se publica cada día el resumen de cambios en todos los expedientes."})
-            number = created["number"] if created else None
-        fresh = [c for c in changes if c["id"] not in set(sent.get("_digest", []))]
-        if number and fresh:
+    # Optional daily digest of all changes (important and normal ones; minor ones only counted)
+    if cfg["notifications"].get("daily_digest"):
+        fresh = [c for c in changes_log if c["id"] not in set(sent.get("_digest", []))
+                 and (c.get("seen") or "") >= days_ago(3)]
+        if fresh:
+            gh.ensure_label(DIGEST_LABEL, "8e7cc3", "Resumen diario de cambios")
+            digest = gh.open_issues(DIGEST_LABEL)
+            if digest:
+                number = digest[0]["number"]
+            else:
+                created = gh.call("POST", "/issues", json={
+                    "title": "Cambios diarios", "labels": [DIGEST_LABEL],
+                    "body": f"@{gh.owner} aquí se publica cada día el resumen de cambios en todos los expedientes."})
+                number = created["number"] if created else None
             lines = []
             for ref in sorted({c["ref"] for c in fresh}):
                 rec = records.get(ref, {})
@@ -187,9 +223,9 @@ def run(records: dict, changes: list[dict], cfg: dict, state: dict, site_url: st
             body = "\n".join(lines)
             if len(body) > 60000:
                 body = body[:60000] + "\n\n… (lista recortada; el resto está en la web)"
-            if gh.call("POST", f"/issues/{number}/comments", json={"body": body}) is not None:
+            if number and gh.call("POST", f"/issues/{number}/comments", json={"body": body}) is not None:
                 sent.setdefault("_digest", []).extend(c["id"] for c in fresh)
 
     # Keep the memory of sent changes small
-    sent = {k: v[-500:] for k, v in sent.items()}
+    sent = {k: v[-800:] for k, v in sent.items()}
     return {"sent": sent, "welcomed": welcomed[-1000:]}, followed_urls

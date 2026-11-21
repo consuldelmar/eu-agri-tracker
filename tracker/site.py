@@ -29,7 +29,16 @@ def summary(rec: dict) -> dict:
         "last": rec.get("last_activity"), "started": rec.get("started"),
         "followed": bool(rec.get("followed")), "follow_url": rec.get("follow_url", ""),
         "next": {"date": nxt[0]["date"], "body": nxt[0]["body"]} if nxt else None,
+        "tags": rec.get("tags", []),
+        "pg": _progress_summary(rec.get("progress") or {}),
     }
+
+
+def _progress_summary(p: dict) -> dict:
+    codes = {"done": "d", "implied": "i", "partial": "p", "current": "c", "pending": "n"}
+    stages = p.get("stages", [])
+    return {"st": "".join(codes.get(s["state"], "n") for s in stages), "labels": [s["label"] for s in stages],
+            "cur": p.get("current"), "cl": p.get("current_label", ""), "nl": p.get("next_label", "")}
 
 
 def build(records: dict, calendar: list, changes_log: list, council: dict, cfg: dict, status: dict) -> None:
@@ -41,6 +50,7 @@ def build(records: dict, calendar: list, changes_log: list, council: dict, cfg: 
     _write("meta.json", {
         "updated": now_iso(), "repo": repo, "committees": cfg.get("committees", []),
         "language": cfg.get("language"), "counts": {"files": len(records)}, "status": status,
+        "tags": sorted({t for r in records.values() for t in r.get("tags", [])}),
     })
     _write("index.json", [summary(r) for r in records.values()])
     for rec in records.values():

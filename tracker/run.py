@@ -12,7 +12,7 @@ import traceback
 from . import changes as changes_mod
 from . import council as council_mod
 from . import ep as ep_mod
-from . import notify, site
+from . import notify, progress, site
 from .common import (Http, days_ago, links_for, load, load_config, log, log_lines, now_iso, path, save,
                      today)
 
@@ -63,6 +63,9 @@ def main() -> int:
     council_state = load("council_state.json", {})
     notify_state = load("notify_state.json", {})
     changes_log = load("changes.json", [])
+    for c in changes_log:      # entries saved before importance levels existed
+        if "importance" not in c:
+            c["importance"] = "high" if c.get("kind") in ("stage", "status", "scheduled") else "low"
     problems = []
 
     # Changes are reported only once a complete first load existed before this run
@@ -125,6 +128,12 @@ def main() -> int:
         rec["agenda"] = agenda
         rec["scheduled"] = [e for e in agenda if (e.get("date") or "") >= today()]
         rec["council_docs"] = sorted(by_ref_docs.get(ref, []), key=lambda d: d.get("date") or "")
+        # Own tags (config.yml) and where the file stands in its procedure
+        text = f"{rec.get('title', '')} {rec.get('title_en', '')}".lower()
+        tags = [t for t, refs in cfg["tags"].items() if ref in refs]
+        tags += [t for t, words in cfg["tag_words"].items() if t not in tags and any(w in text for w in words)]
+        rec["tags"] = tags
+        rec["progress"] = progress.compute(rec)
 
     # 4. What changed (skipped while the first full load is still in progress)
     bootstrapping = not ep_state.get("bootstrap_done")
@@ -145,7 +154,7 @@ def main() -> int:
     # 5. Notifications (GitHub issues)
     log("Notifications…")
     try:
-        notify_state, followed = notify.run(records, fresh, cfg, notify_state, site_url())
+        notify_state, followed = notify.run(records, changes_log, cfg, notify_state, site_url())
     except Exception as exc:  # noqa: BLE001
         traceback.print_exc()
         problems.append(f"Notifications: {type(exc).__name__}: {exc}")

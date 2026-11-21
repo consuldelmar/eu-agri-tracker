@@ -29,6 +29,25 @@ also_track: []
 # (Follow button) or by opening an issue with the "follow" label.
 follow: []
 
+# Your own labels, to filter and search on the website.
+# By file number, e.g.:   Prioridad DARP: ["2025/0241(COD)", "2025/0237(COD)"]
+tags: {}
+
+# By words in the title (Spanish or English, any part of a word). Edit freely.
+tag_words:
+  PAC: ["política agrícola común", "common agricultural policy", "1308/2013", "2021/2115", "2021/2116",
+        "organización común de mercados", "common market organisation"]
+  MFF 2028-2034: ["2028-2034", "2028 to 2034", "Fondo Europeo de Competitividad", "European Competitiveness Fund",
+                  "planes de colaboración", "partnership plans", "Europa Global", "Global Europe"]
+  Pesca: ["pesca", "pesquer", "fisher", "acuicultura", "aquaculture"]
+  Cohesión: ["cohesión", "Desarrollo Regional", "cohesion", "regional development"]
+  Bosques: ["bosque", "forest", "deforestación", "deforestation"]
+  Sanidad animal y vegetal: ["bienestar de los animales", "animal welfare", "fitosanitar", "plant protection",
+                             "material de reproducción vegetal", "plant reproductive", "técnicas genómicas",
+                             "genomic techniques", "veterinari", "sanidad animal", "animal health"]
+  Comercio: ["Mercosur", "arancel", "tariff", "acuerdo comercial", "trade agreement", "libre comercio",
+             "free trade", "salvaguardia", "safeguard"]
+
 # Legislative Train links, added by hand (its website does not allow automated reading).
 # Format:  "2024/0319(COD)": "https://www.europarl.europa.eu/legislative-train/..."
 legislative_train: {}

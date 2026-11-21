@@ -92,12 +92,41 @@ function refRefs(refs) {
   }).join(" ");
 }
 
+const PG_STATE = { done: "hecho", implied: "hecho (deducido de etapas posteriores)", partial: "en parte / en curso",
+  current: "etapa actual", pending: "pendiente" };
+const PG_CODE = { d: "done", i: "implied", p: "partial", c: "current", n: "pending" };
+const IMP = { high: "importante", normal: "normal", low: "trámite menor" };
+function miniBar(f, withText = true) {
+  const pg = f.pg;
+  if (!pg || !pg.st) return "";
+  const title = pg.labels.map((l, i) => `${l}: ${PG_STATE[PG_CODE[pg.st[i]]]}`).join(" · ");
+  return `<div class="mini" role="img" aria-label="${esc(title)}" title="${esc(title)}">${[...pg.st].map((c) =>
+    `<span class="seg seg-${c}"></span>`).join("")}</div>` +
+    (withText ? `<div class="item-sub">${f.ongoing === false ? "Concluido" : "Ahora: " + esc(pg.cl || "—")}</div>` : "");
+}
+function tagPills(tags) {
+  return (tags || []).map((t) => `<a class="pill tag" href="#/expedientes?tag=${encodeURIComponent(t)}&st=">${esc(t)}</a>`).join(" ");
+}
+function stepper(p) {
+  if (!p || !p.stages) return "";
+  const dot = { done: "✓", implied: "✓", partial: "◐", current: "•", pending: "" };
+  return `<ol class="stepper" aria-label="Etapas del procedimiento">${p.stages.map((st) => `
+    <li class="step st-${st.state}${st.key === p.current ? " is-current" : ""}">
+      <span class="dot" aria-hidden="true">${dot[st.state] || ""}</span>
+      <span class="step-label">${esc(st.label)}</span>
+      <span class="step-meta">${st.date ? esc(fmtDate(st.date)) : (st.state === "implied" ? "sin fecha registrada" : "")}</span>
+      ${st.detail ? `<span class="step-detail">${esc(st.detail)}</span>` : ""}
+      <span class="sr-only">${esc(PG_STATE[st.state] || "")}</span></li>`).join("")}</ol>`;
+}
+
 /* ---------- views ---------- */
 async function viewHome() {
   await need("meta", "index", "calendar", "changes", "council");
   const t = todayStr();
   const followed = store.index.filter((f) => f.followed);
-  const recent = store.changes.filter((c) => c.date >= addDays(t, -7));
+  const recentAll = store.changes.filter((c) => (c.seen || c.date) >= addDays(t, -7));
+  const recent = recentAll.filter((c) => c.importance !== "low");
+  const minor = recentAll.length - recent.length;
   const upcoming = store.calendar.filter((e) => e.date >= t && e.date <= addDays(t, 21));
   const ongoing = store.index.filter((f) => f.ongoing !== false).length;
 
@@ -108,11 +137,12 @@ async function viewHome() {
       const f = byRef(ref);
       return `<li><div class="item-head">${f ? `<a class="item-title" href="${fileLink(f)}">${esc(f.title || ref)}</a>` : esc(ref)}
         <span class="ref">${esc(ref)}</span>${f && f.followed ? ` <span class="followed">★ siguiendo</span>` : ""}</div>
-        <ul class="list" style="margin-top:4px">${cs.slice(0, 6).map((c) => `<li style="padding:3px 0;border:0">
+        <ul class="list" style="margin-top:4px">${cs.slice(0, 6).map((c) => `<li class="imp-${c.importance || "normal"}" style="padding:3px 0;border:0">
           <span class="kind">${(KIND[c.kind] || ["•"])[0]}</span> ${esc(c.text)}
           ${c.url ? ` <a href="${esc(c.url)}" target="_blank" rel="noopener">enlace</a>` : ""}</li>`).join("")}
           ${cs.length > 6 ? `<li class="item-sub" style="border:0">y ${cs.length - 6} más…</li>` : ""}</ul></li>`;
-    }).join("")}</ul>` : `<p class="empty">Sin cambios en los últimos 7 días.</p>`;
+    }).join("")}</ul>${minor ? `<p class="item-sub">Y ${minor} trámite(s) menor(es): <a href="#/cambios?imp=all">ver</a></p>` : ""}`
+    : `<p class="empty">Sin cambios relevantes en los últimos 7 días${minor ? ` (${minor} trámites menores: <a href="#/cambios?imp=all">ver</a>)` : ""}.</p>`;
 
   const upcomingHtml = upcoming.length ? `<ul class="list">${upcoming.slice(0, 30).map((e) => `<li>
       <div class="item-head"><span class="date">${esc(fmtDate(e.date))}</span>
@@ -123,7 +153,8 @@ async function viewHome() {
 
   const followedHtml = followed.length ? `<ul class="list">${followed.map((f) => `<li>
       <div class="item-head"><a class="item-title" href="${fileLink(f)}">${esc(f.title || f.ref)}</a></div>
-      <div class="item-sub"><span class="ref">${esc(f.ref)}</span> · ${esc(f.stage || "")}
+      ${miniBar(f)}
+      <div class="item-sub"><span class="ref">${esc(f.ref)}</span>
       ${f.next ? ` · próximo: ${esc(f.next.body)}, ${esc(fmtDate(f.next.date))}` : ""}</div></li>`).join("")}</ul>`
     : `<p class="empty">Aún no sigues ningún expediente. Abre uno y pulsa «Seguir» para recibir avisos por correo.</p>`;
 
@@ -161,9 +192,11 @@ async function viewFiles() {
     c: (params.get("c") || "").split(",").filter(Boolean),
     role: params.get("role") || "",
     type: params.get("type") || "",
-    st: params.get("st") || "ongoing",
+    st: params.has("st") ? params.get("st") : "ongoing",
     sort: params.get("sort") || "last",
+    tag: params.get("tag") || "",
   };
+  const tags = store.meta.tags || [];
   const types = [...new Set(store.index.map((f) => f.type))].filter(Boolean).sort();
 
   app.innerHTML = `
@@ -172,6 +205,8 @@ async function viewFiles() {
       <input type="search" id="f-q" placeholder="Buscar por título, número o ponente…" value="${esc(state.q)}" aria-label="Buscar">
       <div class="chips" aria-label="Comisión">${committees.map((c) =>
         `<button class="chip" data-c="${esc(c)}" aria-pressed="${state.c.includes(c)}">${esc(c)}</button>`).join("")}</div>
+      ${tags.length ? `<div class="chips" aria-label="Etiquetas">${tags.map((t) =>
+        `<button class="chip chip-tag" data-tag="${esc(t)}" aria-pressed="${state.tag === t}">${esc(t)}</button>`).join("")}</div>` : ""}
       <label>Papel <select id="f-role"><option value="">todos</option>
         ${Object.entries(ROLE).map(([k, v]) => `<option value="${k}" ${state.role === k ? "selected" : ""}>${v}</option>`).join("")}</select></label>
       <label>Tipo <select id="f-type"><option value="">todos</option>
@@ -196,13 +231,14 @@ async function viewFiles() {
       if (state.st === "done" && f.ongoing !== false) return false;
       if (state.st === "followed" && !f.followed) return false;
       if (state.type && f.type !== state.type) return false;
+      if (state.tag && !(f.tags || []).includes(state.tag)) return false;
       if (state.c.length || state.role) {
         const ok = (f.committees || []).some((c) =>
           (!state.c.length || state.c.includes(c.code)) && (!state.role || c.role === state.role));
         if (!ok) return false;
       }
       if (q) {
-        const hay = [f.ref, f.title, f.title_en, f.stage, ...(f.rapporteurs || [])].join(" ").toLowerCase();
+        const hay = [f.ref, f.title, f.title_en, f.stage, ...(f.rapporteurs || []), ...(f.tags || [])].join(" ").toLowerCase();
         if (!q.split(/\s+/).every((w) => hay.includes(w))) return false;
       }
       return true;
@@ -215,9 +251,10 @@ async function viewFiles() {
       <td><span class="ref">${esc(f.ref)}</span><div class="item-sub">${esc(TYPE[f.type] || f.type)}</div></td>
       <td class="title"><a href="${fileLink(f)}">${esc(f.title || f.ref)}</a>
         ${f.followed ? ` <span class="followed">★</span>` : ""}
-        ${(f.rapporteurs || []).length ? `<div class="item-sub">Ponente: ${esc(f.rapporteurs.join(", "))}</div>` : ""}</td>
+        ${(f.rapporteurs || []).length ? `<div class="item-sub">Ponente: ${esc(f.rapporteurs.join(", "))}</div>` : ""}
+        ${(f.tags || []).length ? `<div class="tags">${tagPills(f.tags)}</div>` : ""}</td>
       <td>${committeesText(f)}</td>
-      <td>${statusPill(f)}<div class="item-sub">${esc(f.stage || "")}</div>
+      <td class="stage-cell">${miniBar(f)}<div class="item-sub">Último paso en el PE: ${esc(f.stage || "—")}</div>
         ${f.next ? `<div class="item-sub">⏭️ ${esc(f.next.body)}, ${esc(fmtDate(f.next.date))}</div>` : ""}</td>
       <td><span class="date">${esc(fmtDate(f.last))}</span></td></tr>`).join("") ||
       `<tr><td colspan="5" class="empty">Ningún expediente coincide con los filtros.</td></tr>`;
@@ -228,10 +265,16 @@ async function viewFiles() {
     if (state.type) p.set("type", state.type);
     if (state.st !== "ongoing") p.set("st", state.st);
     if (state.sort !== "last") p.set("sort", state.sort);
+    if (state.tag) p.set("tag", state.tag);
     setQuery(p);
   }
+  app.querySelectorAll(".chip-tag").forEach((b) => b.addEventListener("click", () => {
+    state.tag = state.tag === b.dataset.tag ? "" : b.dataset.tag;
+    app.querySelectorAll(".chip-tag").forEach((x) => x.setAttribute("aria-pressed", x.dataset.tag === state.tag));
+    apply();
+  }));
   document.getElementById("f-q").addEventListener("input", (e) => { state.q = e.target.value; apply(); });
-  app.querySelectorAll(".chip").forEach((b) => b.addEventListener("click", () => {
+  app.querySelectorAll(".chip[data-c]").forEach((b) => b.addEventListener("click", () => {
     const c = b.dataset.c;
     state.c = state.c.includes(c) ? state.c.filter((x) => x !== c) : [...state.c, c];
     b.setAttribute("aria-pressed", state.c.includes(c)); apply();
@@ -311,12 +354,25 @@ async function viewFile(id) {
     <div class="file-head">
       <div>
         <div class="meta"><span class="ref">${esc(f.ref)}</span><span class="pill grey">${esc(TYPE[f.type] || f.type)}</span>
-          ${statusPill(summary.ongoing === undefined ? f : summary)}</div>
+          ${statusPill(summary.ongoing === undefined ? f : summary)} ${tagPills(f.tags)}</div>
         <h1>${esc(f.title || f.ref)}</h1>
-        ${f.title_en && f.title_en !== f.title ? `<p class="item-sub">${esc(f.title_en)}</p>` : ""}
+        ${f.title_en && f.title_en !== f.title ? `<p class="item-sub en-title">${esc(f.title_en)}</p>` : ""}
       </div>
       <div>${followBtn}</div>
     </div>
+    ${f.progress && f.progress.stages ? `<section class="card where">
+      <h2>Dónde está</h2>
+      ${stepper(f.progress)}
+      <div class="where-now">
+        ${f.ongoing === false
+          ? `<p><b>Procedimiento concluido</b>${f.progress.current_label ? " · " + esc(f.progress.current_label) : ""}.</p>`
+          : `<p><span class="label">Ahora</span> <b>${esc(f.progress.current_label || "—")}</b>${f.progress.hint ? ` — ${esc(f.progress.hint)}` : ""}</p>
+             ${f.progress.next_label ? `<p><span class="label">Después</span> ${esc(f.progress.next_label)}</p>` : ""}
+             <p><span class="label">Próxima fecha</span> ${f.progress.next_date
+               ? `<b>${esc(f.progress.next_date.body)}, ${esc(fmtDate(f.progress.next_date.date))}</b>`
+               : `ninguna anunciada todavía en órdenes del día`}</p>`}
+        <p class="item-sub">Las etapas del Consejo se deducen de sus documentos y pueden aparecer con retraso. ✓ hecho · ◐ en parte · • actual.</p>
+      </div></section>` : ""}
     <div class="grid grid-3">
       <div class="grid">
         <section class="card"><h2>Calendario del expediente</h2>
@@ -407,27 +463,33 @@ async function viewCalendar() {
 async function viewChanges() {
   await need("meta", "index", "changes");
   const { params } = parseHash();
-  const state = { kind: params.get("kind") || "", mine: params.get("mine") === "1" };
+  const state = { kind: params.get("kind") || "", mine: params.get("mine") === "1", imp: params.get("imp") || "main" };
   app.innerHTML = `
     <h1>Cambios detectados</h1>
     <p class="lede">Lo que ha cambiado en cada actualización diaria (últimos 90 días).</p>
     <div class="filters">
       <label>Tipo <select id="x-kind"><option value="">todos</option>
         ${Object.entries(KIND).map(([k, [i, l]]) => `<option value="${k}" ${state.kind === k ? "selected" : ""}>${i} ${l}</option>`).join("")}</select></label>
+      <label>Importancia <select id="x-imp">
+        <option value="main" ${state.imp === "main" ? "selected" : ""}>importantes y normales</option>
+        <option value="high" ${state.imp === "high" ? "selected" : ""}>solo importantes</option>
+        <option value="all" ${state.imp === "all" ? "selected" : ""}>todo, con trámites menores</option></select></label>
       <label><input type="checkbox" id="x-mine" ${state.mine ? "checked" : ""}> solo expedientes que sigo</label>
     </div>
     <div id="x-body"></div>`;
   function apply() {
     const followedRefs = new Set(store.index.filter((f) => f.followed).map((f) => f.ref));
+    const imp = (c) => c.importance || "normal";
     const rows = store.changes.filter((c) => (!state.kind || c.kind === state.kind) &&
-      (!state.mine || followedRefs.has(c.ref)));
+      (!state.mine || followedRefs.has(c.ref)) &&
+      (state.imp === "all" || (state.imp === "high" ? imp(c) === "high" : imp(c) !== "low")));
     const byDay = {};
     rows.forEach((c) => { (byDay[c.seen || c.date] = byDay[c.seen || c.date] || []).push(c); });
     document.getElementById("x-body").innerHTML = Object.keys(byDay).length ? Object.entries(byDay)
       .sort((a, b) => b[0].localeCompare(a[0])).map(([d, cs]) => `<section class="day"><h3>Detectado el ${esc(fmtDay(d))}</h3>
         <ul class="list">${cs.map((c) => {
           const f = byRef(c.ref);
-          return `<li><div class="item-head"><span class="kind">${(KIND[c.kind] || ["•"])[0]}</span>
+          return `<li class="imp-${c.importance || "normal"}"><div class="item-head"><span class="kind">${(KIND[c.kind] || ["•"])[0]}</span>
             ${f ? `<a class="item-title" href="${fileLink(f)}">${esc(f.title || c.ref)}</a>` : esc(c.ref)}
             <span class="ref">${esc(c.ref)}</span></div>
             <div class="item-sub">${esc(c.text)} ${c.url ? `<a href="${esc(c.url)}" target="_blank" rel="noopener">enlace</a>` : ""}</div></li>`;
@@ -435,8 +497,10 @@ async function viewChanges() {
     const p = new URLSearchParams();
     if (state.kind) p.set("kind", state.kind);
     if (state.mine) p.set("mine", "1");
+    if (state.imp !== "main") p.set("imp", state.imp);
     setQuery(p);
   }
+  document.getElementById("x-imp").addEventListener("change", (e) => { state.imp = e.target.value; apply(); });
   document.getElementById("x-kind").addEventListener("change", (e) => { state.kind = e.target.value; apply(); });
   document.getElementById("x-mine").addEventListener("change", (e) => { state.mine = e.target.checked; apply(); });
   apply();
@@ -460,17 +524,90 @@ async function viewPerson(pid) {
     </section>`;
 }
 
+async function viewBoard() {
+  await need("meta", "index");
+  const { params } = parseHash();
+  const committees = store.meta.committees || ["AGRI", "PECH", "REGI"];
+  const tags = store.meta.tags || [];
+  const state = { tag: params.get("tag") || "", c: (params.get("c") || "").split(",").filter(Boolean),
+    mine: params.get("mine") === "1", lead: params.get("lead") === "1" };
+  const COLS = [
+    ["ep_committee", "Comisión del PE", "Informe en preparación o en votación"],
+    ["ep_mandate", "Posición del PE", "Mandato o posición del Parlamento"],
+    ["council_mandate", "Posición del Consejo", "Orientación general o mandato"],
+    ["trilogues", "Trílogos", "Negociación PE–Consejo–Comisión"],
+    ["agreement", "Acuerdo provisional", "Pendiente de confirmar"],
+    ["ep_approval", "Aprobación del PE", "Votación final en el Pleno"],
+    ["council_adoption", "Adopción del Consejo", "Adopción formal"],
+    ["published", "Diario Oficial", "Firmado, pendiente de publicar"],
+  ];
+  app.innerHTML = `
+    <h1>Tablero del procedimiento legislativo</h1>
+    <p class="lede">Expedientes legislativos ordinarios (COD) en curso, en la columna de la etapa en la que están ahora. Otros procedimientos están en <a href="#/expedientes">Expedientes</a>.</p>
+    <div class="filters">
+      <div class="chips" aria-label="Comisión">${committees.map((c) =>
+        `<button class="chip" data-c="${esc(c)}" aria-pressed="${state.c.includes(c)}">${esc(c)}</button>`).join("")}</div>
+      ${tags.length ? `<div class="chips" aria-label="Etiquetas">${tags.map((t) =>
+        `<button class="chip chip-tag" data-tag="${esc(t)}" aria-pressed="${state.tag === t}">${esc(t)}</button>`).join("")}</div>` : ""}
+      <label><input type="checkbox" id="b-lead" ${state.lead ? "checked" : ""}> solo como comisión responsable</label>
+      <label><input type="checkbox" id="b-mine" ${state.mine ? "checked" : ""}> solo los que sigo</label>
+    </div>
+    <div class="board" id="b-body"></div>`;
+  function apply() {
+    const files = store.index.filter((f) => f.type === "COD" && f.ongoing !== false && f.pg && f.pg.cur)
+      .filter((f) => !state.tag || (f.tags || []).includes(state.tag))
+      .filter((f) => !state.mine || f.followed)
+      .filter((f) => !state.c.length || (f.committees || []).some((c) => state.c.includes(c.code) &&
+        (!state.lead || ["lead", "joint"].includes(c.role))))
+      .filter((f) => !state.lead || state.c.length || (f.committees || []).some((c) =>
+        committees.includes(c.code) && ["lead", "joint"].includes(c.role)));
+    const byCol = {};
+    files.forEach((f) => { const k = f.pg.cur === "proposal" ? "ep_committee" : f.pg.cur; (byCol[k] = byCol[k] || []).push(f); });
+    document.getElementById("b-body").innerHTML = COLS.map(([key, label, sub]) => {
+      const list = (byCol[key] || []).sort((a, b) => (b.last || "").localeCompare(a.last || ""));
+      return `<section class="col"><h2>${esc(label)} <span class="n">${list.length}</span></h2><p class="item-sub">${esc(sub)}</p>
+        ${list.map((f) => `<a class="bcard${f.followed ? " is-followed" : ""}" href="${fileLink(f)}">
+          <span class="bcard-title">${esc(f.title || f.ref)}</span>
+          ${miniBar(f, false)}
+          <span class="bcard-meta"><span class="ref">${esc(f.ref)}</span> · ${esc((f.committees || []).filter((c) => ["lead", "joint"].includes(c.role)).map((c) => c.code).join("/") || "—")}${f.followed ? " · ★" : ""}</span>
+          ${f.next ? `<span class="bcard-next">⏭️ ${esc(f.next.body)}, ${esc(fmtDate(f.next.date))}</span>` : ""}
+          ${(f.tags || []).length ? `<span class="bcard-tags">${f.tags.map((t) => `<span class="pill tag">${esc(t)}</span>`).join(" ")}</span>` : ""}
+        </a>`).join("") || `<p class="empty">—</p>`}</section>`;
+    }).join("");
+    const p = new URLSearchParams();
+    if (state.tag) p.set("tag", state.tag);
+    if (state.c.length) p.set("c", state.c.join(","));
+    if (state.mine) p.set("mine", "1");
+    if (state.lead) p.set("lead", "1");
+    setQuery(p);
+  }
+  app.querySelectorAll(".chip[data-c]").forEach((b) => b.addEventListener("click", () => {
+    const c = b.dataset.c;
+    state.c = state.c.includes(c) ? state.c.filter((x) => x !== c) : [...state.c, c];
+    b.setAttribute("aria-pressed", state.c.includes(c)); apply();
+  }));
+  app.querySelectorAll(".chip-tag").forEach((b) => b.addEventListener("click", () => {
+    state.tag = state.tag === b.dataset.tag ? "" : b.dataset.tag;
+    app.querySelectorAll(".chip-tag").forEach((x) => x.setAttribute("aria-pressed", x.dataset.tag === state.tag));
+    apply();
+  }));
+  document.getElementById("b-mine").addEventListener("change", (e) => { state.mine = e.target.checked; apply(); });
+  document.getElementById("b-lead").addEventListener("change", (e) => { state.lead = e.target.checked; apply(); });
+  apply();
+}
+
 /* ---------- router ---------- */
 async function route() {
   const { parts } = parseHash();
   const r = parts[0] || "";
-  const navKey = { "": "home", expedientes: "files", expediente: "files", calendario: "calendar", cambios: "changes", persona: "files" }[r] || "home";
+  const navKey = { "": "home", expedientes: "files", expediente: "files", tablero: "board", calendario: "calendar", cambios: "changes", persona: "files" }[r] || "home";
   document.querySelectorAll(".nav a").forEach((a) => a.classList.toggle("active", a.dataset.route === navKey));
   try {
     if (r === "expedientes") await viewFiles();
     else if (r === "expediente" && parts[1]) await viewFile(parts[1]);
     else if (r === "calendario") await viewCalendar();
     else if (r === "cambios") await viewChanges();
+    else if (r === "tablero") await viewBoard();
     else if (r === "persona" && parts[1]) await viewPerson(parts[1]);
     else await viewHome();
   } catch (e) {

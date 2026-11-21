@@ -151,6 +151,9 @@ def load_config() -> dict:
     cfg["follow"] = [normalize_ref(r) for r in (cfg.get("follow") or []) if normalize_ref(r)]
     cfg["legislative_train"] = {normalize_ref(k): v for k, v in (cfg.get("legislative_train") or {}).items()
                                 if normalize_ref(k)}
+    cfg["tags"] = {str(k): [normalize_ref(r) for r in (v or []) if normalize_ref(r)]
+                   for k, v in (cfg.get("tags") or {}).items()}
+    cfg["tag_words"] = {str(k): [str(w).lower() for w in (v or [])] for k, v in (cfg.get("tag_words") or {}).items()}
     cfg.setdefault("council", {})
     cfg["council"].setdefault("first_run_days", 45)
     cfg["council"].setdefault("max_pdfs_per_run", 80)

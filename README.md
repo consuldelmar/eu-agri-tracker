@@ -18,14 +18,28 @@ Se actualiza solo en GitHub, sin servidor y sin coste.
 4. **Avisa** de los cambios en los expedientes que sigues (ver abajo).
 5. **Publica** la web.
 
-Se ejecuta de lunes a viernes a las 05:41 y a las 14:41 (hora de Madrid) y el sábado por la mañana.
+Se ejecuta de lunes a viernes a las 05:41, 10:11, 14:41 y 19:11 (hora de Madrid en invierno) y los fines de
+semana por la mañana. GitHub puede retrasar o saltarse alguna ejecución programada; la siguiente la cubre.
 Puedes lanzarlo a mano en **Actions → Update tracker → Run workflow**.
+
+## Qué verás en la web
+
+- **Ficha de cada expediente**, con un recuadro «Dónde está»: las etapas del procedimiento (propuesta,
+  comisión del PE, posición del PE, posición del Consejo, trílogos, acuerdo, aprobaciones y Diario Oficial),
+  cuál es la actual, qué viene después y la próxima fecha anunciada. Las etapas del Consejo se deducen de sus
+  documentos (mandatos, orientaciones generales, textos de compromiso), así que alguna puede aparecer con retraso.
+- **Tablero**: los expedientes legislativos en curso, en la columna de la etapa en la que están.
+- **Etiquetas** (PAC, MFF 2028-2034, Pesca…) para filtrar y buscar; se definen en `config.yml`.
+- **Cambios** con tres niveles: importante, normal y trámite menor.
 
 ## Seguir un expediente y recibir avisos
 
 - En la ficha del expediente, pulsa **Seguir este expediente**. Se abre un *issue* de GitHub ya rellenado:
   pulsa **Create** (o **Submit new issue**).
-- Cada cambio se publica como comentario en ese issue y **GitHub te lo envía por correo**.
+- Los cambios se publican como comentario en ese issue y **GitHub te los envía por correo**: lo importante
+  (votaciones, trílogos, mandatos, acuerdos, fechas anunciadas) en cuanto se detecta; los trámites menores
+  (documentos sueltos, enmiendas presentadas) se acumulan y llegan en un resumen semanal, o junto con la
+  siguiente novedad importante.
 - Para dejar de seguirlo, **cierra el issue**.
 - También puedes poner números de expediente en `follow:` dentro de `config.yml`.
 
@@ -40,6 +54,7 @@ Se editan en GitHub con el lápiz y **Commit changes**:
 - `procedure_types`, `since_year`: tipos de procedimiento y desde qué año.
 - `also_track`: expedientes que quieres aunque no cumplan la regla.
 - `follow`: expedientes de los que quieres avisos.
+- `tags` y `tag_words`: tus etiquetas, por número de expediente o por palabras del título.
 - `legislative_train`: enlaces al Legislative Train, puestos a mano.
 - `notifications.daily_digest`: `true` para recibir además un resumen diario con todos los cambios.
 
