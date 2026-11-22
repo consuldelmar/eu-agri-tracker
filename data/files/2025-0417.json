@@ -388,8 +388,6 @@
    "meeting_date": null
   }
  ],
- "followed": false,
- "follow_url": "",
  "tags": [],
  "progress": {
   "stages": [
@@ -467,5 +465,7 @@
    "date": "2026-11-24",
    "body": "Pleno del PE"
   }
- }
+ },
+ "followed": false,
+ "follow_url": ""
 }

@@ -6919,6 +6919,30 @@
     "2026/0325(COD)"
    ],
    "read": true
+  },
+  "ST-15372-2026-INIT": {
+   "id": "ST-15372-2026-INIT",
+   "code": "ST 15372/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Livestock Strategy and Protein Action Plan - Presentation of the Presidency report - Exchange of views",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15372-2026-INIT/en/pdf",
+   "date": "2026-11-04",
+   "step": null,
+   "refs": [],
+   "read": true
+  },
+  "WK-17332-2026-INIT": {
+   "id": "WK-17332-2026-INIT",
+   "code": "WK 17332/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "COMMISSION REGULATION (EU) …/… of XXX amending Annex I to Regulation (EU) No 10/2011 as regards a migration limit for the substance styrene\n- Regulatory procedure with scrutiny - End of consultation",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-17332-2026-INIT/en/pdf",
+   "date": "2026-11-10",
+   "step": null,
+   "refs": [],
+   "read": true
   }
  },
  "first_run_done": true

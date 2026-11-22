@@ -1,8 +1,8 @@
 {
- "started": "2026-11-21T16:51:44+00:00",
+ "started": "2026-11-22T17:22:03+00:00",
  "parliament": {
-  "changed_in_feed": 5,
-  "files_read": 5,
+  "changed_in_feed": 7,
+  "files_read": 7,
   "queue_left": 0,
   "tracked": 365,
   "failed": 0,
@@ -15,12 +15,12 @@
   "AGNDCSA": "500 documents in feed",
   "AGNDCRP1": "500 documents in feed",
   "THMAF": "500 documents in feed",
-  "pdfs": "54 read, 0 left for the next run",
+  "pdfs": "2 read, 0 left for the next run",
   "press": "4 relevant press releases"
  },
- "changes": 1,
- "finished": "2026-11-21T16:54:17+00:00",
- "requests": 115,
+ "changes": 0,
+ "finished": "2026-11-22T17:23:21+00:00",
+ "requests": 65,
  "request_errors": 0,
  "files": 365,
  "problems": []
