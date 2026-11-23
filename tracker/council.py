@@ -35,6 +35,44 @@ AGRI_WORDS = re.compile(
     r"fertili[sz]|\bsoil|genomic techniques|organic|deforestation|\bcohesion|regional (?:policy|development)")
 AGRI_CATEGORIES = re.compile(r"(?i)food and farming|fisheries|agricultur|forestry|animal|plant|cohesion|"
                              r"regional policy|rural")
+# Agendas of bodies that deal with agriculture, fisheries, food or the MFF (not Coreper, the
+# Jurists/Linguists or other working parties, whose agendas cover every policy)
+AGRI_AGENDA = re.compile(r"(?i)agricult|\bagri\b|fisher|\bSCA\b|veterinar|plant|forest|\bfood\b|commodit|codex|"
+                         r"\bFAO\b|\bCFS\b|UPOV|varieties|\bMFF\b|financial framework")
+MFF_WORDS = re.compile(r"(?i)multiannual financial framework|\bMFF\b|own resources")
+AGRI_TRADE = re.compile(r"(?i)olive|tariff[- ]rate quota|\bTRQs?\b|cocoa|coffee|banana|cereal|\bgrain|\bmeat\b|beef|"
+                        r"poultry|\brice\b|honey|tobacco|cotton|fruit|vegetable|sanitary")
+NOT_TOPIC = re.compile(r"(?i)Environment, Public Health and Food Safety")    # ENVI's name is not a topic
+
+
+def agri_topic(title: str) -> bool:
+    t = NOT_TOPIC.sub(" ", title or "")
+    return bool(AGRI_WORDS.search(t) or MFF_WORDS.search(t) or AGRI_TRADE.search(t))
+
+
+def agri_agenda(d: dict) -> bool:
+    return d.get("kind") == "agenda" and not (d.get("body") or "").startswith("Coreper") and \
+        bool(AGRI_AGENDA.search(f"{d.get('body') or ''} {d.get('title') or ''}"))
+
+
+def agri_refs(docs: list[dict]) -> set[str]:
+    """Files cited in an agriculture, fisheries, food or MFF context: on the agenda of such a
+    body, or in a document whose subject (or the title written next to the file) is about it.
+    The register feeds also carry other policies' documents, which must not add files."""
+    out: set[str] = set()
+    for d in docs:
+        if d.get("kind") == "agenda":
+            if agri_agenda(d):
+                out.update(d.get("refs", []))
+            continue
+        if agri_topic(d.get("title") or ""):
+            out.update(d.get("refs", []))
+        for ref, title in (d.get("ref_titles") or {}).items():
+            if agri_topic(title):
+                out.add(ref)
+    return out
+
+
 MEETING_NAME = re.compile(
     r"(Working Party on [A-Z][A-Za-z ,\-]{3,70}?(?:\s\([^)\n]{2,60}\))?(?=\s*(?:$|\n|-|–| are | is |\.))|"
     r"Special Committee on Agriculture|Permanent Representatives Committee \(Part [12]\)|"
@@ -376,8 +414,8 @@ SENT_DATE = re.compile(r"Brussels,\s*(\d{1,2}\s+[A-Z][a-z]+\s+20\d\d|\d{1,2}\.\d
 
 
 def read_cited(http: Http, docs: dict, checked: dict, budget: int, status: dict) -> int:
-    """Read the first pages of documents cited by recent agriculture & fisheries agendas (not
-    Coreper, whose agendas cover every policy) that the tracker does not have yet. Returns the
+    """Read the first pages of documents cited by recent agriculture & fisheries agendas that
+    the tracker does not have yet. Returns the
     number of PDFs read. Documents that are not public (LIMITE) are noted and not tried again."""
     known = set()
     for d in docs.values():
@@ -387,8 +425,7 @@ def read_cited(http: Http, docs: dict, checked: dict, budget: int, status: dict)
     year = int(today()[2:4])
     wanted: dict[str, str] = {}
     for d in sorted(docs.values(), key=lambda d: d.get("meeting_date") or "", reverse=True):
-        if d.get("kind") != "agenda" or (d.get("body") or "").startswith("Coreper") or \
-                (d.get("meeting_date") or "") < days_ago(150):
+        if not agri_agenda(d) or (d.get("meeting_date") or "") < days_ago(150):
             continue
         own = re.match(r"[A-Z]+ (\d{4,5}/\d{2})", d.get("code") or "")
         for n in d.get("doc_numbers", []):

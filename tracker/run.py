@@ -108,10 +108,11 @@ def main() -> int:
 
     # Files cited in the Council's agriculture & fisheries documents that the tracker lacks:
     # from the Parliament if it has them, otherwise as Council-only files (e.g. fishing opportunities)
-    first_extra = not ep_state.get("extra_init")
-    cited = sorted({r for d in council_docs for r in d.get("refs", [])
+    first_extra = ep_state.get("extra_init") != 2       # rule added or changed: its files are not news
+    cited = sorted({r for r in council_mod.agri_refs(council_docs)
                     if int(r[:4]) >= int(cfg["since_year"]) or r in cfg["follow"]})
-    for ref in [r for r, rec in records.items() if rec.get("council_only")]:
+    for ref in [r for r, rec in records.items() if rec.get("council_only") or
+                (rec.get("scope") == [ep_mod.COUNCIL_CITED] and r not in cited)]:
         records.pop(ref)
     extra_refs: set[str] = set()
     try:
@@ -129,7 +130,7 @@ def main() -> int:
         traceback.print_exc()
         problems.append(f"Council-cited files: {type(exc).__name__}: {exc}")
     ep_state["council_cited"] = cited
-    ep_state["extra_init"] = True
+    ep_state["extra_init"] = 2
 
     by_ref_docs: dict[str, list] = {}
     for d in council_docs:
