@@ -2,24 +2,24 @@
  "ref": "2025/0234(NLE)",
  "id": "2025-0234",
  "type": "NLE",
- "title": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities Council Regulation amending the fixing Regulation as regards the EU school scheme",
- "title_en": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities Council Regulation amending the fixing Regulation as regards the EU school scheme",
+ "title": "COUNCIL REGULATION amending Regulation (EU) No 1370/2013 as regards the aid scheme for the supply of fruit and vegetables, bananas and milk in educational establishments (EU school scheme)",
+ "title_en": "COUNCIL REGULATION amending Regulation (EU) No 1370/2013 as regards the aid scheme for the supply of fruit and vegetables, bananas and milk in educational establishments (EU school scheme)",
  "stage": "Consejo: Orientación general o mandato parcial",
  "ongoing": true,
  "committees": [],
  "people": [],
- "started": "2026-09-22",
+ "started": "2026-06-05",
  "last_activity": "2026-10-16",
  "events": [
   {
-   "date": "2026-09-22",
+   "date": "2026-06-05",
    "type": "COUNCIL_FIRST_DOCUMENT",
    "title": "Primer documento en el Consejo",
    "docs": [
     {
-     "id": "WK 14545/26",
-     "title": "WK 14545/26",
-     "url": "https://data.consilium.europa.eu/doc/document/WK-14545-2026-INIT/en/pdf"
+     "id": "ST 10239/26",
+     "title": "ST 10239/26",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-10239-2026-INIT/en/pdf"
     }
    ]
   },
@@ -100,6 +100,17 @@
  "scheduled": [],
  "council_docs": [
   {
+   "id": "ST-10239-2026-INIT",
+   "code": "ST 10239/26",
+   "date": "2026-06-05",
+   "title": "COUNCIL REGULATION amending Regulation (EU) No 1370/2013 as regards the aid scheme for the supply of fruit and vegetables, bananas and milk in educational establishments (EU school scheme) - Presidency suggested amendments With a view to the meeting of the Working Party on Agricultural Products on 11-12 June 2026, delegations will find in the annexes the Presidency’s suggested amendments to the above- mentioned regulation. Changes compared to the Commission’s proposal are marked in bold italics for additions and strikethrough for deletions.",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-10239-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
    "id": "WK-14545-2026-INIT",
    "code": "WK 14545/26",
    "date": "2026-09-22",
@@ -177,17 +188,15 @@
    "meeting_date": "2026-10-19"
   }
  ],
- "tags": [
-  "PAC"
- ],
+ "tags": [],
  "progress": {
   "stages": [
    {
     "key": "proposal",
     "label": "Propuesta de la Comisión",
     "state": "done",
-    "date": "2026-09-22",
-    "detail": "en el Consejo (WK 14545/26)"
+    "date": "2026-06-05",
+    "detail": "en el Consejo (ST 10239/26)"
    },
    {
     "key": "council_wp",

@@ -8,18 +8,18 @@
  "ongoing": true,
  "committees": [],
  "people": [],
- "started": "2026-09-25",
+ "started": "2026-09-10",
  "last_activity": "2026-10-20",
  "events": [
   {
-   "date": "2026-09-30",
+   "date": "2026-09-10",
    "type": "COUNCIL_FIRST_DOCUMENT",
    "title": "Primer documento en el Consejo",
    "docs": [
     {
-     "id": "ST 13507/26",
-     "title": "ST 13507/26",
-     "url": "https://data.consilium.europa.eu/doc/document/ST-13507-2026-INIT/en/pdf"
+     "id": "ST 12913/26",
+     "title": "ST 12913/26",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-12913-2026-INIT/en/pdf"
     }
    ]
   },
@@ -61,6 +61,14 @@
  ],
  "agenda": [
   {
+   "id": "council-agenda-CM-4153-2026-REV-1",
+   "date": "2026-09-24",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Orden del día (CM 4153/26 REV 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4153-2026-REV-1/en/pdf",
+   "source": "council"
+  },
+  {
    "id": "council-agenda-CM-4319-2026-INIT",
    "date": "2026-10-01",
    "body": "Grupo de trabajo: Fisheries Policy",
@@ -79,6 +87,28 @@
  ],
  "scheduled": [],
  "council_docs": [
+  {
+   "id": "ST-12913-2026-INIT",
+   "code": "ST 12913/26",
+   "date": "2026-09-10",
+   "title": "Proposal for a COUNCIL REGULATION amending Council Regulation 2023/2720 opening and providing for the management of autonomous Union tariff quotas for certain fishery products for the 2024-2026 period",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-12913-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "CM-4153-2026-REV-1",
+   "code": "CM 4153/26 REV 1",
+   "date": "2026-09-23",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4153-2026-REV-1/en/pdf",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": "2026-09-24"
+  },
   {
    "id": "CM-4319-2026-INIT",
    "code": "CM 4319/26",
@@ -145,8 +175,8 @@
     "key": "proposal",
     "label": "Propuesta de la Comisión",
     "state": "done",
-    "date": "2026-09-30",
-    "detail": "en el Consejo (ST 13507/26)"
+    "date": "2026-09-10",
+    "detail": "en el Consejo (ST 12913/26)"
    },
    {
     "key": "council_wp",

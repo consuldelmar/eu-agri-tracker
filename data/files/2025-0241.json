@@ -616,6 +616,17 @@
  "scheduled": [],
  "council_docs": [
   {
+   "id": "ST-12978-2026-INIT",
+   "code": "ST 12978/26",
+   "date": "2026-09-10",
+   "title": "Regulation establishing the conditions for the implementation of Union support under the CAP - Policy debate",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-12978-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
    "id": "ST-13473-2026-INIT",
    "code": "ST 13473/26",
    "date": "2026-09-23",
