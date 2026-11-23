@@ -14,6 +14,9 @@ Se actualiza solo en GitHub, sin servidor y sin coste.
 2. **Consejo** (canales RSS y registro de documentos): reuniones AGRIFISH, grupos de trabajo, Coreper y
    Comité Especial de Agricultura, órdenes del día y documentos de agricultura y pesca. Lee las primeras
    páginas de cada documento nuevo para saber a qué expediente se refiere.
+   Los expedientes que esos documentos citan y que el Parlamento no lleva en AGRI, PECH o REGI también entran:
+   del Parlamento si los tiene, y si no como **expedientes «solo Consejo»** (posibilidades de pesca, acuerdos
+   de pesca, posiciones de la UE en el Consejo Oleícola, etc.: actos que adopta solo el Consejo).
 3. **Compara** con el día anterior y apunta los cambios.
 4. **Avisa** de los cambios en los expedientes que sigues (ver abajo).
 5. **Publica** la web.
@@ -66,6 +69,10 @@ Se editan en GitHub con el lápiz y **Commit changes**:
 - Los pasos intermedios del Consejo (orientación general, mandato) se detectan por los documentos y las
   notas de prensa que citan el expediente; pueden escaparse algunos.
 - Las votaciones en comisión no se publican en datos abiertos.
+- Un expediente «solo Consejo» aparece cuando un documento público de agricultura o pesca del Consejo cita su
+  número; muchos documentos de trabajo son de difusión limitada y no se pueden leer.
+- No cubre los actos de ejecución de la Comisión (comitología), las consultas previas a la propuesta
+  (*Have your say*) ni los expedientes anteriores a `since_year`.
 
 ## Estructura
 
