@@ -189,7 +189,6 @@
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-04-29_EN.html",
   "refs": [
-   "2025/0207(COD)",
    "2025/0531(COD)"
   ]
  },
@@ -348,9 +347,7 @@
   "body": "Pleno del PE (Estrasburgo)",
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-09-14_EN.html",
-  "refs": [
-   "2026/0085(COD)"
-  ]
+  "refs": []
  },
  {
   "id": "ep-plenary-2026-09-15",
@@ -362,7 +359,6 @@
   "refs": [
    "2024/0098(COD)",
    "2025/0106(COD)",
-   "2026/0085(COD)",
    "2026/0189(COD)"
   ]
  },
@@ -402,9 +398,7 @@
   "body": "Pleno del PE (Estrasburgo)",
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-06_EN.html",
-  "refs": [
-   "2025/0393(COD)"
-  ]
+  "refs": []
  },
  {
   "id": "ep-plenary-2026-10-07",
@@ -434,8 +428,6 @@
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-19_EN.html",
   "refs": [
-   "2025/0395(COD)",
-   "2025/0396(COD)",
    "2026/2027(INI)"
   ]
  },
@@ -447,9 +439,6 @@
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-20_EN.html",
   "refs": [
-   "2025/0395(COD)",
-   "2025/0396(COD)",
-   "2026/0325(COD)",
    "2026/2027(INI)",
    "2026/2819(DEA)"
   ]
@@ -472,7 +461,6 @@
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-22_EN.html",
   "refs": [
    "2025/0531(COD)",
-   "2026/0325(COD)",
    "2026/2054(INI)"
   ]
  },
@@ -495,7 +483,6 @@
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_EN.html",
   "refs": [
-   "2025/0207(COD)",
    "2025/0223(COD)",
    "2025/2089(INI)",
    "2026/0044(COD)"
@@ -518,9 +505,7 @@
   "title": "Sesión plenaria",
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-24_EN.html",
   "refs": [
-   "2025/0391(COD)",
    "2025/0417(COD)",
-   "2026/0085(COD)",
    "2026/2074(INI)"
   ]
  },
@@ -533,8 +518,7 @@
   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
   "refs": [
    "2025/0162(NLE)",
-   "2025/0227(COD)",
-   "2025/0405(COD)"
+   "2025/0227(COD)"
   ]
  },
  {
