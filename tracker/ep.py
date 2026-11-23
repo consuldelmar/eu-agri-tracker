@@ -327,7 +327,7 @@ def normalize(raw: Any, ctx: dict) -> dict | None:
         point = s.get("notation_agendaPoint") or ""
         scheduled.append({"id": f"ep-pl-{tail(s.get('id'))}", "date": date, "source": "ep",
                           "body": "Pleno del PE", "title": f"{what}" + (f" (punto {point})" if point else ""),
-                          "url": f"{DOCEO}/OJQ-10-{date}_EN.html", "refs": [ref]})
+                          "url": f"{DOCEO}/OJQ-{9 if date < '2024-07-16' else 10}-{date}_ES.html", "refs": [ref]})
 
     committee_list = [{"code": c, "role": r} for c, r in committees.items()]
     order = {"lead": 0, "joint": 1, "associated": 2, "opinion": 3, "budget": 4, "other": 5}
@@ -430,7 +430,7 @@ def plenary_sittings(http: Http) -> list[dict]:
             city = {"FRA_SXB": "Estrasburgo", "BEL_BRU": "Bruselas"}.get(place, "")
             out.append({"id": f"ep-plenary-{date}", "date": date, "source": "ep",
                         "body": "Pleno del PE" + (f" ({city})" if city else ""), "title": "Sesión plenaria",
-                        "url": f"{DOCEO}/OJQ-10-{date}_EN.html", "refs": []})
+                        "url": f"{DOCEO}/OJQ-10-{date}_ES.html", "refs": []})
     return out
 
 

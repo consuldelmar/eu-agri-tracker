@@ -5,20 +5,26 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>EU Agri Tracker</title>
 <meta name="description" content="Seguimiento de expedientes legislativos de la UE en agricultura, pesca y desarrollo regional">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232f6b4f'/%3E%3Cpath d='M16 7c-4 4-5 9-2 15M16 7c4 4 5 9 2 15M10 14c3 0 5 2 6 5M22 14c-3 0-5 2-6 5' stroke='%23fff' stroke-width='2' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='9' fill='%23173d2e'/%3E%3Cpath d='M6 29a14 14 0 0 1 28 0' fill='none' stroke='%23e0b04a' stroke-width='3.6' stroke-linecap='round'/%3E%3Cpath d='M11.5 29a8.5 8.5 0 0 1 17 0' fill='none' stroke='%236cc0dc' stroke-width='3.6' stroke-linecap='round'/%3E%3Cpath d='M17 29a3 3 0 0 1 6 0' fill='none' stroke='%23d58bb7' stroke-width='3.6' stroke-linecap='round'/%3E%3Cpath d='M6 34h28' stroke='%23fff' stroke-width='2.4' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header class="top">
   <div class="wrap top-inner">
     <a class="brand" href="#/">
-      <span class="brand-mark" aria-hidden="true"></span>
-      <span class="brand-text">EU Agri Tracker<small>AGRI · PECH · REGI</small></span>
+      <svg class="brand-mark" viewBox="0 0 40 40" aria-hidden="true">
+        <path d="M5 30a15 15 0 0 1 30 0" fill="none" stroke="var(--c-agri-hi)" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="3.4 2.3"/>
+        <path d="M10.5 30a9.5 9.5 0 0 1 19 0" fill="none" stroke="var(--c-pech-hi)" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="3.4 2.3"/>
+        <path d="M16 30a4 4 0 0 1 8 0" fill="none" stroke="var(--c-regi-hi)" stroke-width="3.2" stroke-linecap="round"/>
+        <path d="M4 35h32" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+      </svg>
+      <span class="brand-text">EU Agri Tracker<small><span class="k-agri">AGRI</span> <span class="k-pech">PECH</span> <span class="k-regi">REGI</span></small></span>
     </a>
     <nav class="nav" aria-label="Secciones">
       <a href="#/" data-route="home">Inicio</a>
       <a href="#/expedientes" data-route="files">Expedientes</a>
       <a href="#/tablero" data-route="board">Tablero</a>
+      <a href="#/pleno" data-route="plenary">Pleno</a>
       <a href="#/calendario" data-route="calendar">Calendario</a>
       <a href="#/cambios" data-route="changes">Cambios</a>
     </nav>

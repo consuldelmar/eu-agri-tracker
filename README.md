@@ -32,6 +32,11 @@ Puedes lanzarlo a mano en **Actions → Update tracker → Run workflow**.
   cuál es la actual, qué viene después y la próxima fecha anunciada. Las etapas del Consejo se deducen de sus
   documentos (mandatos, orientaciones generales, textos de compromiso), así que alguna puede aparecer con retraso.
 - **Tablero**: los expedientes legislativos en curso, en la columna de la etapa en la que están.
+- **Pleno**: cada sesión plenaria desde julio de 2024 (y las ya convocadas), día a día, con horarios, debates y
+  votaciones, su resultado (a favor–en contra–abstenciones) y los puntos de AGRI, PECH, REGI, de los expedientes
+  del tracker y de sus temas marcados en color. Se abre en la sesión en curso o la próxima. Antes de diciembre
+  de 2024 el Parlamento no publica el orden del día en datos abiertos: para esas sesiones salen los debates del
+  acta y las votaciones.
 - **Etiquetas** (PAC, MFF 2028-2034, Pesca…) para filtrar y buscar; se definen en `config.yml`.
 - **Cambios** con tres niveles: importante, normal y trámite menor.
 

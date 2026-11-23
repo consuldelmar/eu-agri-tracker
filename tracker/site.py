@@ -6,6 +6,7 @@ import json
 import os
 import shutil
 
+from . import plenary
 from .common import ROOT, days_ago, now_iso, today
 
 OUT = os.path.join(ROOT, "_site")
@@ -42,7 +43,8 @@ def _progress_summary(p: dict) -> dict:
             "cur": p.get("current"), "cl": p.get("current_label", ""), "nl": p.get("next_label", "")}
 
 
-def build(records: dict, calendar: list, changes_log: list, council: dict, cfg: dict, status: dict) -> None:
+def build(records: dict, calendar: list, changes_log: list, council: dict, cfg: dict, status: dict,
+          plenary_days: dict | None = None) -> None:
     if os.path.exists(OUT):
         shutil.rmtree(OUT)
     shutil.copytree(os.path.join(ROOT, "site"), OUT)
@@ -60,7 +62,9 @@ def build(records: dict, calendar: list, changes_log: list, council: dict, cfg: 
     cutoff = days_ago(120)
     _write("calendar.json", sorted((e for e in calendar if (e.get("date") or "") >= cutoff),
                                    key=lambda e: (e["date"], e.get("body", ""))))
-    recent = [c for c in changes_log if (c.get("seen") or c.get("date") or "") >= days_ago(90)]
+    refs = {r["ref"] for r in records.values()}
+    recent = [c for c in changes_log if (c.get("seen") or c.get("date") or "") >= days_ago(90)
+              and (not c.get("ref") or c["ref"] in refs)]     # not files the tracker has since dropped
     _write("changes.json", recent)
 
     people: dict[str, dict] = {}
@@ -71,6 +75,10 @@ def build(records: dict, calendar: list, changes_log: list, council: dict, cfg: 
                                             "country": p.get("country"), "files": []})
             entry["files"].append({"ref": rec["ref"], "role": p.get("role"), "committee": p.get("committee")})
     _write("people.json", people)
+    index, full = plenary.sessions(plenary_days or {}, records, cfg)
+    _write("plenary/index.json", index)
+    for sid, sess in full.items():
+        _write(f"plenary/{sid}.json", sess)
     _write("council.json", {
         "docs": sorted((d for d in council.get("docs", {}).values() if d.get("refs")),
                        key=lambda d: d.get("date") or "", reverse=True)[:300],

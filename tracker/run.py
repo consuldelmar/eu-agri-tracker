@@ -12,7 +12,7 @@ import traceback
 from . import changes as changes_mod
 from . import council as council_mod
 from . import ep as ep_mod
-from . import notify, progress, site
+from . import notify, plenary, progress, site
 from .common import (Http, days_ago, links_for, load, load_config, log, log_lines, now_iso, path, save,
                      today)
 
@@ -83,6 +83,15 @@ def main() -> int:
         records = {k: dict(v) for k, v in old.items()}
         ep_calendar = load("ep_calendar.json", [])
         status["parliament"] = {"error": str(exc)[:300]}
+
+    # 1b. Plenary sessions (agenda, debates, votes and results)
+    log("Plenary…")
+    plenary_state = load("plenary_days.json", {})
+    try:
+        status["plenary"] = plenary.collect(cfg, http, plenary_state)
+    except Exception as exc:  # noqa: BLE001
+        traceback.print_exc()
+        problems.append(f"Plenary: {type(exc).__name__}: {exc}")
 
     # 2. Council
     log("Council…")
@@ -207,11 +216,12 @@ def main() -> int:
                                                               council_state.get("numbers_checked", {}))})
     save("council_calendar.json", council["calendar"])
     save("notify_state.json", notify_state)
+    save("plenary_days.json", plenary_state)
     save("changes.json", changes_log)
     status.update({"finished": now_iso(), "requests": http.count, "request_errors": http.errors,
                    "files": len(records), "problems": problems})
     save("status.json", status)
-    site.build(records, calendar, changes_log, council, cfg, status)
+    site.build(records, calendar, changes_log, council, cfg, status, plenary_state.get("days", {}))
 
     # Run report on the GitHub run page
     summary_path = os.getenv("GITHUB_STEP_SUMMARY")

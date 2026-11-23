@@ -16,10 +16,12 @@ const KIND = {
   event: ["🗓️", "Nuevo paso"], doc: ["📄", "Nuevo documento"], people: ["👤", "Ponentes"],
   scheduled: ["⏭️", "Previsto"], council_doc: ["🏛️", "Documento del Consejo"],
 };
+const COMM = { AGRI: "Agricultura", PECH: "Pesca", REGI: "Desarrollo regional" };
 const MONTHS = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"];
 const WEEKDAYS = ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"];
 
-const store = { meta: null, index: null, calendar: null, changes: null, people: null, council: null, files: {} };
+const store = { meta: null, index: null, calendar: null, changes: null, people: null, council: null, files: {},
+  plenary: null, sessions: {} };
 const app = document.getElementById("app");
 
 /* ---------- helpers ---------- */
@@ -81,7 +83,7 @@ function followUrl(f) {
 function committeesText(f) {
   if (f.council_only) return `<span class="pill lilac" title="Expediente conocido solo por documentos del Consejo">solo Consejo</span>`;
   return (f.committees || []).map((c) =>
-    `<span class="pill ${c.role === "opinion" ? "lilac" : ""}" title="${esc(ROLE[c.role] || c.role)}">${esc(c.code)}${c.role !== "lead" ? " · " + esc(ROLE[c.role] || c.role) : ""}</span>`).join(" ");
+    `<span class="pill ${COMM[c.code] ? "c-" + c.code : "grey"} ${c.role !== "lead" ? "op" : ""}" title="${esc(ROLE[c.role] || c.role)}">${esc(c.code)}${c.role !== "lead" ? " · " + esc(ROLE[c.role] || c.role) : ""}</span>`).join(" ");
 }
 function statusPill(f) {
   return f.ongoing === false ? `<span class="pill done">concluido</span>` : `<span class="pill">en curso</span>`;
@@ -165,6 +167,21 @@ async function viewHome() {
       <a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title)}</a></li>`).join("")}</ul>`
     : `<p class="empty">Sin notas de prensa recientes sobre estos temas.</p>`;
 
+  let plenHtml = "";
+  const pidx = await plenaryIndex();
+  if (pidx.length) {
+    const ps = currentSession(pidx);
+    const pdata = await plenarySession(ps.id);
+    const mine = [];
+    pdata.days.forEach((d) => d.items.forEach((it) => { if (it.ours) mine.push([d.date, it]); }));
+    const when = ps.end < t ? "Última sesión" : ps.start > t ? "Próxima sesión" : "Sesión en curso";
+    plenHtml = `<section class="card home-plen"><h2>Pleno <a href="#/pleno/${esc(ps.id)}?ours=1">ver la sesión</a></h2>
+      <p class="item-sub">${when}: ${esc(fmtRange(ps.start, ps.end))}${ps.place ? ", " + esc(ps.place) : ""}.
+        ${mine.length ? `${mine.length} punto(s) de AGRI, PECH, REGI o temas relacionados:` : "Ningún punto de AGRI, PECH o REGI en el orden del día publicado."}</p>
+      ${mine.slice(0, 8).map(([d, it]) => `<div class="item-sub" style="margin-top:6px"><span class="date">${esc(fmtDay(d).split(" ")[0])} ${it.time ? esc(it.time) : ""}</span></div>${plenItem(it)}`).join("")}
+      ${mine.length > 8 ? `<p class="item-sub"><a href="#/pleno/${esc(ps.id)}?ours=1">y ${mine.length - 8} más</a></p>` : ""}</section>`;
+  }
+
   app.innerHTML = `
     <h1>Legislación de la UE en agricultura, pesca y desarrollo regional</h1>
     <p class="lede">Expedientes en los que intervienen las comisiones ${esc((store.meta.committees || []).join(", "))} del Parlamento Europeo, con sus pasos en el Consejo. Se actualiza solo cada día.</p>
@@ -177,6 +194,7 @@ async function viewHome() {
     <div class="grid grid-3">
       <section class="card"><h2>Novedades de la semana <a href="#/cambios">todas</a></h2>${recentHtml}</section>
       <div class="grid">
+        ${plenHtml}
         <section class="card"><h2>Expedientes que sigues</h2>${followedHtml}</section>
         <section class="card"><h2>Próximas tres semanas <a href="#/calendario">calendario</a></h2>${upcomingHtml}</section>
         <section class="card"><h2>Consejo: notas de prensa</h2>${pressHtml}</section>
@@ -602,15 +620,159 @@ async function viewBoard() {
   apply();
 }
 
+/* ---------- plenary ---------- */
+async function plenaryIndex() {
+  if (store.plenary === null) {
+    try { store.plenary = await getJSON("data/plenary/index.json"); } catch (e) { store.plenary = []; }
+  }
+  return store.plenary;
+}
+async function plenarySession(id) {
+  if (!store.sessions[id]) store.sessions[id] = await getJSON(`data/plenary/${id}.json`);
+  return store.sessions[id];
+}
+function fmtRange(a, b) {
+  const [ya, ma, da] = a.split("-").map(Number), [yb, mb, db] = b.split("-").map(Number);
+  if (a === b) return fmtDate(a);
+  if (ya === yb && ma === mb) return `${da}–${db} ${MONTHS[mb - 1]} ${yb}`;
+  if (ya === yb) return `${da} ${MONTHS[ma - 1]} – ${db} ${MONTHS[mb - 1]} ${yb}`;
+  return `${fmtDate(a)} – ${fmtDate(b)}`;
+}
+function currentSession(index) {
+  const t = todayStr();
+  return index.find((s) => s.start <= t && t <= s.end) || index.find((s) => s.start > t) || index[index.length - 1];
+}
+const OUTCOME = { ADOPTED: ["aprobado", "ok"], REJECTED: ["rechazado", "no"], LAPSED: ["decaído", "other"],
+  WITHDRAWN: ["retirado", "other"] };
+function resultBadge(r) {
+  if (!r) return "";
+  const [label, cls] = OUTCOME[r.outcome] || [r.outcome.toLowerCase(), "other"];
+  const n = r.for != null ? `<span class="n" title="a favor, en contra, abstenciones">${r.for}–${r.against ?? 0}–${r.abst ?? 0}</span>` : "";
+  return `<span class="res ${cls}">${esc(label)}${n}</span>`;
+}
+function ourPills(it) {
+  return (it.ours || []).map((c) => COMM[c] ? `<span class="pill c-${c}" title="${esc(COMM[c])}">${esc(c)}</span>`
+    : c === "seguido" ? `<span class="pill c-topic">expediente del tracker</span>`
+    : `<span class="pill c-topic">${esc(c === "tema" ? "tema relacionado" : c)}</span>`).join("");
+}
+function plenItem(it) {
+  const ours = it.ours || [];
+  const first = ours.find((c) => COMM[c]);
+  const cls = ours.length ? `pi ours c-${first || "topic"}` : "pi";
+  const ref = (it.refs || [])[0] || "";
+  const href = it.file ? fileLink(it.file)
+    : ref ? `https://oeil.europarl.europa.eu/oeil/es/procedure-file?reference=${encodeURIComponent(ref)}` : "";
+  const ext = href && !it.file ? ` target="_blank" rel="noopener"` : "";
+  const title = href ? `<a class="pi-t" href="${esc(href)}"${ext}>${esc(it.title)}</a>` : `<span class="pi-t">${esc(it.title)}</span>`;
+  const who = (it.people || []).slice(0, 3).join(", ");
+  const sub = [it.type && esc(it.type), ref && `<span class="ref">${esc(ref)}</span>`, esc((it.docs || []).slice(0, 2).join(", ")),
+    who && `ponente: ${esc(who)}`, it.detail && !it.type ? esc(it.detail) : ""].filter(Boolean);
+  const others = (it.orgs || []).filter((o) => !ours.includes(o));
+  return `<div class="${cls}">${title}
+    ${sub.length ? `<div class="pi-s">${sub.join(" · ")}</div>` : ""}
+    <div class="pi-k">${it.kind === "vote" ? resultBadge(it.result) : ""}${ourPills(it)}
+      ${others.length ? `<span class="item-sub">${esc(others.join(", "))}</span>` : ""}</div></div>`;
+}
+function plenDay(d, state) {
+  const t = todayStr();
+  let items = d.items.filter((it) => state.kind === "all" || it.kind === state.kind ||
+    (state.kind === "debate" && it.kind === "other"));
+  if (state.ours) items = items.filter((it) => it.ours);
+  const slots = [];
+  items.forEach((it) => {
+    const key = `${it.time}|${it.slot}|${it.kind === "vote" ? "v" : "d"}`;
+    const last = slots[slots.length - 1];
+    if (last && last.key === key) last.items.push(it); else slots.push({ key, time: it.time, end: it.end, slot: it.slot, kind: it.kind, items: [it] });
+  });
+  const slotLabel = (s) => s.slot || (s.kind === "vote" ? "Votaciones" : s.kind === "debate" ? "Debate" : "");
+  return `<section class="pday ${d.date === t ? "is-today" : ""}" ${d.date === t ? 'id="today"' : ""}>
+    <div class="pday-h"><h2>${esc(fmtDay(d.date).replace(/ \d{4}$/, ""))}${d.date === t ? '<span class="today">hoy</span>' : ""}</h2>
+      <span class="links-sm"><a href="${esc(d.agenda)}" target="_blank" rel="noopener">orden del día</a>
+      ${d.date < t ? ` · <a href="${esc(d.minutes)}" target="_blank" rel="noopener">acta</a>` : ""}</span></div>
+    ${slots.length ? slots.map((s) => `<div class="slot">
+      ${s.time || s.slot ? `<div class="slot-h">${s.time ? `<time>${esc(s.time)}${s.end ? "–" + esc(s.end) : ""}</time>` : ""}
+        <span class="${s.kind === "vote" ? "vote" : ""}">${esc(slotLabel(s))}</span></div>` : ""}
+      ${s.items.map(plenItem).join("")}</div>`).join("")
+      : `<p class="empty">${state.ours ? "Nada de AGRI, PECH o REGI este día." : "Sin puntos con estos filtros."}</p>`}
+  </section>`;
+}
+async function viewPlenary(sid) {
+  await need("meta", "index");
+  const index = await plenaryIndex();
+  if (!index.length) {
+    app.innerHTML = `<h1>Pleno</h1><p class="empty">Los datos del Pleno aparecerán después de la próxima actualización.</p>`;
+    return;
+  }
+  const { params } = parseHash();
+  const cur = currentSession(index);
+  const sess = index.find((s) => s.id === sid) || cur;
+  const pos = index.indexOf(sess);
+  const data = await plenarySession(sess.id);
+  const state = { kind: params.get("k") || "all", ours: params.get("ours") === "1" };
+  const years = [...new Set(index.map((s) => s.start.slice(0, 4)))].reverse();
+  const options = years.map((y) => `<optgroup label="${y}">${index.filter((s) => s.start.startsWith(y)).reverse().map((s) =>
+    `<option value="${esc(s.id)}" ${s.id === sess.id ? "selected" : ""}>${esc(fmtRange(s.start, s.end))}${s.place ? ", " + esc(s.place) : ""}${s.ours ? ` (${s.ours} de los nuestros)` : ""}${s.id === cur.id ? " ← ahora" : ""}</option>`).join("")}</optgroup>`).join("");
+  const nItems = data.days.reduce((n, d) => n + d.items.length, 0);
+  const nVotes = data.days.reduce((n, d) => n + d.items.filter((i) => i.kind === "vote").length, 0);
+  const comm = {};
+  data.days.forEach((d) => d.items.forEach((i) => (i.ours || []).forEach((c) => { if (COMM[c]) comm[c] = (comm[c] || 0) + 1; })));
+  const ours = data.days.reduce((n, d) => n + d.items.filter((i) => i.ours).length, 0);
+  const old = data.days.some((d) => d.source === "minutes");
+  const when = sess.end < todayStr() ? "pasada" : sess.start > todayStr() ? "prevista" : "en curso";
+  app.innerHTML = `
+    <div class="plen-head">
+      <h1>Pleno del Parlamento Europeo<small>Sesión ${when}: ${esc(fmtRange(sess.start, sess.end))}${sess.place ? ", " + esc(sess.place) : ""}</small></h1>
+      <div class="plen-nav">
+        <button class="iconbtn" id="p-prev" ${pos <= 0 ? "disabled" : ""} aria-label="Sesión anterior">‹ Anterior</button>
+        <select id="p-sel" aria-label="Elegir sesión">${options}</select>
+        <button class="iconbtn" id="p-next" ${pos >= index.length - 1 ? "disabled" : ""} aria-label="Sesión siguiente">Siguiente ›</button>
+        ${sess.id !== cur.id ? `<button class="iconbtn" id="p-now">Sesión actual</button>` : ""}
+      </div>
+    </div>
+    <div class="filters">
+      <div class="seg-ctl" role="group" aria-label="Qué mostrar">
+        <button data-k="all" aria-pressed="${state.kind === "all"}">Todo</button>
+        <button data-k="vote" aria-pressed="${state.kind === "vote"}">Votaciones</button>
+        <button data-k="debate" aria-pressed="${state.kind === "debate"}">Debates</button>
+      </div>
+      <label><input type="checkbox" id="p-ours" ${state.ours ? "checked" : ""}> solo AGRI, PECH, REGI y temas relacionados</label>
+    </div>
+    <p class="plen-sum">${data.days.length} día(s), ${nItems} puntos, ${nVotes} votaciones.
+      <b>${ours} de interés</b>${Object.keys(comm).length ? `:<span class="k">${Object.entries(comm).map(([c, n]) =>
+        `<span class="pill c-${c}">${c} ${n}</span>`).join("")}</span>` : ""}</p>
+    <div class="plen-days" id="p-days"></div>
+    <p class="plen-note">${old ? "De las sesiones anteriores a diciembre de 2024 el Parlamento no publica el orden del día en datos abiertos: se muestran los debates que recoge el acta y las votaciones con su resultado. " : ""}
+      Resultado: a favor–en contra–abstenciones de la votación final (sin cifras si se votó a mano alzada).
+      Se marcan los puntos de las comisiones AGRI, PECH y REGI (como responsables o con opinión), los expedientes del tracker y los que tratan de sus temas (PAC, pesca, cohesión, MFF…).</p>`;
+  const render = () => {
+    document.getElementById("p-days").innerHTML = data.days.map((d) => plenDay(d, state)).join("");
+    document.querySelectorAll(".seg-ctl button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.k === state.kind)));
+    const p = new URLSearchParams();
+    if (state.kind !== "all") p.set("k", state.kind);
+    if (state.ours) p.set("ours", "1");
+    setQuery(p);
+  };
+  const go = (id) => { location.hash = `#/pleno/${encodeURIComponent(id)}${location.hash.includes("?") ? "?" + location.hash.split("?")[1] : ""}`; };
+  document.getElementById("p-sel").addEventListener("change", (e) => go(e.target.value));
+  document.getElementById("p-prev").addEventListener("click", () => go(index[pos - 1].id));
+  document.getElementById("p-next").addEventListener("click", () => go(index[pos + 1].id));
+  const now = document.getElementById("p-now");
+  if (now) now.addEventListener("click", () => go(cur.id));
+  document.querySelectorAll(".seg-ctl button").forEach((b) => b.addEventListener("click", () => { state.kind = b.dataset.k; render(); }));
+  document.getElementById("p-ours").addEventListener("change", (e) => { state.ours = e.target.checked; render(); });
+  render();
+}
+
 /* ---------- router ---------- */
 async function route() {
   const { parts } = parseHash();
   const r = parts[0] || "";
-  const navKey = { "": "home", expedientes: "files", expediente: "files", tablero: "board", calendario: "calendar", cambios: "changes", persona: "files" }[r] || "home";
+  const navKey = { "": "home", expedientes: "files", expediente: "files", tablero: "board", pleno: "plenary", calendario: "calendar", cambios: "changes", persona: "files" }[r] || "home";
   document.querySelectorAll(".nav a").forEach((a) => a.classList.toggle("active", a.dataset.route === navKey));
   try {
     if (r === "expedientes") await viewFiles();
     else if (r === "expediente" && parts[1]) await viewFile(parts[1]);
+    else if (r === "pleno") await viewPlenary(parts[1]);
     else if (r === "calendario") await viewCalendar();
     else if (r === "cambios") await viewChanges();
     else if (r === "tablero") await viewBoard();
