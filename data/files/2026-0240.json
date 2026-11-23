@@ -8,18 +8,18 @@
  "ongoing": true,
  "committees": [],
  "people": [],
- "started": "2026-10-26",
+ "started": "2026-08-24",
  "last_activity": "2026-11-20",
  "events": [
   {
-   "date": "2026-10-26",
+   "date": "2026-08-24",
    "type": "COUNCIL_FIRST_DOCUMENT",
    "title": "Primer documento en el Consejo",
    "docs": [
     {
-     "id": "ST 14874/26 COR 1",
-     "title": "ST 14874/26 COR 1",
-     "url": "https://data.consilium.europa.eu/doc/document/ST-14874-2026-COR-1/en/pdf"
+     "id": "ST 12522/26",
+     "title": "ST 12522/26",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-12522-2026-INIT/en/pdf"
     }
    ]
   },
@@ -47,9 +47,78 @@
  "scope": [
   "Citado en documentos de agricultura y pesca del Consejo (sin expediente en el Parlamento)"
  ],
- "agenda": [],
+ "agenda": [
+  {
+   "id": "council-agenda-CM-4153-2026-REV-1",
+   "date": "2026-09-24",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Orden del día (CM 4153/26 REV 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4153-2026-REV-1/en/pdf",
+   "source": "council"
+  },
+  {
+   "id": "council-agenda-ST-14592-2026-REV-1",
+   "date": "2026-10-21",
+   "body": "Coreper I",
+   "title": "Orden del día (ST 14592/26 REV 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14592-2026-REV-1/en/pdf",
+   "source": "council"
+  },
+  {
+   "id": "council-agenda-ST-14448-2026-INIT",
+   "date": "2026-10-26",
+   "body": "Consejo",
+   "title": "Orden del día (ST 14448/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14448-2026-INIT/en/pdf",
+   "source": "council"
+  }
+ ],
  "scheduled": [],
  "council_docs": [
+  {
+   "id": "ST-12522-2026-INIT",
+   "code": "ST 12522/26",
+   "date": "2026-08-24",
+   "title": "Proposal for a COUNCIL REGULATION fixing the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea for 2027 and amending Regulation (EU) 2026/249 as regards certain fishing opportunities in other waters",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-12522-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "CM-4153-2026-REV-1",
+   "code": "CM 4153/26 REV 1",
+   "date": "2026-09-23",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4153-2026-REV-1/en/pdf",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": "2026-09-24"
+  },
+  {
+   "id": "ST-14592-2026-REV-1",
+   "code": "ST 14592/26 REV 1",
+   "date": "2026-10-20",
+   "title": "PERMANENT REPRESENTATIVES COMMITTEE (Part 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14592-2026-REV-1/en/pdf",
+   "kind": "agenda",
+   "body": "Coreper I",
+   "step": "Mandato de negociación con el PE",
+   "meeting_date": "2026-10-21"
+  },
+  {
+   "id": "ST-14448-2026-INIT",
+   "code": "ST 14448/26",
+   "date": "2026-10-23",
+   "title": "COUNCIL OF THE EUROPEAN UNION (Agriculture and Fisheries)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14448-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Consejo",
+   "step": "Orientación general o mandato parcial",
+   "meeting_date": "2026-10-26"
+  },
   {
    "id": "ST-14874-2026-COR-1",
    "code": "ST 14874/26 COR 1",
@@ -91,8 +160,8 @@
     "key": "proposal",
     "label": "Propuesta de la Comisión",
     "state": "done",
-    "date": "2026-10-26",
-    "detail": "en el Consejo (ST 14874/26 COR 1)"
+    "date": "2026-08-24",
+    "detail": "en el Consejo (ST 12522/26)"
    },
    {
     "key": "council_wp",

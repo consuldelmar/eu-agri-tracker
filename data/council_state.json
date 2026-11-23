@@ -393,6 +393,7 @@
    "date": "2026-11-12",
    "step": "Informe de situación",
    "refs": [
+    "2026/0269(NLE)",
     "2026/0349(NLE)"
    ],
    "read": true,
@@ -442,6 +443,7 @@
    "date": "2026-11-10",
    "step": "Informe de situación",
    "refs": [
+    "2026/0269(NLE)",
     "2026/0349(NLE)"
    ],
    "read": true,
@@ -489,6 +491,7 @@
    "date": "2026-11-09",
    "step": "Informe de situación",
    "refs": [
+    "2026/0269(NLE)",
     "2026/0349(NLE)"
    ],
    "read": true,
@@ -536,6 +539,7 @@
    "date": "2026-11-06",
    "step": "Informe de situación",
    "refs": [
+    "2026/0269(NLE)",
     "2026/0349(NLE)"
    ],
    "read": true,
@@ -723,6 +727,7 @@
    "refs": [
     "2025/0241(COD)",
     "2025/0349(COD)",
+    "2026/0240(NLE)",
     "2026/0252(NLE)"
    ],
    "read": true,
@@ -780,6 +785,7 @@
    "refs": [
     "2025/0241(COD)",
     "2025/0349(COD)",
+    "2026/0240(NLE)",
     "2026/0252(NLE)"
    ],
    "read": true,
@@ -839,6 +845,7 @@
    "refs": [
     "2025/0241(COD)",
     "2025/0349(COD)",
+    "2026/0240(NLE)",
     "2026/0252(NLE)"
    ],
    "read": true,
@@ -898,6 +905,7 @@
    "refs": [
     "2025/0241(COD)",
     "2025/0349(COD)",
+    "2026/0240(NLE)",
     "2026/0252(NLE)"
    ],
    "read": true,
@@ -1364,7 +1372,8 @@
    "date": "2026-10-23",
    "step": "Orientación general o mandato parcial",
    "refs": [
-    "2025/0241(COD)"
+    "2025/0241(COD)",
+    "2026/0240(NLE)"
    ],
    "read": true,
    "meeting_date": "2026-10-26",
@@ -2029,7 +2038,9 @@
    "url": "https://data.consilium.europa.eu/doc/document/CM-4533-2026-REV-1/en/pdf",
    "date": "2026-11-17",
    "step": "Texto final de compromiso (acuerdo con el PE)",
-   "refs": [],
+   "refs": [
+    "2026/0264(COD)"
+   ],
    "read": true,
    "meeting_date": "2026-11-17",
    "doc_numbers": [
@@ -2170,7 +2181,9 @@
    "url": "https://data.consilium.europa.eu/doc/document/CM-4533-2026-INIT/en/pdf",
    "date": "2026-11-16",
    "step": null,
-   "refs": [],
+   "refs": [
+    "2026/0264(COD)"
+   ],
    "read": true,
    "meeting_date": "2026-11-17",
    "doc_numbers": [
@@ -2764,7 +2777,9 @@
    "url": "https://data.consilium.europa.eu/doc/document/CM-4530-2026-REV-1/en/pdf",
    "date": "2026-11-05",
    "step": "Texto final de compromiso (acuerdo con el PE)",
-   "refs": [],
+   "refs": [
+    "2026/0264(COD)"
+   ],
    "read": true,
    "meeting_date": "2026-11-06",
    "doc_numbers": [
@@ -2831,7 +2846,9 @@
    "url": "https://data.consilium.europa.eu/doc/document/CM-4530-2026-INIT/en/pdf",
    "date": "2026-11-04",
    "step": "Texto final de compromiso (acuerdo con el PE)",
-   "refs": [],
+   "refs": [
+    "2026/0264(COD)"
+   ],
    "read": true,
    "meeting_date": "2026-11-06",
    "doc_numbers": [
@@ -5715,7 +5732,10 @@
    "refs": [
     "2025/0410(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0410(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EC) No 999/2001, (EC) No 1829/2003, (EC) No 1831/2003, (EC) No 852/2004, (EC) No 853/2004, (EC) No 396/2005, (EC) No 1099/2009, (EC) No 1107/2009, (EU) No 528/2012, (EU) 2017/625 as regards the simplification and strengthening of food and feed safety requirements"
+   }
   },
   "ST-13633-2026-INIT": {
    "id": "ST-13633-2026-INIT",
@@ -5746,7 +5766,8 @@
    "refs": [
     "2025/0406(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-13814-2026-INIT": {
    "id": "ST-13814-2026-INIT",
@@ -5879,7 +5900,10 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0241(COD)": "Regulation establishing the conditions for the implementation of Union support under the CAP"
+   }
   },
   "WK-14277-2026-ADD-3": {
    "id": "WK-14277-2026-ADD-3",
@@ -5893,7 +5917,10 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0241(COD)": "Regulation establishing the conditions for the implementation of Union support under the CAP"
+   }
   },
   "WK-14277-2026-ADD-4": {
    "id": "WK-14277-2026-ADD-4",
@@ -5954,6 +5981,7 @@
    "date": "2026-11-20",
    "step": "Informe de situación",
    "refs": [
+    "2026/0269(NLE)",
     "2026/0349(NLE)"
    ],
    "read": true,
@@ -6063,7 +6091,8 @@
    "refs": [
     "2025/0543(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-13962-2026-ADD-1": {
    "id": "ST-13962-2026-ADD-1",
@@ -6104,7 +6133,8 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-14277-2026-ADD-1": {
    "id": "WK-14277-2026-ADD-1",
@@ -6130,7 +6160,8 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-14949-2026-INIT": {
    "id": "WK-14949-2026-INIT",
@@ -6144,7 +6175,8 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-11714-2022-ADD-1": {
    "id": "WK-11714-2022-ADD-1",
@@ -6194,7 +6226,8 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-13033-2026-INIT": {
    "id": "ST-13033-2026-INIT",
@@ -6454,7 +6487,8 @@
    "refs": [
     "2023/0131(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-13690-2026-INIT": {
    "id": "ST-13690-2026-INIT",
@@ -6485,7 +6519,10 @@
    "refs": [
     "2025/0106(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0106(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2017/2107 laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), Regulation (EU) 2018/975 laying down management, conservation and control measures applicable in the South Pacific Regional Fisheries Ma"
+   }
   },
   "ST-12926-2026-INIT": {
    "id": "ST-12926-2026-INIT",
@@ -6573,7 +6610,10 @@
    "refs": [
     "2024/0098(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2024/0098(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2023/2124 on certain provisions for fishing in the General Fisheries Commission for the Mediterranean (GFCM) Agreement area"
+   }
   },
   "ST-13729-2026-INIT": {
    "id": "ST-13729-2026-INIT",
@@ -6587,7 +6627,10 @@
    "refs": [
     "2025/0235(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0235(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing the conditions for the implementation of the Union support to the Common Fisheries Policy, to the European Ocean Pact and of the Union’s maritime and aquaculture policy as part of the National and Regional Partnership Fund set out in Regulation (EU) [...] [NRP Fund] for the period from 2028 to 2034"
+   }
   },
   "ST-13785-2026-INIT": {
    "id": "ST-13785-2026-INIT",
@@ -6601,7 +6644,10 @@
    "refs": [
     "2025/0410(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0410(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EC) No 999/2001, (EC) No 1829/2003, (EC) No 1831/2003, (EC) No 852/2004, (EC) No 853/2004, (EC) No 396/2005, (EC) No 1099/2009, (EC) No 1107/2009, (EU) No 528/2012, (EU) 2017/625 as regards the simplification and strengthening of food and feed safety requirements"
+   }
   },
   "ST-13768-2026-INIT": {
    "id": "ST-13768-2026-INIT",
@@ -6615,7 +6661,8 @@
    "refs": [
     "2023/0131(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-13702-2026-INIT": {
    "id": "ST-13702-2026-INIT",
@@ -6629,7 +6676,10 @@
    "refs": [
     "2026/0229(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0229(COD)": "Regulation of the European Parliament and of the Council on the Farm Sustainability Data Network (codification) (COM(2026)0413 – 2026/0229(COD))"
+   }
   },
   "ST-7105-2026-REV-2": {
    "id": "ST-7105-2026-REV-2",
@@ -6643,7 +6693,8 @@
    "refs": [
     "2023/0131(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "CM-4320-2026-REV-1": {
    "id": "CM-4320-2026-REV-1",
@@ -6669,7 +6720,8 @@
    "refs": [
     "2026/0290(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-13675-2026-INIT": {
    "id": "ST-13675-2026-INIT",
@@ -6683,7 +6735,10 @@
    "refs": [
     "2026/0290(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0290(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down management, conservation and control measures applicable in the Convention area of the North Pacific Fisheries Commission"
+   }
   },
   "ST-13164-2026-INIT": {
    "id": "ST-13164-2026-INIT",
@@ -6697,7 +6752,10 @@
    "refs": [
     "2015/0275(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2015/0275(COD)": "Directive (EU) 2018/851 of the European Parliament and of the Council of 30 May 2018 amending Directive 2008/98/EC on waste (Official Journal of the European Union L 150 of 14 June 2018)"
+   }
   },
   "CM-4133-2026-INIT": {
    "id": "CM-4133-2026-INIT",
@@ -6806,7 +6864,8 @@
    "refs": [
     "2023/0131(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "CM-4319-2026-INIT": {
    "id": "CM-4319-2026-INIT",
@@ -6819,6 +6878,7 @@
    "step": "Texto de compromiso de la Presidencia",
    "refs": [
     "2026/0252(NLE)",
+    "2026/0269(NLE)",
     "2026/0290(COD)"
    ],
    "read": true,
@@ -7043,7 +7103,9 @@
    "url": "https://data.consilium.europa.eu/doc/document/CM-4153-2026-REV-1/en/pdf",
    "date": "2026-09-23",
    "step": "Texto de compromiso de la Presidencia",
-   "refs": [],
+   "refs": [
+    "2026/0240(NLE)"
+   ],
    "read": true,
    "meeting_date": "2026-09-24",
    "doc_numbers": [
@@ -7352,9 +7414,121 @@
    "step": null,
    "refs": [],
    "read": true
+  },
+  "ST-13338-2026-INIT": {
+   "id": "ST-13338-2026-INIT",
+   "code": "ST 13338/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Proposal for a COUNCIL REGULATION fixing for 2027 the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Mediterranean and Black Seas",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13338-2026-INIT/en/pdf",
+   "date": "2026-09-18",
+   "step": null,
+   "refs": [
+    "2026/0269(NLE)"
+   ],
+   "ref_titles": {
+    "2026/0269(NLE)": "COUNCIL REGULATION fixing for 2027 the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Mediterranean and Black Seas"
+   },
+   "read": true,
+   "via_agenda": true
+  },
+  "ST-16000-2026-INIT": {
+   "id": "ST-16000-2026-INIT",
+   "code": "ST 16000/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Preparation of the Council (Competitiveness (Internal Market, Industry, Research and Space)) on 3-4 December 2026 Regulation establishing a framework of measures for strengthening the Union innovation ecosystem (European Innovation Act) - Progress report",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-16000-2026-INIT/en/pdf",
+   "date": "2026-11-20",
+   "step": "Informe de situación",
+   "refs": [
+    "2026/0264(COD)"
+   ],
+   "ref_titles": {},
+   "read": true,
+   "via_agenda": true
+  },
+  "ST-12522-2026-INIT": {
+   "id": "ST-12522-2026-INIT",
+   "code": "ST 12522/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Proposal for a COUNCIL REGULATION fixing the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea for 2027 and amending Regulation (EU) 2026/249 as regards certain fishing opportunities in other waters",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-12522-2026-INIT/en/pdf",
+   "date": "2026-08-24",
+   "step": null,
+   "refs": [
+    "2026/0240(NLE)"
+   ],
+   "ref_titles": {
+    "2026/0240(NLE)": "COUNCIL REGULATION fixing the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea for 2027 and amending Regulation (EU) 2026/249 as regards certain fishing opportunities in other waters"
+   },
+   "read": true,
+   "via_agenda": true
   }
  },
  "first_run_done": true,
  "version": 2,
- "numbers_checked": {}
+ "numbers_checked": {
+  "13338/26": "2026-11-23",
+  "15365/26": "2026-11-23",
+  "15366/26": "2026-11-23",
+  "15477/26": "2026-11-23",
+  "15949/26": "2026-11-23",
+  "16072/26": "2026-11-23",
+  "16073/26": "2026-11-23",
+  "15845/26": "2026-11-23",
+  "15993/26": "2026-11-23",
+  "16011/26": "2026-11-23",
+  "14310/26": "2026-11-23",
+  "15509/26": "2026-11-23",
+  "15587/26": "2026-11-23",
+  "15660/26": "2026-11-23",
+  "15957/26": "2026-11-23",
+  "15997/26": "2026-11-23",
+  "17629/26": "2026-11-23",
+  "15138/26": "2026-11-23",
+  "15292/26": "2026-11-23",
+  "15442/26": "2026-11-23",
+  "16000/26": "2026-11-23",
+  "16806/26": "2026-11-23",
+  "16807/26": "2026-11-23",
+  "15406/26": "2026-11-23",
+  "15475/26": "2026-11-23",
+  "15103/26": "2026-11-23",
+  "16721/26": "2026-11-23",
+  "17092/26": "2026-11-23",
+  "15208/26": "2026-11-23",
+  "15476/26": "2026-11-23",
+  "15511/26": "2026-11-23",
+  "15515/26": "2026-11-23",
+  "15546/26": "2026-11-23",
+  "16896/26": "2026-11-23",
+  "15551/26": "2026-11-23",
+  "14742/26": "2026-11-23",
+  "15172/26": "2026-11-23",
+  "14959/26": "2026-11-23",
+  "14957/26": "2026-11-23",
+  "17021/26": "2026-11-23",
+  "17053/26": "2026-11-23",
+  "17054/26": "2026-11-23",
+  "15159/26": "2026-11-23",
+  "15160/26": "2026-11-23",
+  "15177/26": "2026-11-23",
+  "15207/26": "2026-11-23",
+  "16243/26": "2026-11-23",
+  "16491/26": "2026-11-23",
+  "16663/26": "2026-11-23",
+  "14585/26": "2026-11-23",
+  "12522/26": "2026-11-23",
+  "14140/26": "2026-11-23",
+  "14392/26": "2026-11-23",
+  "14655/26": "2026-11-23",
+  "14706/26": "2026-11-23",
+  "14707/26": "2026-11-23",
+  "13059/26": "2026-11-23",
+  "13789/26": "2026-11-23",
+  "13790/26": "2026-11-23"
+ }
 }

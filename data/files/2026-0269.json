@@ -1,0 +1,192 @@
+{
+ "ref": "2026/0269(NLE)",
+ "id": "2026-0269",
+ "type": "NLE",
+ "title": "COUNCIL REGULATION fixing for 2027 the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Mediterranean and Black Seas",
+ "title_en": "COUNCIL REGULATION fixing for 2027 the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Mediterranean and Black Seas",
+ "stage": "Primer documento en el Consejo",
+ "ongoing": true,
+ "committees": [],
+ "people": [],
+ "started": "2026-09-18",
+ "last_activity": "2026-11-20",
+ "events": [
+  {
+   "date": "2026-09-18",
+   "type": "COUNCIL_FIRST_DOCUMENT",
+   "title": "Primer documento en el Consejo",
+   "docs": [
+    {
+     "id": "ST 13338/26",
+     "title": "ST 13338/26",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-13338-2026-INIT/en/pdf"
+    }
+   ]
+  }
+ ],
+ "docs": [],
+ "council_only": true,
+ "links": {
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_269",
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0269(NLE)",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_269?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-0269?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "Citado en documentos de agricultura y pesca del Consejo (sin expediente en el Parlamento)"
+ ],
+ "agenda": [
+  {
+   "id": "council-agenda-CM-4319-2026-INIT",
+   "date": "2026-10-01",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Orden del día (CM 4319/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4319-2026-INIT/en/pdf",
+   "source": "council"
+  },
+  {
+   "id": "council-agenda-ST-15420-2026-REV-1",
+   "date": "2026-11-11",
+   "body": "Coreper I",
+   "title": "Orden del día (ST 15420/26 REV 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15420-2026-REV-1/en/pdf",
+   "source": "council"
+  },
+  {
+   "id": "council-agenda-ST-15697-2026-INIT",
+   "date": "2026-11-23",
+   "body": "Consejo",
+   "title": "Orden del día (ST 15697/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15697-2026-INIT/en/pdf",
+   "source": "council"
+  },
+  {
+   "id": "council-agenda-ST-15420-2026-REV-2",
+   "date": "2026-12-01",
+   "body": "Coreper I",
+   "title": "Orden del día (ST 15420/26 REV 2)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15420-2026-REV-2/en/pdf",
+   "source": "council"
+  }
+ ],
+ "scheduled": [
+  {
+   "id": "council-agenda-ST-15697-2026-INIT",
+   "date": "2026-11-23",
+   "body": "Consejo",
+   "title": "Orden del día (ST 15697/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15697-2026-INIT/en/pdf",
+   "source": "council"
+  },
+  {
+   "id": "council-agenda-ST-15420-2026-REV-2",
+   "date": "2026-12-01",
+   "body": "Coreper I",
+   "title": "Orden del día (ST 15420/26 REV 2)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15420-2026-REV-2/en/pdf",
+   "source": "council"
+  }
+ ],
+ "council_docs": [
+  {
+   "id": "ST-13338-2026-INIT",
+   "code": "ST 13338/26",
+   "date": "2026-09-18",
+   "title": "Proposal for a COUNCIL REGULATION fixing for 2027 the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Mediterranean and Black Seas",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13338-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "CM-4319-2026-INIT",
+   "code": "CM 4319/26",
+   "date": "2026-09-25",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4319-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": "2026-10-01"
+  },
+  {
+   "id": "ST-15420-2026-REV-1",
+   "code": "ST 15420/26 REV 1",
+   "date": "2026-11-10",
+   "title": "PERMANENT REPRESENTATIVES COMMITTEE (Part 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15420-2026-REV-1/en/pdf",
+   "kind": "agenda",
+   "body": "Coreper I",
+   "step": "Informe de situación",
+   "meeting_date": "2026-11-11"
+  },
+  {
+   "id": "ST-15420-2026-REV-2",
+   "code": "ST 15420/26 REV 2",
+   "date": "2026-11-12",
+   "title": "PERMANENT REPRESENTATIVES COMMITTEE (Part 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15420-2026-REV-2/en/pdf",
+   "kind": "agenda",
+   "body": "Coreper I",
+   "step": "Informe de situación",
+   "meeting_date": "2026-12-01"
+  },
+  {
+   "id": "ST-15697-2026-INIT",
+   "code": "ST 15697/26",
+   "date": "2026-11-20",
+   "title": "COUNCIL OF THE EUROPEAN UNION (Agriculture and Fisheries)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15697-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Consejo",
+   "step": "Informe de situación",
+   "meeting_date": "2026-11-23"
+  }
+ ],
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta de la Comisión",
+    "state": "done",
+    "date": "2026-09-18",
+    "detail": "en el Consejo (ST 13338/26)"
+   },
+   {
+    "key": "council_wp",
+    "label": "Grupo de trabajo del Consejo",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_agreement",
+    "label": "Acuerdo en el Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 1,
+  "total": 4,
+  "current": "council_wp",
+  "current_label": "Grupo de trabajo del Consejo",
+  "hint": "Se negocia en el grupo de trabajo del Consejo",
+  "next_label": "Acuerdo en el Consejo",
+  "next_date": {
+   "date": "2026-11-23",
+   "body": "Consejo"
+  }
+ },
+ "followed": false,
+ "follow_url": ""
+}

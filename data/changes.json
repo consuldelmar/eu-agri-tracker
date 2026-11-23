@@ -779,5 +779,27 @@
   "importance": "high",
   "seen": "2026-11-21",
   "file_id": "2026-0044"
+ },
+ {
+  "id": "3ddeef37e8cd",
+  "date": "2026-11-23",
+  "ref": "2026/0264(COD)",
+  "kind": "new",
+  "text": "Nuevo expediente en seguimiento: Ley Europea de Innovación",
+  "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0264(COD)",
+  "importance": "normal",
+  "seen": "2026-11-23",
+  "file_id": "2026-0264"
+ },
+ {
+  "id": "8ce254847e5c",
+  "date": "2026-11-23",
+  "ref": "2026/0269(NLE)",
+  "kind": "new",
+  "text": "Nuevo expediente en seguimiento: COUNCIL REGULATION fixing for 2027 the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Mediterranean and Black Seas",
+  "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0269(NLE)",
+  "importance": "normal",
+  "seen": "2026-11-23",
+  "file_id": "2026-0269"
  }
 ]

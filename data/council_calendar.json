@@ -1414,6 +1414,7 @@
   "title": "Orden del día (ST 15420/26 REV 2)",
   "url": "https://data.consilium.europa.eu/doc/document/ST-15420-2026-REV-2/en/pdf",
   "refs": [
+   "2026/0269(NLE)",
    "2026/0349(NLE)"
   ]
  },
@@ -1425,6 +1426,7 @@
   "title": "Orden del día (ST 15420/26 REV 1)",
   "url": "https://data.consilium.europa.eu/doc/document/ST-15420-2026-REV-1/en/pdf",
   "refs": [
+   "2026/0269(NLE)",
    "2026/0349(NLE)"
   ]
  },
@@ -1449,6 +1451,7 @@
   "refs": [
    "2025/0241(COD)",
    "2025/0349(COD)",
+   "2026/0240(NLE)",
    "2026/0252(NLE)"
   ]
  },
@@ -1460,7 +1463,19 @@
   "title": "Orden del día (ST 14448/26)",
   "url": "https://data.consilium.europa.eu/doc/document/ST-14448-2026-INIT/en/pdf",
   "refs": [
-   "2025/0241(COD)"
+   "2025/0241(COD)",
+   "2026/0240(NLE)"
+  ]
+ },
+ {
+  "id": "council-agenda-CM-4533-2026-REV-1",
+  "date": "2026-11-17",
+  "source": "council",
+  "body": "Grupo de trabajo: Energy are",
+  "title": "Orden del día (CM 4533/26 REV 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-4533-2026-REV-1/en/pdf",
+  "refs": [
+   "2026/0264(COD)"
   ]
  },
  {
@@ -1494,7 +1509,19 @@
   "title": "Orden del día (ST 15697/26)",
   "url": "https://data.consilium.europa.eu/doc/document/ST-15697-2026-INIT/en/pdf",
   "refs": [
+   "2026/0269(NLE)",
    "2026/0349(NLE)"
+  ]
+ },
+ {
+  "id": "council-agenda-CM-4530-2026-REV-1",
+  "date": "2026-11-06",
+  "source": "council",
+  "body": "Consejo",
+  "title": "Orden del día (CM 4530/26 REV 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-4530-2026-REV-1/en/pdf",
+  "refs": [
+   "2026/0264(COD)"
   ]
  },
  {
@@ -1606,7 +1633,19 @@
   "url": "https://data.consilium.europa.eu/doc/document/CM-4319-2026-INIT/en/pdf",
   "refs": [
    "2026/0252(NLE)",
+   "2026/0269(NLE)",
    "2026/0290(COD)"
+  ]
+ },
+ {
+  "id": "council-agenda-CM-4153-2026-REV-1",
+  "date": "2026-09-24",
+  "source": "council",
+  "body": "Grupo de trabajo: Fisheries Policy",
+  "title": "Orden del día (CM 4153/26 REV 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-4153-2026-REV-1/en/pdf",
+  "refs": [
+   "2026/0240(NLE)"
   ]
  }
 ]
