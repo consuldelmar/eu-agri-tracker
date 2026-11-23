@@ -2,8 +2,8 @@
  "ref": "2025/0234(NLE)",
  "id": "2025-0234",
  "type": "NLE",
- "title": "Expediente del Consejo 2025/0234(NLE)",
- "title_en": "Expediente del Consejo 2025/0234(NLE)",
+ "title": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities Council Regulation amending the fixing Regulation as regards the EU school scheme",
+ "title_en": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities Council Regulation amending the fixing Regulation as regards the EU school scheme",
  "stage": "Consejo: Orientación general o mandato parcial",
  "ongoing": true,
  "committees": [],
@@ -177,7 +177,9 @@
    "meeting_date": "2026-10-19"
   }
  ],
- "tags": [],
+ "tags": [
+  "PAC"
+ ],
  "progress": {
   "stages": [
    {

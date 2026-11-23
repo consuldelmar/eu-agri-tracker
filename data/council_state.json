@@ -1157,7 +1157,11 @@
     "2025/0234(NLE)",
     "2025/0237(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0234(NLE)": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities Council Regulation amending the fixing Regulation as regards the EU school scheme",
+    "2025/0237(COD)": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities Council Regulation amending the fixing Regulation as regards the EU school scheme"
+   }
   },
   "ST-14152-2026-INIT": {
    "id": "ST-14152-2026-INIT",
@@ -1171,7 +1175,10 @@
    "refs": [
     "2025/0237(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0237(COD)": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities"
+   }
   },
   "ST-14402-2026-INIT": {
    "id": "ST-14402-2026-INIT",
@@ -1185,7 +1192,10 @@
    "refs": [
     "2025/0237(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0237(COD)": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities"
+   }
   },
   "ST-14415-2026-INIT": {
    "id": "ST-14415-2026-INIT",
@@ -1200,7 +1210,11 @@
     "2025/0234(NLE)",
     "2025/0237(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0234(NLE)": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities",
+    "2025/0237(COD)": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities"
+   }
   },
   "WK-9083-2018-ADD-15-REV-1": {
    "id": "WK-9083-2018-ADD-15-REV-1",
@@ -1214,7 +1228,10 @@
    "refs": [
     "2018/0218(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2018/0218(COD)": "Regulation on common market organisation (CMO) of agricultural products"
+   }
   },
   "WK-9083-2018-ADD-2-REV-1": {
    "id": "WK-9083-2018-ADD-2-REV-1",
@@ -1228,7 +1245,10 @@
    "refs": [
     "2018/0218(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2018/0218(COD)": "Regulation on common market organisation (CMO) of agricultural products"
+   }
   },
   "WK-15601-2026-INIT": {
    "id": "WK-15601-2026-INIT",
@@ -1278,7 +1298,10 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0241(COD)": "Regulation establishing the conditions for the implementation of Union support under the CAP"
+   }
   },
   "ST-14185-2026-REV-1": {
    "id": "ST-14185-2026-REV-1",
@@ -1292,7 +1315,10 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0241(COD)": "Regulation establishing the conditions for the implementation of Union support under the CAP"
+   }
   },
   "WK-14277-2026-ADD-5": {
    "id": "WK-14277-2026-ADD-5",
@@ -1306,7 +1332,10 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0241(COD)": "Regulation establishing the conditions for the implementation of Union support under the CAP"
+   }
   },
   "ST-14207-2026-INIT": {
    "id": "ST-14207-2026-INIT",
@@ -1320,7 +1349,10 @@
    "refs": [
     "2025/0417(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0417(COD)": "Regulation amending the organic farming regulation as regards rules on production, labelling, certification and trade"
+   }
   },
   "ST-14448-2026-INIT": {
    "id": "ST-14448-2026-INIT",
@@ -1392,7 +1424,10 @@
    "refs": [
     "2026/0252(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0252(NLE)": "COUNCIL REGULATION amending Council Regulation 2023/2720 opening and providing for the management of autonomous Union tariff quotas for certain fishery products for the 2024-2026 period"
+   }
   },
   "ST-14874-2026-COR-1": {
    "id": "ST-14874-2026-COR-1",
@@ -1423,7 +1458,10 @@
    "refs": [
     "2026/0240(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0240(NLE)": "COUNCIL REGULATION fixing the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea for 2027 and amending Regulation (EU) 2026/249 as regards certain fishing opportunities in other waters"
+   }
   },
   "ST-16020-2026-INIT": {
    "id": "ST-16020-2026-INIT",
@@ -1496,7 +1534,10 @@
    "refs": [
     "2026/0281(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0281(NLE)": "COUNCIL DECISION on the signing of the Agreement in the form of an Exchange of Letters between the European Union and Canada pursuant to Article XXVIII of the General Agreement on Tariffs and Trade 1994 (‘GATT 1994’) relating to the modification of concessions on all the tariff-rate quotas included in the EU Schedule CLXXV as a consequence of the United Kingdom’s withdrawal from the European Union"
+   }
   },
   "ST-13363-2026-INIT": {
    "id": "ST-13363-2026-INIT",
@@ -1510,7 +1551,10 @@
    "refs": [
     "2026/0282(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0282(NLE)": "COUNCIL DECISION on the conclusion of the Agreement in the form of an Exchange of Letters between the European Union and Canada pursuant to Article XXVIII of the General Agreement on Tariffs and Trade 1994 ('GATT 1994') relating to the modification of concessions on all the tariff-rate quotas included in the EU Schedule CLXXV as a consequence of the United Kingdom’s withdrawal from the European Un"
+   }
   },
   "ST-13364-2026-INIT": {
    "id": "ST-13364-2026-INIT",
@@ -1524,7 +1568,8 @@
    "refs": [
     "2026/0282(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-13917-2026-INIT": {
    "id": "ST-13917-2026-INIT",
@@ -1538,7 +1583,10 @@
    "refs": [
     "2026/0250(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0250(NLE)": "COUNCIL DECISION on the position to be taken on behalf of the European Union within the Council of Members of the International Olive Council concerning the extension of the International Agreement on Olive Oil and Table Olives, 2015"
+   }
   },
   "ST-13918-2026-INIT": {
    "id": "ST-13918-2026-INIT",
@@ -1552,7 +1600,10 @@
    "refs": [
     "2026/0251(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0251(NLE)": "COUNCIL DECISION on the position to be taken on behalf of the European Union within the Council of Members of the International Olive Council concerning the extension of the date for notifying acceptance of the amendment to Article 36 of the International Agreement on Olive Oil and Table Olives, 2015"
+   }
   },
   "ST-15668-2026-INIT": {
    "id": "ST-15668-2026-INIT",
@@ -3437,7 +3488,8 @@
    "refs": [
     "2026/0310(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-14236-2026-INIT": {
    "id": "ST-14236-2026-INIT",
@@ -3451,7 +3503,10 @@
    "refs": [
     "2026/0310(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0310(NLE)": "COUNCIL DECISION on the conclusion of the Sustainable Fisheries Partnership Agreement and its Implementing Protocol (2026-2030) between the European Union and the Republic of Mauritius"
+   }
   },
   "ST-14237-2026-ADD-1": {
    "id": "ST-14237-2026-ADD-1",
@@ -3465,7 +3520,8 @@
    "refs": [
     "2026/0309(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-14237-2026-INIT": {
    "id": "ST-14237-2026-INIT",
@@ -3479,7 +3535,10 @@
    "refs": [
     "2026/0309(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0309(NLE)": "COUNCIL DECISION on the signing, and provisional application of the Sustainable Fisheries Partnership Agreement and its Implementing Protocol (2026-2030) between the European Union and the Republic of Mauritius"
+   }
   },
   "CM-4757-2026-INIT": {
    "id": "CM-4757-2026-INIT",
@@ -3524,7 +3583,10 @@
    "refs": [
     "2025/0349(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0349(COD)": "DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL empowering France to accede to the Inter-American Convention for the Protection and Conservation of Sea Turtles"
+   }
   },
   "ST-14238-2026-INIT": {
    "id": "ST-14238-2026-INIT",
@@ -3538,7 +3600,10 @@
    "refs": [
     "2026/0311(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0311(NLE)": "COUNCIL REGULATION on the allocation of the fishing opportunities provided for in the Protocol on the implementation of the Sustainable Fisheries Partnership Agreement between the European Union and the Republic of Mauritius (2026-2030)"
+   }
   },
   "ST-14556-2026-INIT": {
    "id": "ST-14556-2026-INIT",
@@ -3581,7 +3646,10 @@
    "refs": [
     "2025/0417(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0417(COD)": "Regulation amending the organic farming regulation as regards rules on production, labelling, certification and trade Confirmation of the final compromise text with a view to agreement"
+   }
   },
   "CM-4737-2026-INIT": {
    "id": "CM-4737-2026-INIT",
@@ -3647,7 +3715,10 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0241(COD)": "Regulation establishing the conditions for the implementation of Union support under the CAP"
+   }
   },
   "ST-14484-2026-INIT": {
    "id": "ST-14484-2026-INIT",
@@ -3661,7 +3732,10 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0241(COD)": "Regulation establishing the conditions for the implementation of Union support under the CAP"
+   }
   },
   "ST-14801-2026-INIT": {
    "id": "ST-14801-2026-INIT",
@@ -3727,7 +3801,10 @@
    "refs": [
     "2026/0290(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0290(COD)": "Regulation of the European Parliament and of the Council laying down management, conservation and control measures applicable in the Convention area of the North Pacific Fisheries Commission"
+   }
   },
   "ST-14865-2026-INIT": {
    "id": "ST-14865-2026-INIT",
@@ -3753,7 +3830,10 @@
    "refs": [
     "2026/0325(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0325(COD)": "Regulation of the European Parliament and of the Council amending Regulation (EU) 2024/1787 on the reduction of methane emissions in the energy sector as regards the postponement of certain obligations"
+   }
   },
   "ST-14593-2026-INIT": {
    "id": "ST-14593-2026-INIT",
@@ -3819,7 +3899,10 @@
    "refs": [
     "2025/0417(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0417(COD)": "Regulation amending the organic farming regulation as regards rules on production, labelling, certification and trade Confirmation of the final compromise text with a view to agreement"
+   }
   },
   "ST-14768-2026-INIT": {
    "id": "ST-14768-2026-INIT",
@@ -3833,7 +3916,8 @@
    "refs": [
     "2025/0405(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "CM-4685-2026-INIT": {
    "id": "CM-4685-2026-INIT",
@@ -3883,7 +3967,8 @@
    "refs": [
     "2024/0098(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "PE-28-2026-REV-1": {
    "id": "PE-28-2026-REV-1",
@@ -3897,7 +3982,8 @@
    "refs": [
     "2025/0106(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-14678-2026-ADD-1": {
    "id": "ST-14678-2026-ADD-1",
@@ -4007,7 +4093,10 @@
    "refs": [
     "2016/0392(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2016/0392(COD)": "Regulation (EU) 2019/787 of the European Parliament and of the Council of 17 April 2019 on the definition, description, presentation and labelling of spirit drinks, the use of the names of spirit drinks in the presentation and labelling of other foodstuffs, the protection of geographical indications for spirit drinks, the use of ethyl alcohol and distillates of agricultural origin in alcoholic bev"
+   }
   },
   "CM-4413-2026-INIT": {
    "id": "CM-4413-2026-INIT",
@@ -4033,7 +4122,8 @@
    "refs": [
     "2025/0349(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "CM-4683-2026-INIT": {
    "id": "CM-4683-2026-INIT",
@@ -4079,7 +4169,10 @@
    "refs": [
     "2026/0325(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0325(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2024/1787 on the reduction of methane emissions in the energy sector as regards the postponement of certain obligations"
+   }
   },
   "ST-6014-2025-ADD-24": {
    "id": "ST-6014-2025-ADD-24",
@@ -4201,7 +4294,10 @@
    "refs": [
     "2025/0237(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0237(COD)": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities"
+   }
   },
   "ST-14653-2026-ADD-1": {
    "id": "ST-14653-2026-ADD-1",
@@ -4299,7 +4395,10 @@
    "refs": [
     "2026/0252(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0252(NLE)": "COUNCIL REGULATION amending Regulation (EU) 2023/2720 opening and providing for the management of autonomous Union tariff quotas for certain fishery products for the 2024-2026 period"
+   }
   },
   "ST-14671-2026-ADD-1": {
    "id": "ST-14671-2026-ADD-1",
@@ -4313,7 +4412,8 @@
    "refs": [
     "2026/0323(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-14671-2026-INIT": {
    "id": "ST-14671-2026-INIT",
@@ -4327,7 +4427,10 @@
    "refs": [
     "2026/0323(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0323(NLE)": "COUNCIL DECISION on the position to be taken on behalf of the European Union in the Council of Members of the International Olive Council as regards the trade standard applying to olive oils and olive pomace oils and two methods of analysis"
+   }
   },
   "CM-4610-2026-INIT": {
    "id": "CM-4610-2026-INIT",
@@ -4428,7 +4531,10 @@
    "refs": [
     "2025/0349(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0349(COD)": "DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL empowering France to accede to the Inter-American Convention for the Protection and Conservation of Sea Turtles"
+   }
   },
   "CM-4539-2026-REV-1": {
    "id": "CM-4539-2026-REV-1",
@@ -4504,7 +4610,10 @@
    "refs": [
     "2013/0140(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2013/0140(COD)": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 6"
+   }
   },
   "ST-14266-2026-INIT": {
    "id": "ST-14266-2026-INIT",
@@ -4615,7 +4724,8 @@
     "2026/0163(CNS)",
     "2026/0169(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-10746-2022-INIT": {
    "id": "WK-10746-2022-INIT",
@@ -4629,7 +4739,8 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-11714-2022-INIT": {
    "id": "WK-11714-2022-INIT",
@@ -4643,7 +4754,8 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-12197-2022-INIT": {
    "id": "WK-12197-2022-INIT",
@@ -4657,7 +4769,8 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-13048-2022-INIT": {
    "id": "WK-13048-2022-INIT",
@@ -4671,7 +4784,8 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-13728-2022-INIT": {
    "id": "WK-13728-2022-INIT",
@@ -4685,7 +4799,8 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-14682-2022-INIT": {
    "id": "WK-14682-2022-INIT",
@@ -4699,7 +4814,8 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-1485-2023-INIT": {
    "id": "WK-1485-2023-INIT",
@@ -4725,7 +4841,8 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-17354-2022-INIT": {
    "id": "WK-17354-2022-INIT",
@@ -4739,7 +4856,8 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-207-2023-INIT": {
    "id": "WK-207-2023-INIT",
@@ -4753,7 +4871,8 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-2124-2023-INIT": {
    "id": "WK-2124-2023-INIT",
@@ -4779,7 +4898,8 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-3434-2023-INIT": {
    "id": "WK-3434-2023-INIT",
@@ -4793,7 +4913,8 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-3753-2017-INIT": {
    "id": "WK-3753-2017-INIT",
@@ -4819,7 +4940,8 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "WK-5617-2023-INIT": {
    "id": "WK-5617-2023-INIT",
@@ -4833,7 +4955,8 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-13852-2026-ADD-1": {
    "id": "ST-13852-2026-ADD-1",
@@ -4859,7 +4982,10 @@
    "refs": [
     "2026/0227(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0227(NLE)": "COUNCIL DECISION establishing the position to be taken on behalf of the European Union with regard to certain resolutions to be voted at the 24th General Assembly of the International Organisation of Vine and Wine"
+   }
   },
   "ST-13673-2026-INIT": {
    "id": "ST-13673-2026-INIT",
@@ -4873,7 +4999,10 @@
    "refs": [
     "2016/0084(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2016/0084(COD)": "Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making available on the market of EU fertilising products and amending Regulations (EC) No 1069/2009 and (EC) No 1107/2009 and repealing Regulation (EC) No 2003/2003 (Official Journal of the European Union L 170 of 25 June 2019)"
+   }
   },
   "ST-13677-2026-INIT": {
    "id": "ST-13677-2026-INIT",
@@ -4887,7 +5016,10 @@
    "refs": [
     "2008/0110(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2008/0110(COD)": "Regulation (EC) No 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by- products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation) (Official Journal of the European Union L 300 of 14 November 2009)"
+   }
   },
   "CM-4539-2026-INIT": {
    "id": "CM-4539-2026-INIT",
@@ -5043,7 +5175,8 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-14205-2026-INIT": {
    "id": "ST-14205-2026-INIT",
@@ -5057,7 +5190,10 @@
    "refs": [
     "2025/0417(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0417(COD)": "Regulation amending the organic farming regulation as regards rules on production, labelling, certification and trade"
+   }
   },
   "ST-14066-2026-INIT": {
    "id": "ST-14066-2026-INIT",
@@ -5177,7 +5313,8 @@
    "refs": [
     "2026/0189(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "CM-4191-2026-COR-1": {
    "id": "CM-4191-2026-COR-1",
@@ -5592,7 +5729,10 @@
    "refs": [
     "2025/0406(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0406(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on establishing a framework of measures for strengthening Union's biotechnology and biomanufacturing sectors particularly in the area of health and amending Regulations (EC) No 178/2002, (EC) No 1394/2007, (EU) No 536/2014, (EU) 2019/6, (EU) 2024/795 and (EU) 2024/1938 (European Biotech Act)"
+   }
   },
   "WK-14551-2026-INIT": {
    "id": "WK-14551-2026-INIT",
@@ -5621,7 +5761,11 @@
     "2025/0234(NLE)",
     "2025/0237(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0234(NLE)": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities Council Regulation amending the fixing Regulation as regards the EU school scheme",
+    "2025/0237(COD)": "Regulation amending Regulation (EU) No 1308/2013 (CMO) as regards the school scheme, sectoral interventions, the protein sector, hemp, marketing standards, import duties, the availability of supplies and securities Council Regulation amending the fixing Regulation as regards the EU school scheme"
+   }
   },
   "WK-14964-2026-INIT": {
    "id": "WK-14964-2026-INIT",
@@ -5763,7 +5907,10 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0241(COD)": "Regulation establishing the conditions for the implementation of Union support under the CAP"
+   }
   },
   "WK-15058-2026-INIT": {
    "id": "WK-15058-2026-INIT",
@@ -5777,7 +5924,10 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0241(COD)": "Regulation establishing the conditions for the implementation of Union support under the CAP"
+   }
   },
   "WK-15165-2026-INIT": {
    "id": "WK-15165-2026-INIT",
@@ -5791,7 +5941,8 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-15697-2026-INIT": {
    "id": "ST-15697-2026-INIT",
@@ -5861,7 +6012,10 @@
    "refs": [
     "2026/0252(NLE)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0252(NLE)": "COUNCIL REGULATION amending Council Regulation 2023/2720 opening and providing for the management of autonomous Union tariff quotas for certain fishery products for the 2024-2026 period"
+   }
   },
   "ST-13817-2026-INIT": {
    "id": "ST-13817-2026-INIT",
@@ -5875,7 +6029,10 @@
    "refs": [
     "2025/0555(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0555(COD)": "Regulation establishing European Competitiveness Fund (ECF), including specific programme for defence research and innovation"
+   }
   },
   "ST-13818-2026-INIT": {
    "id": "ST-13818-2026-INIT",
@@ -5889,7 +6046,10 @@
    "refs": [
     "2025/0555(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0555(COD)": "Regulation establishing European Competitiveness Fund (ECF), including specific programme for defence research and innovation"
+   }
   },
   "WK-15055-2026-INIT": {
    "id": "WK-15055-2026-INIT",
@@ -6078,7 +6238,8 @@
    "refs": [
     "2025/0106(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-13040-2026-INIT": {
    "id": "ST-13040-2026-INIT",
@@ -6092,7 +6253,8 @@
    "refs": [
     "2024/0098(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-13852-2026-INIT": {
    "id": "ST-13852-2026-INIT",
@@ -6157,7 +6319,8 @@
    "refs": [
     "2026/0302(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "CM-4318-2026-INIT": {
    "id": "CM-4318-2026-INIT",
@@ -6197,7 +6360,8 @@
    "refs": [
     "2026/0302(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-13992-2026-ADD-3": {
    "id": "ST-13992-2026-ADD-3",
@@ -6211,7 +6375,8 @@
    "refs": [
     "2026/0302(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-13992-2026-ADD-4": {
    "id": "ST-13992-2026-ADD-4",
@@ -6225,7 +6390,8 @@
    "refs": [
     "2026/0302(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {}
   },
   "ST-13992-2026-INIT": {
    "id": "ST-13992-2026-INIT",
@@ -6239,7 +6405,10 @@
    "refs": [
     "2026/0302(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0302(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down management, conservation and control measures applicable in the Area of Application of the Southern Indian Ocean Fisheries Agreement (SIOFA)"
+   }
   },
   "CM-4397-2026-INIT": {
    "id": "CM-4397-2026-INIT",
@@ -6299,7 +6468,10 @@
    "refs": [
     "1995/0302(CNS)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "1995/0302(CNS)": "Council Directive 2002/56/EC of 13 June 2002 on the marketing of seed potatoes (Official Journal of the European Communities L 193 of 20 July 2002)"
+   }
   },
   "PE-28-2026-INIT": {
    "id": "PE-28-2026-INIT",
@@ -6327,7 +6499,10 @@
    "refs": [
     "2021/0218(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2021/0218(COD)": "Directive (EU) 2023/2413 of the European Parliament and of the Council of 18 October 2023 amending Directive (EU) 2018/2001, Regulation (EU) 2018/1999 and Directive 98/70/EC as regards the promotion of energy from renewable sources, and repealing Council Directive (EU) 2015/652 (Official Journal of the European Union L 2023/2413 of 31 October 2023)"
+   }
   },
   "ST-13563-2026-INIT": {
    "id": "ST-13563-2026-INIT",
@@ -6341,7 +6516,10 @@
    "refs": [
     "2026/0044(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2026/0044(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2019/1753 as regards amendments adopted by the Assembly of the Lisbon Union on 14 July 2025 to the Common Regulations under the Lisbon Agreement on Appellations of Origin and Geographical Indications – Letter to the Chair of the European Parliament Committee on Legal Affairs (JURI)"
+   }
   },
   "ST-13812-2026-ADD-1": {
    "id": "ST-13812-2026-ADD-1",
@@ -7066,7 +7244,10 @@
    "refs": [
     "2025/0240(COD)"
    ],
-   "read": false
+   "read": true,
+   "ref_titles": {
+    "2025/0240(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing the European Fund for economic, social and territorial cohesion, agriculture and rural, fisheries and maritime, prosperity and security for the period 2028-2034 and amending Regulation (EU) 2023/955 and Regulation (EU, Euratom) 2024/2509"
+   }
   },
   "ST-15920-2026-INIT": {
    "id": "ST-15920-2026-INIT",

@@ -239,8 +239,6 @@
   }
  ],
  "council_docs": [],
- "followed": true,
- "follow_url": "https://github.com/consuldelmar/eu-agri-tracker/issues/2",
  "tags": [
   "Pesca"
  ],
@@ -278,5 +276,7 @@
    "date": "2026-11-24",
    "body": "Pleno del PE"
   }
- }
+ },
+ "followed": true,
+ "follow_url": "https://github.com/consuldelmar/eu-agri-tracker/issues/2"
 }
