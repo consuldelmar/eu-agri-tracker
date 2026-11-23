@@ -1,5 +1,5 @@
 {
- "started": "2026-11-23T08:31:37+00:00",
+ "started": "2026-11-23T08:37:04+00:00",
  "parliament": {
   "changed_in_feed": 15,
   "files_read": 15,
@@ -9,9 +9,9 @@
   "throttled": 0
  },
  "plenary": {
-  "read": 40,
-  "left": 94,
-  "days": 40
+  "read": 32,
+  "left": 66,
+  "days": 68
  },
  "council": {
   "agri": "50 meetings",
@@ -29,8 +29,8 @@
   "council_only": 12
  },
  "changes": 0,
- "finished": "2026-11-23T08:36:12+00:00",
- "requests": 182,
+ "finished": "2026-11-23T08:41:42+00:00",
+ "requests": 165,
  "request_errors": 0,
  "files": 381,
  "problems": []
