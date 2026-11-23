@@ -22,17 +22,15 @@ def get(name, path, **params):
     open(f"out/{name}.json", "wb").write(r.content)
     time.sleep(0.5)
     return d
-for y in (2024, 2025, 2026, 2027):
+for y in (2024, 2025, 2026):
     get(f"meetings_{y}", "/meetings", year=y, limit=500)
-for day in ("2026-11-23", "2026-11-25", "2026-11-12", "2026-10-21", "2025-03-12", "2024-07-18", "2026-12-14"):
+for day in ("2026-11-23", "2026-11-25", "2026-11-12", "2025-03-12", "2024-09-17", "2024-07-18"):
     mid = f"MTG-PL-{day}"
     get(f"{day}_meeting", f"/meetings/{mid}")
     get(f"{day}_foreseen", f"/meetings/{mid}/foreseen-activities", limit=1000)
     get(f"{day}_activities", f"/meetings/{mid}/activities", limit=1000)
     get(f"{day}_decisions", f"/meetings/{mid}/decisions", limit=2000)
     get(f"{day}_votes", f"/meetings/{mid}/vote-results", limit=500)
-    get(f"{day}_psd", f"/meetings/{mid}/plenary-session-documents", limit=500)
-    get(f"{day}_psdi", f"/meetings/{mid}/plenary-session-document-items", limit=500)
 get("psd_list", "/plenary-session-documents", limit=20)
 get("oj_doc", "/plenary-session-documents/OJQ-10-2026-11-23")
 get("oj_doc_items", "/plenary-session-documents/OJQ-10-2026-11-23/items", limit=500)
