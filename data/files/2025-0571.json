@@ -983,8 +983,8 @@
  "agenda": [],
  "scheduled": [],
  "council_docs": [],
- "followed": false,
- "follow_url": "",
+ "followed": true,
+ "follow_url": "https://github.com/consuldelmar/eu-agri-tracker/issues/11",
  "tags": [
   "MFF 2028-2034"
  ],
