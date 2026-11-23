@@ -7521,6 +7521,36 @@
    },
    "read": true,
    "via_agenda": true
+  },
+  "ST-15894-2026-INIT": {
+   "id": "ST-15894-2026-INIT",
+   "code": "ST 15894/26",
+   "kind": "agenda",
+   "body": "Coreper I",
+   "title": "PERMANENT REPRESENTATIVES COMMITTEE (Part 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15894-2026-INIT/en/pdf",
+   "date": "2026-11-23",
+   "step": "Orientación general",
+   "refs": [],
+   "read": true,
+   "ref_titles": {},
+   "meeting_date": "2026-11-25",
+   "doc_numbers": [
+    "15342/26",
+    "15373/26",
+    "15375/26",
+    "15459/26",
+    "15464/26",
+    "15504/26",
+    "15710/26",
+    "15889/26",
+    "15894/26",
+    "15975/26",
+    "15980/26",
+    "16071/26",
+    "16108/26"
+   ],
+   "cm_clean": true
   }
  },
  "first_run_done": true,

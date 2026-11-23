@@ -635,7 +635,7 @@
      "title": "Trigésimo quinto aniversario de la caída y destrucción de Vukovar",
      "order": 4.0,
      "time": "19:15",
-     "end": "20:00",
+     "end": "19:30",
      "slot": "Debate",
      "type": "Declaraciones del Parlamento",
      "refs": [
@@ -647,12 +647,26 @@
      ]
     },
     {
+     "id": "D-105",
+     "kind": "debate",
+     "title": "Sentencia de la Corte Internacional de Justicia sobre Myanmar/Birmania",
+     "order": 5.0,
+     "time": "19:30",
+     "end": "21:00",
+     "slot": "Debate",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2026/3002(RSP)"
+     ],
+     "docs": []
+    },
+    {
      "id": "D-2",
      "kind": "debate",
      "title": "Intervenciones de un minuto (artículo 179 del Reglamento interno)",
-     "order": 5.0,
-     "time": "19:15",
-     "end": "20:00",
+     "order": 6.0,
+     "time": "19:30",
+     "end": "21:00",
      "slot": "Debate",
      "docs": []
     }
@@ -669,7 +683,7 @@
      "id": "D-76",
      "kind": "debate",
      "title": "Restablecimiento del Estado de Derecho y de los valores fundamentales de la Unión en Hungría (a raíz de las elecciones legislativas de 2026)",
-     "order": 6.0,
+     "order": 7.0,
      "time": "09:00",
      "end": "10:30",
      "slot": "Debate",
@@ -683,7 +697,7 @@
      "id": "D-79",
      "kind": "debate",
      "title": "Exigencias de la ciudadanía y movilización de la juventud: situar la asequibilidad en el centro de la agenda europea",
-     "order": 7.0,
+     "order": 8.0,
      "time": "10:30",
      "end": "11:50",
      "slot": "Debate",
@@ -697,7 +711,7 @@
      "id": "V-69",
      "kind": "vote",
      "title": "Reserva de estabilidad del mercado en el marco del régimen de comercio de derechos de la UE (RCDE UE): cese de la invalidación de derechos de emisión",
-     "order": 8.0,
+     "order": 9.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -722,7 +736,7 @@
      "id": "V-29",
      "kind": "vote",
      "title": "Modificación de determinados Reglamentos en lo que respecta a la ampliación de determinadas medidas de mitigación disponibles para las pequeñas y medianas empresas a las pequeñas empresas de mediana capitalización y otras medidas de simplificación (paquete ómnibus IV)",
-     "order": 9.0,
+     "order": 10.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -751,7 +765,7 @@
      "id": "V-30",
      "kind": "vote",
      "title": "Modificación de determinadas Directivas en lo que respecta a la ampliación de determinadas medidas de mitigación disponibles para las pequeñas y medianas empresas a las pequeñas empresas de mediana capitalización y otras medidas de simplificación (paquete ómnibus IV)",
-     "order": 10.0,
+     "order": 11.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -778,7 +792,7 @@
      "id": "V-37",
      "kind": "vote",
      "title": "Modificación de determinadas Directivas en lo que respecta a la digitalización y las especificaciones comunes (paquete ómnibus IV)",
-     "order": 11.0,
+     "order": 12.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -803,7 +817,7 @@
      "id": "V-36",
      "kind": "vote",
      "title": "Modificación de determinados Reglamentos en lo que respecta a la digitalización y las especificaciones comunes (paquete ómnibus IV)",
-     "order": 12.0,
+     "order": 13.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -828,7 +842,7 @@
      "id": "V-43",
      "kind": "vote",
      "title": "Agilización de las evaluaciones ambientales (paquete ómnibus VIII sobre legislación ambiental)",
-     "order": 13.0,
+     "order": 14.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -853,7 +867,7 @@
      "id": "V-75",
      "kind": "vote",
      "title": "Producción ecológica: modificación en lo que respecta a determinadas normas sobre producción, etiquetado y certificación y a determinadas normas sobre el comercio con terceros países",
-     "order": 14.0,
+     "order": 15.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -878,7 +892,7 @@
      "id": "V-42",
      "kind": "vote",
      "title": "Protección de los intereses financieros de la Unión en el marco financiero plurianual posterior a 2027 mediante la revisión de la arquitectura de lucha contra el fraude",
-     "order": 15.0,
+     "order": 16.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -902,7 +916,7 @@
      "id": "V-74",
      "kind": "vote",
      "title": "Plan plurianual para la pesca demersal en el Mediterráneo occidental",
-     "order": 16.0,
+     "order": 17.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -925,7 +939,7 @@
      "id": "D-80",
      "kind": "debate",
      "title": "Procedimiento presupuestario 2027: texto conjunto",
-     "order": 17.0,
+     "order": 18.0,
      "time": "13:00",
      "end": "15:00",
      "slot": "Debate (o al final de turno de votaciones)",
@@ -949,7 +963,7 @@
      "id": "D-82",
      "kind": "debate",
      "title": "Presentación del paquete de otoño del Semestre Europeo",
-     "order": 18.0,
+     "order": 19.0,
      "time": "15:00",
      "end": "15:45",
      "slot": "Sesión de control",
@@ -962,7 +976,7 @@
      "id": "D-81",
      "kind": "debate",
      "title": "Memorándum de entendimiento ilegal entre Turquía y Libia e infracción de la Convención de las Naciones Unidas sobre el Derecho del Mar",
-     "order": 19.0,
+     "order": 20.0,
      "time": "15:45",
      "end": "16:45",
      "slot": "Debate",
@@ -976,7 +990,7 @@
      "id": "D-83",
      "kind": "debate",
      "title": "Situación humanitaria en Gaza",
-     "order": 20.0,
+     "order": 21.0,
      "time": "16:45",
      "end": "18:00",
      "slot": "Debate",
@@ -990,7 +1004,7 @@
      "id": "D-84",
      "kind": "debate",
      "title": "Mantenimiento de las sanciones a Rusia en el deporte internacional",
-     "order": 21.0,
+     "order": 22.0,
      "time": "18:00",
      "end": "18:45",
      "slot": "Debate",
@@ -1004,7 +1018,7 @@
      "id": "D-85",
      "kind": "debate",
      "title": "Repercusiones de los retos en materia de seguridad en la frontera oriental de Europa para los Estados miembros situados en primera línea",
-     "order": 22.0,
+     "order": 23.0,
      "time": "18:45",
      "end": "20:00",
      "slot": "Debate",
@@ -1018,7 +1032,7 @@
      "id": "D-8",
      "kind": "debate",
      "title": "Explicaciones de voto",
-     "order": 23.0,
+     "order": 24.0,
      "time": "18:45",
      "end": "20:00",
      "slot": "Debate",
@@ -1037,7 +1051,7 @@
      "id": "D-90",
      "kind": "debate",
      "title": "Papel y capacidad de Europa para proteger el orden internacional y garantizar una paz justa y duradera para Ucrania",
-     "order": 24.0,
+     "order": 25.0,
      "time": "09:00",
      "end": "11:50",
      "slot": "DEBATE PRIORITARIO",
@@ -1051,7 +1065,7 @@
      "id": "D-89",
      "kind": "debate",
      "title": "Desbloqueo de las negociaciones sobre el MFP 2028-2034, incluidos nuevos recursos propios, a raíz del marco de negociación revisado",
-     "order": 25.0,
+     "order": 26.0,
      "time": "10:15",
      "end": "11:50",
      "slot": "DEBATE PRIORITARIO",
@@ -1065,7 +1079,7 @@
      "id": "V-59",
      "kind": "vote",
      "title": "Proyecto de presupuesto rectificativo n.º 3/2026: ajustes en los gastos, actualización de los ingresos y otros ajustes técnicos",
-     "order": 26.0,
+     "order": 27.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1088,7 +1102,7 @@
      "id": "V-80",
      "kind": "vote",
      "title": "Procedimiento presupuestario 2027: texto conjunto",
-     "order": 27.0,
+     "order": 28.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1112,7 +1126,7 @@
      "id": "V-93",
      "kind": "vote",
      "title": "Establecimiento de Europa Global",
-     "order": 28.0,
+     "order": 29.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1139,7 +1153,7 @@
      "id": "V-61",
      "kind": "vote",
      "title": "Procedimientos de la Unión para la autorización y el control de los medicamentos de uso humano y normas por las que se rige la Agencia Europea de Medicamentos",
-     "order": 29.0,
+     "order": 30.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1163,7 +1177,7 @@
      "id": "V-60",
      "kind": "vote",
      "title": "Código de la Unión sobre medicamentos para uso humano",
-     "order": 30.0,
+     "order": 31.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1187,7 +1201,7 @@
      "id": "V-67",
      "kind": "vote",
      "title": "Modificación del Reglamento interno del Parlamento en lo que se refiere al voto por delegación durante el embarazo e inmediatamente después del parto",
-     "order": 31.0,
+     "order": 32.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1210,7 +1224,7 @@
      "id": "V-26",
      "kind": "vote",
      "title": "Marco para reforzar la disponibilidad y la seguridad del suministro de medicamentos esenciales, así como la disponibilidad y accesibilidad de los medicamentos de interés común",
-     "order": 32.0,
+     "order": 33.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1235,7 +1249,7 @@
      "id": "V-71",
      "kind": "vote",
      "title": "Comercialización de microorganismos modificados genéticamente y procesamiento de órganos",
-     "order": 33.0,
+     "order": 34.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1256,31 +1270,6 @@
      "people": [
       "Marta Temido",
       "Adam Jarubas"
-     ]
-    },
-    {
-     "id": "V-72",
-     "kind": "vote",
-     "title": "Amplio paquete de acuerdos entre la Unión y Suiza para consolidar, profundizar y ampliar sus relaciones bilaterales",
-     "order": 34.0,
-     "time": "12:00",
-     "end": "13:00",
-     "slot": "TURNO DE VOTACIONES",
-     "long": "Recomendación sobre el proyecto de Decisión del Consejo relativa a la celebración de un amplio paquete de acuerdos entre la Unión Europea, por una parte, y la Confederación Suiza, por otra, para consolidar, profundizar y ampliar sus relaciones bilaterales, y por la que se modifican las Decisiones 2011/51/UE y 2011/738/UE",
-     "type": "Recomendación",
-     "symbol": "***",
-     "refs": [
-      "2025/0162(NLE)"
-     ],
-     "com": "COM(2025)0309",
-     "docs": [
-      "A10-0236/2026"
-     ],
-     "orgs": [
-      "AFET"
-     ],
-     "people": [
-      "Christophe Grudler"
      ]
     },
     {
@@ -1307,10 +1296,35 @@
      ]
     },
     {
+     "id": "V-72",
+     "kind": "vote",
+     "title": "Amplio paquete de acuerdos entre la Unión y Suiza para consolidar, profundizar y ampliar sus relaciones bilaterales",
+     "order": 36.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Recomendación sobre el proyecto de Decisión del Consejo relativa a la celebración de un amplio paquete de acuerdos entre la Unión Europea, por una parte, y la Confederación Suiza, por otra, para consolidar, profundizar y ampliar sus relaciones bilaterales, y por la que se modifican las Decisiones 2011/51/UE y 2011/738/UE",
+     "type": "Recomendación",
+     "symbol": "***",
+     "refs": [
+      "2025/0162(NLE)"
+     ],
+     "com": "COM(2025)0309",
+     "docs": [
+      "A10-0236/2026"
+     ],
+     "orgs": [
+      "AFET"
+     ],
+     "people": [
+      "Christophe Grudler"
+     ]
+    },
+    {
      "id": "V-68",
      "kind": "vote",
      "title": "Fraude en el ámbito del IVA: prórroga del período de aplicación del mecanismo opcional de inversión del sujeto pasivo y del mecanismo de reacción rápida",
-     "order": 36.0,
+     "order": 37.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1335,7 +1349,7 @@
      "id": "V-104",
      "kind": "vote",
      "title": "Programa de Investigación y Formación de Euratom para el período 2028-2032",
-     "order": 37.0,
+     "order": 38.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1360,7 +1374,7 @@
      "id": "V-55",
      "kind": "vote",
      "title": "Mecanismo de inversión del sujeto pasivo del IVA",
-     "order": 38.0,
+     "order": 39.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1383,7 +1397,7 @@
      "id": "V-40",
      "kind": "vote",
      "title": "Relaciones políticas entre la Unión y Siria",
-     "order": 39.0,
+     "order": 40.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1406,7 +1420,7 @@
      "id": "V-18",
      "kind": "vote",
      "title": "Hacia una estrategia de la Unión para proteger y reforzar el sistema de justicia internacional y sus instituciones, mecanismos y socios",
-     "order": 40.0,
+     "order": 41.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1429,7 +1443,7 @@
      "id": "V-92",
      "kind": "vote",
      "title": "Libertad de los medios de comunicación y Estado de Derecho en la República Checa: amenazas a la independencia de los organismos públicos de radiodifusión",
-     "order": 41.0,
+     "order": 42.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1448,7 +1462,7 @@
      "id": "V-91",
      "kind": "vote",
      "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: lista europea de instalaciones de reciclado de buques",
-     "order": 42.0,
+     "order": 43.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1464,7 +1478,7 @@
      "id": "D-10",
      "kind": "debate",
      "title": "Debate de actualidad a petición de un grupo político (The Left) (artículo 169 del Reglamento interno) - Coste de la vida: hora de declarar el estado de emergencia para combatir la pobreza y poner fin a la crisis de la vivienda",
-     "order": 43.0,
+     "order": 44.0,
      "time": "13:00",
      "end": "20:00",
      "slot": "Debate (o al final del turno de votaciones)",
@@ -1474,7 +1488,7 @@
      "id": "D-97",
      "kind": "debate",
      "title": "Lucha contra la violencia de género en la era de la tecnología digital",
-     "order": 44.0,
+     "order": 45.0,
      "time": "14:15",
      "end": "15:30",
      "slot": "Debate",
@@ -1488,7 +1502,7 @@
      "id": "D-98",
      "kind": "debate",
      "title": "Discurso del odio político y mediático que alimenta el racismo y la violencia en Europa",
-     "order": 45.0,
+     "order": 46.0,
      "time": "15:30",
      "end": "17:15",
      "slot": "Debate",
@@ -1502,7 +1516,7 @@
      "id": "D-99",
      "kind": "debate",
      "title": "Inclusión de la corrupción en el régimen de sanciones de la UE de alcance mundial en materia de derechos humanos",
-     "order": 46.0,
+     "order": 47.0,
      "time": "17:15",
      "end": "18:15",
      "slot": "Debate",
@@ -1516,7 +1530,7 @@
      "id": "D-101",
      "kind": "debate",
      "title": "Día Europeo de la Igualdad Salarial",
-     "order": 47.0,
+     "order": 48.0,
      "time": "18:15",
      "end": "18:30",
      "slot": "Debate",
@@ -1530,46 +1544,58 @@
      "id": "D-94",
      "kind": "debate",
      "title": "Caso del periodista sueco-eritreo Dawit Isaak, detenido arbitrariamente en Eritrea",
-     "order": 48.0,
+     "order": 49.0,
      "time": "18:30",
      "end": "20:00",
      "slot": "Debates",
      "refs": [
       "2026/2990(RSP)"
      ],
-     "docs": []
+     "docs": [
+      "B10-0515/2026",
+      "B10-0526/2026",
+      "B10-0517/2026",
+      "B10-0523/2026"
+     ]
     },
     {
      "id": "D-95",
      "kind": "debate",
      "title": "Condena del activista en favor de la democracia y antiguo parlamentario Au Kam San en Macao",
-     "order": 49.0,
+     "order": 50.0,
      "time": "18:30",
      "end": "20:00",
      "slot": "Debates",
      "refs": [
       "2026/2991(RSP)"
      ],
-     "docs": []
+     "docs": [
+      "B10-0521/2026",
+      "B10-0522/2026"
+     ]
     },
     {
      "id": "D-96",
      "kind": "debate",
      "title": "Caso de Paata Burchuladze y de los presos políticos bajo el régimen de Sueño Georgiano",
-     "order": 50.0,
+     "order": 51.0,
      "time": "18:30",
      "end": "20:00",
      "slot": "Debates",
      "refs": [
       "2026/2992(RSP)"
      ],
-     "docs": []
+     "docs": [
+      "B10-0524/2026",
+      "B10-0518/2026",
+      "B10-0516/2026"
+     ]
     },
     {
      "id": "D-12",
      "kind": "debate",
      "title": "Explicaciones de voto",
-     "order": 51.0,
+     "order": 52.0,
      "time": "18:30",
      "end": "20:00",
      "slot": "Debates",
@@ -1588,7 +1614,7 @@
      "id": "D-88",
      "kind": "debate",
      "title": "Resultados de la cumbre de las Naciones Unidas sobre el clima en Antalya (CP31)",
-     "order": 52.0,
+     "order": 53.0,
      "time": "09:00",
      "end": "11:50",
      "slot": "Debate",
@@ -1602,7 +1628,7 @@
      "id": "D-86",
      "kind": "debate",
      "title": "Respuesta europea a las políticas farmacéuticas de los Estados Unidos: salvaguardar el acceso de los pacientes a medicamentos críticos, innovadores y que salvan vidas",
-     "order": 53.0,
+     "order": 54.0,
      "time": "10:15",
      "end": "11:30",
      "slot": "Debate",
@@ -1615,8 +1641,8 @@
     {
      "id": "D-102",
      "kind": "debate",
-     "title": "Apoyo a la candidatura de Milán como sede de un nuevo pilar de las Naciones Unidas para la evaluación independiente y la gobernanza ética de la IA",
-     "order": 54.0,
+     "title": "Apoyo a las candidaturas de ciudades de la Unión para albergar la sede de un nuevo pilar de las Naciones Unidas para la evaluación independiente y la gobernanza ética de la IA",
+     "order": 55.0,
      "time": "11:30",
      "end": "11:50",
      "slot": "Debate",
@@ -1624,13 +1650,19 @@
      "refs": [
       "2026/2997(RSP)"
      ],
-     "docs": []
+     "docs": [
+      "B10-0527/2026",
+      "B10-0525/2026",
+      "B10-0520/2026",
+      "B10-0528/2026",
+      "B10-0513/2026"
+     ]
     },
     {
      "id": "V-94",
      "kind": "vote",
      "title": "Caso del periodista sueco-eritreo Dawit Isaak, detenido arbitrariamente en Eritrea",
-     "order": 55.0,
+     "order": 56.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1638,13 +1670,18 @@
      "refs": [
       "2026/2990(RSP)"
      ],
-     "docs": []
+     "docs": [
+      "B10-0526/2026",
+      "B10-0515/2026",
+      "B10-0523/2026",
+      "B10-0517/2026"
+     ]
     },
     {
      "id": "V-95",
      "kind": "vote",
      "title": "Condena del activista en favor de la democracia y antiguo parlamentario Au Kam San en Macao",
-     "order": 56.0,
+     "order": 57.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1652,13 +1689,16 @@
      "refs": [
       "2026/2991(RSP)"
      ],
-     "docs": []
+     "docs": [
+      "B10-0521/2026",
+      "B10-0522/2026"
+     ]
     },
     {
      "id": "V-96",
      "kind": "vote",
      "title": "Caso de Paata Burchuladze y de los presos políticos bajo el régimen de Sueño Georgiano",
-     "order": 57.0,
+     "order": 58.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1666,13 +1706,17 @@
      "refs": [
       "2026/2992(RSP)"
      ],
-     "docs": []
+     "docs": [
+      "B10-0524/2026",
+      "B10-0518/2026",
+      "B10-0516/2026"
+     ]
     },
     {
      "id": "V-78",
      "kind": "vote",
      "title": "Trigésimo quinto aniversario de la caída y destrucción de Vukovar",
-     "order": 58.0,
+     "order": 59.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1689,7 +1733,7 @@
      "id": "V-81",
      "kind": "vote",
      "title": "Memorándum de entendimiento ilegal entre Turquía y Libia e infracción de la Convención de las Naciones Unidas sobre el Derecho del Mar",
-     "order": 59.0,
+     "order": 60.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1702,8 +1746,8 @@
     {
      "id": "V-102",
      "kind": "vote",
-     "title": "Apoyo a la candidatura de Milán como sede de un nuevo pilar de las Naciones Unidas para la evaluación independiente y la gobernanza ética de la IA",
-     "order": 60.0,
+     "title": "Apoyo a las candidaturas de ciudades de la Unión para albergar la sede de un nuevo pilar de las Naciones Unidas para la evaluación independiente y la gobernanza ética de la IA",
+     "order": 61.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1711,13 +1755,19 @@
      "refs": [
       "2026/2997(RSP)"
      ],
-     "docs": []
+     "docs": [
+      "B10-0527/2026",
+      "B10-0513/2026",
+      "B10-0528/2026",
+      "B10-0520/2026",
+      "B10-0525/2026"
+     ]
     },
     {
      "id": "D-103",
      "kind": "debate",
      "title": "Situación de la industria europea del silicio metálico",
-     "order": 61.0,
+     "order": 62.0,
      "time": "15:00",
      "end": "16:00",
      "slot": "Debate",
@@ -1731,7 +1781,7 @@
      "id": "D-15",
      "kind": "debate",
      "title": "Explicaciones de voto",
-     "order": 62.0,
+     "order": 63.0,
      "time": "15:00",
      "end": "16:00",
      "slot": "Debate",
