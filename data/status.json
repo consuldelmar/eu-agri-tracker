@@ -1,8 +1,8 @@
 {
- "started": "2026-11-23T06:46:54+00:00",
+ "started": "2026-11-23T06:48:36+00:00",
  "parliament": {
-  "changed_in_feed": 1,
-  "files_read": 1,
+  "changed_in_feed": 2,
+  "files_read": 2,
   "queue_left": 0,
   "tracked": 365,
   "failed": 0,
@@ -19,8 +19,8 @@
   "press": "4 relevant press releases"
  },
  "changes": 0,
- "finished": "2026-11-23T06:47:55+00:00",
- "requests": 60,
+ "finished": "2026-11-23T06:49:38+00:00",
+ "requests": 61,
  "request_errors": 0,
  "files": 365,
  "problems": []
