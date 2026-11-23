@@ -1,0 +1,553 @@
+{
+ "ref": "2025/0391(COD)",
+ "id": "2025-0391",
+ "type": "COD",
+ "title": "Agilización de las evaluaciones ambientales",
+ "title_en": "Speeding-up environmental assessments",
+ "stage": "Informe aprobado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "lead"
+  }
+ ],
+ "people": [
+  {
+   "id": "197839",
+   "name": "Radan KANEV",
+   "group": "PPE",
+   "country": "BG",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-16"
+  },
+  {
+   "id": "257169",
+   "name": "Annalisa CORRADO",
+   "group": "S&D",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-16"
+  },
+  {
+   "id": "197691",
+   "name": "Mathilde ANDROUËT",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-16"
+  },
+  {
+   "id": "257090",
+   "name": "Beatrice TIMGREN",
+   "group": "ECR",
+   "country": "SE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-17"
+  },
+  {
+   "id": "214839",
+   "name": "Emma YTTERELL",
+   "group": "Renew",
+   "country": "SE",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2026-03-16"
+  },
+  {
+   "id": "197466",
+   "name": "Jutta PAULUS",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-13"
+  },
+  {
+   "id": "256913",
+   "name": "Emma FOURREAU",
+   "group": "The Left",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-30"
+  },
+  {
+   "id": "256951",
+   "name": "Anja ARNDT",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-05-06"
+  }
+ ],
+ "started": "2026-02-09",
+ "last_activity": "2026-11-20",
+ "events": [
+  {
+   "date": "2026-02-09",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-05-22",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "ENVI-PR-788874",
+     "title": "Proyecto de informe ENVI (788874)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-PR-788874_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-24",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión (2 documentos)",
+   "docs": [
+    {
+     "id": "ENVI-AM-790193",
+     "title": "Enmiendas en comisión ENVI (790193)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-790193_EN.pdf",
+     "kind": "committee_amendments"
+    },
+    {
+     "id": "ENVI-AM-790190",
+     "title": "Enmiendas en comisión ENVI (790190)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-790190_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-11-11",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0290",
+     "title": "Informe A10-0290/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno (3 documentos)",
+   "docs": [
+    {
+     "id": "A-10-2026-0290-AM-098-102",
+     "title": "Enmiendas al Pleno 98-102 (informe A10-0290/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-098-102_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 5
+    },
+    {
+     "id": "A-10-2026-0290-AM-090-090",
+     "title": "Enmiendas al Pleno 90-90 (informe A10-0290/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-090-090_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2026-0290-AM-091-097",
+     "title": "Enmiendas al Pleno 91-97 (informe A10-0290/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-091-097_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 7
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno (8 documentos)",
+   "docs": [
+    {
+     "id": "A-10-2026-0290-AM-115-117",
+     "title": "Enmiendas al Pleno 115-117 (informe A10-0290/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-115-117_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 3
+    },
+    {
+     "id": "A-10-2026-0290-AM-082-089",
+     "title": "Enmiendas al Pleno 82-89 (informe A10-0290/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-082-089_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 8
+    },
+    {
+     "id": "A-10-2026-0290-AM-114-114",
+     "title": "Enmiendas al Pleno 114-114 (informe A10-0290/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-114-114_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2026-0290-AM-105-113",
+     "title": "Enmiendas al Pleno 105-113 (informe A10-0290/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-105-113_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 9
+    },
+    {
+     "id": "A-10-2026-0290-AM-118-127",
+     "title": "Enmiendas al Pleno 118-127 (informe A10-0290/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-118-127_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 10
+    },
+    {
+     "id": "A-10-2026-0290-AM-128-130",
+     "title": "Enmiendas al Pleno 128-130 (informe A10-0290/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-128-130_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 3
+    },
+    {
+     "id": "A-10-2026-0290-AM-104-104",
+     "title": "Enmiendas al Pleno 104-104 (informe A10-0290/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-104-104_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    },
+    {
+     "id": "A-10-2026-0290-AM-103-103",
+     "title": "Enmiendas al Pleno 103-103 (informe A10-0290/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-103-103_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0290-AM-131-131",
+     "title": "Enmiendas al Pleno 131-131 (informe A10-0290/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-131-131_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0290-AM-001-081",
+     "title": "Enmiendas al Pleno 1-81 (informe A10-0290/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-001-081_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 81
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "ENVI-PR-788874",
+   "title": "Proyecto de informe ENVI (788874)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-PR-788874_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-05-22"
+  },
+  {
+   "id": "ENVI-AM-790193",
+   "title": "Enmiendas en comisión ENVI (790193)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-790193_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-06-24"
+  },
+  {
+   "id": "ENVI-AM-790190",
+   "title": "Enmiendas en comisión ENVI (790190)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-790190_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-06-24"
+  },
+  {
+   "id": "A-10-2026-0290",
+   "title": "Informe A10-0290/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290_EN.html",
+   "kind": "report",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "A-10-2026-0290-AM-098-102",
+   "title": "Enmiendas al Pleno 98-102 (informe A10-0290/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-098-102_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 5,
+   "date": "2026-11-17"
+  },
+  {
+   "id": "A-10-2026-0290-AM-090-090",
+   "title": "Enmiendas al Pleno 90-90 (informe A10-0290/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-090-090_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-11-17"
+  },
+  {
+   "id": "A-10-2026-0290-AM-091-097",
+   "title": "Enmiendas al Pleno 91-97 (informe A10-0290/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-091-097_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 7,
+   "date": "2026-11-17"
+  },
+  {
+   "id": "A-10-2026-0290-AM-115-117",
+   "title": "Enmiendas al Pleno 115-117 (informe A10-0290/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-115-117_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 3,
+   "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0290-AM-082-089",
+   "title": "Enmiendas al Pleno 82-89 (informe A10-0290/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-082-089_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 8,
+   "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0290-AM-114-114",
+   "title": "Enmiendas al Pleno 114-114 (informe A10-0290/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-114-114_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0290-AM-105-113",
+   "title": "Enmiendas al Pleno 105-113 (informe A10-0290/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-105-113_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 9,
+   "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0290-AM-118-127",
+   "title": "Enmiendas al Pleno 118-127 (informe A10-0290/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-118-127_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 10,
+   "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0290-AM-128-130",
+   "title": "Enmiendas al Pleno 128-130 (informe A10-0290/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-128-130_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 3,
+   "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0290-AM-104-104",
+   "title": "Enmiendas al Pleno 104-104 (informe A10-0290/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-104-104_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0290-AM-103-103",
+   "title": "Enmiendas al Pleno 103-103 (informe A10-0290/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-103-103_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0290-AM-131-131",
+   "title": "Enmiendas al Pleno 131-131 (informe A10-0290/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-131-131_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-11-19"
+  },
+  {
+   "id": "A-10-2026-0290-AM-001-081",
+   "title": "Enmiendas al Pleno 1-81 (informe A10-0290/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0290-AM-001-081_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 81,
+   "date": "2026-11-20"
+  }
+ ],
+ "amendments": {
+  "plenary": 131,
+  "committee_documents": 2
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-24-OJ-ITM-V-43",
+   "date": "2026-11-24",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-43)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-24_EN.html",
+   "refs": [
+    "2025/0391(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0391(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_391",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_391?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0391?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "citado en documentos de agricultura y pesca del Consejo"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-24-OJ-ITM-V-43",
+   "date": "2026-11-24",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-43)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-24_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-24-OJ-ITM-V-43",
+   "date": "2026-11-24",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-43)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-24_EN.html",
+   "source": "ep"
+  }
+ ],
+ "council_docs": [
+  {
+   "id": "ST-13819-2026-INIT",
+   "code": "ST 13819/26",
+   "date": "2026-10-11",
+   "title": "AOB item for the meeting of the General Affairs Council on 13 October 2026 Omnibus simplification packages: state of play - Information from the Presidency",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13819-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-15001-2026-INIT",
+   "code": "ST 15001/26",
+   "date": "2026-11-12",
+   "title": "AOB item for the meeting of the General Affairs Council on 19 November 2026 Omnibus simplification packages: state of play - Information from the Presidency",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15001-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2026-02-09",
+    "detail": "remitido al Parlamento"
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "done",
+    "date": "2026-11-04",
+    "detail": "informe aprobado"
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 2,
+  "total": 9,
+  "current": "ep_mandate",
+  "current_label": "Posición del PE",
+  "hint": "El PE fija su posición o el mandato para negociar",
+  "next_label": "Posición del Consejo",
+  "next_date": {
+   "date": "2026-11-24",
+   "body": "Pleno del PE"
+  }
+ },
+ "followed": false,
+ "follow_url": ""
+}

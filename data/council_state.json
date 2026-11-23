@@ -92,7 +92,9 @@
     "14585/26",
     "14710/26",
     "14715/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4626-2026-INIT": {
    "id": "CM-4626-2026-INIT",
@@ -132,7 +134,9 @@
     "14402/26",
     "14415/26",
     "14473/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4584-2026-INIT": {
    "id": "CM-4584-2026-INIT",
@@ -177,7 +181,9 @@
     "14199/26",
     "14205/26",
     "14207/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4472-2026-INIT": {
    "id": "CM-4472-2026-INIT",
@@ -422,7 +428,9 @@
     "15798/26",
     "15810/26",
     "15822/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "ST-15420-2026-REV-1": {
    "id": "ST-15420-2026-REV-1",
@@ -467,7 +475,9 @@
     "15365/26",
     "15366/26",
     "15477/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "ST-15420-2026-INIT": {
    "id": "ST-15420-2026-INIT",
@@ -512,7 +522,9 @@
     "15420/26",
     "15477/26",
     "15514/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4843-2026-INIT": {
    "id": "CM-4843-2026-INIT",
@@ -554,9 +566,10 @@
     "15362/26",
     "15365/26",
     "15366/26",
-    "15514/26",
-    "4843/26"
-   ]
+    "15514/26"
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4750-2026-COR-1": {
    "id": "CM-4750-2026-COR-1",
@@ -592,16 +605,32 @@
    "read": true,
    "meeting_date": "2026-11-06",
    "doc_numbers": [
+    "14614/26",
+    "14617/26",
     "14735/26",
     "14749/26",
     "14751/26",
     "14753/26",
     "14815/26",
+    "14842/26",
+    "14849/26",
     "14899/26",
     "14902/26",
+    "14911/26",
+    "14919/26",
+    "14985/26",
+    "14986/26",
+    "14990/26",
+    "15011/26",
+    "15024/26",
+    "15025/26",
+    "15035/26",
     "15055/26",
+    "15083/26",
     "15180/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4750-2026-INIT": {
    "id": "CM-4750-2026-INIT",
@@ -643,9 +672,10 @@
     "15028/26",
     "15035/26",
     "15055/26",
-    "15083/26",
-    "4750/26"
-   ]
+    "15083/26"
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4517-2026-COR-1": {
    "id": "CM-4517-2026-COR-1",
@@ -691,21 +721,52 @@
    "date": "2026-10-20",
    "step": "Mandato de negociación con el PE",
    "refs": [
-    "2025/0241(COD)"
+    "2025/0241(COD)",
+    "2025/0349(COD)",
+    "2026/0252(NLE)"
    ],
    "read": true,
    "meeting_date": "2026-10-21",
    "doc_numbers": [
+    "11531/26",
     "12522/26",
+    "12768/26",
+    "12769/26",
+    "12770/26",
     "13059/26",
+    "13072/26",
+    "13915/26",
+    "14001/26",
+    "14043/26",
     "14140/26",
+    "14151/26",
     "14219/26",
     "14277/26",
+    "14376/26",
+    "14391/26",
+    "14393/26",
+    "14397/26",
+    "14403/26",
+    "14405/26",
+    "14416/26",
+    "14419/26",
+    "14420/26",
+    "14438/26",
+    "14456/26",
+    "14517/26",
+    "14520/26",
+    "14522/26",
+    "14527/26",
+    "14580/26",
     "14590/26",
+    "1999/62",
+    "2003/87",
     "2014/45",
     "2014/47",
     "2026/27"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4574-2026-REV-1": {
    "id": "CM-4574-2026-REV-1",
@@ -762,7 +823,9 @@
     "2014/45",
     "2014/47",
     "2026/27"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "ST-14592-2026-INIT": {
    "id": "ST-14592-2026-INIT",
@@ -774,23 +837,54 @@
    "date": "2026-10-19",
    "step": "Mandato de negociación con el PE",
    "refs": [
-    "2025/0241(COD)"
+    "2025/0241(COD)",
+    "2025/0349(COD)",
+    "2026/0252(NLE)"
    ],
    "read": true,
    "meeting_date": "2026-10-21",
    "doc_numbers": [
+    "11531/26",
     "12522/26",
+    "12768/26",
+    "12769/26",
+    "12770/26",
     "13059/26",
+    "13072/26",
+    "13915/26",
+    "14001/26",
+    "14043/26",
     "14140/26",
+    "14151/26",
     "14219/26",
     "14277/26",
+    "14376/26",
+    "14391/26",
+    "14393/26",
     "14395/26",
+    "14397/26",
+    "14403/26",
+    "14405/26",
+    "14416/26",
+    "14419/26",
+    "14420/26",
+    "14438/26",
+    "14456/26",
+    "14517/26",
+    "14520/26",
+    "14522/26",
+    "14527/26",
+    "14580/26",
     "14590/26",
     "14592/26",
+    "1999/62",
+    "2003/87",
     "2014/45",
     "2014/47",
     "2026/27"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4574-2026-INIT": {
    "id": "CM-4574-2026-INIT",
@@ -846,9 +940,10 @@
     "2003/87",
     "2014/45",
     "2014/47",
-    "2026/27",
-    "4574/26"
-   ]
+    "2026/27"
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "ST-14210-2026-REV-1": {
    "id": "ST-14210-2026-REV-1",
@@ -1062,7 +1157,7 @@
     "2025/0234(NLE)",
     "2025/0237(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14152-2026-INIT": {
    "id": "ST-14152-2026-INIT",
@@ -1076,7 +1171,7 @@
    "refs": [
     "2025/0237(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14402-2026-INIT": {
    "id": "ST-14402-2026-INIT",
@@ -1090,7 +1185,7 @@
    "refs": [
     "2025/0237(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14415-2026-INIT": {
    "id": "ST-14415-2026-INIT",
@@ -1105,7 +1200,7 @@
     "2025/0234(NLE)",
     "2025/0237(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-9083-2018-ADD-15-REV-1": {
    "id": "WK-9083-2018-ADD-15-REV-1",
@@ -1119,7 +1214,7 @@
    "refs": [
     "2018/0218(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-9083-2018-ADD-2-REV-1": {
    "id": "WK-9083-2018-ADD-2-REV-1",
@@ -1133,7 +1228,7 @@
    "refs": [
     "2018/0218(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-15601-2026-INIT": {
    "id": "WK-15601-2026-INIT",
@@ -1183,7 +1278,7 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14185-2026-REV-1": {
    "id": "ST-14185-2026-REV-1",
@@ -1197,7 +1292,7 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-14277-2026-ADD-5": {
    "id": "WK-14277-2026-ADD-5",
@@ -1211,7 +1306,7 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14207-2026-INIT": {
    "id": "ST-14207-2026-INIT",
@@ -1225,7 +1320,7 @@
    "refs": [
     "2025/0417(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14448-2026-INIT": {
    "id": "ST-14448-2026-INIT",
@@ -1245,15 +1340,21 @@
     "12522/26",
     "14140/26",
     "14201/26",
+    "14211/26",
     "14252/26",
+    "14266/26",
+    "14299/26",
     "14392/26",
     "14448/26",
     "14480/26",
     "14484/26",
+    "14593/26",
     "14655/26",
     "14706/26",
     "14707/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "ST-15970-2026-ADD-1": {
    "id": "ST-15970-2026-ADD-1",
@@ -1291,7 +1392,7 @@
    "refs": [
     "2026/0252(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14874-2026-COR-1": {
    "id": "ST-14874-2026-COR-1",
@@ -1305,7 +1406,10 @@
    "refs": [
     "2026/0240(NLE)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2026/0240(NLE)": "COUNCIL REGULATION fixing the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea for 2027 and amending Regulation (EU) 2026/249 as regards certain fishing opportunities in other waters"
+   }
   },
   "ST-14874-2026-INIT": {
    "id": "ST-14874-2026-INIT",
@@ -1319,7 +1423,7 @@
    "refs": [
     "2026/0240(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-16020-2026-INIT": {
    "id": "ST-16020-2026-INIT",
@@ -1333,7 +1437,10 @@
    "refs": [
     "2025/0106(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2025/0106(COD)": "Regulation of the European Parliament of the Council amending Regulation (EU) 2017/2107 laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), Regulation (EU) 2018/975 laying down management, conservation and control measures applicable in the South Pacific Regional Fisheries Manage"
+   }
   },
   "WK-15577-2026-INIT": {
    "id": "WK-15577-2026-INIT",
@@ -1389,7 +1496,7 @@
    "refs": [
     "2026/0281(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13363-2026-INIT": {
    "id": "ST-13363-2026-INIT",
@@ -1403,7 +1510,7 @@
    "refs": [
     "2026/0282(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13364-2026-INIT": {
    "id": "ST-13364-2026-INIT",
@@ -1417,7 +1524,7 @@
    "refs": [
     "2026/0282(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13917-2026-INIT": {
    "id": "ST-13917-2026-INIT",
@@ -1431,7 +1538,7 @@
    "refs": [
     "2026/0250(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13918-2026-INIT": {
    "id": "ST-13918-2026-INIT",
@@ -1445,7 +1552,7 @@
    "refs": [
     "2026/0251(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-15668-2026-INIT": {
    "id": "ST-15668-2026-INIT",
@@ -1471,7 +1578,8 @@
    "refs": [
     "2021/0200(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "WK-10677-2023-ADD-1": {
    "id": "WK-10677-2023-ADD-1",
@@ -1497,7 +1605,8 @@
    "refs": [
     "2021/0200(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "WK-12856-2021-INIT": {
    "id": "WK-12856-2021-INIT",
@@ -1535,7 +1644,8 @@
    "refs": [
     "2021/0200(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "WK-15636-2022-INIT": {
    "id": "WK-15636-2022-INIT",
@@ -1549,7 +1659,8 @@
    "refs": [
     "2021/0200(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "WK-2209-2022-INIT": {
    "id": "WK-2209-2022-INIT",
@@ -1563,7 +1674,8 @@
    "refs": [
     "2021/0200(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "WK-3388-2022-INIT": {
    "id": "WK-3388-2022-INIT",
@@ -1577,7 +1689,8 @@
    "refs": [
     "2021/0200(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "WK-3702-2022-INIT": {
    "id": "WK-3702-2022-INIT",
@@ -1591,7 +1704,8 @@
    "refs": [
     "2021/0211(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "WK-4213-2022-INIT": {
    "id": "WK-4213-2022-INIT",
@@ -1605,7 +1719,8 @@
    "refs": [
     "2021/0200(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "WK-5267-2022-INIT": {
    "id": "WK-5267-2022-INIT",
@@ -1619,7 +1734,8 @@
    "refs": [
     "2021/0200(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "WK-5444-2023-INIT": {
    "id": "WK-5444-2023-INIT",
@@ -1645,7 +1761,8 @@
    "refs": [
     "2021/0200(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "WK-6286-2023-INIT": {
    "id": "WK-6286-2023-INIT",
@@ -1671,7 +1788,8 @@
    "refs": [
     "2022/0105(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "WK-9597-2021-INIT": {
    "id": "WK-9597-2021-INIT",
@@ -1685,7 +1803,8 @@
    "refs": [
     "2021/0200(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "WK-9609-2022-INIT": {
    "id": "WK-9609-2022-INIT",
@@ -1699,7 +1818,8 @@
    "refs": [
     "2021/0200(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "WK-9815-2021-INIT": {
    "id": "WK-9815-2021-INIT",
@@ -1717,7 +1837,8 @@
     "2021/0202(COD)",
     "2021/0211(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "CM-5059-2026-INIT": {
    "id": "CM-5059-2026-INIT",
@@ -1814,7 +1935,10 @@
    "refs": [
     "2025/0207(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2025/0207(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Chemicals Agency and amending Regulations (EC) No 1907/2006, (EU) No 528/2012, (EU) No 649/2012 and (EU) 2019/1021"
+   }
   },
   "PE-63-2026-INIT": {
    "id": "PE-63-2026-INIT",
@@ -1828,7 +1952,10 @@
    "refs": [
     "2026/0044(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2026/0044(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2019/1753 as regards amendments to the Common Regulations under the Lisbon Agreement for the Protection of Appellations of Origin and their International Registration and the Geneva Act of the Lisbon Agreement on Appellations of Origin and Geographical Indications"
+   }
   },
   "ST-15843-2026-INIT": {
    "id": "ST-15843-2026-INIT",
@@ -1899,7 +2026,9 @@
     "15957/26",
     "15997/26",
     "17629/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-5060-2026-INIT": {
    "id": "CM-5060-2026-INIT",
@@ -1929,7 +2058,8 @@
    "refs": [
     "2026/0349(NLE)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "ST-15162-2026-ADD-2": {
    "id": "ST-15162-2026-ADD-2",
@@ -1943,7 +2073,8 @@
    "refs": [
     "2026/0349(NLE)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "ST-15162-2026-INIT": {
    "id": "ST-15162-2026-INIT",
@@ -1957,7 +2088,10 @@
    "refs": [
     "2026/0349(NLE)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2026/0349(NLE)": "COUNCIL REGULATION fixing for 2027, and in some cases also for 2028 and 2029, the fishing opportunities for certain fish stocks, applicable in Union waters and, for Union fishing vessels, in certain non-Union waters"
+   }
   },
   "ST-15650-2026-INIT": {
    "id": "ST-15650-2026-INIT",
@@ -1971,7 +2105,10 @@
    "refs": [
     "2025/0207(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2025/0207(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Chemicals Agency and amending Regulations (EC) No 1907/2006, (EU) No 528/2012, (EU) No 649/2012 and (EU) 2019/1021"
+   }
   },
   "CM-4533-2026-INIT": {
    "id": "CM-4533-2026-INIT",
@@ -2004,7 +2141,8 @@
    "refs": [
     "2026/0346(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "ST-15858-2026-INIT": {
    "id": "ST-15858-2026-INIT",
@@ -2018,7 +2156,10 @@
    "refs": [
     "2026/0346(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2026/0346(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down management, conservation and control measures applicable in the Convention area of the South East Atlantic Fisheries Organisation (SEAFO)"
+   }
   },
   "ST-14053-2026-INIT": {
    "id": "ST-14053-2026-INIT",
@@ -2032,7 +2173,10 @@
    "refs": [
     "2022/0396(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2022/0396(COD)": "Regulation (EU) 2025/40 of the European Parliament and of the Council of 19 December 2024 on packaging and packaging waste, amending Regulation (EU) 2019/1020 and Directive (EU) 2019/904, and repealing Directive 94/62/EC (Official Journal of the European Union L, 2025/40, 22 January 2025)"
+   }
   },
   "ST-15323-2026-INIT": {
    "id": "ST-15323-2026-INIT",
@@ -2046,7 +2190,10 @@
    "refs": [
     "2026/0044(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2026/0044(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2019/1753 as regards amendments adopted by the Assembly of the Lisbon Union on 14 July 2025 to the Common Regulations under the Lisbon Agreement on Appellations of Origin and Geographical Indications"
+   }
   },
   "CM-4893-2026-REV-1": {
    "id": "CM-4893-2026-REV-1",
@@ -2087,9 +2234,10 @@
     "15587/26",
     "15660/26",
     "15858/26",
-    "17629/26",
-    "5020/26"
-   ]
+    "17629/26"
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "ST-14645-2026-INIT": {
    "id": "ST-14645-2026-INIT",
@@ -2103,7 +2251,10 @@
    "refs": [
     "2025/0531(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2025/0531(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EC) No 1272/2008, (EC) No 1223/2009 and (EU) 2019/1009 as regards simplification of certain requirements and procedures for chemical products"
+   }
   },
   "ST-15291-2026-REV-1": {
    "id": "ST-15291-2026-REV-1",
@@ -2117,7 +2268,8 @@
    "refs": [
     "2025/0531(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "ST-15291-2026-REV-1-ADD-1": {
    "id": "ST-15291-2026-REV-1-ADD-1",
@@ -2131,7 +2283,8 @@
    "refs": [
     "2025/0531(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "ST-15583-2026-INIT": {
    "id": "ST-15583-2026-INIT",
@@ -2181,7 +2334,8 @@
     "2026/0163(CNS)",
     "2026/0169(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "CM-4757-2026-REV-2": {
    "id": "CM-4757-2026-REV-2",
@@ -2209,7 +2363,10 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2025/0241(COD)": "Regulation establishing the conditions for the implementation of Union support under the CAP"
+   }
   },
   "CM-4978-2026-INIT": {
    "id": "CM-4978-2026-INIT",
@@ -2296,7 +2453,9 @@
     "15546/26",
     "15660/26",
     "16896/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4706-2026-INIT": {
    "id": "CM-4706-2026-INIT",
@@ -2326,7 +2485,8 @@
    "refs": [
     "2025/0531(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "CM-4532-2026-INIT": {
    "id": "CM-4532-2026-INIT",
@@ -2500,9 +2660,12 @@
     "15509/26",
     "15511/26",
     "15515/26",
-    "16896/26",
-    "4926/26"
-   ]
+    "15546/26",
+    "15551/26",
+    "16896/26"
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4711-2026-INIT": {
    "id": "CM-4711-2026-INIT",
@@ -2536,7 +2699,10 @@
    "refs": [
     "2026/0325(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2026/0325(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2024/1787 on the reduction of methane emissions in the energy sector as regards the postponement of certain obligations"
+   }
   },
   "CM-4530-2026-REV-1": {
    "id": "CM-4530-2026-REV-1",
@@ -2890,15 +3056,19 @@
     "14237/26",
     "14238/26",
     "14310/26",
+    "14758/26",
     "15159/26",
     "15160/26",
     "15162/26",
     "15177/26",
     "15207/26",
+    "15208/26",
     "16243/26",
     "16491/26",
     "16663/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4702-2026-INIT": {
    "id": "CM-4702-2026-INIT",
@@ -2928,7 +3098,10 @@
    "refs": [
     "2025/0531(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2025/0531(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EC) No 1272/2008, (EC) No 1223/2009, (EU) 2019/1009 and (EU) 2024/2865 as regards simplification of certain requirements and procedures for chemical products"
+   }
   },
   "ST-14837-2026-INIT": {
    "id": "ST-14837-2026-INIT",
@@ -2942,7 +3115,10 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2025/0241(COD)": "Regulation establishing the conditions for the implementation of Union support under the CAP"
+   }
   },
   "CM-4856-2026-INIT": {
    "id": "CM-4856-2026-INIT",
@@ -3093,16 +3269,19 @@
     "14237/26",
     "14238/26",
     "14310/26",
+    "14758/26",
     "15159/26",
     "15160/26",
     "15162/26",
     "15177/26",
     "15207/26",
+    "15208/26",
     "16243/26",
     "16491/26",
-    "16663/26",
-    "4809/26"
-   ]
+    "16663/26"
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4820-2026-INIT": {
    "id": "CM-4820-2026-INIT",
@@ -3243,7 +3422,8 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "ST-14236-2026-ADD-1": {
    "id": "ST-14236-2026-ADD-1",
@@ -3257,7 +3437,7 @@
    "refs": [
     "2026/0310(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14236-2026-INIT": {
    "id": "ST-14236-2026-INIT",
@@ -3271,7 +3451,7 @@
    "refs": [
     "2026/0310(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14237-2026-ADD-1": {
    "id": "ST-14237-2026-ADD-1",
@@ -3285,7 +3465,7 @@
    "refs": [
     "2026/0309(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14237-2026-INIT": {
    "id": "ST-14237-2026-INIT",
@@ -3299,7 +3479,7 @@
    "refs": [
     "2026/0309(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "CM-4757-2026-INIT": {
    "id": "CM-4757-2026-INIT",
@@ -3329,7 +3509,8 @@
    "refs": [
     "2025/0417(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "ST-13978-2026-INIT": {
    "id": "ST-13978-2026-INIT",
@@ -3343,7 +3524,7 @@
    "refs": [
     "2025/0349(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14238-2026-INIT": {
    "id": "ST-14238-2026-INIT",
@@ -3357,7 +3538,7 @@
    "refs": [
     "2026/0311(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14556-2026-INIT": {
    "id": "ST-14556-2026-INIT",
@@ -3383,7 +3564,10 @@
    "refs": [
     "2026/0085(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2026/0085(COD)": "Decision of the European Parliament and of the Council amending Decision (EU) 2015/1814 as regards ceasing the invalidation of allowances in the market stability reserve"
+   }
   },
   "ST-14715-2026-COR-1": {
    "id": "ST-14715-2026-COR-1",
@@ -3397,7 +3581,7 @@
    "refs": [
     "2025/0417(COD)"
    ],
-   "read": true
+   "read": false
   },
   "CM-4737-2026-INIT": {
    "id": "CM-4737-2026-INIT",
@@ -3463,7 +3647,7 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14484-2026-INIT": {
    "id": "ST-14484-2026-INIT",
@@ -3477,7 +3661,7 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14801-2026-INIT": {
    "id": "ST-14801-2026-INIT",
@@ -3543,7 +3727,7 @@
    "refs": [
     "2026/0290(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14865-2026-INIT": {
    "id": "ST-14865-2026-INIT",
@@ -3569,7 +3753,7 @@
    "refs": [
     "2026/0325(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14593-2026-INIT": {
    "id": "ST-14593-2026-INIT",
@@ -3635,7 +3819,7 @@
    "refs": [
     "2025/0417(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14768-2026-INIT": {
    "id": "ST-14768-2026-INIT",
@@ -3649,7 +3833,7 @@
    "refs": [
     "2025/0405(COD)"
    ],
-   "read": true
+   "read": false
   },
   "CM-4685-2026-INIT": {
    "id": "CM-4685-2026-INIT",
@@ -3699,7 +3883,7 @@
    "refs": [
     "2024/0098(COD)"
    ],
-   "read": true
+   "read": false
   },
   "PE-28-2026-REV-1": {
    "id": "PE-28-2026-REV-1",
@@ -3713,7 +3897,7 @@
    "refs": [
     "2025/0106(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14678-2026-ADD-1": {
    "id": "ST-14678-2026-ADD-1",
@@ -3781,8 +3965,11 @@
     "14431/26",
     "14552/26",
     "14563/26",
+    "14657/26",
     "15715/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "ST-14758-2026-ADD-1": {
    "id": "ST-14758-2026-ADD-1",
@@ -3820,7 +4007,7 @@
    "refs": [
     "2016/0392(COD)"
    ],
-   "read": true
+   "read": false
   },
   "CM-4413-2026-INIT": {
    "id": "CM-4413-2026-INIT",
@@ -3846,7 +4033,7 @@
    "refs": [
     "2025/0349(COD)"
    ],
-   "read": true
+   "read": false
   },
   "CM-4683-2026-INIT": {
    "id": "CM-4683-2026-INIT",
@@ -3892,7 +4079,7 @@
    "refs": [
     "2026/0325(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-6014-2025-ADD-24": {
    "id": "ST-6014-2025-ADD-24",
@@ -4014,7 +4201,7 @@
    "refs": [
     "2025/0237(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14653-2026-ADD-1": {
    "id": "ST-14653-2026-ADD-1",
@@ -4070,8 +4257,11 @@
     "14431/26",
     "14552/26",
     "14563/26",
+    "14657/26",
     "15715/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4641-2026-INIT": {
    "id": "CM-4641-2026-INIT",
@@ -4109,7 +4299,7 @@
    "refs": [
     "2026/0252(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14671-2026-ADD-1": {
    "id": "ST-14671-2026-ADD-1",
@@ -4123,7 +4313,7 @@
    "refs": [
     "2026/0323(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14671-2026-INIT": {
    "id": "ST-14671-2026-INIT",
@@ -4137,7 +4327,7 @@
    "refs": [
     "2026/0323(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "CM-4610-2026-INIT": {
    "id": "CM-4610-2026-INIT",
@@ -4169,9 +4359,10 @@
     "14431/26",
     "14552/26",
     "14563/26",
-    "15715/26",
-    "4610/26"
-   ]
+    "15715/26"
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4660-2026-INIT": {
    "id": "CM-4660-2026-INIT",
@@ -4237,7 +4428,7 @@
    "refs": [
     "2025/0349(COD)"
    ],
-   "read": true
+   "read": false
   },
   "CM-4539-2026-REV-1": {
    "id": "CM-4539-2026-REV-1",
@@ -4269,7 +4460,9 @@
     "14277/26",
     "14312/26",
     "15715/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4578-2026-INIT": {
    "id": "CM-4578-2026-INIT",
@@ -4311,7 +4504,7 @@
    "refs": [
     "2013/0140(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14266-2026-INIT": {
    "id": "ST-14266-2026-INIT",
@@ -4422,7 +4615,7 @@
     "2026/0163(CNS)",
     "2026/0169(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-10746-2022-INIT": {
    "id": "WK-10746-2022-INIT",
@@ -4436,7 +4629,7 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-11714-2022-INIT": {
    "id": "WK-11714-2022-INIT",
@@ -4450,7 +4643,7 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-12197-2022-INIT": {
    "id": "WK-12197-2022-INIT",
@@ -4464,7 +4657,7 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-13048-2022-INIT": {
    "id": "WK-13048-2022-INIT",
@@ -4478,7 +4671,7 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-13728-2022-INIT": {
    "id": "WK-13728-2022-INIT",
@@ -4492,7 +4685,7 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-14682-2022-INIT": {
    "id": "WK-14682-2022-INIT",
@@ -4506,7 +4699,7 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-1485-2023-INIT": {
    "id": "WK-1485-2023-INIT",
@@ -4532,7 +4725,7 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-17354-2022-INIT": {
    "id": "WK-17354-2022-INIT",
@@ -4546,7 +4739,7 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-207-2023-INIT": {
    "id": "WK-207-2023-INIT",
@@ -4560,7 +4753,7 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-2124-2023-INIT": {
    "id": "WK-2124-2023-INIT",
@@ -4586,7 +4779,7 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-3434-2023-INIT": {
    "id": "WK-3434-2023-INIT",
@@ -4600,7 +4793,7 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-3753-2017-INIT": {
    "id": "WK-3753-2017-INIT",
@@ -4626,7 +4819,7 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-5617-2023-INIT": {
    "id": "WK-5617-2023-INIT",
@@ -4640,7 +4833,7 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13852-2026-ADD-1": {
    "id": "ST-13852-2026-ADD-1",
@@ -4666,7 +4859,7 @@
    "refs": [
     "2026/0227(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13673-2026-INIT": {
    "id": "ST-13673-2026-INIT",
@@ -4680,7 +4873,7 @@
    "refs": [
     "2016/0084(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13677-2026-INIT": {
    "id": "ST-13677-2026-INIT",
@@ -4694,7 +4887,7 @@
    "refs": [
     "2008/0110(COD)"
    ],
-   "read": true
+   "read": false
   },
   "CM-4539-2026-INIT": {
    "id": "CM-4539-2026-INIT",
@@ -4725,9 +4918,10 @@
     "14277/26",
     "14310/26",
     "14312/26",
-    "15715/26",
-    "4539/26"
-   ]
+    "15715/26"
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "ST-14270-2026-ADD-1": {
    "id": "ST-14270-2026-ADD-1",
@@ -4849,7 +5043,7 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14205-2026-INIT": {
    "id": "ST-14205-2026-INIT",
@@ -4863,7 +5057,7 @@
    "refs": [
     "2025/0417(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-14066-2026-INIT": {
    "id": "ST-14066-2026-INIT",
@@ -4910,9 +5104,10 @@
     "2002/56",
     "2002/57",
     "2008/72",
-    "2008/90",
-    "4504/26"
-   ]
+    "2008/90"
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "ST-13857-2026-INIT": {
    "id": "ST-13857-2026-INIT",
@@ -4950,7 +5145,9 @@
     "13992/26",
     "14083/26",
     "15323/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4499-2026-INIT": {
    "id": "CM-4499-2026-INIT",
@@ -4980,7 +5177,7 @@
    "refs": [
     "2026/0189(COD)"
    ],
-   "read": true
+   "read": false
   },
   "CM-4191-2026-COR-1": {
    "id": "CM-4191-2026-COR-1",
@@ -5049,7 +5246,9 @@
     "13358/26",
     "13814/26",
     "13894/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4355-2026-INIT": {
    "id": "CM-4355-2026-INIT",
@@ -5129,7 +5328,9 @@
     "13906/26",
     "13908/26",
     "13910/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "ST-13856-2026-INIT": {
    "id": "ST-13856-2026-INIT",
@@ -5213,9 +5414,10 @@
     "13903/26",
     "13906/26",
     "13908/26",
-    "13910/26",
-    "4349/26"
-   ]
+    "13910/26"
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "ST-13665-2026-ADD-1": {
    "id": "ST-13665-2026-ADD-1",
@@ -5376,7 +5578,7 @@
    "refs": [
     "2025/0410(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13633-2026-INIT": {
    "id": "ST-13633-2026-INIT",
@@ -5390,7 +5592,7 @@
    "refs": [
     "2025/0406(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-14551-2026-INIT": {
    "id": "WK-14551-2026-INIT",
@@ -5404,7 +5606,7 @@
    "refs": [
     "2025/0406(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13814-2026-INIT": {
    "id": "ST-13814-2026-INIT",
@@ -5419,7 +5621,7 @@
     "2025/0234(NLE)",
     "2025/0237(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-14964-2026-INIT": {
    "id": "WK-14964-2026-INIT",
@@ -5445,7 +5647,7 @@
    "refs": [
     "2023/0448(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-12193-2026-REV-1": {
    "id": "ST-12193-2026-REV-1",
@@ -5459,7 +5661,7 @@
    "refs": [
     "2023/0448(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-14661-2026-INIT": {
    "id": "WK-14661-2026-INIT",
@@ -5533,7 +5735,7 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-14277-2026-ADD-3": {
    "id": "WK-14277-2026-ADD-3",
@@ -5547,7 +5749,7 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-14277-2026-ADD-4": {
    "id": "WK-14277-2026-ADD-4",
@@ -5561,7 +5763,7 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-15058-2026-INIT": {
    "id": "WK-15058-2026-INIT",
@@ -5575,7 +5777,7 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-15165-2026-INIT": {
    "id": "WK-15165-2026-INIT",
@@ -5589,7 +5791,7 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-15697-2026-INIT": {
    "id": "ST-15697-2026-INIT",
@@ -5616,9 +5818,12 @@
     "15907/26",
     "15949/26",
     "16035/26",
+    "16041/26",
     "16072/26",
     "16073/26"
-   ]
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "WK-14312-2026-INIT": {
    "id": "WK-14312-2026-INIT",
@@ -5656,7 +5861,7 @@
    "refs": [
     "2026/0252(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13817-2026-INIT": {
    "id": "ST-13817-2026-INIT",
@@ -5670,7 +5875,7 @@
    "refs": [
     "2025/0555(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13818-2026-INIT": {
    "id": "ST-13818-2026-INIT",
@@ -5684,7 +5889,7 @@
    "refs": [
     "2025/0555(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-15055-2026-INIT": {
    "id": "WK-15055-2026-INIT",
@@ -5698,7 +5903,7 @@
    "refs": [
     "2025/0543(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13962-2026-ADD-1": {
    "id": "ST-13962-2026-ADD-1",
@@ -5725,7 +5930,7 @@
     "2025/0234(NLE)",
     "2025/0237(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-13250-2026-REV-1": {
    "id": "WK-13250-2026-REV-1",
@@ -5739,7 +5944,7 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-14277-2026-ADD-1": {
    "id": "WK-14277-2026-ADD-1",
@@ -5765,7 +5970,7 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-14949-2026-INIT": {
    "id": "WK-14949-2026-INIT",
@@ -5779,7 +5984,7 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": false
   },
   "WK-11714-2022-ADD-1": {
    "id": "WK-11714-2022-ADD-1",
@@ -5829,7 +6034,7 @@
    "refs": [
     "2022/0195(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13033-2026-INIT": {
    "id": "ST-13033-2026-INIT",
@@ -5843,7 +6048,7 @@
    "refs": [
     "2025/0106(COD)"
    ],
-   "read": true
+   "read": false
   },
   "CM-4430-2026-INIT": {
    "id": "CM-4430-2026-INIT",
@@ -5873,7 +6078,7 @@
    "refs": [
     "2025/0106(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13040-2026-INIT": {
    "id": "ST-13040-2026-INIT",
@@ -5887,7 +6092,7 @@
    "refs": [
     "2024/0098(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13852-2026-INIT": {
    "id": "ST-13852-2026-INIT",
@@ -5935,9 +6140,10 @@
     "13790/26",
     "13966/26",
     "13992/26",
-    "15323/26",
-    "4424/26"
-   ]
+    "15323/26"
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "ST-13992-2026-ADD-2": {
    "id": "ST-13992-2026-ADD-2",
@@ -5951,7 +6157,7 @@
    "refs": [
     "2026/0302(COD)"
    ],
-   "read": true
+   "read": false
   },
   "CM-4318-2026-INIT": {
    "id": "CM-4318-2026-INIT",
@@ -5991,7 +6197,7 @@
    "refs": [
     "2026/0302(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13992-2026-ADD-3": {
    "id": "ST-13992-2026-ADD-3",
@@ -6005,7 +6211,7 @@
    "refs": [
     "2026/0302(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13992-2026-ADD-4": {
    "id": "ST-13992-2026-ADD-4",
@@ -6019,7 +6225,7 @@
    "refs": [
     "2026/0302(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13992-2026-INIT": {
    "id": "ST-13992-2026-INIT",
@@ -6033,7 +6239,7 @@
    "refs": [
     "2026/0302(COD)"
    ],
-   "read": true
+   "read": false
   },
   "CM-4397-2026-INIT": {
    "id": "CM-4397-2026-INIT",
@@ -6079,7 +6285,7 @@
    "refs": [
     "2023/0131(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13690-2026-INIT": {
    "id": "ST-13690-2026-INIT",
@@ -6093,7 +6299,7 @@
    "refs": [
     "1995/0302(CNS)"
    ],
-   "read": true
+   "read": false
   },
   "PE-28-2026-INIT": {
    "id": "PE-28-2026-INIT",
@@ -6107,7 +6313,7 @@
    "refs": [
     "2025/0106(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-12926-2026-INIT": {
    "id": "ST-12926-2026-INIT",
@@ -6121,7 +6327,7 @@
    "refs": [
     "2021/0218(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13563-2026-INIT": {
    "id": "ST-13563-2026-INIT",
@@ -6135,7 +6341,7 @@
    "refs": [
     "2026/0044(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13812-2026-ADD-1": {
    "id": "ST-13812-2026-ADD-1",
@@ -6189,7 +6395,7 @@
    "refs": [
     "2024/0098(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13729-2026-INIT": {
    "id": "ST-13729-2026-INIT",
@@ -6203,7 +6409,7 @@
    "refs": [
     "2025/0235(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13785-2026-INIT": {
    "id": "ST-13785-2026-INIT",
@@ -6217,7 +6423,7 @@
    "refs": [
     "2025/0410(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13768-2026-INIT": {
    "id": "ST-13768-2026-INIT",
@@ -6231,7 +6437,7 @@
    "refs": [
     "2023/0131(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13702-2026-INIT": {
    "id": "ST-13702-2026-INIT",
@@ -6245,7 +6451,7 @@
    "refs": [
     "2026/0229(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-7105-2026-REV-2": {
    "id": "ST-7105-2026-REV-2",
@@ -6259,7 +6465,7 @@
    "refs": [
     "2023/0131(COD)"
    ],
-   "read": true
+   "read": false
   },
   "CM-4320-2026-REV-1": {
    "id": "CM-4320-2026-REV-1",
@@ -6285,7 +6491,7 @@
    "refs": [
     "2026/0290(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13675-2026-INIT": {
    "id": "ST-13675-2026-INIT",
@@ -6299,7 +6505,7 @@
    "refs": [
     "2026/0290(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13164-2026-INIT": {
    "id": "ST-13164-2026-INIT",
@@ -6313,7 +6519,7 @@
    "refs": [
     "2015/0275(COD)"
    ],
-   "read": true
+   "read": false
   },
   "CM-4133-2026-INIT": {
    "id": "CM-4133-2026-INIT",
@@ -6343,7 +6549,7 @@
    "refs": [
     "2026/0227(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13265-2026-INIT": {
    "id": "ST-13265-2026-INIT",
@@ -6362,16 +6568,29 @@
    "doc_numbers": [
     "12891/26",
     "12978/26",
+    "13046/26",
+    "13099/26",
+    "13108/26",
     "13238/26",
+    "13245/26",
     "13265/26",
     "13316/26",
+    "13386/26",
+    "13432/26",
+    "13436/26",
     "13470/26",
     "13473/26",
     "13521/26",
+    "13527/26",
+    "13534/26",
     "13535/26",
     "13536/26",
-    "13542/26"
-   ]
+    "13538/26",
+    "13542/26",
+    "13543/26"
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "ST-13534-2026-INIT": {
    "id": "ST-13534-2026-INIT",
@@ -6409,7 +6628,7 @@
    "refs": [
     "2023/0131(COD)"
    ],
-   "read": true
+   "read": false
   },
   "CM-4319-2026-INIT": {
    "id": "CM-4319-2026-INIT",
@@ -6434,9 +6653,10 @@
     "13507/26",
     "13675/26",
     "13676/26",
-    "13684/26",
-    "4319/26"
-   ]
+    "13684/26"
+   ],
+   "ref_titles": {},
+   "cm_clean": true
   },
   "CM-4320-2026-INIT": {
    "id": "CM-4320-2026-INIT",
@@ -6622,7 +6842,7 @@
    "refs": [
     "2025/0241(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13551-2026-INIT": {
    "id": "ST-13551-2026-INIT",
@@ -6698,7 +6918,7 @@
    "refs": [
     "2021/0048(NLE)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13517-2026-INIT": {
    "id": "ST-13517-2026-INIT",
@@ -6712,7 +6932,7 @@
    "refs": [
     "2026/0085(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-13399-2026-INIT": {
    "id": "ST-13399-2026-INIT",
@@ -6846,7 +7066,7 @@
    "refs": [
     "2025/0240(COD)"
    ],
-   "read": true
+   "read": false
   },
   "ST-15920-2026-INIT": {
    "id": "ST-15920-2026-INIT",
@@ -6860,7 +7080,10 @@
    "refs": [
     "2026/0240(NLE)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2026/0240(NLE)": "COUNCIL REGULATION fixing the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea for 2027 and amending Regulation (EU) 2026/249 as regards certain fishing opportunities in other waters"
+   }
   },
   "CM-5110-2026-INIT": {
    "id": "CM-5110-2026-INIT",
@@ -6890,7 +7113,8 @@
    "refs": [
     "2026/0044(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "ST-16052-2026-INIT": {
    "id": "ST-16052-2026-INIT",
@@ -6904,7 +7128,8 @@
    "refs": [
     "2025/0207(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {}
   },
   "ST-16229-2026-INIT": {
    "id": "ST-16229-2026-INIT",
@@ -6918,7 +7143,10 @@
    "refs": [
     "2026/0325(COD)"
    ],
-   "read": true
+   "read": true,
+   "ref_titles": {
+    "2026/0325(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2024/1787 on the reduction of methane emissions in the energy sector as regards the postponement of certain obligations"
+   }
   },
   "ST-15372-2026-INIT": {
    "id": "ST-15372-2026-INIT",
@@ -6945,5 +7173,7 @@
    "read": true
   }
  },
- "first_run_done": true
+ "first_run_done": true,
+ "version": 2,
+ "numbers_checked": {}
 }

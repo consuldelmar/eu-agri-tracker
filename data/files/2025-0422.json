@@ -1,0 +1,502 @@
+{
+ "ref": "2025/0422(COD)",
+ "id": "2025-0422",
+ "type": "COD",
+ "title": "Modificación de los Reglamentos (CE) n.º 561/2006, (UE) 2018/858, (UE) 2019/2144 y (UE) 2024/1257 del Parlamento Europeo y del Consejo en lo que respecta a la simplificación de los requisitos técnicos y los procedimientos de ensayo de los vehículos de motor y derogación de la Directiva 70/157/CEE del Consejo y el Reglamento (UE) n.º 540/2014 del Parlamento Europeo y del Consejo",
+ "title_en": "Amending Regulations (EC) No 561/2006, (EU) 2018/858, (EU) 2019/2144 and (EU) 2024/1257 of the European Parliament and of the Council as regards the simplification of technical requirements and testing procedures for motor vehicles and repealing Council Directive 70/157/EEC and Regulation No 540/2014 of the European Parliament and of the Council",
+ "stage": "Informe aprobado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "joint"
+  },
+  {
+   "code": "IMCO",
+   "role": "joint"
+  },
+  {
+   "code": "TRAN",
+   "role": "joint"
+  },
+  {
+   "code": "EMPL",
+   "role": "opinion"
+  },
+  {
+   "code": "ITRE",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "256814",
+   "name": "Zala ČERNILEC TOMAŠIČ",
+   "group": "PPE",
+   "country": "SI",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-05-27"
+  },
+  {
+   "id": "37312",
+   "name": "Christel SCHALDEMOSE",
+   "group": "S&D",
+   "country": "DK",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-06-02"
+  },
+  {
+   "id": "272024",
+   "name": "Antonín STANĚK",
+   "group": "PfE",
+   "country": "CZ",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-05-25"
+  },
+  {
+   "id": "197537",
+   "name": "Alexandr VONDRA",
+   "group": "ECR",
+   "country": "CZ",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-06-02"
+  },
+  {
+   "id": "198084",
+   "name": "Katri KULMUNI",
+   "group": "Renew",
+   "country": "FI",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-02-26"
+  },
+  {
+   "id": "197449",
+   "name": "Michael BLOSS",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2026-03-18"
+  },
+  {
+   "id": "2268",
+   "name": "Jonas SJÖSTEDT",
+   "group": "The Left",
+   "country": "SE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-05-25"
+  },
+  {
+   "id": "4289",
+   "name": "Angelika NIEBLER",
+   "group": "PPE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2026-10-12"
+  },
+  {
+   "id": "257102",
+   "name": "Giorgio GORI",
+   "group": "S&D",
+   "country": "IT",
+   "role": "opinion_rapporteur",
+   "committee": "ITRE",
+   "since": "2026-04-24"
+  },
+  {
+   "id": "101039",
+   "name": "Paolo BORCHIA",
+   "group": "PfE",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2026-10-06"
+  },
+  {
+   "id": "257095",
+   "name": "Elena DONAZZAN",
+   "group": "ECR",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2026-10-01"
+  },
+  {
+   "id": "96709",
+   "name": "Morten LØKKEGAARD",
+   "group": "Renew",
+   "country": "DK",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2026-10-01"
+  },
+  {
+   "id": "197449",
+   "name": "Michael BLOSS",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2026-10-05"
+  },
+  {
+   "id": "256924",
+   "name": "Sarah KNAFO",
+   "group": "ESN",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "ITRE",
+   "since": "2026-10-07"
+  },
+  {
+   "id": "28223",
+   "name": "Andreas SCHWAB",
+   "group": "PPE",
+   "country": "DE",
+   "role": "rapporteur",
+   "committee": "IMCO",
+   "since": "2026-03-18"
+  },
+  {
+   "id": "256908",
+   "name": "François KALFON",
+   "group": "S&D",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2026-03-05"
+  },
+  {
+   "id": "256834",
+   "name": "Elisabeth DIERINGER",
+   "group": "PfE",
+   "country": "AT",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2026-05-11"
+  },
+  {
+   "id": "257096",
+   "name": "Stefano CAVEDAGNA",
+   "group": "ECR",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2026-04-21"
+  },
+  {
+   "id": "257259",
+   "name": "Nikola MINCHEV",
+   "group": "Renew",
+   "country": "BG",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2026-03-05"
+  },
+  {
+   "id": "197395",
+   "name": "Alice KUHNKE",
+   "group": "Verts/ALE",
+   "country": "SE",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2026-04-27"
+  },
+  {
+   "id": "256928",
+   "name": "Petr BYSTRON",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "IMCO",
+   "since": "2026-10-05"
+  },
+  {
+   "id": "124807",
+   "name": "Jens GIESEKE",
+   "group": "PPE",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2026-03-18"
+  },
+  {
+   "id": "256937",
+   "name": "Vivien COSTANZO",
+   "group": "S&D",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2026-03-18"
+  },
+  {
+   "id": "256998",
+   "name": "Rachel BLOM",
+   "group": "PfE",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2026-05-27"
+  },
+  {
+   "id": "256845",
+   "name": "Ondřej KRUTÍLEK",
+   "group": "ECR",
+   "country": "CZ",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2026-03-17"
+  },
+  {
+   "id": "256870",
+   "name": "Valérie DEVAUX",
+   "group": "Renew",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2026-03-23"
+  },
+  {
+   "id": "124736",
+   "name": "Merja KYLLÖNEN",
+   "group": "The Left",
+   "country": "FI",
+   "role": "rapporteur",
+   "committee": "TRAN",
+   "since": "2026-03-18"
+  },
+  {
+   "id": "267485",
+   "name": "Volker SCHNURRBUSCH",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2026-06-01"
+  },
+  {
+   "id": "201945",
+   "name": "Virginijus SINKEVIČIUS",
+   "group": "Verts/ALE",
+   "country": "LT",
+   "role": "shadow",
+   "committee": "TRAN",
+   "since": "2026-03-19"
+  }
+ ],
+ "started": "2026-02-09",
+ "last_activity": "2026-11-04",
+ "events": [
+  {
+   "date": "2026-02-09",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-06-26",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión (2 documentos)",
+   "docs": [
+    {
+     "id": "CJ76-AM-789933",
+     "title": "CJ76-AM-789933",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ76-AM-789089",
+     "title": "CJ76-AM-789089",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-30",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "CJ76-AM-789167",
+     "title": "CJ76-AM-789167",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "type": "COMMITTEE_ADOPTING_OPINION",
+   "title": "Opinión aprobada en comisión",
+   "docs": [
+    {
+     "id": "ITRE-AD-789889",
+     "title": "Opinión ITRE (789889)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AD-789889_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "CJ76-AM-789933",
+   "title": "CJ76-AM-789933",
+   "url": "",
+   "kind": "other",
+   "date": "2026-06-26"
+  },
+  {
+   "id": "CJ76-AM-789089",
+   "title": "CJ76-AM-789089",
+   "url": "",
+   "kind": "other",
+   "date": "2026-06-26"
+  },
+  {
+   "id": "CJ76-AM-789167",
+   "title": "CJ76-AM-789167",
+   "url": "",
+   "kind": "other",
+   "date": "2026-06-30"
+  },
+  {
+   "id": "ITRE-AD-789889",
+   "title": "Opinión ITRE (789889)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ITRE-AD-789889_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-10-22"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0422(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_422",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_422?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0422?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "citado en documentos de agricultura y pesca del Consejo"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [
+  {
+   "id": "ST-13819-2026-INIT",
+   "code": "ST 13819/26",
+   "date": "2026-10-11",
+   "title": "AOB item for the meeting of the General Affairs Council on 13 October 2026 Omnibus simplification packages: state of play - Information from the Presidency",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13819-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-15001-2026-INIT",
+   "code": "ST 15001/26",
+   "date": "2026-11-12",
+   "title": "AOB item for the meeting of the General Affairs Council on 19 November 2026 Omnibus simplification packages: state of play - Information from the Presidency",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15001-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2026-02-09",
+    "detail": "remitido al Parlamento"
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "done",
+    "date": "2026-11-04",
+    "detail": "informe aprobado"
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 2,
+  "total": 9,
+  "current": "ep_mandate",
+  "current_label": "Posición del PE",
+  "hint": "El PE fija su posición o el mandato para negociar",
+  "next_label": "Posición del Consejo",
+  "next_date": null
+ },
+ "followed": false,
+ "follow_url": ""
+}

@@ -1,0 +1,524 @@
+{
+ "ref": "2021/0200(COD)",
+ "id": "2021-0200",
+ "type": "COD",
+ "title": "Modificación del Reglamento (UE) 2018/842 sobre reducciones anuales vinculantes de las emisiones de gases de efecto invernadero por parte de los Estados miembros entre 2021 y 2030 que contribuyan a la acción por el clima, con objeto de cumplir los compromisos contraídos en el marco del Acuerdo de París",
+ "title_en": "Amending Regulation (EU) 2018/842 on binding annual greenhouse gas emission reductions by Member States from 2021 to 2030 contributing to climate action to meet commitments under the Paris Agreement",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [],
+ "people": [],
+ "started": "2021-09-13",
+ "last_activity": "2023-04-26",
+ "events": [
+  {
+   "date": "2021-09-13",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2022-06-07",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "C-9-2021-0320",
+     "title": "Propuesta o documento recibido C9-0320/2021",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2022-0161",
+     "title": "Informe A9-0161/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0161_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2021-0322",
+     "title": "Propuesta o documento recibido C9-0322/2021",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "C-9-2021-0321",
+     "title": "Propuesta o documento recibido C9-0321/2021",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2022-0150",
+     "title": "Informe A9-0150/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0150_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2022-0163",
+     "title": "Informe A9-0163/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0163_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2022-06-08",
+   "type": "PLENARY_AMEND",
+   "title": "Enmiendas aprobadas en el Pleno",
+   "docs": []
+  },
+  {
+   "date": "2022-06-08",
+   "type": "PLENARY_REFER_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
+   "title": "Devuelto a comisión para negociaciones (trílogos)",
+   "docs": []
+  },
+  {
+   "date": "2022-06-08",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "C-9-2021-0321",
+     "title": "Propuesta o documento recibido C9-0321/2021",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2022-0163",
+     "title": "Informe A9-0163/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0163_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "CRE-9-2022-06-08-ITM-016-01",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2022-06-08-ITM-016-01_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2022-06-08-ITM-016-01",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2022-06-08-ITM-016-01_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2022-06-08",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2022-0163",
+     "title": "Informe A9-0163/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0163_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-03-13",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": [
+    {
+     "id": "C-9-2021-0321",
+     "title": "Propuesta o documento recibido C9-0321/2021",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2022-0045",
+     "title": "Informe A9-0045/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0045_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2021-0325",
+     "title": "Propuesta o documento recibido C9-0325/2021",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "C-9-2021-0320",
+     "title": "Propuesta o documento recibido C9-0320/2021",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2022-0163",
+     "title": "Informe A9-0163/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0163_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2022-0161",
+     "title": "Informe A9-0161/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0161_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-03-14",
+   "type": "PLENARY_ADOPT_POSITION",
+   "title": "Posición del Parlamento aprobada en el Pleno",
+   "docs": [
+    {
+     "id": "TA-9-2023-0065",
+     "title": "Texto aprobado P9_TA(2023)0065",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0065_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2023-03-14",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "C-9-2021-0321",
+     "title": "Propuesta o documento recibido C9-0321/2021",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2022-0163",
+     "title": "Informe A9-0163/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0163_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "CRE-9-2023-03-14-ITM-007-06",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2023-03-14-ITM-007-06_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2023-03-14-ITM-007-06",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2023-03-14-ITM-007-06_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2023-03-14",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2022-0163",
+     "title": "Informe A9-0163/2022",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0163_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2023-04-19",
+   "type": "SIGNATURE",
+   "title": "Acto firmado",
+   "docs": []
+  },
+  {
+   "date": "2023-04-26",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "C-9-2021-0320",
+   "title": "Propuesta o documento recibido C9-0320/2021",
+   "url": "",
+   "kind": "proposal",
+   "date": "2022-06-07"
+  },
+  {
+   "id": "A-9-2022-0161",
+   "title": "Informe A9-0161/2022",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0161_EN.html",
+   "kind": "report",
+   "date": "2022-06-07"
+  },
+  {
+   "id": "C-9-2021-0322",
+   "title": "Propuesta o documento recibido C9-0322/2021",
+   "url": "",
+   "kind": "proposal",
+   "date": "2022-06-07"
+  },
+  {
+   "id": "A-9-2022-0150",
+   "title": "Informe A9-0150/2022",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0150_EN.html",
+   "kind": "report",
+   "date": "2022-06-07"
+  },
+  {
+   "id": "A-9-2022-0045",
+   "title": "Informe A9-0045/2022",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0045_EN.html",
+   "kind": "report",
+   "date": "2023-03-13"
+  },
+  {
+   "id": "C-9-2021-0325",
+   "title": "Propuesta o documento recibido C9-0325/2021",
+   "url": "",
+   "kind": "proposal",
+   "date": "2023-03-13"
+  },
+  {
+   "id": "C-9-2021-0321",
+   "title": "Propuesta o documento recibido C9-0321/2021",
+   "url": "",
+   "kind": "proposal",
+   "date": "2023-03-14"
+  },
+  {
+   "id": "A-9-2022-0163",
+   "title": "Informe A9-0163/2022",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2022-0163_EN.html",
+   "kind": "report",
+   "date": "2023-03-14"
+  },
+  {
+   "id": "TA-9-2023-0065",
+   "title": "Texto aprobado P9_TA(2023)0065",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0065_EN.html",
+   "kind": "adopted_text",
+   "date": "2023-03-14"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0200(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2021_200",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2021_200?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2021-0200?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "citado en documentos de agricultura y pesca del Consejo"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [
+  {
+   "id": "WK-10422-2021-INIT",
+   "code": "WK 10422/21",
+   "date": "2026-11-03",
+   "title": "Fit for 55 package - ESR: Follow-up to the Informal VC of the WPE on 6 September 2021 - Call for comments and Commission presentation",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-10422-2021-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-10713-2021-INIT",
+   "code": "WK 10713/21",
+   "date": "2026-11-03",
+   "title": "Fit for 55 package - ESR: Informal consolidated version of the ESR proposal",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-10713-2021-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-1393-2022-INIT",
+   "code": "WK 1393/22",
+   "date": "2026-11-03",
+   "title": "Fit for 55 package - ESR: Follow-up to the WPE meeting on 31 January 2022 - Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-1393-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-15636-2022-INIT",
+   "code": "WK 15636/22",
+   "date": "2026-11-03",
+   "title": "Fit for 55 package (ESR): WPE meeting on 14 November 2022 - Presentation by the Commission",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-15636-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Acuerdo provisional con el PE",
+   "meeting_date": null
+  },
+  {
+   "id": "WK-2209-2022-INIT",
+   "code": "WK 2209/22",
+   "date": "2026-11-03",
+   "title": "Fit for 55 package - ESR: Follow-up to the WPE meeting on 15 February 2022 (afternoon) - Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-2209-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-3388-2022-INIT",
+   "code": "WK 3388/22",
+   "date": "2026-11-03",
+   "title": "Fit for 55 package - ESR: Follow-up to the WPE meeting on 7 March 2022 (afternoon) - Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-3388-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-4213-2022-INIT",
+   "code": "WK 4213/22",
+   "date": "2026-11-03",
+   "title": "Fit for 55 package - ESR: Follow-up to the WPE meeting on 22 March 2022 - Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-4213-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-5267-2022-INIT",
+   "code": "WK 5267/22",
+   "date": "2026-11-03",
+   "title": "Fit for 55 package - ESR: Follow-up to the WPE meeting on 7 April 2022 - Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-5267-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-6150-2022-INIT",
+   "code": "WK 6150/22",
+   "date": "2026-11-03",
+   "title": "Fit for 55 package - ESR: Follow-up to the WPE meeting on 28 April 2022 - Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-6150-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-9597-2021-INIT",
+   "code": "WK 9597/21",
+   "date": "2026-11-03",
+   "title": "ESR Revision: Commission Regulatory Scrutiny Board Opinion",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-9597-2021-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-9609-2022-INIT",
+   "code": "WK 9609/22",
+   "date": "2026-11-03",
+   "title": "Fit for 55 - ESR: follow-up to the WPE on 1 July - Call for comments",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-9609-2022-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "WK-9815-2021-INIT",
+   "code": "WK 9815/21",
+   "date": "2026-11-03",
+   "title": "Fit for 55 package: Informal VC of the WPE on 23 July 2021 - Commission presentation",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-9815-2021-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2021-09-13",
+    "detail": "remitido al Parlamento"
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "done",
+    "date": "2022-06-08",
+    "detail": "devuelto a comisión para negociar"
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "done",
+    "date": "2026-11-03",
+    "detail": "texto final del Consejo (WK 15636/22)"
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "implied",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "done",
+    "date": "2023-04-19",
+    "detail": "adoptado y firmado"
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "done",
+    "date": "2023-04-26",
+    "detail": "publicado"
+   }
+  ],
+  "done": 9,
+  "total": 9,
+  "current": null,
+  "current_label": "Diario Oficial",
+  "hint": "",
+  "next_label": "",
+  "next_date": null
+ },
+ "followed": false,
+ "follow_url": ""
+}

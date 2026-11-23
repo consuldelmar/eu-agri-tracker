@@ -1,0 +1,438 @@
+{
+ "ref": "2025/0405(COD)",
+ "id": "2025-0405",
+ "type": "COD",
+ "title": "Modificación de las Directivas 2001/18/CE y 2010/53/UE en lo que respecta a la comercialización de microorganismos modificados genéticamente y al procesamiento de órganos",
+ "title_en": "Amending Directives 2001/18/EC and 2010/53/EU as regards the placing on the market of genetically modified micro-organisms and the processing of organs",
+ "stage": "Informe aprobado en comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "joint"
+  },
+  {
+   "code": "SANT",
+   "role": "joint"
+  }
+ ],
+ "people": [
+  {
+   "id": "197404",
+   "name": "Jessica POLFJÄRD",
+   "group": "PPE",
+   "country": "SE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-19"
+  },
+  {
+   "id": "210480",
+   "name": "Marta TEMIDO",
+   "group": "S&D",
+   "country": "PT",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "256811",
+   "name": "Aurelijus VERYGA",
+   "group": "ECR",
+   "country": "LT",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-04-16"
+  },
+  {
+   "id": "96940",
+   "name": "Gerben-Jan GERBRANDY",
+   "group": "Renew",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-11"
+  },
+  {
+   "id": "96752",
+   "name": "Martin HÄUSLING",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-11"
+  },
+  {
+   "id": "256913",
+   "name": "Emma FOURREAU",
+   "group": "The Left",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-30"
+  },
+  {
+   "id": "256942",
+   "name": "Marc JONGEN",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-10-13"
+  },
+  {
+   "id": "197517",
+   "name": "Adam JARUBAS",
+   "group": "PPE",
+   "country": "PL",
+   "role": "rapporteur",
+   "committee": "SANT",
+   "since": "2026-01-27"
+  },
+  {
+   "id": "112747",
+   "name": "Romana JERKOVIĆ",
+   "group": "S&D",
+   "country": "HR",
+   "role": "shadow",
+   "committee": "SANT",
+   "since": "2026-04-01"
+  },
+  {
+   "id": "197528",
+   "name": "Ondřej KNOTEK",
+   "group": "PfE",
+   "country": "CZ",
+   "role": "shadow",
+   "committee": "SANT",
+   "since": "2026-02-24"
+  },
+  {
+   "id": "257020",
+   "name": "Stine BOSSE",
+   "group": "Renew",
+   "country": "DK",
+   "role": "shadow",
+   "committee": "SANT",
+   "since": "2026-02-26"
+  },
+  {
+   "id": "257132",
+   "name": "Ignazio Roberto MARINO",
+   "group": "Verts/ALE",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "SANT",
+   "since": "2026-04-23"
+  },
+  {
+   "id": "125023",
+   "name": "Anja HAZEKAMP",
+   "group": "The Left",
+   "country": "NL",
+   "role": "shadow",
+   "committee": "SANT",
+   "since": "2026-03-27"
+  },
+  {
+   "id": "197475",
+   "name": "Christine ANDERSON",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "SANT",
+   "since": "2026-03-12"
+  }
+ ],
+ "started": "2026-02-12",
+ "last_activity": "2026-11-20",
+ "events": [
+  {
+   "date": "2026-02-12",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-07-13",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "CJ64-PR-789094",
+     "title": "CJ64-PR-789094",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "CJ64-AM-792139",
+     "title": "CJ64-AM-792139",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-11-16",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0304",
+     "title": "Informe A10-0304/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0304_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno (3 documentos)",
+   "docs": [
+    {
+     "id": "A-10-2026-0304-AM-119-126",
+     "title": "Enmiendas al Pleno 119-126 (informe A10-0304/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0304-AM-119-126_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 8
+    },
+    {
+     "id": "A-10-2026-0304-AM-127-134",
+     "title": "Enmiendas al Pleno 127-134 (informe A10-0304/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0304-AM-127-134_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 8
+    },
+    {
+     "id": "A-10-2026-0304-AM-118-118",
+     "title": "Enmiendas al Pleno 118-118 (informe A10-0304/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0304-AM-118-118_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0304-AM-001-117",
+     "title": "Enmiendas al Pleno 1-117 (informe A10-0304/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0304-AM-001-117_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 117
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "CJ64-PR-789094",
+   "title": "CJ64-PR-789094",
+   "url": "",
+   "kind": "other",
+   "date": "2026-07-13"
+  },
+  {
+   "id": "CJ64-AM-792139",
+   "title": "CJ64-AM-792139",
+   "url": "",
+   "kind": "other",
+   "date": "2026-09-10"
+  },
+  {
+   "id": "A-10-2026-0304",
+   "title": "Informe A10-0304/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0304_EN.html",
+   "kind": "report",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "A-10-2026-0304-AM-119-126",
+   "title": "Enmiendas al Pleno 119-126 (informe A10-0304/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0304-AM-119-126_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 8,
+   "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0304-AM-127-134",
+   "title": "Enmiendas al Pleno 127-134 (informe A10-0304/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0304-AM-127-134_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 8,
+   "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0304-AM-118-118",
+   "title": "Enmiendas al Pleno 118-118 (informe A10-0304/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0304-AM-118-118_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0304-AM-001-117",
+   "title": "Enmiendas al Pleno 1-117 (informe A10-0304/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0304-AM-001-117_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 117,
+   "date": "2026-11-20"
+  }
+ ],
+ "amendments": {
+  "plenary": 134,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-71",
+   "date": "2026-11-25",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-71)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
+   "refs": [
+    "2025/0405(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0405(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_405",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_405?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0405?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "citado en documentos de agricultura y pesca del Consejo"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-71",
+   "date": "2026-11-25",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-71)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-71",
+   "date": "2026-11-25",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-71)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
+   "source": "ep"
+  }
+ ],
+ "council_docs": [
+  {
+   "id": "ST-14768-2026-INIT",
+   "code": "ST 14768/26",
+   "date": "2026-10-22",
+   "title": "Opinion of the European Data Protection Supervisor on the Council General Approach on the Proposal for a Directive of the European Parliament and of the Council amending Directives 2001/18/EC and 2010/53/EU as regards the placing on the market of genetically modified micro-organisms and the processing of organs",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14768-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Orientación general",
+   "meeting_date": null
+  }
+ ],
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2026-02-12",
+    "detail": "remitido al Parlamento"
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "done",
+    "date": "2026-11-10",
+    "detail": "informe aprobado"
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "done",
+    "date": "2026-10-22",
+    "detail": "orientación general (ST 14768/26)"
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 3,
+  "total": 9,
+  "current": "ep_mandate",
+  "current_label": "Posición del PE",
+  "hint": "El PE fija su posición o el mandato para negociar",
+  "next_label": "Trílogos",
+  "next_date": {
+   "date": "2026-11-25",
+   "body": "Pleno del PE"
+  }
+ },
+ "followed": false,
+ "follow_url": ""
+}

@@ -1,0 +1,154 @@
+{
+ "ref": "2026/0346(COD)",
+ "id": "2026-0346",
+ "type": "COD",
+ "title": "Zona del Convenio de la Organización de la Pesca del Atlántico Suroriental (SEAFO): medidas de gestión, conservación y control ",
+ "title_en": "Convention area of the South East Atlantic Fisheries Organisation (SEAFO): management, conservation and control measures",
+ "stage": "",
+ "ongoing": true,
+ "committees": [],
+ "people": [],
+ "started": null,
+ "last_activity": null,
+ "events": [],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0346(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_346",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_346?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-0346?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "citado en documentos de agricultura y pesca del Consejo"
+ ],
+ "agenda": [
+  {
+   "id": "council-agenda-CM-5020-2026-REV-1",
+   "date": "2026-11-19",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Orden del día (CM 5020/26 REV 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5020-2026-REV-1/en/pdf",
+   "source": "council"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [
+  {
+   "id": "ST-15858-2026-ADD-1",
+   "code": "ST 15858/26 ADD 1",
+   "date": "2026-11-16",
+   "title": "ANNEXES to the Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down management, conservation and control measures applicable in the Convention area of the South East Atlantic Fisheries Organisation (SEAFO)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15858-2026-ADD-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-15858-2026-INIT",
+   "code": "ST 15858/26",
+   "date": "2026-11-16",
+   "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down management, conservation and control measures applicable in the Convention area of the South East Atlantic Fisheries Organisation (SEAFO)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15858-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "CM-5020-2026-REV-1",
+   "code": "CM 5020/26 REV 1",
+   "date": "2026-11-17",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5020-2026-REV-1/en/pdf",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": "2026-11-19"
+  }
+ ],
+ "tags": [
+  "Pesca"
+ ],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 0,
+  "total": 9,
+  "current": "proposal",
+  "current_label": "Propuesta",
+  "hint": "",
+  "next_label": "Comisión del PE",
+  "next_date": null
+ },
+ "followed": false,
+ "follow_url": ""
+}

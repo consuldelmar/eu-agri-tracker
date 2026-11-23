@@ -1,0 +1,150 @@
+{
+ "ref": "2026/0310(NLE)",
+ "id": "2026-0310",
+ "type": "NLE",
+ "title": "Acuerdo de Colaboración de Pesca Sostenible entre la Unión y Mauricio y su Protocolo de aplicación (2026-2030)",
+ "title_en": "EU-Mauritius Sustainable Fisheries Partnership Agreement and its Implementing Protocol (2026-2030)",
+ "stage": "",
+ "ongoing": true,
+ "committees": [],
+ "people": [],
+ "started": null,
+ "last_activity": null,
+ "events": [],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0310(NLE)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_310",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_310?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-0310?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "citado en documentos de agricultura y pesca del Consejo"
+ ],
+ "agenda": [
+  {
+   "id": "council-agenda-CM-4539-2026-REV-1",
+   "date": "2026-10-15",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Orden del día (CM 4539/26 REV 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4539-2026-REV-1/en/pdf",
+   "source": "council"
+  },
+  {
+   "id": "council-agenda-CM-4610-2026-REV-2",
+   "date": "2026-10-22",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Orden del día (CM 4610/26 REV 2)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4610-2026-REV-2/en/pdf",
+   "source": "council"
+  },
+  {
+   "id": "council-agenda-CM-4809-2026-REV-1",
+   "date": "2026-11-05",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Orden del día (CM 4809/26 REV 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4809-2026-REV-1/en/pdf",
+   "source": "council"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [
+  {
+   "id": "CM-4539-2026-REV-1",
+   "code": "CM 4539/26 REV 1",
+   "date": "2026-10-13",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4539-2026-REV-1/en/pdf",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": "2026-10-15"
+  },
+  {
+   "id": "ST-14236-2026-ADD-1",
+   "code": "ST 14236/26 ADD 1",
+   "date": "2026-10-14",
+   "title": "ANNEXES to the Proposal for a Council Decision on the conclusion of the Sustainable Fisheries Partnership Agreement and its Implementing Protocol (2026-2030) between the European Union and the Republic of Mauritius",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14236-2026-ADD-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14236-2026-INIT",
+   "code": "ST 14236/26",
+   "date": "2026-10-15",
+   "title": "Proposal for a COUNCIL DECISION on the conclusion of the Sustainable Fisheries Partnership Agreement and its Implementing Protocol (2026-2030) between the European Union and the Republic of Mauritius",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14236-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "CM-4610-2026-REV-2",
+   "code": "CM 4610/26 REV 2",
+   "date": "2026-10-21",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4610-2026-REV-2/en/pdf",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": "2026-10-22"
+  },
+  {
+   "id": "CM-4809-2026-REV-1",
+   "code": "CM 4809/26 REV 1",
+   "date": "2026-11-03",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4809-2026-REV-1/en/pdf",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "step": null,
+   "meeting_date": "2026-11-05"
+  }
+ ],
+ "tags": [
+  "Pesca"
+ ],
+ "progress": {
+  "stages": [
+   {
+    "key": "start",
+    "label": "Inicio",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_plenary",
+    "label": "Pleno del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 0,
+  "total": 3,
+  "current": "start",
+  "current_label": "Inicio",
+  "hint": "",
+  "next_label": "Comisión del PE",
+  "next_date": null
+ },
+ "followed": false,
+ "follow_url": ""
+}

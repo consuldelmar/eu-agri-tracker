@@ -1,0 +1,95 @@
+{
+ "ref": "2026/0251(NLE)",
+ "id": "2026-0251",
+ "type": "NLE",
+ "title": "COUNCIL DECISION on the position to be taken on behalf of the European Union within the Council of Members of the International Olive Council concerning the extension of the date for notifying acceptance of the amendment to Article 36 of the International Agreement on Olive Oil and Table Olives, 2015",
+ "title_en": "COUNCIL DECISION on the position to be taken on behalf of the European Union within the Council of Members of the International Olive Council concerning the extension of the date for notifying acceptance of the amendment to Article 36 of the International Agreement on Olive Oil and Table Olives, 2015",
+ "stage": "Primer documento en el Consejo",
+ "ongoing": true,
+ "committees": [],
+ "people": [],
+ "started": "2026-10-20",
+ "last_activity": "2026-10-20",
+ "events": [
+  {
+   "date": "2026-10-20",
+   "type": "COUNCIL_FIRST_DOCUMENT",
+   "title": "Primer documento en el Consejo",
+   "docs": [
+    {
+     "id": "ST 13918/26",
+     "title": "ST 13918/26",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-13918-2026-INIT/en/pdf"
+    }
+   ]
+  }
+ ],
+ "docs": [],
+ "council_only": true,
+ "links": {
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_251",
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0251(NLE)",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_251?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-0251?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "Citado en documentos de agricultura y pesca del Consejo (sin expediente en el Parlamento)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [
+  {
+   "id": "ST-13918-2026-INIT",
+   "code": "ST 13918/26",
+   "date": "2026-10-20",
+   "title": "COUNCIL DECISION on the position to be taken on behalf of the European Union within the Council of Members of the International Olive Council concerning the extension of the date for notifying acceptance of the amendment to Article 36 of the International Agreement on Olive Oil and Table Olives, 2015",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13918-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta de la Comisión",
+    "state": "done",
+    "date": "2026-10-20",
+    "detail": "en el Consejo (ST 13918/26)"
+   },
+   {
+    "key": "council_wp",
+    "label": "Grupo de trabajo del Consejo",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_agreement",
+    "label": "Acuerdo en el Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 1,
+  "total": 4,
+  "current": "council_wp",
+  "current_label": "Grupo de trabajo del Consejo",
+  "hint": "Se negocia en el grupo de trabajo del Consejo",
+  "next_label": "Acuerdo en el Consejo",
+  "next_date": null
+ },
+ "followed": false,
+ "follow_url": ""
+}

@@ -1,0 +1,97 @@
+{
+ "ref": "2026/0281(NLE)",
+ "id": "2026-0281",
+ "type": "NLE",
+ "title": "COUNCIL DECISION on the signing of the Agreement in the form of an Exchange of Letters between the European Union and Canada pursuant to Article XXVIII of the General Agreement on Tariffs and Trade 1994 (‘GATT 1994’) relating to the modification of concessions on all the tariff-rate quotas included in the EU Schedule CLXXV as a consequence of the United Kingdom’s withdrawal from the European Union",
+ "title_en": "COUNCIL DECISION on the signing of the Agreement in the form of an Exchange of Letters between the European Union and Canada pursuant to Article XXVIII of the General Agreement on Tariffs and Trade 1994 (‘GATT 1994’) relating to the modification of concessions on all the tariff-rate quotas included in the EU Schedule CLXXV as a consequence of the United Kingdom’s withdrawal from the European Union",
+ "stage": "Primer documento en el Consejo",
+ "ongoing": true,
+ "committees": [],
+ "people": [],
+ "started": "2026-10-19",
+ "last_activity": "2026-10-19",
+ "events": [
+  {
+   "date": "2026-10-19",
+   "type": "COUNCIL_FIRST_DOCUMENT",
+   "title": "Primer documento en el Consejo",
+   "docs": [
+    {
+     "id": "ST 13362/26",
+     "title": "ST 13362/26",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-13362-2026-INIT/en/pdf"
+    }
+   ]
+  }
+ ],
+ "docs": [],
+ "council_only": true,
+ "links": {
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_281",
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0281(NLE)",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_281?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-0281?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "Citado en documentos de agricultura y pesca del Consejo (sin expediente en el Parlamento)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [
+  {
+   "id": "ST-13362-2026-INIT",
+   "code": "ST 13362/26",
+   "date": "2026-10-19",
+   "title": "COUNCIL DECISION on the signing of the Agreement in the form of an Exchange of Letters between the European Union and Canada pursuant to Article XXVIII of the General Agreement on Tariffs and Trade 1994 (‘GATT 1994’) relating to the modification of concessions on all the tariff-rate quotas included in the EU Schedule CLXXV as a consequence of the United Kingdom’s withdrawal from the European Union",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13362-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
+ "tags": [
+  "Comercio"
+ ],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta de la Comisión",
+    "state": "done",
+    "date": "2026-10-19",
+    "detail": "en el Consejo (ST 13362/26)"
+   },
+   {
+    "key": "council_wp",
+    "label": "Grupo de trabajo del Consejo",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_agreement",
+    "label": "Acuerdo en el Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 1,
+  "total": 4,
+  "current": "council_wp",
+  "current_label": "Grupo de trabajo del Consejo",
+  "hint": "Se negocia en el grupo de trabajo del Consejo",
+  "next_label": "Acuerdo en el Consejo",
+  "next_date": null
+ },
+ "followed": false,
+ "follow_url": ""
+}

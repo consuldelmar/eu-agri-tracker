@@ -1,0 +1,183 @@
+{
+ "ref": "2026/0252(NLE)",
+ "id": "2026-0252",
+ "type": "NLE",
+ "title": "COUNCIL REGULATION amending Council Regulation 2023/2720 opening and providing for the management of autonomous Union tariff quotas for certain fishery products for the 2024-2026 period",
+ "title_en": "COUNCIL REGULATION amending Council Regulation 2023/2720 opening and providing for the management of autonomous Union tariff quotas for certain fishery products for the 2024-2026 period",
+ "stage": "Consejo: Texto de compromiso de la Presidencia",
+ "ongoing": true,
+ "committees": [],
+ "people": [],
+ "started": "2026-09-25",
+ "last_activity": "2026-10-20",
+ "events": [
+  {
+   "date": "2026-09-30",
+   "type": "COUNCIL_FIRST_DOCUMENT",
+   "title": "Primer documento en el Consejo",
+   "docs": [
+    {
+     "id": "ST 13507/26",
+     "title": "ST 13507/26",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-13507-2026-INIT/en/pdf"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-30",
+   "type": "COUNCIL_STEP",
+   "title": "Consejo: Texto de compromiso de la Presidencia",
+   "docs": [
+    {
+     "id": "ST 13507/26",
+     "title": "ST 13507/26",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-13507-2026-INIT/en/pdf"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "type": "COUNCIL_STEP",
+   "title": "Consejo: Texto de compromiso de la Presidencia",
+   "docs": [
+    {
+     "id": "ST 14043/26",
+     "title": "ST 14043/26",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-14043-2026-INIT/en/pdf"
+    }
+   ]
+  }
+ ],
+ "docs": [],
+ "council_only": true,
+ "links": {
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_252",
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0252(NLE)",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_252?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-0252?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "Citado en documentos de agricultura y pesca del Consejo (sin expediente en el Parlamento)"
+ ],
+ "agenda": [
+  {
+   "id": "council-agenda-CM-4319-2026-INIT",
+   "date": "2026-10-01",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Orden del día (CM 4319/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4319-2026-INIT/en/pdf",
+   "source": "council"
+  },
+  {
+   "id": "council-agenda-ST-14592-2026-REV-1",
+   "date": "2026-10-21",
+   "body": "Coreper I",
+   "title": "Orden del día (ST 14592/26 REV 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14592-2026-REV-1/en/pdf",
+   "source": "council"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [
+  {
+   "id": "CM-4319-2026-INIT",
+   "code": "CM 4319/26",
+   "date": "2026-09-25",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-4319-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": "2026-10-01"
+  },
+  {
+   "id": "ST-13507-2026-INIT",
+   "code": "ST 13507/26",
+   "date": "2026-09-30",
+   "title": "Proposal for a COUNCIL REGULATION amending Council Regulation 2023/2720 opening and providing for the management of autonomous Union tariff quotas for certain fishery products for the 2024-2026 period - Presidency compromise",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13507-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14043-2026-INIT",
+   "code": "ST 14043/26",
+   "date": "2026-10-09",
+   "title": "Proposal for a COUNCIL REGULATION amending Council Regulation 2023/2720 opening and providing for the management of autonomous Union tariff quotas for certain fishery products for the 2024-2026 period - Adoption",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14043-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14001-2026-INIT",
+   "code": "ST 14001/26",
+   "date": "2026-10-19",
+   "title": "COUNCIL REGULATION amending Regulation (EU) 2023/2720 opening and providing for the management of autonomous Union tariff quotas for certain fishery products for the 2024-2026 period",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14001-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-14592-2026-REV-1",
+   "code": "ST 14592/26 REV 1",
+   "date": "2026-10-20",
+   "title": "PERMANENT REPRESENTATIVES COMMITTEE (Part 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14592-2026-REV-1/en/pdf",
+   "kind": "agenda",
+   "body": "Coreper I",
+   "step": "Mandato de negociación con el PE",
+   "meeting_date": "2026-10-21"
+  }
+ ],
+ "tags": [
+  "Pesca",
+  "Comercio"
+ ],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta de la Comisión",
+    "state": "done",
+    "date": "2026-09-30",
+    "detail": "en el Consejo (ST 13507/26)"
+   },
+   {
+    "key": "council_wp",
+    "label": "Grupo de trabajo del Consejo",
+    "state": "done",
+    "date": "2026-09-30",
+    "detail": "textos de compromiso"
+   },
+   {
+    "key": "council_agreement",
+    "label": "Acuerdo en el Consejo",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 2,
+  "total": 4,
+  "current": "council_agreement",
+  "current_label": "Acuerdo en el Consejo",
+  "hint": "Acuerdo de los ministros (a menudo en el Consejo AGRIFISH)",
+  "next_label": "Adopción",
+  "next_date": null
+ },
+ "followed": false,
+ "follow_url": ""
+}

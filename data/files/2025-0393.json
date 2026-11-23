@@ -1,0 +1,405 @@
+{
+ "ref": "2025/0393(COD)",
+ "id": "2025-0393",
+ "type": "COD",
+ "title": "Modificación de la Directiva 2007/2/CE en lo que respecta a la simplificación de determinados requisitos para el establecimiento de la infraestructura de información espacial en la Unión",
+ "title_en": "Amending Directive 2007/2/EC as regards simplification of certain requirements for the establishment of the Infrastructure for Spatial Information in the Union",
+ "stage": "Enmiendas del Pleno a la propuesta",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "ENVI",
+   "role": "lead"
+  },
+  {
+   "code": "ITRE",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "197839",
+   "name": "Radan KANEV",
+   "group": "PPE",
+   "country": "BG",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-16"
+  },
+  {
+   "id": "257169",
+   "name": "Annalisa CORRADO",
+   "group": "S&D",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-17"
+  },
+  {
+   "id": "197691",
+   "name": "Mathilde ANDROUËT",
+   "group": "PfE",
+   "country": "FR",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-17"
+  },
+  {
+   "id": "257090",
+   "name": "Beatrice TIMGREN",
+   "group": "ECR",
+   "country": "SE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-17"
+  },
+  {
+   "id": "214839",
+   "name": "Emma YTTERELL",
+   "group": "Renew",
+   "country": "SE",
+   "role": "rapporteur",
+   "committee": "ENVI",
+   "since": "2026-03-16"
+  },
+  {
+   "id": "197466",
+   "name": "Jutta PAULUS",
+   "group": "Verts/ALE",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-13"
+  },
+  {
+   "id": "257135",
+   "name": "Valentina PALMISANO",
+   "group": "The Left",
+   "country": "IT",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-03-17"
+  },
+  {
+   "id": "256951",
+   "name": "Anja ARNDT",
+   "group": "ESN",
+   "country": "DE",
+   "role": "shadow",
+   "committee": "ENVI",
+   "since": "2026-04-09"
+  }
+ ],
+ "started": "2026-02-09",
+ "last_activity": "2026-10-06",
+ "events": [
+  {
+   "date": "2026-02-09",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-05-05",
+   "type": "COMMITTEE_TABLING_REPORT",
+   "title": "Proyecto de informe presentado en comisión",
+   "docs": [
+    {
+     "id": "ENVI-PR-787833",
+     "title": "Proyecto de informe ENVI (787833)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-PR-787833_EN.pdf",
+     "kind": "draft_report"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-11",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "ENVI-AM-789937",
+     "title": "Enmiendas en comisión ENVI (789937)",
+     "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-789937_EN.pdf",
+     "kind": "committee_amendments"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "type": "COMMITTEE_ADOPTING_REPORT",
+   "title": "Informe aprobado en comisión",
+   "docs": []
+  },
+  {
+   "date": "2026-09-15",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0233",
+     "title": "Informe A10-0233/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0233_EN.html",
+     "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0233-AM-024-024",
+     "title": "Enmiendas al Pleno 24-24 (informe A10-0233/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0233-AM-024-024_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2026-09-30",
+   "type": "TABLING_PLENARY",
+   "title": "Presentado al Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0233-AM-001-023",
+     "title": "Enmiendas al Pleno 1-23 (informe A10-0233/2026)",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0233-AM-001-023_EN.pdf",
+     "kind": "plenary_amendments",
+     "amendments": 23
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "type": "PLENARY_AMEND_PROPOSAL",
+   "title": "Enmiendas del Pleno a la propuesta",
+   "docs": [
+    {
+     "id": "TA-10-2026-0325",
+     "title": "Texto aprobado P10_TA(2026)0325",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0325_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "CRE-10-2026-10-06-ITM-009-07",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-10-2026-10-06-ITM-009-07_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-10-2026-10-06-ITM-009-07",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-06-ITM-009-07_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0233",
+     "title": "Informe A10-0233/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0233_EN.html",
+     "kind": "report"
+    }
+   ]
+  }
+ ],
+ "docs": [
+  {
+   "id": "ENVI-PR-787833",
+   "title": "Proyecto de informe ENVI (787833)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-PR-787833_EN.pdf",
+   "kind": "draft_report",
+   "date": "2026-05-05"
+  },
+  {
+   "id": "ENVI-AM-789937",
+   "title": "Enmiendas en comisión ENVI (789937)",
+   "url": "https://www.europarl.europa.eu/doceo/document/ENVI-AM-789937_EN.pdf",
+   "kind": "committee_amendments",
+   "date": "2026-06-11"
+  },
+  {
+   "id": "A-10-2026-0233",
+   "title": "Informe A10-0233/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0233_EN.html",
+   "kind": "report",
+   "date": "2026-09-15"
+  },
+  {
+   "id": "A-10-2026-0233-AM-024-024",
+   "title": "Enmiendas al Pleno 24-24 (informe A10-0233/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0233-AM-024-024_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 1,
+   "date": "2026-09-29"
+  },
+  {
+   "id": "A-10-2026-0233-AM-001-023",
+   "title": "Enmiendas al Pleno 1-23 (informe A10-0233/2026)",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0233-AM-001-023_EN.pdf",
+   "kind": "plenary_amendments",
+   "amendments": 23,
+   "date": "2026-09-30"
+  },
+  {
+   "id": "TA-10-2026-0325",
+   "title": "Texto aprobado P10_TA(2026)0325",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0325_EN.html",
+   "kind": "adopted_text",
+   "date": "2026-10-06"
+  }
+ ],
+ "amendments": {
+  "plenary": 24,
+  "committee_documents": 1
+ },
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-10-06-OJ-ITM-V-20",
+   "date": "2026-10-06",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-20)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-06_EN.html",
+   "refs": [
+    "2025/0393(COD)"
+   ]
+  }
+ ],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0393(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_393",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2025_393?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2025-0393?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "citado en documentos de agricultura y pesca del Consejo"
+ ],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-10-06-OJ-ITM-V-20",
+   "date": "2026-10-06",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-20)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-10-06_EN.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [],
+ "council_docs": [
+  {
+   "id": "ST-13819-2026-INIT",
+   "code": "ST 13819/26",
+   "date": "2026-10-11",
+   "title": "AOB item for the meeting of the General Affairs Council on 13 October 2026 Omnibus simplification packages: state of play - Information from the Presidency",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13819-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-15001-2026-INIT",
+   "code": "ST 15001/26",
+   "date": "2026-11-12",
+   "title": "AOB item for the meeting of the General Affairs Council on 19 November 2026 Omnibus simplification packages: state of play - Information from the Presidency",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15001-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2026-02-09",
+    "detail": "remitido al Parlamento"
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "done",
+    "date": "2026-09-10",
+    "detail": "informe aprobado"
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "done",
+    "date": "2026-10-06",
+    "detail": "enmiendas del Pleno; vuelve a comisión para negociar"
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 3,
+  "total": 9,
+  "current": "council_mandate",
+  "current_label": "Posición del Consejo",
+  "hint": "El Consejo fija su orientación general o mandato",
+  "next_label": "Trílogos",
+  "next_date": null
+ },
+ "followed": false,
+ "follow_url": ""
+}

@@ -1,0 +1,409 @@
+{
+ "ref": "2021/0048(NLE)",
+ "id": "2021-0048",
+ "type": "NLE",
+ "title": "Establecimiento de las empresas comunes en el marco de Horizonte Europa",
+ "title_en": "Establishing the Joint Undertakings under Horizon Europe",
+ "stage": "Publicado en el Diario Oficial",
+ "ongoing": false,
+ "committees": [],
+ "people": [],
+ "started": "2021-05-17",
+ "last_activity": "2021-11-30",
+ "events": [
+  {
+   "date": "2021-05-17",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  },
+  {
+   "date": "2021-10-19",
+   "type": "PLENARY_DEBATE",
+   "title": "Debate en el Pleno",
+   "docs": []
+  },
+  {
+   "date": "2021-10-21",
+   "type": "PLENARY_AMEND",
+   "title": "Enmiendas aprobadas en el Pleno",
+   "docs": []
+  },
+  {
+   "date": "2021-10-21",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-9-2021-0281",
+     "title": "Informe A9-0281/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0281_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "B-9-2021-0519",
+     "title": "B-9-2021-0519",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "C-9-2021-0353",
+     "title": "Propuesta o documento recibido C9-0353/2021",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "A-9-2021-0277",
+     "title": "Informe A9-0277/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0277_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2021-0265",
+     "title": "Informe A9-0265/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0265_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "B-9-2021-0521",
+     "title": "B-9-2021-0521",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "A-9-2021-0246",
+     "title": "Informe A9-0246/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0246_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "C-9-2021-0166",
+     "title": "Propuesta o documento recibido C9-0166/2021",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "CRE-9-2021-10-21-ITM-002",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2021-10-21-ITM-002_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2021-10-21-ITM-002",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2021-10-21-ITM-002_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "B-9-2021-0523",
+     "title": "B-9-2021-0523",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "C-9-2020-0247",
+     "title": "Propuesta o documento recibido C9-0247/2020",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "C-9-2020-0401",
+     "title": "Propuesta o documento recibido C9-0401/2020",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "B-9-2021-0535",
+     "title": "B-9-2021-0535",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "A-9-2021-0290",
+     "title": "Informe A9-0290/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0290_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "B-9-2021-0530",
+     "title": "B-9-2021-0530",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "C-8-2018-0211",
+     "title": "Propuesta o documento recibido C8-0211/2018",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "B-9-2021-0520",
+     "title": "B-9-2021-0520",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "C-9-2020-0394",
+     "title": "Propuesta o documento recibido C9-0394/2020",
+     "url": "",
+     "kind": "proposal"
+    },
+    {
+     "id": "B-9-2021-0532",
+     "title": "B-9-2021-0532",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "A-9-2021-0287",
+     "title": "Informe A9-0287/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0287_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-8-2019-0035",
+     "title": "Informe A8-0035/2019",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-8-2019-0035_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "A-9-2021-0270",
+     "title": "Informe A9-0270/2021",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0270_EN.html",
+     "kind": "report"
+    },
+    {
+     "id": "PV-9-2021-10-21-ITM-010",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2021-10-21-ITM-010_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "CRE-9-2021-10-21-ITM-010",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2021-10-21-ITM-010_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2021-11-30",
+   "type": "PUBLICATION_OFFICIAL_JOURNAL",
+   "title": "Publicado en el Diario Oficial",
+   "docs": []
+  }
+ ],
+ "docs": [
+  {
+   "id": "A-9-2021-0281",
+   "title": "Informe A9-0281/2021",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0281_EN.html",
+   "kind": "report",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "B-9-2021-0519",
+   "title": "B-9-2021-0519",
+   "url": "",
+   "kind": "other",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "C-9-2021-0353",
+   "title": "Propuesta o documento recibido C9-0353/2021",
+   "url": "",
+   "kind": "proposal",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "A-9-2021-0277",
+   "title": "Informe A9-0277/2021",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0277_EN.html",
+   "kind": "report",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "A-9-2021-0265",
+   "title": "Informe A9-0265/2021",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0265_EN.html",
+   "kind": "report",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "B-9-2021-0521",
+   "title": "B-9-2021-0521",
+   "url": "",
+   "kind": "other",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "A-9-2021-0246",
+   "title": "Informe A9-0246/2021",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0246_EN.html",
+   "kind": "report",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "C-9-2021-0166",
+   "title": "Propuesta o documento recibido C9-0166/2021",
+   "url": "",
+   "kind": "proposal",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "B-9-2021-0523",
+   "title": "B-9-2021-0523",
+   "url": "",
+   "kind": "other",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "C-9-2020-0247",
+   "title": "Propuesta o documento recibido C9-0247/2020",
+   "url": "",
+   "kind": "proposal",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "C-9-2020-0401",
+   "title": "Propuesta o documento recibido C9-0401/2020",
+   "url": "",
+   "kind": "proposal",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "B-9-2021-0535",
+   "title": "B-9-2021-0535",
+   "url": "",
+   "kind": "other",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "A-9-2021-0290",
+   "title": "Informe A9-0290/2021",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0290_EN.html",
+   "kind": "report",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "B-9-2021-0530",
+   "title": "B-9-2021-0530",
+   "url": "",
+   "kind": "other",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "C-8-2018-0211",
+   "title": "Propuesta o documento recibido C8-0211/2018",
+   "url": "",
+   "kind": "proposal",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "B-9-2021-0520",
+   "title": "B-9-2021-0520",
+   "url": "",
+   "kind": "other",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "C-9-2020-0394",
+   "title": "Propuesta o documento recibido C9-0394/2020",
+   "url": "",
+   "kind": "proposal",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "B-9-2021-0532",
+   "title": "B-9-2021-0532",
+   "url": "",
+   "kind": "other",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "A-9-2021-0287",
+   "title": "Informe A9-0287/2021",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0287_EN.html",
+   "kind": "report",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "A-8-2019-0035",
+   "title": "Informe A8-0035/2019",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-8-2019-0035_EN.html",
+   "kind": "report",
+   "date": "2021-10-21"
+  },
+  {
+   "id": "A-9-2021-0270",
+   "title": "Informe A9-0270/2021",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0270_EN.html",
+   "kind": "report",
+   "date": "2021-10-21"
+  }
+ ],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0048(NLE)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2021_48",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2021_48?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2021-0048?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "citado en documentos de agricultura y pesca del Consejo"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [
+  {
+   "id": "ST-13284-2026-INIT",
+   "code": "ST 13284/26",
+   "date": "2026-09-22",
+   "title": "Council Regulation (EU) 2021/2085 of 19 November 2021 establishing the Joint Undertakings under Horizon Europe and repealing Regulations (EC) No 219/2007, (EU) No 557/2014, (EU) No 558/2014, (EU) No 559/2014, (EU) No 560/2014, (EU) No 561/2014 and (EU) No 642/2014",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13284-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "start",
+    "label": "Inicio",
+    "state": "done",
+    "date": "2021-05-17",
+    "detail": ""
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_plenary",
+    "label": "Pleno del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 1,
+  "total": 3,
+  "current": null,
+  "current_label": "Pleno del PE",
+  "hint": "",
+  "next_label": "",
+  "next_date": null
+ },
+ "followed": false,
+ "follow_url": ""
+}

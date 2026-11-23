@@ -1,0 +1,133 @@
+{
+ "ref": "2026/0229(COD)",
+ "id": "2026-0229",
+ "type": "COD",
+ "title": "Red de Datos de Sostenibilidad Agraria (versión codificada)",
+ "title_en": "Farm Sustainability Data Network (codification)",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "JURI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2026-09-17",
+ "last_activity": "2026-09-17",
+ "events": [
+  {
+   "date": "2026-09-17",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0229(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_229",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_229?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-0229?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "citado en documentos de agricultura y pesca del Consejo"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [
+  {
+   "id": "ST-13702-2026-INIT",
+   "code": "ST 13702/26",
+   "date": "2026-09-29",
+   "title": "Proposal for a Regulation of the European Parliament and of the Council on the Farm Sustainability Data Network (codification) (COM(2026)0413 – 2026/0229(COD)) - Opinion of the European Economic and Social Committee",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13702-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "done",
+    "date": "2026-09-17",
+    "detail": "remitido al Parlamento"
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 1,
+  "total": 9,
+  "current": "ep_committee",
+  "current_label": "Comisión del PE",
+  "hint": "La comisión del PE prepara y vota su informe",
+  "next_label": "Posición del PE",
+  "next_date": null
+ },
+ "followed": false,
+ "follow_url": ""
+}
