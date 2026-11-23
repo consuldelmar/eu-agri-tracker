@@ -79,6 +79,7 @@ function followUrl(f) {
   return `https://github.com/${repo}/issues/new?labels=follow&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
 }
 function committeesText(f) {
+  if (f.council_only) return `<span class="pill lilac" title="Expediente conocido solo por documentos del Consejo">solo Consejo</span>`;
   return (f.committees || []).map((c) =>
     `<span class="pill ${c.role === "opinion" ? "lilac" : ""}" title="${esc(ROLE[c.role] || c.role)}">${esc(c.code)}${c.role !== "lead" ? " · " + esc(ROLE[c.role] || c.role) : ""}</span>`).join(" ");
 }
@@ -354,7 +355,7 @@ async function viewFile(id) {
     <div class="file-head">
       <div>
         <div class="meta"><span class="ref">${esc(f.ref)}</span><span class="pill grey">${esc(TYPE[f.type] || f.type)}</span>
-          ${statusPill(summary.ongoing === undefined ? f : summary)} ${tagPills(f.tags)}</div>
+          ${statusPill(summary.ongoing === undefined ? f : summary)} ${f.council_only ? `<span class="pill lilac">solo Consejo</span>` : ""} ${tagPills(f.tags)}</div>
         <h1>${esc(f.title || f.ref)}</h1>
         ${f.title_en && f.title_en !== f.title ? `<p class="item-sub en-title">${esc(f.title_en)}</p>` : ""}
       </div>
@@ -395,7 +396,12 @@ async function viewFile(id) {
             <dt>En el tracker por</dt><dd>${esc((f.scope || []).join(", ") || "—")}</dd>
           </dl></section>
         <section class="card"><h2>Comisiones y ponentes</h2>
-          ${comHtml ? `<ul class="list">${comHtml}</ul>` : `<p class="empty">Sin datos de comisiones.</p>`}</section>
+          ${f.council_only
+            ? `<p>Este expediente no figura en el Parlamento Europeo. ${["COD", "CNS", "APP"].includes(f.type)
+                ? "Puede que el Parlamento aún no lo haya registrado."
+                : "Es habitual en actos que adopta solo el Consejo, como las posibilidades de pesca (art. 43.3 TFUE)."}
+               Se sigue a partir de los documentos y órdenes del día del Consejo.</p>`
+            : (comHtml ? `<ul class="list">${comHtml}</ul>` : `<p class="empty">Sin datos de comisiones.</p>`)}</section>
         <section class="card"><h2>Consejo</h2>
           ${council.length ? `<ul class="list">${council.map((d) => `<li><div class="item-head"><span class="date">${esc(fmtDate(d.date))}</span>
             ${d.step ? `<span class="pill lilac">${esc(d.step)}</span>` : ""}

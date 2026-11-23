@@ -37,6 +37,7 @@ NEXT_HINT = {
     "published": "Publicación en el Diario Oficial",
     "ep_plenary": "Votación en el Pleno del PE",
     "scrutiny": "El PE puede objetar durante el plazo de control",
+    "council_wp": "Se negocia en el grupo de trabajo del Consejo",
 }
 
 
@@ -102,6 +103,25 @@ def compute(rec: dict) -> dict:
     ongoing = rec.get("ongoing", True)
     types = " ".join(e["type"] for e in events)
     withdrawn = any(w in types for w in ("WITHDRAW", "LAPSE"))
+
+    if rec.get("council_only"):
+        st = [_stage("proposal", "Propuesta de la Comisión"), _stage("council_wp", "Grupo de trabajo del Consejo"),
+              _stage("council_agreement", "Acuerdo en el Consejo"), _stage("council_adoption", "Adopción")]
+        S = {s["key"]: s for s in st}
+        first = sorted((d for d in docs if d.get("kind") != "agenda"), key=lambda d: d.get("date") or "")
+        _set(S["proposal"], first[0] if first else None, f"en el Consejo ({first[0].get('code')})" if first else "")
+        _set(S["council_wp"], _council(docs, {"Texto de compromiso de la Presidencia", "Informe de situación"}),
+             "textos de compromiso")
+        _set(S["council_agreement"], _council(docs, COUNCIL_MANDATE | COUNCIL_AGREEMENT | {"Posición del Consejo"}),
+             "acuerdo político u orientación general")
+        _set(S["council_adoption"], _council(docs, COUNCIL_ADOPTION), "adoptado")
+        result = _finish(st, ongoing)
+        nxt = sorted((s for s in rec.get("scheduled", []) if (s.get("date") or "") >= today()), key=lambda s: s["date"])
+        result["next_date"] = {"date": nxt[0]["date"], "body": nxt[0]["body"]} if nxt else None
+        result["hint"] = {"council_wp": "Se negocia en el grupo de trabajo del Consejo",
+                          "council_agreement": "Acuerdo de los ministros (a menudo en el Consejo AGRIFISH)",
+                          "council_adoption": "Adopción formal por el Consejo"}.get(result.get("current"), result["hint"])
+        return result
 
     if typ == "COD":
         st = [_stage("proposal", "Propuesta"), _stage("ep_committee", "Comisión del PE"),

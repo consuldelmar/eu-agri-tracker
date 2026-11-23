@@ -343,13 +343,49 @@ def normalize(raw: Any, ctx: dict) -> dict | None:
     }
 
 
-def in_scope(rec: dict, cfg: dict, forced: set[str]) -> list[str]:
+COUNCIL_CITED = "citado en documentos de agricultura y pesca del Consejo"
+
+
+def in_scope(rec: dict, cfg: dict, forced: set[str], cited: set[str] | None = None) -> list[str]:
     names = {"lead": "responsable", "joint": "conjunta", "associated": "asociada", "opinion": "opinión"}
     reasons = [f"{c['code']} ({names.get(c['role'], c['role'])})" for c in rec.get("committees", [])
                if c["code"] in cfg["committees"] and c["role"] in cfg["roles"]]
     if rec["ref"] in forced:
         reasons.append("seguimiento manual")
+    if cited and rec["ref"] in cited and not reasons:
+        reasons.append(COUNCIL_CITED)
     return reasons
+
+
+def fetch_extra(cfg: dict, http: Http, refs: list[str], state: dict) -> tuple[dict, list[str]]:
+    """Files cited by the Council that the tracker lacks: read them from the Parliament if it has them.
+    Returns ({ref: record} found in the Parliament, [refs the Parliament does not have])."""
+    checked: dict = state.setdefault("extra_checked", {})
+    ctx = {"http": http, "lang": cfg.get("language", "es"), "people": state.setdefault("people", {})}
+    found, missing = {}, []
+    for ref in refs:
+        info = checked.get(ref)
+        if info and not info.get("in_ep") and info.get("date", "") >= plus_days(today(), -14):
+            missing.append(ref)          # checked recently: still not in the Parliament
+            continue
+        try:
+            r = http.get(f"{API}/procedures/{ep_id(ref)}", params=LD, accept="application/ld+json", tries=2)
+        except BudgetExceeded:
+            missing.append(ref)
+            continue
+        if r is not None and r.status_code == 200 and r.content:
+            try:
+                rec = normalize(r.json(), ctx)
+            except Exception as exc:  # noqa: BLE001
+                log(f"  could not read {ref}: {exc}")
+                rec = None
+            if rec:
+                found[ref] = rec
+                checked[ref] = {"date": today(), "in_ep": True}
+                continue
+        checked[ref] = {"date": today(), "in_ep": False}
+        missing.append(ref)
+    return found, missing
 
 
 # --------------------------------------------------------------------------- lists and feeds
@@ -509,7 +545,7 @@ def collect(cfg: dict, http: Http, old: dict, state: dict) -> dict:
             if rec["type"] not in cfg["procedure_types"] and rec["ref"] not in forced:
                 records.pop(rec["ref"], None)
                 continue
-            reasons = in_scope(rec, cfg, forced)
+            reasons = in_scope(rec, cfg, forced, set(state.get("council_cited", [])))
             if reasons:
                 rec["scope"] = reasons
                 records[rec["ref"]] = rec

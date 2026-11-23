@@ -30,6 +30,7 @@ def summary(rec: dict) -> dict:
         "followed": bool(rec.get("followed")), "follow_url": rec.get("follow_url", ""),
         "next": {"date": nxt[0]["date"], "body": nxt[0]["body"]} if nxt else None,
         "tags": rec.get("tags", []),
+        "council_only": bool(rec.get("council_only")),
         "pg": _progress_summary(rec.get("progress") or {}),
     }
 

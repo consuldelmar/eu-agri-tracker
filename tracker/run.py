@@ -103,9 +103,35 @@ def main() -> int:
     for e in calendar:
         for ref in e.get("refs", []):
             by_ref_cal.setdefault(ref, []).append(e)
-    by_ref_docs: dict[str, list] = {}
     council_docs = [d for d in council["docs"].values() if d.get("kind") != "agenda"] + \
         council_mod.latest_agendas(list(council["docs"].values()))
+
+    # Files cited in the Council's agriculture & fisheries documents that the tracker lacks:
+    # from the Parliament if it has them, otherwise as Council-only files (e.g. fishing opportunities)
+    first_extra = not ep_state.get("extra_init")
+    cited = sorted({r for d in council_docs for r in d.get("refs", [])
+                    if int(r[:4]) >= int(cfg["since_year"]) or r in cfg["follow"]})
+    for ref in [r for r, rec in records.items() if rec.get("council_only")]:
+        records.pop(ref)
+    extra_refs: set[str] = set()
+    try:
+        found, missing = ep_mod.fetch_extra(cfg, http, [r for r in cited if r not in records], ep_state)
+        for ref, rec in found.items():
+            rec["scope"] = [ep_mod.COUNCIL_CITED]
+            records[ref] = rec
+        for ref in missing:
+            records[ref] = council_mod.council_only_record(
+                ref, [d for d in council_docs if ref in d.get("refs", [])])
+        extra_refs = set(found) | set(missing)
+        status["council_cited"] = {"from_parliament": len(found), "council_only": len(missing)}
+        log(f"  files cited by the Council: {len(found)} added from the Parliament, {len(missing)} Council-only")
+    except Exception as exc:  # noqa: BLE001
+        traceback.print_exc()
+        problems.append(f"Council-cited files: {type(exc).__name__}: {exc}")
+    ep_state["council_cited"] = cited
+    ep_state["extra_init"] = True
+
+    by_ref_docs: dict[str, list] = {}
     for d in council_docs:
         for ref in d.get("refs", []):
             by_ref_docs.setdefault(ref, []).append({k: d.get(k) for k in ("id", "code", "date", "title", "url",
@@ -139,6 +165,8 @@ def main() -> int:
     bootstrapping = not ep_state.get("bootstrap_done")
     if old and was_complete and not status.get("parliament", {}).get("parser_changed"):
         found = changes_mod.diff_all(old, records)
+        if first_extra:      # files added by this new rule are not news
+            found = [c for c in found if not (c["kind"] == "new" and c["ref"] in extra_refs)]
     else:
         found = []
         log("  first load in progress: changes are not reported yet")
@@ -167,7 +195,10 @@ def main() -> int:
     save_records(records)
     save("ep_state.json", ep_state)
     save("ep_calendar.json", ep_calendar)
-    save("council_state.json", {"docs": council["docs"], "first_run_done": council.get("first_run_done", False)})
+    save("council_state.json", {"docs": council["docs"], "first_run_done": council.get("first_run_done", False),
+                                "version": council.get("version", 1),
+                                "numbers_checked": council.get("numbers_checked",
+                                                              council_state.get("numbers_checked", {}))})
     save("council_calendar.json", council["calendar"])
     save("notify_state.json", notify_state)
     save("changes.json", changes_log)

@@ -12,7 +12,7 @@ from __future__ import annotations
 import re
 import xml.etree.ElementTree as ET
 
-from .common import Http, days_ago, log, parse_date, pdf_text, refs_in, today
+from .common import REF_RE, Http, days_ago, ep_id, links_for, log, normalize_ref, parse_date, pdf_text, refs_in, today
 
 BASE = "https://www.consilium.europa.eu/en"
 
@@ -77,6 +77,50 @@ def latest_agendas(docs: list[dict]) -> list[dict]:
         refs = sorted({r for x in docs if x.get("kind") == "agenda" and (x.get("body"), x.get("meeting_date")) ==
                        (d.get("body"), d.get("meeting_date")) for r in x.get("refs", [])})
         out.append({**d, "refs": refs})
+    return out
+
+
+TITLE_BEFORE_REF = re.compile(
+    r"((?:Amended\s+)?(?:Proposal|Draft)\s+for\s+an?\s+(?:COUNCIL|Council|REGULATION|Regulation|DIRECTIVE|Directive|"
+    r"DECISION|Decision)\b(?:(?!(?:Proposal|Draft)\s+for\s+an?\s).)*)$", re.S)
+
+
+def clean_title(title: str) -> str:
+    """'Proposal for a REGULATION ... - Mandate for negotiations' -> 'REGULATION ...'."""
+    t = re.sub(r"\s+", " ", title or "").strip()
+    t = re.sub(r"^(?:Amended\s+)?(?:Proposal|Draft)\s+for\s+an?\s+", "", t, flags=re.I)
+    cut = t.find(" - ", 40)
+    if cut > 0:
+        t = t[:cut]
+    t = t.strip(" -–,;:(")
+    return t[0].upper() + t[1:] if t else t
+
+
+def ref_titles(text: str) -> dict[str, str]:
+    """Title of each file number in a Council document: the "Subject:" of a document whose
+    header names the file ("Interinstitutional File: ..."), or the title written just before
+    the number in an agenda."""
+    out: dict[str, str] = {}
+    subject = re.search(r"Subject:\s*(.+?)(?:\n\s*-\s|\n\s*\n|Delegations will find|\n\s*I\.\s)", text or "", re.S)
+    proposal_like = re.compile(r"(?i)^\s*(?:(?:amended\s+)?(?:proposal|draft)\s+for\s+an?\s|council\s+(?:regulation|"
+                               r"decision|directive)|regulation\s|directive\s|decision\s)")
+    if subject and proposal_like.match(subject.group(1)):
+        header = refs_in((text or "")[:subject.start()])
+        if 1 <= len(header) <= 3:
+            title = clean_title(subject.group(1))
+            if len(title) >= 20:
+                for ref in header:
+                    out[ref] = title[:400]
+    for m in REF_RE.finditer(text or ""):
+        ref = normalize_ref(m.group(0))
+        before = re.sub(r"\s+", " ", text[max(0, m.start() - 700):m.start()])
+        t = TITLE_BEFORE_REF.search(before)
+        if not t:
+            continue
+        title = re.sub(r"(?i)\s*[-–(]*\s*(interinstitutional files?:?|\bST\b)\s*$", "", t.group(1))
+        title = clean_title(title)
+        if 20 <= len(title) <= 400 and ref and ref not in out:
+            out[ref] = title
     return out
 
 
@@ -170,6 +214,11 @@ def read_pdf(http: Http, url: str, pages: int) -> tuple[str, str]:
 def collect(cfg: dict, http: Http, state: dict) -> dict:
     """Returns {calendar, docs, press, status, first_run_done}."""
     docs: dict = dict(state.get("docs", {}))
+    if state.get("version") != 2:
+        # Version 2 also keeps the title written next to each file number: read cited documents again
+        for d in docs.values():
+            if d.get("refs") and "ref_titles" not in d:
+                d["read"] = False
     first_run = not state.get("first_run_done")
     window = days_ago(cfg["council"]["first_run_days"]) if first_run else days_ago(60)
     budget = int(cfg["council"]["max_pdfs_per_run"])
@@ -254,11 +303,14 @@ def collect(cfg: dict, http: Http, state: dict) -> dict:
         text, result = read_pdf(http, rec["url"], pages=8 if rec["kind"] == "agenda" else 2)
         read += 1
         rec["refs"] = sorted(set(rec.get("refs", [])) | set(refs_in(text)))
+        rec["ref_titles"] = {**rec.get("ref_titles", {}), **ref_titles(text)}
         rec["read"] = result in ("ok", "not a PDF") or result.startswith("HTTP 4")
         if rec["kind"] == "agenda" or re.search(r"(?i)provisional agenda", text[:3000]):
             rec["kind"] = "agenda"
             rec["meeting_date"] = meeting_date(text[:4000], rec.get("date") or "") or rec.get("date")
-            rec["doc_numbers"] = sorted({f"{a}/{b}" for a, b in DOC_NUMBER.findall(text)})
+            plain = re.sub(r"\bCM\s+\d{4,5}/\d{2}", " ", text)    # CM numbers are invitations, not documents
+            rec["doc_numbers"] = sorted({f"{a}/{b}" for a, b in DOC_NUMBER.findall(plain)})
+            rec["cm_clean"] = True
             if rec["body"] == "Consejo":
                 name = MEETING_NAME.search(rec.get("title") or "") or MEETING_NAME.search(text[:1500])
                 if name:
@@ -270,6 +322,12 @@ def collect(cfg: dict, http: Http, state: dict) -> dict:
                 rec["title"] = m.group(1).strip()
         if not rec.get("step"):
             rec["step"] = step_of(text[:2500])
+
+    # Documents that agriculture & fisheries agendas cite but no feed brought, e.g. a Commission
+    # proposal sent to the Council months earlier: read each one once to learn its file number
+    checked: dict = dict(state.get("numbers_checked", {}))
+    read += read_cited(http, docs, checked, budget - read, status)
+
     # Agendas cite Council documents by number ("13143/26"): give them those documents' files
     by_number: dict[str, set] = {}
     for d in docs.values():
@@ -309,4 +367,89 @@ def collect(cfg: dict, http: Http, state: dict) -> dict:
 
     cutoff = days_ago(400)
     docs = {k: v for k, v in docs.items() if (v.get("date") or today()) >= cutoff}
-    return {"calendar": calendar, "docs": docs, "press": press, "status": status, "first_run_done": True}
+    checked = {k: v for k, v in checked.items() if v >= cutoff}
+    return {"calendar": calendar, "docs": docs, "press": press, "status": status, "first_run_done": True,
+            "version": 2, "numbers_checked": checked}
+
+
+SENT_DATE = re.compile(r"Brussels,\s*(\d{1,2}\s+[A-Z][a-z]+\s+20\d\d|\d{1,2}\.\d{1,2}\.20\d\d)")
+
+
+def read_cited(http: Http, docs: dict, checked: dict, budget: int, status: dict) -> int:
+    """Read the first pages of documents cited by recent agriculture & fisheries agendas (not
+    Coreper, whose agendas cover every policy) that the tracker does not have yet. Returns the
+    number of PDFs read. Documents that are not public (LIMITE) are noted and not tried again."""
+    known = set()
+    for d in docs.values():
+        m = re.match(r"[A-Z]+ (\d{4,5}/\d{2})", d.get("code") or "")
+        if m:
+            known.add(m.group(1))
+    year = int(today()[2:4])
+    wanted: dict[str, str] = {}
+    for d in sorted(docs.values(), key=lambda d: d.get("meeting_date") or "", reverse=True):
+        if d.get("kind") != "agenda" or (d.get("body") or "").startswith("Coreper") or \
+                (d.get("meeting_date") or "") < days_ago(150):
+            continue
+        own = re.match(r"[A-Z]+ (\d{4,5}/\d{2})", d.get("code") or "")
+        for n in d.get("doc_numbers", []):
+            if n in known or n in checked or n in wanted or (own and own.group(1) == n):
+                continue
+            if len(n.split("/")[0]) == 4 and not d.get("cm_clean"):
+                continue                                # older reading: could be a CM number
+            if int(n.split("/")[1]) in (year, year - 1):
+                wanted[n] = d.get("meeting_date") or ""
+    done = found = 0
+    for n in wanted:
+        if done >= budget:
+            break
+        num, yy = n.split("/")
+        doc_id = f"ST-{num}-20{yy}-INIT"
+        url = f"https://data.consilium.europa.eu/doc/document/{doc_id}/en/pdf"
+        text, result = read_pdf(http, url, pages=2)
+        done += 1
+        if result != "ok" and not result.startswith("HTTP 4") and result != "not a PDF":
+            continue                                    # server trouble: try again next run
+        checked[n] = today()
+        refs = refs_in(text[:6000]) if result == "ok" else []
+        if not refs:
+            continue
+        subject = re.search(r"Subject:\s*(.+?)(?:\n\s*\n|Delegations will find)", text, re.S)
+        title = re.sub(r"\s+", " ", subject.group(1)).strip()[:600] if subject else f"Documento {n}"
+        sent = SENT_DATE.search(text[:3000])
+        docs[doc_id] = {"id": doc_id, "code": f"ST {n}", "kind": "document", "body": "Consejo", "title": title,
+                        "url": url, "date": (parse_date(sent.group(1)) if sent else None) or wanted[n],
+                        "step": step_of(title), "refs": refs, "ref_titles": ref_titles(text), "read": True,
+                        "via_agenda": True}
+        found += 1
+    status["cited_documents"] = f"{done} read ({found} with a file number), {max(0, len(wanted) - done)} left"
+    return done
+
+
+def council_only_record(ref: str, docs: list[dict]) -> dict:
+    """A file known only from Council documents (e.g. fishing opportunities, art. 43(3) TFEU)."""
+    docs = sorted(docs, key=lambda d: d.get("date") or "")
+    titles = [d.get("ref_titles", {}).get(ref) for d in docs if d.get("ref_titles", {}).get(ref)]
+    subjects = [d.get("title", "") for d in docs if d.get("kind") != "agenda"
+                and re.match(r"(?i)(proposal|draft|council (regulation|decision))", d.get("title", ""))
+                and len(d.get("refs", [])) == 1]
+    title = titles[0] if titles else (clean_title(subjects[0]) if subjects else f"Expediente del Consejo {ref}")
+    events = []
+    papers = [d for d in docs if d.get("kind") != "agenda"]
+    if papers:
+        events.append({"date": papers[0].get("date"), "type": "COUNCIL_FIRST_DOCUMENT",
+                       "title": "Primer documento en el Consejo", "docs": [
+                           {"id": papers[0].get("code"), "title": papers[0].get("code"), "url": papers[0].get("url")}]})
+    for d in papers:
+        if d.get("step"):
+            events.append({"date": d.get("date"), "type": "COUNCIL_STEP", "title": f"Consejo: {d['step']}",
+                           "docs": [{"id": d.get("code"), "title": d.get("code"), "url": d.get("url")}]})
+    adopted = any(d.get("step") == "Adopción por el Consejo" for d in papers)
+    last = max((d.get("date") or "" for d in docs), default="")
+    links = {k: v for k, v in links_for(ref).items() if k == "eurlex"}
+    return {
+        "ref": ref, "id": ep_id(ref), "type": ref[-4:-1], "title": title, "title_en": title,
+        "stage": events[-1]["title"] if events else "En el Consejo", "ongoing": not adopted and last >= days_ago(300),
+        "committees": [], "people": [], "started": docs[0].get("date") if docs else None, "last_activity": last or None,
+        "events": events, "docs": [], "council_only": True, "links": links,
+        "scope": ["Citado en documentos de agricultura y pesca del Consejo (sin expediente en el Parlamento)"],
+    }
