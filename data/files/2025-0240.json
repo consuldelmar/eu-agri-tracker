@@ -1528,8 +1528,8 @@
    "meeting_date": null
   }
  ],
- "followed": false,
- "follow_url": "",
+ "followed": true,
+ "follow_url": "https://github.com/consuldelmar/eu-agri-tracker/issues/5",
  "tags": [
   "MFF 2028-2034",
   "Pesca",
