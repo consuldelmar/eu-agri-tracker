@@ -99,8 +99,6 @@
   }
  ],
  "council_docs": [],
- "followed": false,
- "follow_url": "",
  "tags": [],
  "progress": {
   "stages": [
@@ -150,5 +148,7 @@
    "date": "2026-12-03",
    "body": "Comisión REGI del PE"
   }
- }
+ },
+ "followed": false,
+ "follow_url": ""
 }

@@ -41648,6 +41648,1088 @@
    "fetched": "2026-11-23",
    "place": "Estrasburgo",
    "final": true
+  },
+  "2024-09-19": {
+   "date": "2024-09-19",
+   "items": [
+    {
+     "id": "M-2",
+     "kind": "debate",
+     "title": "Sequías y fenómenos meteorológicos extremos como amenaza para las comunidades locales y la agricultura de la Unión en tiempos de cambio climático",
+     "order": 2.0,
+     "time": "09:00",
+     "end": "10:57",
+     "slot": ""
+    },
+    {
+     "id": "M-3",
+     "kind": "debate",
+     "title": "Sentencia histórica del TJUE sobre el asunto de la ayuda estatal a Apple y sus consecuencias",
+     "order": 3.0,
+     "time": "10:57",
+     "end": "11:48",
+     "slot": ""
+    },
+    {
+     "id": "M-7-1",
+     "kind": "other",
+     "title": "Deterioro de la situación de las mujeres en Afganistán debido a la reciente aprobación de la ley sobre la promoción de la virtud y la prevención del vicio (votación)",
+     "order": 7.0,
+     "time": "12:06",
+     "end": "12:10",
+     "slot": ""
+    },
+    {
+     "id": "M-7-2",
+     "kind": "other",
+     "title": "Grave situación de los prisioneros políticos en Bielorrusia (votación)",
+     "order": 7.0,
+     "time": "12:10",
+     "end": "12:11",
+     "slot": ""
+    },
+    {
+     "id": "M-7-3",
+     "kind": "other",
+     "title": "Caso de José Daniel Ferrer García en Cuba (votación)",
+     "order": 7.0,
+     "time": "12:11",
+     "end": "12:13",
+     "slot": ""
+    },
+    {
+     "id": "M-7-5",
+     "kind": "other",
+     "title": "Continuación del apoyo financiero y militar de los Estados miembros de la Unión a Ucrania (votación)",
+     "order": 7.0,
+     "time": "12:13",
+     "end": "12:24",
+     "slot": ""
+    },
+    {
+     "id": "M-7-4",
+     "kind": "other",
+     "title": "Acuerdo UE-EE. UU. sobre el lanzamiento de satélites Galileo desde el territorio estadounidense *** (votación)",
+     "order": 7.0,
+     "time": "12:13",
+     "end": "12:13",
+     "slot": ""
+    },
+    {
+     "id": "M-7-6",
+     "kind": "other",
+     "title": "Situación en Venezuela (votación)",
+     "order": 7.0,
+     "time": "12:24",
+     "end": "12:36",
+     "slot": ""
+    },
+    {
+     "id": "M-7-7",
+     "kind": "other",
+     "title": "Devastadoras inundaciones en Europa oriental y central, pérdida de vidas y capacidad de la Unión para actuar ante este tipo de catástrofes exacerbadas por el cambio climático (votación)",
+     "order": 7.0,
+     "time": "12:36",
+     "end": "12:41",
+     "slot": ""
+    },
+    {
+     "id": "M-10",
+     "kind": "debate",
+     "title": "Posible extradición de Paul Watson: peligro de criminalización de los activistas medioambientales y de los denunciantes de irregularidades, y necesidad de protegerlos en la Unión",
+     "order": 10.0,
+     "time": "15:04",
+     "end": "15:37",
+     "slot": ""
+    },
+    {
+     "id": "M-15",
+     "kind": "other",
+     "title": "Interrupción del período de sesiones",
+     "order": 15.0,
+     "time": "15:49",
+     "end": "15:49",
+     "slot": ""
+    },
+    {
+     "id": "V-42",
+     "kind": "vote",
+     "title": "Situación en Venezuela",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0027/2024",
+      "B10-0025/2024",
+      "B10-0023/2024",
+      "B10-0037/2024",
+      "B10-0034/2024",
+      "B10-0030/2024",
+      "B10-0035/2024"
+     ],
+     "procs": [
+      "2024-2810"
+     ],
+     "detail": "Situación en Venezuela Propuestas de Resolución: RC-B10-0023/2024, B10-0023/2024, B10-0025/2024, B10-0027/2024, B10-0030/2024, B10-0034/2024, B10-0035/2024, B10-0037/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 309,
+      "against": 201,
+      "abst": 12
+     }
+    },
+    {
+     "id": "V-31",
+     "kind": "vote",
+     "title": "Continuación del apoyo financiero y militar de los Estados miembros de la Unión a Ucrania",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0029/2024",
+      "B10-0033/2024",
+      "B10-0039/2024",
+      "B10-0036/2024",
+      "B10-0031/2024",
+      "B10-0028/2024"
+     ],
+     "procs": [
+      "2024-2799"
+     ],
+     "detail": "Continuación del apoyo financiero y militar de los Estados miembros de la Unión a Ucrania Propuestas de Resolución: RC-B10-0028/2024, B10-0028/2024, B10-0029/2024, B10-0031/2024, B10-0033/2024, B10-0036/2024, B10-0039/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 425,
+      "against": 131,
+      "abst": 63
+     }
+    },
+    {
+     "id": "V-27",
+     "kind": "vote",
+     "title": "Acuerdo UE-EE. UU. sobre el lanzamiento de satélites Galileo desde el territorio de los Estados Unidos ***",
+     "order": 502.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0001/2024"
+     ],
+     "procs": [
+      "2024-0046"
+     ],
+     "detail": "Acuerdo UE-EE. UU. sobre el lanzamiento de satélites Galileo desde el territorio de los Estados Unidos *** Recomendación: Borys Budka (A10-0001/2024)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 582,
+      "against": 16,
+      "abst": 17
+     }
+    },
+    {
+     "id": "V-51",
+     "kind": "vote",
+     "title": "Devastadoras inundaciones en Europa oriental y central, pérdida de vidas y capacidad de la Unión para actuar ante este tipo de catástrofes exacerbadas por el cambio climático",
+     "order": 503.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0060/2024",
+      "B10-0063/2024",
+      "B10-0058/2024",
+      "B10-0059/2024",
+      "B10-0061/2024",
+      "B10-0057/2024",
+      "B10-0062/2024"
+     ],
+     "procs": [
+      "2024-2817"
+     ],
+     "detail": "Devastadoras inundaciones en Europa oriental y central, pérdida de vidas y capacidad de la Unión para actuar ante este tipo de catástrofes exacerbadas por el cambio climático Propuestas de Resolución: RC-B10-0057/2024, B10-0057/2024, B10-0058/2024, B10-0059/2024, B10-0060/2024, B10-0061/2024, B10-0062/2024, B10-0063/2024",
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "V-37",
+     "kind": "vote",
+     "title": "Grave situación de los prisioneros políticos en Bielorrusia",
+     "order": 504.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0054/2024",
+      "B10-0051/2024",
+      "B10-0055/2024",
+      "B10-0026/2024",
+      "B10-0052/2024",
+      "B10-0053/2024"
+     ],
+     "procs": [
+      "2024-2804"
+     ],
+     "detail": "Grave situación de los prisioneros políticos en Bielorrusia Propuestas de Resolución: RC-B10-0026/2024, B10-0026/2024, B10-0051/2024, B10-0052/2024, B10-0053/2024, B10-0054/2024, B10-0055/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 549,
+      "against": 21,
+      "abst": 37
+     }
+    },
+    {
+     "id": "V-38",
+     "kind": "vote",
+     "title": "Caso de José Daniel Ferrer García en Cuba",
+     "order": 505.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0022/2024",
+      "B10-0049/2024",
+      "B10-0042/2024",
+      "B10-0043/2024",
+      "B10-0041/2024",
+      "B10-0044/2024"
+     ],
+     "procs": [
+      "2024-2805"
+     ],
+     "detail": "Caso de José Daniel Ferrer García en Cuba Propuestas de Resolución: RC-B10-0022/2024, B10-0022/2024, B10-0041/2024, B10-0042/2024, B10-0043/2024, B10-0044/2024, B10-0049/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 380,
+      "against": 182,
+      "abst": 51
+     }
+    },
+    {
+     "id": "V-36",
+     "kind": "vote",
+     "title": "Deterioro de la situación de las mujeres en Afganistán debido a la reciente aprobación de la ley sobre la promoción de la virtud y la prevención del vicio",
+     "order": 506.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0045/2024",
+      "B10-0038/2024",
+      "B10-0048/2024",
+      "B10-0040/2024",
+      "B10-0047/2024",
+      "B10-0024/2024",
+      "B10-0050/2024"
+     ],
+     "procs": [
+      "2024-2803"
+     ],
+     "detail": "Deterioro de la situación de las mujeres en Afganistán debido a la reciente aprobación de la ley sobre la promoción de la virtud y la prevención del vicio Propuestas de Resolución: RC-B10-0024/2024, B10-0024/2024, B10-0038/2024, B10-0040/2024, B10-0045/2024, B10-0047/2024, B10-0048/2024, B10-0050/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 565,
+      "against": 8,
+      "abst": 43
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-09-18": {
+   "date": "2024-09-18",
+   "items": [
+    {
+     "id": "M-2",
+     "kind": "debate",
+     "title": "Devastadoras inundaciones en Europa oriental y central, pérdida de vidas y capacidad de la Unión para actuar ante este tipo de catástrofes exacerbadas por el cambio climático",
+     "order": 2.0,
+     "time": "09:04",
+     "end": "12:14",
+     "slot": ""
+    },
+    {
+     "id": "M-4-2",
+     "kind": "other",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3 y apartado 4, letra c), del Reglamento interno: límites máximos de residuos de carbendazima y tiofanato-metilo (votación)",
+     "order": 4.0,
+     "time": "12:17",
+     "end": "12:18",
+     "slot": ""
+    },
+    {
+     "id": "M-4-3",
+     "kind": "other",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3 y apartado 4, letra c), del Reglamento interno: límites máximos de residuos de ciproconazol (votación)",
+     "order": 4.0,
+     "time": "12:18",
+     "end": "12:19",
+     "slot": ""
+    },
+    {
+     "id": "M-7",
+     "kind": "other",
+     "title": "Delincuencia organizada: una importante amenaza para la seguridad interna y la ciudadanía de la Unión (debate de actualidad)",
+     "order": 7.0,
+     "time": "12:22",
+     "end": "14:11",
+     "slot": ""
+    },
+    {
+     "id": "M-8",
+     "kind": "debate",
+     "title": "Presentación a cargo del Consejo de su Posición sobre el proyecto de presupuesto general de la Unión Europea para el ejercicio 2025 - todas las secciones",
+     "order": 8.0,
+     "time": "14:11",
+     "end": "14:39",
+     "slot": ""
+    },
+    {
+     "id": "M-9",
+     "kind": "debate",
+     "title": "El sistema húngaro de «tarjeta nacional» y sus consecuencias para Schengen y el espacio de libertad, seguridad y justicia",
+     "order": 9.0,
+     "time": "14:39",
+     "end": "16:40",
+     "slot": ""
+    },
+    {
+     "id": "M-10",
+     "kind": "debate",
+     "title": "Respuesta de la Unión al brote de mpox y necesidad de una acción continua",
+     "order": 10.0,
+     "time": "16:40",
+     "end": "17:53",
+     "slot": ""
+    },
+    {
+     "id": "M-11-1",
+     "kind": "other",
+     "title": "Deterioro de la situación de las mujeres en Afganistán debido a la reciente aprobación de la ley sobre la promoción de la virtud y la prevención del vicio",
+     "order": 11.0,
+     "time": "17:53",
+     "end": "19:15",
+     "slot": ""
+    },
+    {
+     "id": "M-11-2",
+     "kind": "other",
+     "title": "Grave situación de los prisioneros políticos en Bielorrusia",
+     "order": 11.0,
+     "time": "19:15",
+     "end": "20:05",
+     "slot": ""
+    },
+    {
+     "id": "M-11-3",
+     "kind": "other",
+     "title": "Caso de José Daniel Ferrer García en Cuba",
+     "order": 11.0,
+     "time": "20:05",
+     "end": "20:46",
+     "slot": ""
+    },
+    {
+     "id": "M-11",
+     "kind": "debate",
+     "title": "Debate sobre casos de violaciones de los derechos humanos, de la democracia y del Estado de Derecho",
+     "order": 11.0,
+     "time": "",
+     "end": "",
+     "slot": ""
+    },
+    {
+     "id": "V-46",
+     "kind": "vote",
+     "title": "Composición numérica de las delegaciones interparlamentarias",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0019/2024"
+     ],
+     "procs": [
+      "2024-2814"
+     ],
+     "detail": "Composición numérica de las delegaciones interparlamentarias Propuesta de Decisión: B10-0019/2024",
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "V-50",
+     "kind": "vote",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3 y apartado 4, letra c), del Reglamento interno: límites máximos de residuos de carbendazima y tiofanato-metilo",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0020/2024"
+     ],
+     "procs": [
+      "2024-2758"
+     ],
+     "detail": "Oposición con arreglo al artículo 115, apartados 2 y 3 y apartado 4, letra c), del Reglamento interno: límites máximos de residuos de carbendazima y tiofanato-metilo Propuesta de Resolución: B10-0020/2024 (mayoría de los diputados que componen el Parlamento requerida)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 516,
+      "against": 129,
+      "abst": 27
+     }
+    },
+    {
+     "id": "V-49",
+     "kind": "vote",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3 y apartado 4, letra c), del Reglamento interno: límites máximos de residuos de ciproconazol",
+     "order": 502.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0021/2024"
+     ],
+     "procs": [
+      "2024-2759"
+     ],
+     "detail": "Oposición con arreglo al artículo 115, apartados 2 y 3 y apartado 4, letra c), del Reglamento interno: límites máximos de residuos de ciproconazol Propuesta de Resolución: B10-0021/2024 (mayoría de los diputados que componen el Parlamento requerida)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 522,
+      "against": 127,
+      "abst": 28
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-09-17": {
+   "date": "2024-09-17",
+   "items": [
+    {
+     "id": "M-2",
+     "kind": "debate",
+     "title": "Continuación del apoyo financiero y militar de los Estados miembros de la Unión a Ucrania",
+     "order": 2.0,
+     "time": "09:00",
+     "end": "11:55",
+     "slot": ""
+    },
+    {
+     "id": "M-3",
+     "kind": "debate",
+     "title": "Medidas globales para las plataformas de redes sociales: refuerzo del papel del Reglamento de Servicios Digitales y protección de la democracia y la libertad en el ámbito digital",
+     "order": 3.0,
+     "time": "11:55",
+     "end": "13:42",
+     "slot": ""
+    },
+    {
+     "id": "M-5",
+     "kind": "other",
+     "title": "Bienvenida",
+     "order": 5.0,
+     "time": "13:44",
+     "end": "13:46",
+     "slot": ""
+    },
+    {
+     "id": "M-6",
+     "kind": "other",
+     "title": "Discurso de Mario Draghi – Presentación del informe sobre el futuro de la competitividad europea",
+     "order": 6.0,
+     "time": "13:46",
+     "end": "14:21",
+     "slot": ""
+    },
+    {
+     "id": "M-8",
+     "kind": "debate",
+     "title": "Futuro de la competitividad europea",
+     "order": 8.0,
+     "time": "14:23",
+     "end": "16:01",
+     "slot": ""
+    },
+    {
+     "id": "M-10",
+     "kind": "debate",
+     "title": "Estado de la Unión de la Energía",
+     "order": 10.0,
+     "time": "16:02",
+     "end": "18:10",
+     "slot": ""
+    },
+    {
+     "id": "M-11",
+     "kind": "other",
+     "title": "Designación de los miembros del Comité Consultivo sobre la Conducta de los Diputados",
+     "order": 11.0,
+     "time": "18:10",
+     "end": "18:11",
+     "slot": ""
+    },
+    {
+     "id": "M-13",
+     "kind": "debate",
+     "title": "Guerra en la Franja de Gaza y situación en Oriente Próximo",
+     "order": 13.0,
+     "time": "18:11",
+     "end": "20:30",
+     "slot": ""
+    },
+    {
+     "id": "M-14",
+     "kind": "debate",
+     "title": "Situación en Venezuela",
+     "order": 14.0,
+     "time": "20:30",
+     "end": "21:44",
+     "slot": ""
+    },
+    {
+     "id": "M-15",
+     "kind": "debate",
+     "title": "Resultados de la reunión ministerial del G20 en Río de Janeiro y lucha contra la desigualdad",
+     "order": 15.0,
+     "time": "21:44",
+     "end": "22:17",
+     "slot": ""
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-09-16": {
+   "date": "2024-09-16",
+   "items": [
+    {
+     "id": "M-3",
+     "kind": "other",
+     "title": "Declaraciones de la presidenta",
+     "order": 3.0,
+     "time": "17:04",
+     "end": "17:09",
+     "slot": ""
+    },
+    {
+     "id": "M-6",
+     "kind": "other",
+     "title": "Suplicatorios de suspensión de la inmunidad",
+     "order": 6.0,
+     "time": "17:10",
+     "end": "17:11",
+     "slot": ""
+    },
+    {
+     "id": "M-8",
+     "kind": "other",
+     "title": "Negociaciones antes de la primera lectura del Consejo (artículo 73 del Reglamento interno)",
+     "order": 8.0,
+     "time": "17:11",
+     "end": "17:11",
+     "slot": ""
+    },
+    {
+     "id": "M-14",
+     "kind": "debate",
+     "title": "Resultados del diálogo estratégico sobre el futuro de la agricultura en la UE",
+     "order": 14.0,
+     "time": "17:36",
+     "end": "19:35",
+     "slot": ""
+    },
+    {
+     "id": "M-15",
+     "kind": "debate",
+     "title": "Necesidad de prevenir amenazas para la seguridad como el atentado de Solingen mediante la lucha contra la inmigración ilegal y retornos efectivos",
+     "order": 15.0,
+     "time": "19:35",
+     "end": "21:07",
+     "slot": ""
+    },
+    {
+     "id": "M-16",
+     "kind": "debate",
+     "title": "Problemas persistentes de antisemitismo en Europa y de otras formas de discurso de odio y delitos de odio",
+     "order": 16.0,
+     "time": "21:07",
+     "end": "22:02",
+     "slot": ""
+    },
+    {
+     "id": "M-17",
+     "kind": "other",
+     "title": "Intervenciones de un minuto sobre asuntos de importancia política",
+     "order": 17.0,
+     "time": "22:02",
+     "end": "22:44",
+     "slot": ""
+    },
+    {
+     "id": "R-000002",
+     "kind": "vote",
+     "title": "Orden del día del miércoles - Solicitud del Grupo ECR",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del miércoles - Solicitud del Grupo ECR",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 437,
+      "against": 13,
+      "abst": 11
+     }
+    },
+    {
+     "id": "R-000001",
+     "kind": "vote",
+     "title": "Orden del día del martes - Solicitud del Grupo PfE",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del martes - Solicitud del Grupo PfE",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 102,
+      "against": 279,
+      "abst": 13
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-07-19": {
+   "date": "2024-07-19",
+   "items": [
+    {
+     "id": "M-2",
+     "kind": "other",
+     "title": "Declaración de la presidenta",
+     "order": 2.0,
+     "time": "09:04",
+     "end": "09:14",
+     "slot": ""
+    },
+    {
+     "id": "M-4",
+     "kind": "other",
+     "title": "Suplicatorios de suspensión de la inmunidad",
+     "order": 4.0,
+     "time": "09:15",
+     "end": "09:15",
+     "slot": ""
+    },
+    {
+     "id": "M-9",
+     "kind": "other",
+     "title": "Interrupción del período de sesiones",
+     "order": 9.0,
+     "time": "12:00",
+     "end": "12:00",
+     "slot": ""
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-07-18": {
+   "date": "2024-07-18",
+   "items": [
+    {
+     "id": "M-2",
+     "kind": "other",
+     "title": "Elección de la presidencia de la Comisión (designación de los escrutadores)",
+     "order": 2.0,
+     "time": "09:03",
+     "end": "09:06",
+     "slot": ""
+    },
+    {
+     "id": "M-3",
+     "kind": "debate",
+     "title": "Declaración de la candidata a la presidencia de la Comisión",
+     "order": 3.0,
+     "time": "09:06",
+     "end": "11:29",
+     "slot": ""
+    },
+    {
+     "id": "M-5",
+     "kind": "other",
+     "title": "Elección del presidente de la Comisión (solicitud de aplazamiento de la votación)",
+     "order": 5.0,
+     "time": "13:01",
+     "end": "13:03",
+     "slot": ""
+    },
+    {
+     "id": "M-6",
+     "kind": "other",
+     "title": "Elección del presidente de la Comisión",
+     "order": 6.0,
+     "time": "13:01",
+     "end": "13:30",
+     "slot": ""
+    },
+    {
+     "id": "M-8",
+     "kind": "other",
+     "title": "Elección de la presidencia de la Comisión (anuncio de los resultados)",
+     "order": 8.0,
+     "time": "14:12",
+     "end": "14:15",
+     "slot": ""
+    },
+    {
+     "id": "R-000001",
+     "kind": "vote",
+     "title": "Solicitud del Grupo The Left - Solicitud de aplazamiento de la votación para elegir la presidencia de la Comisión",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Solicitud del Grupo The Left - Solicitud de aplazamiento de la votación para elegir la presidencia de la Comisión",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 101,
+      "against": 531,
+      "abst": 8
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-07-17": {
+   "date": "2024-07-17",
+   "items": [
+    {
+     "id": "M-2",
+     "kind": "other",
+     "title": "Anuncios relativos a la 9.ª legislatura",
+     "order": 2.0,
+     "time": "09:03",
+     "end": "09:06",
+     "slot": ""
+    },
+    {
+     "id": "M-4",
+     "kind": "debate",
+     "title": "Necesidad de apoyo continuo de la Unión a Ucrania",
+     "order": 4.0,
+     "time": "09:11",
+     "end": "09:55",
+     "slot": ""
+    },
+    {
+     "id": "M-6",
+     "kind": "other",
+     "title": "Elección de los cuestores del Parlamento (primera y segunda vueltas)",
+     "order": 6.0,
+     "time": "10:04",
+     "end": "10:19",
+     "slot": ""
+    },
+    {
+     "id": "M-8",
+     "kind": "other",
+     "title": "Declaración de la presidenta",
+     "order": 8.0,
+     "time": "12:32",
+     "end": "12:42",
+     "slot": ""
+    },
+    {
+     "id": "M-10-2",
+     "kind": "other",
+     "title": "Número y composición numérica de las delegaciones interparlamentarias (votación)",
+     "order": 10.0,
+     "time": "12:42",
+     "end": "12:43",
+     "slot": ""
+    },
+    {
+     "id": "M-10-3",
+     "kind": "other",
+     "title": "Necesidad de apoyo continuo de la Unión a Ucrania (votación)",
+     "order": 10.0,
+     "time": "12:43",
+     "end": "12:50",
+     "slot": ""
+    },
+    {
+     "id": "M-2-3",
+     "kind": "other",
+     "title": "Sanciones",
+     "order": 2.0,
+     "time": "",
+     "end": "",
+     "slot": ""
+    },
+    {
+     "id": "M-2-5",
+     "kind": "other",
+     "title": "Inmunidades",
+     "order": 2.0,
+     "time": "",
+     "end": "",
+     "slot": ""
+    },
+    {
+     "id": "V-51",
+     "kind": "vote",
+     "title": "Necesidad de apoyo continuo de la Unión a Ucrania",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0007/2024",
+      "B10-0008/2024"
+     ],
+     "procs": [
+      "2024-2721"
+     ],
+     "detail": "Necesidad de apoyo continuo de la Unión a Ucrania Propuestas de Resolución: B10-0007/2024, B10-0008/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 495,
+      "against": 137,
+      "abst": 47
+     }
+    },
+    {
+     "id": "R-000001",
+     "kind": "vote",
+     "title": "Orden del día del miércoles - Solicitud del Grupo The Left",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del miércoles - Solicitud del Grupo The Left",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 149,
+      "against": 251,
+      "abst": 16
+     }
+    },
+    {
+     "id": "R-000002",
+     "kind": "vote",
+     "title": "Orden del día del miércoles - Solicitud del Grupo PfE",
+     "order": 502.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del miércoles - Solicitud del Grupo PfE",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 119,
+      "against": 337,
+      "abst": 15
+     }
+    },
+    {
+     "id": "V-43",
+     "kind": "vote",
+     "title": "Composición numérica de las comisiones permanentes",
+     "order": 503.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0004/2024"
+     ],
+     "procs": [
+      "2024-2716"
+     ],
+     "detail": "Composición numérica de las comisiones permanentes Propuesta de Decisión: B10-0004/2024",
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "V-42",
+     "kind": "vote",
+     "title": "Número y composición numérica de las delegaciones interparlamentarias",
+     "order": 504.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0005/2024"
+     ],
+     "procs": [
+      "2024-2717"
+     ],
+     "detail": "Número y composición numérica de las delegaciones interparlamentarias Propuesta de Decisión: B10-0005/2024",
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-07-16": {
+   "date": "2024-07-16",
+   "items": [
+    {
+     "id": "M-3",
+     "kind": "other",
+     "title": "Anuncio de las personas candidatas a la presidencia",
+     "order": 3.0,
+     "time": "10:15",
+     "end": "10:15",
+     "slot": ""
+    },
+    {
+     "id": "M-4",
+     "kind": "other",
+     "title": "Breves presentaciones de las candidatas a la presidencia",
+     "order": 4.0,
+     "time": "10:15",
+     "end": "10:30",
+     "slot": ""
+    },
+    {
+     "id": "M-5",
+     "kind": "other",
+     "title": "Elección del presidente y de los vicepresidentes (designación de los escrutadores)",
+     "order": 5.0,
+     "time": "10:31",
+     "end": "10:34",
+     "slot": ""
+    },
+    {
+     "id": "M-6",
+     "kind": "other",
+     "title": "Elección del presidente del Parlamento Europeo (primera vuelta)",
+     "order": 6.0,
+     "time": "10:34",
+     "end": "11:22",
+     "slot": ""
+    },
+    {
+     "id": "M-8",
+     "kind": "other",
+     "title": "Elección del presidente o presidenta del Parlamento (primera vuelta) (anuncio de los resultados)",
+     "order": 8.0,
+     "time": "12:24",
+     "end": "12:45",
+     "slot": ""
+    },
+    {
+     "id": "M-9",
+     "kind": "other",
+     "title": "Constitución de los grupos políticos",
+     "order": 9.0,
+     "time": "12:45",
+     "end": "12:46",
+     "slot": ""
+    },
+    {
+     "id": "M-10",
+     "kind": "other",
+     "title": "Elección de los vicepresidentes del Parlamento (plazo de presentación de las candidaturas)",
+     "order": 10.0,
+     "time": "12:46",
+     "end": "12:46",
+     "slot": ""
+    },
+    {
+     "id": "M-12",
+     "kind": "other",
+     "title": "Elección de los vicepresidentes del Parlamento (anuncio de las candidaturas)",
+     "order": 12.0,
+     "time": "15:02",
+     "end": "15:03",
+     "slot": ""
+    },
+    {
+     "id": "M-13",
+     "kind": "other",
+     "title": "Elección de los vicepresidentes del Parlamento (primera vuelta)",
+     "order": 13.0,
+     "time": "15:03",
+     "end": "15:38",
+     "slot": ""
+    },
+    {
+     "id": "M-15",
+     "kind": "other",
+     "title": "Elección de los vicepresidentes del Parlamento (primera vuelta) (anuncio de los resultados)",
+     "order": 15.0,
+     "time": "17:32",
+     "end": "17:36",
+     "slot": ""
+    },
+    {
+     "id": "M-17",
+     "kind": "other",
+     "title": "Elección de los vicepresidentes del Parlamento (segunda vuelta)",
+     "order": 17.0,
+     "time": "18:00",
+     "end": "18:27",
+     "slot": ""
+    },
+    {
+     "id": "M-19",
+     "kind": "other",
+     "title": "Elección de los vicepresidentes del Parlamento (segunda vuelta) (anuncio de los resultados)",
+     "order": 19.0,
+     "time": "19:36",
+     "end": "19:38",
+     "slot": ""
+    },
+    {
+     "id": "M-20",
+     "kind": "other",
+     "title": "Elección de los cuestores (plazo de presentación de candidaturas)",
+     "order": 20.0,
+     "time": "19:38",
+     "end": "19:38",
+     "slot": ""
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
   }
  },
  "sittings": [

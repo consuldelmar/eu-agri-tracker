@@ -1,17 +1,17 @@
 {
- "started": "2026-11-23T08:53:09+00:00",
+ "started": "2026-11-23T15:21:17+00:00",
  "parliament": {
-  "changed_in_feed": 17,
-  "files_read": 17,
+  "changed_in_feed": 65,
+  "files_read": 65,
   "queue_left": 0,
   "tracked": 381,
   "failed": 0,
-  "throttled": 0
+  "throttled": 1
  },
  "plenary": {
-  "read": 32,
-  "left": 10,
-  "days": 124
+  "read": 12,
+  "left": 2,
+  "days": 132
  },
  "council": {
   "agri": "50 meetings",
@@ -28,9 +28,9 @@
   "from_parliament": 0,
   "council_only": 12
  },
- "changes": 0,
- "finished": "2026-11-23T08:58:08+00:00",
- "requests": 183,
+ "changes": 1,
+ "finished": "2026-11-23T15:25:31+00:00",
+ "requests": 164,
  "request_errors": 0,
  "files": 381,
  "problems": []

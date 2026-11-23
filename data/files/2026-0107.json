@@ -169,7 +169,14 @@
    "date": "2026-11-19",
    "type": "COMMITTEE_ADOPTING_OPINION",
    "title": "Opinión aprobada en comisión",
-   "docs": []
+   "docs": [
+    {
+     "id": "BUDG-AD-797433",
+     "title": "Opinión BUDG (797433)",
+     "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-797433_EN.pdf",
+     "kind": "opinion"
+    }
+   ]
   }
  ],
  "docs": [
@@ -186,6 +193,13 @@
    "url": "https://www.europarl.europa.eu/doceo/document/DEVE-AD-796540_EN.pdf",
    "kind": "opinion",
    "date": "2026-11-10"
+  },
+  {
+   "id": "BUDG-AD-797433",
+   "title": "Opinión BUDG (797433)",
+   "url": "https://www.europarl.europa.eu/doceo/document/BUDG-AD-797433_EN.pdf",
+   "kind": "opinion",
+   "date": "2026-11-19"
   }
  ],
  "amendments": {
@@ -205,8 +219,6 @@
  "agenda": [],
  "scheduled": [],
  "council_docs": [],
- "followed": false,
- "follow_url": "",
  "tags": [
   "Pesca"
  ],
@@ -241,5 +253,7 @@
   "hint": "Votación en el Pleno del PE",
   "next_label": "",
   "next_date": null
- }
+ },
+ "followed": false,
+ "follow_url": ""
 }

@@ -177,8 +177,6 @@
  "agenda": [],
  "scheduled": [],
  "council_docs": [],
- "followed": false,
- "follow_url": "",
  "tags": [],
  "progress": {
   "stages": [
@@ -225,5 +223,7 @@
   "hint": "La comisión del PE prepara y vota su informe",
   "next_label": "Dictamen del PE",
   "next_date": null
- }
+ },
+ "followed": false,
+ "follow_url": ""
 }
