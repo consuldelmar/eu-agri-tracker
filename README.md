@@ -55,7 +55,8 @@ Se editan en GitHub con el lápiz y **Commit changes**:
 
 - `committees`, `roles`: qué comisiones y papeles cuentan.
 - `procedure_types`, `since_year`: tipos de procedimiento y desde qué año.
-- `also_track`: expedientes que quieres aunque no cumplan la regla.
+- `also_track`: expedientes que quieres aunque no cumplan la regla (también los que solo están en el Consejo,
+  p. ej. `2026/0269(NLE)`).
 - `follow`: expedientes de los que quieres avisos.
 - `tags` y `tag_words`: tus etiquetas, por número de expediente o por palabras del título.
 - `legislative_train`: enlaces al Legislative Train, puestos a mano.

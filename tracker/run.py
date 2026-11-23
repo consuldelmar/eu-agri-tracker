@@ -116,13 +116,18 @@ def main() -> int:
         records.pop(ref)
     extra_refs: set[str] = set()
     try:
-        found, missing = ep_mod.fetch_extra(cfg, http, [r for r in cited if r not in records], ep_state)
+        # also_track / follow numbers the Parliament does not have become Council-only files too
+        manual = set(cfg["also_track"]) | set(cfg["follow"])
+        todo = sorted({r for r in set(cited) | manual if r not in records})
+        found, missing = ep_mod.fetch_extra(cfg, http, todo, ep_state)
         for ref, rec in found.items():
-            rec["scope"] = [ep_mod.COUNCIL_CITED]
+            rec["scope"] = [ep_mod.COUNCIL_CITED] if ref in cited else ["seguimiento manual"]
             records[ref] = rec
         for ref in missing:
             records[ref] = council_mod.council_only_record(
                 ref, [d for d in council_docs if ref in d.get("refs", [])])
+            if ref not in cited:
+                records[ref]["scope"] = ["seguimiento manual (no está en el Parlamento)"]
         extra_refs = set(found) | set(missing)
         status["council_cited"] = {"from_parliament": len(found), "council_only": len(missing)}
         log(f"  files cited by the Council: {len(found)} added from the Parliament, {len(missing)} Council-only")
