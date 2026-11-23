@@ -693,7 +693,8 @@ function plenDay(d, state) {
       ${s.time || s.slot ? `<div class="slot-h">${s.time ? `<time>${esc(s.time)}${s.end ? "–" + esc(s.end) : ""}</time>` : ""}
         <span class="${s.kind === "vote" ? "vote" : ""}">${esc(slotLabel(s))}</span></div>` : ""}
       ${s.items.map(plenItem).join("")}</div>`).join("")
-      : `<p class="empty">${state.ours ? "Nada de AGRI, PECH o REGI este día." : "Sin puntos con estos filtros."}</p>`}
+      : `<p class="empty">${!d.items.length && d.date >= t ? "El orden del día aún no se ha publicado (suele salir la semana anterior)."
+        : state.ours ? "Nada de AGRI, PECH o REGI este día." : "Sin puntos con estos filtros."}</p>`}
   </section>`;
 }
 async function viewPlenary(sid) {
