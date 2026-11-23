@@ -36045,6 +36045,5609 @@
    "fetched": "2026-11-23",
    "place": "Estrasburgo",
    "final": true
+  },
+  "2025-02-13": {
+   "date": "2025-02-13",
+   "items": [
+    {
+     "id": "D-57",
+     "kind": "debate",
+     "title": "Acuerdo comercial UE-Mercosur",
+     "order": 37.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "Debates",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2558(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-37",
+     "kind": "debate",
+     "title": "Amenazas a la soberanía de la Unión derivadas de las dependencias estratégicas en la infraestructura de comunicación",
+     "order": 38.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "Debates",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2533(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "V-42",
+     "kind": "vote",
+     "title": "Alcaldes destituidos y detenidos recientemente en Turquía",
+     "order": 39.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuestas de Resolución",
+     "refs": [
+      "2025/2546(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0100/2025"
+     ],
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "V-44",
+     "kind": "vote",
+     "title": "Represión ejercida por el régimen de Ortega y Murillo en Nicaragua, en particular contra defensores de los derechos humanos, opositores políticos y comunidades religiosas",
+     "order": 40.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuestas de Resolución",
+     "refs": [
+      "2025/2547(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0126/2025"
+     ],
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "V-45",
+     "kind": "vote",
+     "title": "Detención prolongada y riesgo de pena de muerte para las personas acusadas de blasfemia en Nigeria, en particular el caso de Yahaya Sharif Aminu",
+     "order": 41.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuestas de Resolución",
+     "refs": [
+      "2025/2548(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0101/2025"
+     ],
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "V-27",
+     "kind": "vote",
+     "title": "Nuevo deterioro de la situación política en Georgia",
+     "order": 42.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuestas de Resolución",
+     "refs": [
+      "2025/2522(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0106/2025"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 400,
+      "against": 63,
+      "abst": 81
+     }
+    },
+    {
+     "id": "V-50",
+     "kind": "vote",
+     "title": "Escalada de la violencia en el este de la República Democrática del Congo",
+     "order": 43.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuestas de Resolución",
+     "refs": [
+      "2025/2553(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0102/2025"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 443,
+      "against": 4,
+      "abst": 48
+     }
+    },
+    {
+     "id": "D-56",
+     "kind": "debate",
+     "title": "Reconocimiento transfronterizo de los certificados de estado civil de las parejas del mismo sexo y de sus hijos dentro del territorio de la Unión",
+     "order": 44.0,
+     "time": "15:00",
+     "end": "16:00",
+     "slot": "Debates",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2557(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-15",
+     "kind": "debate",
+     "title": "Explicaciones de voto",
+     "order": 45.0,
+     "time": "15:00",
+     "end": "16:00",
+     "slot": "Debates",
+     "docs": []
+    }
+   ],
+   "source": "agenda",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2025-02-12": {
+   "date": "2025-02-12",
+   "items": [
+    {
+     "id": "D-24",
+     "kind": "debate",
+     "title": "Programa de trabajo de la Comisión Europea para 2025",
+     "order": 22.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "DEBATES PRIORITARIOS",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2500(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-30",
+     "kind": "debate",
+     "title": "Primer aniversario del asesinato de Alexéi Navalni y represión continua de la oposición democrática en Rusia",
+     "order": 23.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "DEBATES PRIORITARIOS",
+     "type": "Declaraciones del Parlamento",
+     "refs": [
+      "2025/2526(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "V-20",
+     "kind": "vote",
+     "title": "IVA: normas en la era digital",
+     "order": 24.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Informe sobre el proyecto de Directiva del Consejo por la que se modifica la Directiva 2006/112/CE en lo que respecta a las normas del IVA en la era digital",
+     "type": "Informe",
+     "symbol": "*",
+     "refs": [
+      "2022/0407(CNS)"
+     ],
+     "com": "COM(2022)0701",
+     "docs": [
+      "A10-0001/2025"
+     ],
+     "orgs": [
+      "ECON"
+     ],
+     "people": [
+      "Ľudovít Ódor"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 589,
+      "against": 42,
+      "abst": 10
+     }
+    },
+    {
+     "id": "V-19",
+     "kind": "vote",
+     "title": "Cooperación administrativa en el ámbito de la fiscalidad",
+     "order": 25.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Informe sobre la propuesta de Directiva del Consejo por la que se modifica la Directiva 2011/16/UE relativa a la cooperación administrativa en el ámbito de la fiscalidad",
+     "type": "Informe",
+     "symbol": "*",
+     "refs": [
+      "2024/0276(CNS)"
+     ],
+     "com": "COM(2024)0497",
+     "docs": [
+      "A10-0002/2025"
+     ],
+     "orgs": [
+      "ECON"
+     ],
+     "people": [
+      "Aurore Lalucq"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 608,
+      "against": 33,
+      "abst": 8
+     }
+    },
+    {
+     "id": "V-29",
+     "kind": "vote",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente DP910521",
+     "order": 26.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuesta de Resolución",
+     "refs": [
+      "2024/3010(RSP)"
+     ],
+     "docs": [
+      "B10-0061/2025"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 477,
+      "against": 152,
+      "abst": 20
+     }
+    },
+    {
+     "id": "V-28",
+     "kind": "vote",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente MON 95275",
+     "order": 27.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuesta de Resolución",
+     "refs": [
+      "2024/3011(RSP)"
+     ],
+     "docs": [
+      "B10-0060/2025"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 467,
+      "against": 156,
+      "abst": 18
+     }
+    },
+    {
+     "id": "D-10",
+     "kind": "debate",
+     "title": "Debate de actualidad (artículo 169 del Reglamento interno) - Colaboración entre conservadores y extrema derecha como amenaza para la competitividad de la Unión",
+     "order": 28.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "docs": []
+    },
+    {
+     "id": "D-35",
+     "kind": "debate",
+     "title": "Brújula de la Competitividad",
+     "order": 29.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2025/2531(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-43",
+     "kind": "debate",
+     "title": "Necesidad de apoyo específico para las regiones de la Unión limítrofes con Rusia, Bielorrusia y Ucrania",
+     "order": 30.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2025/2532(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-31",
+     "kind": "debate",
+     "title": "Retirada de los Estados Unidos del Acuerdo de París sobre el Cambio Climático y de la Organización Mundial de la Salud y suspensión de la ayuda humanitaria y al desarrollo de los Estados Unidos",
+     "order": 31.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2527(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-54",
+     "kind": "debate",
+     "title": "Homenaje a Ján Kuciak y Martina Kušnírová: promover la libertad de los medios de comunicación, reforzar el Estado de Derecho y proteger a los periodistas en toda la Unión",
+     "order": 32.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2556(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-42",
+     "kind": "debate",
+     "title": "Alcaldes destituidos y detenidos recientemente en Turquía",
+     "order": 33.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "refs": [
+      "2025/2546(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0100/2025"
+     ]
+    },
+    {
+     "id": "D-44",
+     "kind": "debate",
+     "title": "Represión ejercida por el régimen de Ortega y Murillo en Nicaragua, en particular contra defensores de los derechos humanos, opositores políticos y comunidades religiosas",
+     "order": 34.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "refs": [
+      "2025/2547(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0126/2025"
+     ]
+    },
+    {
+     "id": "D-45",
+     "kind": "debate",
+     "title": "Detención prolongada y riesgo de pena de muerte para las personas acusadas de blasfemia en Nigeria, en particular el caso de Yahaya Sharif Aminu",
+     "order": 35.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "refs": [
+      "2025/2548(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0101/2025"
+     ]
+    },
+    {
+     "id": "D-49",
+     "kind": "debate",
+     "title": "Crisis silenciosa: la salud mental de los jóvenes en Europa",
+     "order": 36.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2552(RSP)"
+     ],
+     "docs": []
+    }
+   ],
+   "source": "agenda",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2025-02-11": {
+   "date": "2025-02-11",
+   "items": [
+    {
+     "id": "D-48",
+     "kind": "debate",
+     "title": "Preparación de cara a una nueva era en el comercio: cooperación multilateral o aranceles",
+     "order": 7.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "Debates",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2025/2551(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-32",
+     "kind": "debate",
+     "title": "Mantenimiento del apoyo inquebrantable de la Unión a Ucrania tras tres años de la guerra de agresión de Rusia",
+     "order": 8.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "Debates",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2025/2528(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-59",
+     "kind": "debate",
+     "title": "Discurso de Ruslan Stefanchuk, presidente de la Rada Suprema",
+     "order": 9.0,
+     "time": "12:00",
+     "end": "12:30",
+     "slot": "Sesión solemne",
+     "docs": []
+    },
+    {
+     "id": "V-18",
+     "kind": "vote",
+     "title": "Celebración del Acuerdo entre la Unión Europea y la República Popular de Bangladesh sobre determinados aspectos de los servicios aéreos",
+     "order": 10.0,
+     "time": "12:30",
+     "end": "13:30",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Recomendación sobre el proyecto de Decisión del Consejo relativa a la celebración del Acuerdo entre la Unión Europea y la República Popular de Bangladesh sobre determinados aspectos de los servicios aéreos",
+     "type": "Recomendación",
+     "symbol": "***",
+     "refs": [
+      "2015/0188(NLE)"
+     ],
+     "com": "COM(2015)0423",
+     "docs": [
+      "A10-0005/2025"
+     ],
+     "orgs": [
+      "TRAN"
+     ],
+     "people": [
+      "Tomas Tobé"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 562,
+      "against": 17,
+      "abst": 3
+     }
+    },
+    {
+     "id": "V-16",
+     "kind": "vote",
+     "title": "Celebración, en nombre de la Unión, del Protocolo (2024-2029) de aplicación del Acuerdo de asociación en el sector pesquero entre la Comunidad Europea y la República de Cabo Verde",
+     "order": 11.0,
+     "time": "12:30",
+     "end": "13:30",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Recomendación sobre el proyecto de Decisión del Consejo relativa a la celebración, en nombre de la Unión Europea, del Protocolo (2024‑2029) de aplicación del Acuerdo de asociación en el sector pesquero entre la Comunidad Europea y la República de Cabo Verde",
+     "type": "Recomendación",
+     "symbol": "***",
+     "refs": [
+      "2024/0133(NLE)"
+     ],
+     "com": "COM(2024)0236",
+     "docs": [
+      "A10-0004/2025"
+     ],
+     "orgs": [
+      "PECH"
+     ],
+     "people": [
+      "Paulo Do Nascimento Cabral"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 507,
+      "against": 76,
+      "abst": 16
+     }
+    },
+    {
+     "id": "V-21",
+     "kind": "vote",
+     "title": "Renovación del Acuerdo de Cooperación científica y tecnológica entre la Comunidad Europea y Ucrania",
+     "order": 12.0,
+     "time": "12:30",
+     "end": "13:30",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Recomendación sobre el proyecto de Decisión del Consejo relativa a la renovación del Acuerdo de Cooperación científica y tecnológica entre la Comunidad Europea y Ucrania",
+     "type": "Recomendación",
+     "symbol": "***",
+     "refs": [
+      "2024/0240(NLE)"
+     ],
+     "com": "COM(2024)0438",
+     "docs": [
+      "A10-0007/2025"
+     ],
+     "orgs": [
+      "ITRE"
+     ],
+     "people": [
+      "Borys Budka"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 591,
+      "against": 9,
+      "abst": 9
+     }
+    },
+    {
+     "id": "V-17",
+     "kind": "vote",
+     "title": "Banco Central Europeo: informe anual 2024",
+     "order": 13.0,
+     "time": "12:30",
+     "end": "13:30",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Informe sobre el Informe Anual 2024 del Banco Central Europeo",
+     "type": "Informe",
+     "refs": [
+      "2024/2054(INI)"
+     ],
+     "docs": [
+      "A10-0003/2025"
+     ],
+     "orgs": [
+      "ECON"
+     ],
+     "people": [
+      "Anouk Van Brug"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 378,
+      "against": 233,
+      "abst": 26
+     }
+    },
+    {
+     "id": "D-33",
+     "kind": "debate",
+     "title": "Necesidad de abordar la acuciante escasez de mano de obra y garantizar puestos de trabajo de calidad en el sector de la asistencia sanitaria",
+     "order": 14.0,
+     "time": "13:30",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2529(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-34",
+     "kind": "debate",
+     "title": "Fomento de la educación y formación profesionales en épocas de transición en el mercado laboral",
+     "order": 15.0,
+     "time": "13:30",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2025/2530(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-25",
+     "kind": "debate",
+     "title": "Estrategia global más amplia entre la Unión y Oriente Próximo",
+     "order": 16.0,
+     "time": "13:30",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2024/3015(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-50",
+     "kind": "debate",
+     "title": "Escalada de la violencia en el este de la República Democrática del Congo",
+     "order": 17.0,
+     "time": "13:30",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2025/2553(RSP)"
+     ],
+     "docs": [
+      "B10-0127/2025",
+      "B10-0105/2025",
+      "B10-0129/2025",
+      "B10-0133/2025",
+      "B10-0102/2025",
+      "B10-0109/2025",
+      "B10-0125/2025"
+     ]
+    },
+    {
+     "id": "D-51",
+     "kind": "debate",
+     "title": "Crisis política en Serbia",
+     "order": 18.0,
+     "time": "13:30",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2025/2554(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-53",
+     "kind": "debate",
+     "title": "Restricciones de Estados Unidos a la exportación de chips de IA: un reto para el desarrollo de la IA y la resiliencia económica en Europa",
+     "order": 19.0,
+     "time": "13:30",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "long": "Restricciones de Estados Unidos a la exportación de chips de IA: un reto para el desarrollo de la IA y la resiliencia económica en Europa",
+     "type": "Pregunta oral",
+     "orgs": [
+      "ITRE"
+     ],
+     "people": [
+      "Borys Budka"
+     ],
+     "refs": [
+      "2025/2539(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-52",
+     "kind": "debate",
+     "title": "Protección del sistema de justicia internacional y de sus instituciones, en particular la Corte Penal Internacional y la Corte Internacional de Justicia",
+     "order": 20.0,
+     "time": "13:30",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2025/2555(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-8",
+     "kind": "debate",
+     "title": "Explicaciones de voto",
+     "order": 21.0,
+     "time": "13:30",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "docs": []
+    }
+   ],
+   "source": "agenda",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2025-02-10": {
+   "date": "2025-02-10",
+   "items": [
+    {
+     "id": "D-1",
+     "kind": "debate",
+     "title": "Reanudación del período de sesiones y orden de los trabajos",
+     "order": 1.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "docs": []
+    },
+    {
+     "id": "D-58",
+     "kind": "debate",
+     "title": "Situación en Suecia tras el reciente tiroteo masivo en Örebro",
+     "order": 2.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "type": "Declaraciones del Parlamento",
+     "refs": [
+      "2025/2561(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-17",
+     "kind": "debate",
+     "title": "Banco Central Europeo: informe anual 2024",
+     "order": 3.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "long": "Informe sobre el Informe Anual 2024 del Banco Central Europeo",
+     "type": "Informe",
+     "refs": [
+      "2024/2054(INI)"
+     ],
+     "docs": [
+      "A10-0003/2025"
+     ],
+     "orgs": [
+      "ECON"
+     ],
+     "people": [
+      "Anouk Van Brug"
+     ]
+    },
+    {
+     "id": "D-46",
+     "kind": "debate",
+     "title": "Aumento de la violencia de bandas en Suecia y fortalecimiento de la lucha contra la delincuencia organizada",
+     "order": 4.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2549(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-47",
+     "kind": "debate",
+     "title": "Declaración Universal de Derechos Humanos: la Unión Europea debe contribuir a la resolución de la crisis humanitaria en torno a las personas desaparecidas en guerras y conflictos",
+     "order": 5.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "type": "Declaraciones del Parlamento",
+     "refs": [
+      "2025/2550(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-2",
+     "kind": "debate",
+     "title": "Intervenciones de un minuto (artículo 179 del Reglamento interno)",
+     "order": 6.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "docs": []
+    },
+    {
+     "id": "R-000001",
+     "kind": "vote",
+     "title": "Orden del día del miércoles - Solicitud del Grupo ESN",
+     "order": 506.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del miércoles - Solicitud del Grupo ESN",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 99,
+      "against": 317,
+      "abst": 22
+     }
+    }
+   ],
+   "source": "agenda",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2025-01-29": {
+   "date": "2025-01-29",
+   "items": [
+    {
+     "id": "D-1",
+     "kind": "debate",
+     "title": "Día Internacional de Conmemoración en Memoria de las Víctimas del Holocausto",
+     "order": 1.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "Debates",
+     "docs": []
+    }
+   ],
+   "source": "agenda",
+   "fetched": "2026-11-23",
+   "place": "Bruselas",
+   "final": true
+  },
+  "2025-01-23": {
+   "date": "2025-01-23",
+   "items": [
+    {
+     "id": "D-25",
+     "kind": "debate",
+     "title": "Lucha contra la desertificación: decimosexto período de sesiones de la Conferencia de las Partes (CP16) en la Convención de las Naciones Unidas",
+     "order": 28.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "Debates",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/3018(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-42",
+     "kind": "debate",
+     "title": "Criptomonedas: necesidad de normas a escala mundial",
+     "order": 29.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "Debates",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2514(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "V-38",
+     "kind": "vote",
+     "title": "Caso de Jean-Jacques Wondo en la República Democrática del Congo",
+     "order": 30.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuestas de Resolución",
+     "refs": [
+      "2025/2510(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0069/2025"
+     ],
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "V-39",
+     "kind": "vote",
+     "title": "Represión sistemática de los derechos humanos en Irán, en particular los casos de Pajshan Azizi y Wrisha Moradi, y la captura de ciudadanos de la Unión como rehenes",
+     "order": 31.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuestas de Resolución",
+     "refs": [
+      "2025/2511(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0066/2025"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 556,
+      "against": 6,
+      "abst": 42
+     }
+    },
+    {
+     "id": "V-40",
+     "kind": "vote",
+     "title": "Caso de Boualem Sansal en Argelia",
+     "order": 32.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuestas de Resolución",
+     "refs": [
+      "2025/2512(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0087/2025"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 533,
+      "against": 24,
+      "abst": 48
+     }
+    },
+    {
+     "id": "V-21",
+     "kind": "vote",
+     "title": "Desinformación y falsificación de la historia por parte de Rusia para justificar su guerra de agresión contra Ucrania",
+     "order": 33.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuestas de Resolución",
+     "refs": [
+      "2024/2988(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0074/2025"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 480,
+      "against": 58,
+      "abst": 48
+     }
+    },
+    {
+     "id": "V-47",
+     "kind": "vote",
+     "title": "Situación en Venezuela tras la usurpación de la presidencia el 10 de enero de 2025",
+     "order": 34.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuestas de Resolución",
+     "refs": [
+      "2025/2519(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0064/2025"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 374,
+      "against": 53,
+      "abst": 163
+     }
+    },
+    {
+     "id": "D-14",
+     "kind": "debate",
+     "title": "Interpelación mayor (artículo 145 del Reglamento interno)",
+     "order": 35.0,
+     "time": "15:00",
+     "end": "16:00",
+     "slot": "Debates",
+     "docs": []
+    },
+    {
+     "id": "D-15",
+     "kind": "debate",
+     "title": "Explicaciones de voto",
+     "order": 36.0,
+     "time": "15:00",
+     "end": "16:00",
+     "slot": "Debates",
+     "docs": []
+    }
+   ],
+   "source": "agenda",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2025-01-22": {
+   "date": "2025-01-22",
+   "items": [
+    {
+     "id": "D-17",
+     "kind": "debate",
+     "title": "Conclusiones de la reunión del Consejo Europeo del 19 de diciembre de 2024",
+     "order": 15.0,
+     "time": "09:00",
+     "end": "10:30",
+     "slot": "DEBATE PRIORITARIO",
+     "type": "Declaraciones del Consejo Europeo y de la Comisión",
+     "refs": [
+      "2024/2879(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-19",
+     "kind": "debate",
+     "title": "Presentación del programa de actividades de la Presidencia polaca",
+     "order": 16.0,
+     "time": "10:30",
+     "end": "12:20",
+     "slot": "DEBATE PRIORITARIO",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2024/2970(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "V-27",
+     "kind": "vote",
+     "title": "Necesidad de acciones ante la opresión continua y el fraude electoral en Bielorrusia",
+     "order": 17.0,
+     "time": "12:30",
+     "end": "13:30",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuestas de Resolución",
+     "refs": [
+      "2024/3014(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0055/2025"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 567,
+      "against": 25,
+      "abst": 66
+     }
+    },
+    {
+     "id": "D-10",
+     "kind": "debate",
+     "title": "Debate de actualidad (artículo 169 del Reglamento interno) – Unidad de Europa frente a los agentes hostiles a la Unión: momento de reforzar nuestra seguridad y defensa",
+     "order": 18.0,
+     "time": "13:30",
+     "end": "21:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "docs": []
+    },
+    {
+     "id": "D-29",
+     "kind": "debate",
+     "title": "Gestión de los restos demográficos de la Unión: aplicación del conjunto de instrumentos sobre demografía de 2023",
+     "order": 19.0,
+     "time": "13:30",
+     "end": "21:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/3016(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-35",
+     "kind": "debate",
+     "title": "Fracaso de las negociaciones en Busan sobre un tratado de las Naciones Unidas sobre los plásticos y necesidad urgente de abordar la contaminación por plásticos a escala de la Unión",
+     "order": 20.0,
+     "time": "13:30",
+     "end": "21:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2508(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-26",
+     "kind": "debate",
+     "title": "Vínculos entre la delincuencia organizada y el tráfico ilícito de migrantes a la luz de los recientes informes de las Naciones Unidas",
+     "order": 21.0,
+     "time": "13:30",
+     "end": "21:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2024/3017(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-36",
+     "kind": "debate",
+     "title": "Financiación de la Unión, a través del programa LIFE, de las entidades que actúen como grupos de representación de intereses, ante las instituciones de la Unión y necesidad de transparencia",
+     "order": 22.0,
+     "time": "13:30",
+     "end": "21:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2509(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-38",
+     "kind": "debate",
+     "title": "Caso de Jean-Jacques Wondo en la República Democrática del Congo",
+     "order": 23.0,
+     "time": "13:30",
+     "end": "21:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "refs": [
+      "2025/2510(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0069/2025"
+     ]
+    },
+    {
+     "id": "D-39",
+     "kind": "debate",
+     "title": "Represión sistemática de los derechos humanos en Irán, en particular los casos de Pajshan Azizi y Wrisha Moradi, y la captura de ciudadanos de la Unión como rehenes",
+     "order": 24.0,
+     "time": "13:30",
+     "end": "21:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "refs": [
+      "2025/2511(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0066/2025"
+     ]
+    },
+    {
+     "id": "D-40",
+     "kind": "debate",
+     "title": "Caso de Boualem Sansal en Argelia",
+     "order": 25.0,
+     "time": "13:30",
+     "end": "21:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "refs": [
+      "2025/2512(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0087/2025"
+     ]
+    },
+    {
+     "id": "D-41",
+     "kind": "debate",
+     "title": "Refuerzo de las acciones internacionales para proteger a las ballenas tras la decisión de Islandia de prolongar la caza comercial de la ballena hasta 2029",
+     "order": 26.0,
+     "time": "13:30",
+     "end": "21:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2513(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-12",
+     "kind": "debate",
+     "title": "Explicaciones de voto",
+     "order": 27.0,
+     "time": "13:30",
+     "end": "21:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "docs": []
+    }
+   ],
+   "source": "agenda",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2025-01-21": {
+   "date": "2025-01-21",
+   "items": [
+    {
+     "id": "D-43",
+     "kind": "debate",
+     "title": "Necesidad de que se haga cumplir el Reglamento de Servicios Digitales para proteger la democracia en las plataformas de redes sociales, en particular frente a las injerencias extranjeras y los algoritmos sesgados",
+     "order": 6.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "Debate",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2025/2515(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "V-18",
+     "kind": "vote",
+     "title": "Acuerdo entre la Unión Europea y la República de Serbia en lo que respecta a las actividades operativas llevadas a cabo por la Agencia Europea de la Guardia de Fronteras y Costas en la República de Serbia",
+     "order": 7.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Recomendación sobre el proyecto de Decisión del Consejo relativa a la celebración del Acuerdo entre la Unión Europea y la República de Serbia en lo que respecta a las actividades operativas llevadas a cabo por la Agencia Europea de la Guardia de Fronteras y Costas en la República de Serbia",
+     "type": "Recomendación",
+     "symbol": "***",
+     "refs": [
+      "2024/0074(NLE)"
+     ],
+     "com": "COM(2024)0161",
+     "docs": [
+      "A10-0027/2024"
+     ],
+     "orgs": [
+      "LIBE"
+     ],
+     "people": [
+      "Karlo Ressler"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 505,
+      "against": 90,
+      "abst": 43
+     }
+    },
+    {
+     "id": "D-44",
+     "kind": "debate",
+     "title": "Repercusiones geopolíticas y económicas de la nueva Administración Trump para las relaciones transatlánticas",
+     "order": 8.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2025/2516(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-45",
+     "kind": "debate",
+     "title": "Necesidad de detectar y luchar contra los actos de sabotaje de la flota clandestina rusa que dañan infraestructuras submarinas críticas en el mar Báltico",
+     "order": 9.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2025/2517(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-32",
+     "kind": "debate",
+     "title": "Espionaje ilegal por el Gobierno húngaro de las instituciones y órganos de investigación de la Unión",
+     "order": 10.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2025/2505(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-27",
+     "kind": "debate",
+     "title": "Necesidad de acciones ante la opresión continua y el fraude electoral en Bielorrusia",
+     "order": 11.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2024/3014(RSP)"
+     ],
+     "docs": [
+      "B10-0059/2025",
+      "B10-0056/2025",
+      "B10-0055/2025",
+      "B10-0058/2025",
+      "B10-0054/2025",
+      "B10-0057/2025"
+     ]
+    },
+    {
+     "id": "D-47",
+     "kind": "debate",
+     "title": "Situación en Venezuela tras la usurpación de la presidencia el 10 de enero de 2025",
+     "order": 12.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2025/2519(RSP)"
+     ],
+     "docs": [
+      "B10-0071/2025",
+      "B10-0064/2025",
+      "B10-0083/2025",
+      "B10-0080/2025",
+      "B10-0068/2025"
+     ]
+    },
+    {
+     "id": "D-50",
+     "kind": "debate",
+     "title": "Nuevo deterioro de la situación política en Georgia",
+     "order": 13.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2522(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-48",
+     "kind": "debate",
+     "title": "Crisis humanitaria en Sudán",
+     "order": 14.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2520(RSP)"
+     ],
+     "docs": []
+    }
+   ],
+   "source": "agenda",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2025-01-20": {
+   "date": "2025-01-20",
+   "items": [
+    {
+     "id": "D-1",
+     "kind": "debate",
+     "title": "Reanudación del período de sesiones y orden de los trabajos",
+     "order": 1.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "docs": []
+    },
+    {
+     "id": "D-51",
+     "kind": "debate",
+     "title": "Alto el fuego en Gaza: necesidad urgente de que se libere a los rehenes, se ponga fin a la crisis humanitaria en Gaza y se allane el camino para la solución de dos Estados",
+     "order": 2.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "type": "Declaraciones del Parlamento",
+     "refs": [
+      "2025/2523(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-33",
+     "kind": "debate",
+     "title": "Récord de calor en 2024: necesidad de una acción por el clima para luchar contra el calentamiento global",
+     "order": 3.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2506(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-34",
+     "kind": "debate",
+     "title": "Energía para el futuro de Europa: impulso de la industria de la fusión en aras de la independencia y la innovación energéticas",
+     "order": 4.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2025/2507(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-2",
+     "kind": "debate",
+     "title": "Intervenciones de un minuto (artículo 179 del Reglamento interno)",
+     "order": 5.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "docs": []
+    },
+    {
+     "id": "R-000002",
+     "kind": "vote",
+     "title": "Orden del día del miércoles - Solicitud del Grupo The Left",
+     "order": 505.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del miércoles - Solicitud del Grupo The Left",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 196,
+      "against": 221,
+      "abst": 10
+     }
+    },
+    {
+     "id": "R-191390",
+     "kind": "vote",
+     "title": "Orden del día del miércoles - Solicitud del Grupo Verts/ALE",
+     "order": 506.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del miércoles - Solicitud del Grupo Verts/ALE",
+     "result": {
+      "outcome": "REJECTED"
+     }
+    },
+    {
+     "id": "R-000001",
+     "kind": "vote",
+     "title": "Orden del día del miércoles - Solicitud del Grupo PfE",
+     "order": 507.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del miércoles - Solicitud del Grupo PfE",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 108,
+      "against": 313,
+      "abst": 6
+     }
+    }
+   ],
+   "source": "agenda",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-12-19": {
+   "date": "2024-12-19",
+   "items": [
+    {
+     "id": "D-42",
+     "kind": "debate",
+     "title": "Necesidad de actualizar la Estrategia sobre los Derechos de las Personas con Discapacidad",
+     "order": 46.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "Debates",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/2965(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-30",
+     "kind": "debate",
+     "title": "Recomendación al Consejo sobre las prioridades de la Unión para el 69.º período de sesiones de la Comisión de la Condición Jurídica y Social de la Mujer de las Naciones Unidas",
+     "order": 47.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "Debates",
+     "long": "Informe sobre la Recomendación del Parlamento Europeo al Consejo sobre las prioridades de la Unión para el 69.º período de sesiones de la Comisión de la Condición Jurídica y Social de la Mujer de las Naciones Unidas",
+     "type": "Informe",
+     "refs": [
+      "2024/2057(INI)"
+     ],
+     "docs": [
+      "A10-0030/2024"
+     ],
+     "orgs": [
+      "FEMM"
+     ],
+     "people": [
+      "Lina Gálvez"
+     ]
+    },
+    {
+     "id": "D-31",
+     "kind": "debate",
+     "title": "Prioridades de la Unión para el 69.º período de sesiones de la Comisión de la Condición Jurídica y Social de la Mujer de las Naciones Unidas",
+     "order": 48.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "Debates",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/2893(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "V-55",
+     "kind": "vote",
+     "title": "11.º aniversario de la ocupación de la República Autónoma de Crimea y la ciudad de Sebastopol por parte de la Federación de Rusia y deterioro de la situación de los derechos humanos en la Crimea ocupada, en particular los casos de Iryna Danylovych, Tofik Abdulhaziiev y Amet Suleimanov",
+     "order": 49.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuestas de Resolución",
+     "refs": [
+      "2024/2992(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0219/2024"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 446,
+      "against": 25,
+      "abst": 51
+     }
+    },
+    {
+     "id": "V-56",
+     "kind": "vote",
+     "title": "Situación de los derechos humanos en Kirguistán, en particular el caso de Temirlan Sultanbekov",
+     "order": 50.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuestas de Resolución",
+     "refs": [
+      "2024/2993(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0222/2024"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 492,
+      "against": 28,
+      "abst": 41
+     }
+    },
+    {
+     "id": "V-57",
+     "kind": "vote",
+     "title": "Represión continua de la sociedad civil y los medios de comunicación independientes en Azerbaiyán, en particular los casos de Gubad Ibadoghlu, Anar Mammadli, Kamran Mammadli, Rufat Safarov y Meydan TV",
+     "order": 51.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Propuestas de Resolución",
+     "refs": [
+      "2024/2994(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0218/2024"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 434,
+      "against": 30,
+      "abst": 89
+     }
+    },
+    {
+     "id": "V-78",
+     "kind": "vote",
+     "title": "Modificación de la Directiva 2009/38/CE en lo que se refiere a la constitución y al funcionamiento de los comités de empresa europeos y a la aplicación efectiva de los derechos de información y consulta transnacional",
+     "order": 52.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Informe sobre la propuesta de Directiva del Parlamento Europeo y del Consejo por la que se modifica la Directiva 2009/38/CE en lo que se refiere a la constitución y al funcionamiento de los comités de empresa europeos y a la aplicación efectiva de los derechos de información y consulta transnacional",
+     "type": "Informe",
+     "symbol": "***I",
+     "refs": [
+      "2024/0006(COD)"
+     ],
+     "com": "COM(2024)0014",
+     "docs": [
+      "A10-0029/2024"
+     ],
+     "orgs": [
+      "EMPL"
+     ],
+     "people": [
+      "Dennis Radtke"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 300,
+      "against": 254,
+      "abst": 21
+     }
+    },
+    {
+     "id": "V-30",
+     "kind": "vote",
+     "title": "Recomendación al Consejo sobre las prioridades de la Unión para el 69.º período de sesiones de la Comisión de la Condición Jurídica y Social de la Mujer de las Naciones Unidas",
+     "order": 53.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Informe sobre la Recomendación del Parlamento Europeo al Consejo sobre las prioridades de la Unión para el 69.º período de sesiones de la Comisión de la Condición Jurídica y Social de la Mujer de las Naciones Unidas",
+     "type": "Informe",
+     "refs": [
+      "2024/2057(INI)"
+     ],
+     "docs": [
+      "A10-0030/2024"
+     ],
+     "orgs": [
+      "FEMM"
+     ],
+     "people": [
+      "Lina Gálvez"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 322,
+      "against": 163,
+      "abst": 46
+     }
+    },
+    {
+     "id": "D-62",
+     "kind": "debate",
+     "title": "Intención de la Comisión de incluir la revisión de las propuestas pendientes relativas al bienestar animal en su programa de trabajo para 2025",
+     "order": 54.0,
+     "time": "15:00",
+     "end": "16:00",
+     "slot": "Debates",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/2998(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-15",
+     "kind": "debate",
+     "title": "Explicaciones de voto",
+     "order": 55.0,
+     "time": "15:00",
+     "end": "16:00",
+     "slot": "Debates",
+     "docs": []
+    }
+   ],
+   "source": "agenda",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-12-18": {
+   "date": "2024-12-18",
+   "items": [
+    {
+     "id": "D-77",
+     "kind": "debate",
+     "title": "Discurso de Salomé Zurabishvili, presidenta de Georgia",
+     "order": 25.0,
+     "time": "08:30",
+     "end": "09:00",
+     "slot": "Sesión solemne",
+     "docs": []
+    },
+    {
+     "id": "D-27",
+     "kind": "debate",
+     "title": "Preparación de la reunión del Consejo Europeo de los días 19 y 20 de diciembre de 2024",
+     "order": 26.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "DEBATE PRIORITARIO",
+     "type": "Declaraciones del Consejo y de la Comisión",
+     "refs": [
+      "2024/2878(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-54",
+     "kind": "debate",
+     "title": "Preparación de la Cumbre UE-Balcanes Occidentales",
+     "order": 27.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "DEBATE PRIORITARIO",
+     "type": "Declaraciones del Parlamento",
+     "refs": [
+      "2024/2991(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "V-75",
+     "kind": "vote",
+     "title": "Modificación del anexo VI – Competencias de las comisiones parlamentarias permanentes",
+     "order": 28.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "refs": [
+      "2024/2115(RSO)"
+     ],
+     "docs": [
+      "B10-0215/2024"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 448,
+      "against": 161,
+      "abst": 40
+     }
+    },
+    {
+     "id": "V-72",
+     "kind": "vote",
+     "title": "Constitución, competencias, composición numérica y duración del mandato de la Comisión Especial sobre el Escudo Europeo de la Democracia",
+     "order": 29.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "refs": [
+      "2024/2999(RSO)"
+     ],
+     "docs": [
+      "B10-0216/2024"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 441,
+      "against": 178,
+      "abst": 34
+     }
+    },
+    {
+     "id": "V-73",
+     "kind": "vote",
+     "title": "Constitución, competencias, composición numérica y duración del mandato de la Comisión Especial sobre la Crisis de la Vivienda en la Unión Europea",
+     "order": 30.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "refs": [
+      "2024/3000(RSO)"
+     ],
+     "docs": [
+      "B10-0217/2024"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 480,
+      "against": 148,
+      "abst": 20
+     }
+    },
+    {
+     "id": "V-67",
+     "kind": "vote",
+     "title": "Nombramiento del presidente de la Autoridad de Lucha contra el Blanqueo de Capitales (ALBC)",
+     "order": 31.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Informe sobre la propuesta de nombramiento del presidente de la Autoridad de Lucha contra el Blanqueo de Capitales y la Financiación del Terrorismo",
+     "type": "Informe",
+     "refs": [
+      "2024/0802(NLE)"
+     ],
+     "docs": [
+      "A10-0032/2024"
+     ],
+     "orgs": [
+      "ECON",
+      "LIBE"
+     ],
+     "people": [
+      "Aurore Lalucq",
+      "Javier Zarzalejos"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 569,
+      "against": 20,
+      "abst": 61
+     }
+    },
+    {
+     "id": "V-34",
+     "kind": "vote",
+     "title": "Acuerdo de Asociación Interino Comunidad Europea-Estados del Pacífico: adhesión de Tonga",
+     "order": 32.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Recomendación sobre el proyecto de Decisión del Consejo relativa a la adhesión del Reino de Tonga al Acuerdo de Asociación Interino entre la Comunidad Europea, por una parte, y los Estados del Pacífico, por otra",
+     "type": "Recomendación",
+     "symbol": "***",
+     "refs": [
+      "2024/0048(NLE)"
+     ],
+     "com": "COM(2024)0092",
+     "docs": [
+      "A10-0023/2024"
+     ],
+     "orgs": [
+      "INTA"
+     ],
+     "people": [
+      "Dariusz Joński"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 545,
+      "against": 81,
+      "abst": 26
+     }
+    },
+    {
+     "id": "V-37",
+     "kind": "vote",
+     "title": "Celebración, en nombre de la Unión Europea, de la Convención de las Naciones Unidas sobre la Transparencia en los Arbitrajes entre Inversionistas y Estados en el Marco de un Tratado",
+     "order": 33.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Recomendación sobre el proyecto de Decisión del Consejo relativa a la celebración, en nombre de la Unión Europea, de la Convención de las Naciones Unidas sobre la Transparencia en los Arbitrajes entre Inversionistas y Estados en el Marco de un Tratado",
+     "type": "Recomendación",
+     "symbol": "***",
+     "refs": [
+      "2015/0012(NLE)"
+     ],
+     "com": "COM(2015)0020",
+     "docs": [
+      "A10-0021/2024"
+     ],
+     "orgs": [
+      "INTA"
+     ],
+     "people": [
+      "Anna Cavazzini"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 591,
+      "against": 7,
+      "abst": 53
+     }
+    },
+    {
+     "id": "V-35",
+     "kind": "vote",
+     "title": "Acuerdo de Asociación Interino Comunidad Europea-Estados del Pacífico: adhesión de Niue",
+     "order": 34.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Recomendación sobre el proyecto de Decisión del Consejo relativa a la adhesión de Niue al Acuerdo de Asociación Interino entre la Comunidad Europea, por una parte, y los Estados del Pacífico, por otra",
+     "type": "Recomendación",
+     "symbol": "***",
+     "refs": [
+      "2024/0010(NLE)"
+     ],
+     "com": "COM(2024)0020",
+     "docs": [
+      "A10-0024/2024"
+     ],
+     "orgs": [
+      "INTA"
+     ],
+     "people": [
+      "Dariusz Joński"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 543,
+      "against": 77,
+      "abst": 31
+     }
+    },
+    {
+     "id": "V-36",
+     "kind": "vote",
+     "title": "Acuerdo de Asociación Interino Comunidad Europea-Estados del Pacífico: adhesión de Tuvalu",
+     "order": 35.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Recomendación sobre el proyecto de Decisión del Consejo relativa a la adhesión de Tuvalu al Acuerdo de Asociación Interino entre la Comunidad Europea, por una parte, y los Estados del Pacífico, por otra",
+     "type": "Recomendación",
+     "symbol": "***",
+     "refs": [
+      "2023/0456(NLE)"
+     ],
+     "com": "COM(2023)0785",
+     "docs": [
+      "A10-0025/2024"
+     ],
+     "orgs": [
+      "INTA"
+     ],
+     "people": [
+      "Dariusz Joński"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 533,
+      "against": 74,
+      "abst": 26
+     }
+    },
+    {
+     "id": "D-10",
+     "kind": "debate",
+     "title": "Debate de actualidad (artículo 169 del Reglamento interno) - Restablecer la ventaja competitiva de la Unión: necesidad de una evaluación de impacto sobre las políticas del Pacto Verde",
+     "order": 36.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "docs": []
+    },
+    {
+     "id": "D-46",
+     "kind": "debate",
+     "title": "Fomento del diálogo social y la negociación colectiva y el derecho de huelga en la Unión",
+     "order": 37.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/2983(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-47",
+     "kind": "debate",
+     "title": "Lucha contra la subcontratación y los intermediarios del mercado laboral abusivos",
+     "order": 38.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/2984(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-41",
+     "kind": "debate",
+     "title": "Desafíos a los que se enfrentan los agricultores y los trabajadores agrícolas de la Unión: mejora de sus condiciones laborales, en particular de su bienestar mental",
+     "order": 39.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/2964(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-61",
+     "kind": "debate",
+     "title": "Necesidad de garantizar una actuación rápida y transparencia con respecto a las acusaciones de corrupción en el sector público para proteger la integridad democrática",
+     "order": 40.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/2997(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-55",
+     "kind": "debate",
+     "title": "11.º aniversario de la ocupación de la República Autónoma de Crimea y la ciudad de Sebastopol por parte de la Federación de Rusia y deterioro de la situación de los derechos humanos en la Crimea ocupada, en particular los casos de Iryna Danylovych, Tofik Abdulhaziiev y Amet Suleimanov",
+     "order": 41.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "refs": [
+      "2024/2992(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0219/2024"
+     ]
+    },
+    {
+     "id": "D-56",
+     "kind": "debate",
+     "title": "Situación de los derechos humanos en Kirguistán, en particular el caso de Temirlan Sultanbekov",
+     "order": 42.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "refs": [
+      "2024/2993(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0222/2024"
+     ]
+    },
+    {
+     "id": "D-57",
+     "kind": "debate",
+     "title": "Represión continua de la sociedad civil y los medios de comunicación independientes en Azerbaiyán, en particular los casos de Gubad Ibadoghlu, Anar Mammadli, Kamran Mammadli, Rufat Safarov y Meydan TV",
+     "order": 43.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "refs": [
+      "2024/2994(RSP)"
+     ],
+     "docs": [
+      "RC-B10-0218/2024"
+     ]
+    },
+    {
+     "id": "D-58",
+     "kind": "debate",
+     "title": "Necesidad urgente de adopción de medidas por parte de la Unión para preservar la naturaleza y proteger la biodiversidad con el fin de evitar la extinción de especies",
+     "order": 44.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/2995(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-12",
+     "kind": "debate",
+     "title": "Explicaciones de voto",
+     "order": 45.0,
+     "time": "13:00",
+     "end": "22:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "docs": []
+    }
+   ],
+   "source": "agenda",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-12-17": {
+   "date": "2024-12-17",
+   "items": [
+    {
+     "id": "D-48",
+     "kind": "debate",
+     "title": "Derrocamiento del régimen sirio, sus implicaciones geopolíticas y la situación humanitaria en la región",
+     "order": 8.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "Debates",
+     "type": "Declaración de la vicepresidenta de la Comisión / alta representante de la Unión para Asuntos Exteriores y Política de Seguridad",
+     "refs": [
+      "2024/2985(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-50",
+     "kind": "debate",
+     "title": "Represión contra manifestantes pacíficos proeuropeos en Georgia",
+     "order": 9.0,
+     "time": "09:00",
+     "end": "11:50",
+     "slot": "Debates",
+     "type": "Declaración de la vicepresidenta de la Comisión / alta representante de la Unión para Asuntos Exteriores y Política de Seguridad",
+     "refs": [
+      "2024/2986(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "V-25",
+     "kind": "vote",
+     "title": "Elección del Defensor del Pueblo",
+     "order": 10.0,
+     "time": "12:30",
+     "end": "13:30",
+     "slot": "TURNO DE VOTACIONES",
+     "refs": [
+      "2024/2062(INS)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "V-60",
+     "kind": "vote",
+     "title": "Supresión de la plataforma europea de resolución de litigios en línea",
+     "order": 11.0,
+     "time": "12:30",
+     "end": "13:30",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Recomendación para la segunda lectura sobre la Posición del Consejo en primera lectura con vistas a la adopción del Reglamento del Parlamento Europeo y del Consejo por el que se deroga el Reglamento (UE) n.º 524/2013, y se modifican los Reglamentos (UE) 2017/2394 y (UE) 2018/1724 en lo que respecta a la supresión de la plataforma europea de resolución de litigios en línea",
+     "type": "Recomendación para la segunda lectura",
+     "symbol": "***II",
+     "refs": [
+      "2023/0375(COD)"
+     ],
+     "docs": [
+      "A10-0028/2024"
+     ],
+     "orgs": [
+      "IMCO"
+     ],
+     "people": [
+      "Laura Ballarín Cereza"
+     ]
+    },
+    {
+     "id": "V-45",
+     "kind": "vote",
+     "title": "Reglamento sobre la deforestación: disposiciones relativas a la fecha de aplicación",
+     "order": 12.0,
+     "time": "12:30",
+     "end": "13:30",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Modificación del Reglamento (UE) 2023/1115 en lo que respecta a las disposiciones relativas a la fecha de aplicación",
+     "type": "Informe",
+     "symbol": "***I",
+     "refs": [
+      "2024/0249(COD)"
+     ],
+     "com": "COM(2024)0452",
+     "orgs": [
+      "ENVI"
+     ],
+     "people": [
+      "Christine Schneider"
+     ],
+     "docs": [],
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "V-40",
+     "kind": "vote",
+     "title": "Apoyo regional urgente: RESTORE",
+     "order": 13.0,
+     "time": "12:30",
+     "end": "13:30",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Informe sobre la propuesta de Reglamento del Parlamento Europeo y del Consejo - RESTORE: Apoyo regional urgente para la reconstrucción, que modifica el Reglamento (UE) 2021/1058 y el Reglamento (UE) 2021/1057",
+     "type": "Informe",
+     "symbol": "***I",
+     "refs": [
+      "2024/0275(COD)"
+     ],
+     "com": "COM(2024)0496",
+     "docs": [
+      "A10-0031/2024"
+     ],
+     "orgs": [
+      "EMPL",
+      "REGI"
+     ],
+     "people": [
+      "Andrzej Buła",
+      "Younous Omarjee"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 638,
+      "against": 10,
+      "abst": 5
+     }
+    },
+    {
+     "id": "V-39",
+     "kind": "vote",
+     "title": "Medidas específicas adoptadas con cargo al Fondo Europeo Agrícola de Desarrollo Rural (Feader) destinadas a los Estados miembros afectados por catástrofes naturales",
+     "order": 14.0,
+     "time": "12:30",
+     "end": "13:30",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Informe sobre la propuesta de Reglamento del Parlamento Europeo y del Consejo por el que se modifica el Reglamento (UE) 2020/2220 en lo que respecta a las medidas específicas adoptadas con cargo al Fondo Europeo Agrícola de Desarrollo Rural (Feader) para proporcionar ayuda adicional a los Estados miembros afectados por catástrofes naturales",
+     "type": "Informe",
+     "symbol": "***I",
+     "refs": [
+      "2024/0274(COD)"
+     ],
+     "com": "COM(2024)0495",
+     "docs": [
+      "A10-0026/2024"
+     ],
+     "orgs": [
+      "AGRI"
+     ],
+     "people": [
+      "Veronika Vrecionová"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 644,
+      "against": 6,
+      "abst": 3
+     }
+    },
+    {
+     "id": "V-38",
+     "kind": "vote",
+     "title": "Materiales forestales de reproducción de la categoría «controlados»",
+     "order": 15.0,
+     "time": "12:30",
+     "end": "13:30",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Informe sobre la propuesta modificada de Decisión del Parlamento Europeo y del Consejo por la que se modifica la Decisión 2008/971/CE del Consejo en lo que respecta a los materiales forestales de reproducción de la categoría «controlados», su etiquetado y el nombre de las autoridades responsables de la autorización y del control de la producción",
+     "type": "Informe",
+     "symbol": "***I",
+     "refs": [
+      "2024/0214(COD)"
+     ],
+     "com": "COM(2024)0517",
+     "docs": [
+      "A10-0022/2024"
+     ],
+     "orgs": [
+      "AGRI"
+     ],
+     "people": [
+      "Veronika Vrecionová"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 499,
+      "against": 131,
+      "abst": 27
+     }
+    },
+    {
+     "id": "V-32",
+     "kind": "vote",
+     "title": "Movilización del Fondo Europeo de Adaptación a la Globalización: solicitud EGF/2024/002 BE/Limburg machinery and paper (Bélgica)",
+     "order": 16.0,
+     "time": "12:30",
+     "end": "13:30",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Informe sobre la propuesta de Decisión del Parlamento Europeo y del Consejo relativa a la movilización del Fondo Europeo de Adaptación a la Globalización para Trabajadores Despedidos en respuesta a una solicitud de Bélgica (EGF/2024/002 BE/Limburg machinery and paper)",
+     "type": "Informe",
+     "refs": [
+      "2024/0286(BUD)"
+     ],
+     "com": "COM(2024)0370",
+     "docs": [
+      "A10-0019/2024"
+     ],
+     "orgs": [
+      "BUDG"
+     ],
+     "people": [
+      "Matjaž Nemec"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 599,
+      "against": 50,
+      "abst": 7
+     }
+    },
+    {
+     "id": "V-26",
+     "kind": "vote",
+     "title": "Actividades del Defensor del Pueblo Europeo: informe anual 2023",
+     "order": 17.0,
+     "time": "12:30",
+     "end": "13:30",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Informe sobre el Informe anual relativo a las actividades del Defensor del Pueblo Europeo en 2023",
+     "type": "Informe",
+     "refs": [
+      "2024/2056(INI)"
+     ],
+     "docs": [
+      "A10-0016/2024"
+     ],
+     "orgs": [
+      "PETI"
+     ],
+     "people": [
+      "Alex Agius Saliba"
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 598,
+      "against": 17,
+      "abst": 37
+     }
+    },
+    {
+     "id": "D-44",
+     "kind": "debate",
+     "title": "Información errónea y desinformación en las plataformas de medios sociales, como TikTok, y riesgos asociados para la integridad de las elecciones en Europa",
+     "order": 18.0,
+     "time": "13:30",
+     "end": "23:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/2967(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-49",
+     "kind": "debate",
+     "title": "Uso de la violación como arma de guerra, en particular en la República Democrática del Congo y Sudán",
+     "order": 19.0,
+     "time": "13:30",
+     "end": "23:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la vicepresidenta de la Comisión / alta representante de la Unión para Asuntos Exteriores y Política de Seguridad",
+     "refs": [
+      "2024/2987(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-51",
+     "kind": "debate",
+     "title": "Desinformación y falsificación de la historia por parte de Rusia para justificar su guerra de agresión contra Ucrania",
+     "order": 20.0,
+     "time": "13:30",
+     "end": "23:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la vicepresidenta de la Comisión / alta representante de la Unión para Asuntos Exteriores y Política de Seguridad",
+     "refs": [
+      "2024/2988(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-76",
+     "kind": "debate",
+     "title": "Situación en Mayotte a raíz del devastador ciclón Chido y necesidad de solidaridad",
+     "order": 21.0,
+     "time": "13:30",
+     "end": "23:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/3008(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-52",
+     "kind": "debate",
+     "title": "Situación de las mujeres políticas que sufren acoso y ciberviolencia en los países candidatos a la adhesión y países vecinos de la Unión",
+     "order": 22.0,
+     "time": "13:30",
+     "end": "23:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/2989(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-53",
+     "kind": "debate",
+     "title": "Hacia una visión compartida del turismo europeo, su crecimiento sostenible y la marca Europa",
+     "order": 23.0,
+     "time": "13:30",
+     "end": "23:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/2990(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-8",
+     "kind": "debate",
+     "title": "Explicaciones de voto",
+     "order": 24.0,
+     "time": "13:30",
+     "end": "23:00",
+     "slot": "Debates (o al final del turno de votaciones)",
+     "docs": []
+    }
+   ],
+   "source": "agenda",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-12-16": {
+   "date": "2024-12-16",
+   "items": [
+    {
+     "id": "D-1",
+     "kind": "debate",
+     "title": "Reanudación del período de sesiones y orden de los trabajos",
+     "order": 1.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "docs": []
+    },
+    {
+     "id": "D-26",
+     "kind": "debate",
+     "title": "Actividades del Defensor del Pueblo Europeo: informe anual 2023",
+     "order": 2.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "long": "Informe sobre el Informe anual relativo a las actividades del Defensor del Pueblo Europeo en 2023",
+     "type": "Informe",
+     "refs": [
+      "2024/2056(INI)"
+     ],
+     "docs": [
+      "A10-0016/2024"
+     ],
+     "orgs": [
+      "PETI"
+     ],
+     "people": [
+      "Alex Agius Saliba"
+     ]
+    },
+    {
+     "id": "D-40",
+     "kind": "debate",
+     "title": "Apoyo regional urgente: RESTORE",
+     "order": 3.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "long": "Informe sobre la propuesta de Reglamento del Parlamento Europeo y del Consejo - RESTORE: Apoyo regional urgente para la reconstrucción, que modifica el Reglamento (UE) 2021/1058 y el Reglamento (UE) 2021/1057",
+     "type": "Informe",
+     "symbol": "***I",
+     "refs": [
+      "2024/0275(COD)"
+     ],
+     "com": "COM(2024)0496",
+     "docs": [
+      "A10-0031/2024"
+     ],
+     "orgs": [
+      "EMPL",
+      "REGI"
+     ],
+     "people": [
+      "Andrzej Buła",
+      "Younous Omarjee"
+     ]
+    },
+    {
+     "id": "D-43",
+     "kind": "debate",
+     "title": "Derecho a agua potable limpia en la Unión",
+     "order": 4.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/2966(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-59",
+     "kind": "debate",
+     "title": "Ley europea en materia de innovación: reducción del coste de la innovación en Europa",
+     "order": 5.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "type": "Declaración de la Comisión",
+     "refs": [
+      "2024/2996(RSP)"
+     ],
+     "docs": []
+    },
+    {
+     "id": "D-37",
+     "kind": "debate",
+     "title": "Celebración, en nombre de la Unión Europea, de la Convención de las Naciones Unidas sobre la Transparencia en los Arbitrajes entre Inversionistas y Estados en el Marco de un Tratado",
+     "order": 6.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "long": "Recomendación sobre el proyecto de Decisión del Consejo relativa a la celebración, en nombre de la Unión Europea, de la Convención de las Naciones Unidas sobre la Transparencia en los Arbitrajes entre Inversionistas y Estados en el Marco de un Tratado",
+     "type": "Recomendación",
+     "symbol": "***",
+     "refs": [
+      "2015/0012(NLE)"
+     ],
+     "com": "COM(2015)0020",
+     "docs": [
+      "A10-0021/2024"
+     ],
+     "orgs": [
+      "INTA"
+     ],
+     "people": [
+      "Anna Cavazzini"
+     ]
+    },
+    {
+     "id": "D-2",
+     "kind": "debate",
+     "title": "Intervenciones de un minuto (artículo 179 del Reglamento interno)",
+     "order": 7.0,
+     "time": "17:00",
+     "end": "22:00",
+     "slot": "Debates",
+     "docs": []
+    }
+   ],
+   "source": "agenda",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-11-28": {
+   "date": "2024-11-28",
+   "items": [
+    {
+     "id": "M-2",
+     "kind": "other",
+     "title": "Posiciones del Consejo en primera lectura (artículo 64 del Reglamento interno)",
+     "order": 2.0,
+     "time": "09:05",
+     "end": "09:06",
+     "slot": ""
+    },
+    {
+     "id": "M-3",
+     "kind": "debate",
+     "title": "Refuerzo de los derechos de la infancia en la Unión: 35.º aniversario de la adopción de la Convención de las Naciones Unidas sobre los Derechos del Niño",
+     "order": 3.0,
+     "time": "09:06",
+     "end": "11:11",
+     "slot": ""
+    },
+    {
+     "id": "M-4",
+     "kind": "debate",
+     "title": "Injerencia y espionaje extranjeros por actores de terceros países en universidades europeas",
+     "order": 4.0,
+     "time": "11:11",
+     "end": "11:58",
+     "slot": ""
+    },
+    {
+     "id": "M-6-1",
+     "kind": "other",
+     "title": "Hong Kong, en particular los casos de Jimmy Lai y los cuarenta y cinco activistas condenados recientemente en virtud de la Ley de Seguridad Nacional (votación)",
+     "order": 6.0,
+     "time": "12:12",
+     "end": "12:13",
+     "slot": ""
+    },
+    {
+     "id": "M-6-2",
+     "kind": "other",
+     "title": "Represión sistemática y creciente de las mujeres en Irán (votación)",
+     "order": 6.0,
+     "time": "12:13",
+     "end": "12:14",
+     "slot": ""
+    },
+    {
+     "id": "M-6-3",
+     "kind": "other",
+     "title": "Reducción del espacio para la sociedad civil en Camboya, en particular el caso de la organización de defensa de los derechos de los trabajadores CENTRAL (votación)",
+     "order": 6.0,
+     "time": "12:14",
+     "end": "12:15",
+     "slot": ""
+    },
+    {
+     "id": "M-6-4",
+     "kind": "other",
+     "title": "Empeoramiento de la crisis democrática en Georgia tras las recientes elecciones parlamentarias y el presunto fraude electoral (votación)",
+     "order": 6.0,
+     "time": "12:15",
+     "end": "12:18",
+     "slot": ""
+    },
+    {
+     "id": "M-6-5",
+     "kind": "other",
+     "title": "Intensificación del apoyo inquebrantable de la Unión a Ucrania frente a la guerra de agresión rusa y a la creciente cooperación militar entre Corea del Norte y Rusia (votación)",
+     "order": 6.0,
+     "time": "12:18",
+     "end": "12:27",
+     "slot": ""
+    },
+    {
+     "id": "M-6-6",
+     "kind": "other",
+     "title": "Recomendación sobre los entornos libres de humo y aerosoles (votación)",
+     "order": 6.0,
+     "time": "12:27",
+     "end": "12:37",
+     "slot": ""
+    },
+    {
+     "id": "M-9",
+     "kind": "debate",
+     "title": "Necesidad de celebrar un acuerdo internacional ambicioso y jurídicamente vinculante sobre la contaminación por plásticos, también en el medio marino",
+     "order": 9.0,
+     "time": "15:00",
+     "end": "15:36",
+     "slot": ""
+    },
+    {
+     "id": "M-14",
+     "kind": "other",
+     "title": "Interrupción del período de sesiones",
+     "order": 14.0,
+     "time": "15:40",
+     "end": "15:40",
+     "slot": ""
+    },
+    {
+     "id": "V-60",
+     "kind": "vote",
+     "title": "Reducción del espacio para la sociedad civil en Camboya, en particular el caso de la organización de defensa de los derechos de los trabajadores CENTRAL",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0190/2024",
+      "B10-0204/2024",
+      "B10-0205/2024",
+      "B10-0206/2024",
+      "B10-0187/2024",
+      "B10-0201/2024"
+     ],
+     "procs": [
+      "2024-2952"
+     ],
+     "detail": "Reducción del espacio para la sociedad civil en Camboya, en particular el caso de la organización de defensa de los derechos de los trabajadores CENTRAL Propuestas de Resolución: RC-B10-0190/2024, B10-0187/2024, B10-0190/2024, B10-0201/2024, B10-0204/2024, B10-0205/2024, B10-0206/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 492,
+      "against": 5,
+      "abst": 102
+     }
+    },
+    {
+     "id": "V-47",
+     "kind": "vote",
+     "title": "Intensificación del apoyo inquebrantable de la Unión a Ucrania frente a la guerra de agresión rusa y a la creciente cooperación militar entre Corea del Norte y Rusia",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0191/2024",
+      "B10-0192/2024",
+      "B10-0195/2024",
+      "B10-0189/2024",
+      "B10-0193/2024",
+      "B10-0198/2024",
+      "B10-0200/2024"
+     ],
+     "procs": [
+      "2024-2940"
+     ],
+     "detail": "Intensificación del apoyo inquebrantable de la Unión a Ucrania frente a la guerra de agresión rusa y a la creciente cooperación militar entre Corea del Norte y Rusia Propuestas de Resolución: RC-B10-0191/2024, B10-0189/2024, B10-0191/2024, B10-0192/2024, B10-0193/2024, B10-0195/2024, B10-0198/2024, B10-0200/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 390,
+      "against": 135,
+      "abst": 52
+     }
+    },
+    {
+     "id": "V-44",
+     "kind": "vote",
+     "title": "Empeoramiento de la crisis democrática en Georgia tras las recientes elecciones parlamentarias y el presunto fraude electoral",
+     "order": 502.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0183/2024",
+      "B10-0182/2024",
+      "B10-0179/2024",
+      "B10-0180/2024",
+      "B10-0184/2024",
+      "B10-0181/2024"
+     ],
+     "procs": [
+      "2024-2933"
+     ],
+     "detail": "Empeoramiento de la crisis democrática en Georgia tras las recientes elecciones parlamentarias y el presunto fraude electoral Propuestas de Resolución: RC-B10-0179/2024, B10-0179/2024, B10-0180/2024, B10-0181/2024, B10-0182/2024, B10-0183/2024, B10-0184/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 444,
+      "against": 72,
+      "abst": 82
+     }
+    },
+    {
+     "id": "V-39",
+     "kind": "vote",
+     "title": "Recomendación sobre los entornos libres de humo y aerosoles",
+     "order": 503.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0173/2024",
+      "B10-0177/2024",
+      "B10-0175/2024",
+      "B10-0176/2024",
+      "B10-0174/2024"
+     ],
+     "procs": [
+      "2024-2911"
+     ],
+     "detail": "Recomendación sobre los entornos libres de humo y aerosoles Propuestas de Resolución: RC-B10-0173/2024, B10-0173/2024, B10-0174/2024, B10-0175/2024, B10-0176/2024, B10-0177/2024",
+     "result": {
+      "outcome": "REJECTED"
+     }
+    },
+    {
+     "id": "V-58",
+     "kind": "vote",
+     "title": "Hong Kong, en particular los casos de Jimmy Lai y los cuarenta y cinco activistas condenados recientemente en virtud de la Ley de Seguridad Nacional",
+     "order": 504.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0212/2024",
+      "B10-0209/2024",
+      "B10-0208/2024",
+      "B10-0210/2024",
+      "B10-0211/2024"
+     ],
+     "procs": [
+      "2024-2950"
+     ],
+     "detail": "Hong Kong, en particular los casos de Jimmy Lai y los cuarenta y cinco activistas condenados recientemente en virtud de la Ley de Seguridad Nacional Propuestas de Resolución: RC-B10-0208/2024, B10-0208/2024, B10-0209/2024, B10-0210/2024, B10-0211/2024, B10-0212/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 473,
+      "against": 23,
+      "abst": 98
+     }
+    },
+    {
+     "id": "V-59",
+     "kind": "vote",
+     "title": "Represión sistemática y creciente de las mujeres en Irán",
+     "order": 505.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0203/2024",
+      "B10-0199/2024",
+      "B10-0186/2024",
+      "B10-0202/2024",
+      "B10-0197/2024",
+      "B10-0188/2024",
+      "B10-0207/2024"
+     ],
+     "procs": [
+      "2024-2951"
+     ],
+     "detail": "Represión sistemática y creciente de las mujeres en Irán Propuestas de Resolución: RC-B10-0188/2024, B10-0186/2024, B10-0188/2024, B10-0197/2024, B10-0199/2024, B10-0202/2024, B10-0203/2024, B10-0207/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 562,
+      "against": 2,
+      "abst": 30
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-11-27": {
+   "date": "2024-11-27",
+   "items": [
+    {
+     "id": "M-3",
+     "kind": "debate",
+     "title": "Presentación por parte de la presidenta electa de la Comisión del Colegio de Comisarios y de su programa",
+     "order": 3.0,
+     "time": "09:03",
+     "end": "11:49",
+     "slot": ""
+    },
+    {
+     "id": "M-5-1",
+     "kind": "other",
+     "title": "Elección de la Comisión (artículo 129 del Reglamento interno) (votación)",
+     "order": 5.0,
+     "time": "12:01",
+     "end": "12:26",
+     "slot": ""
+    },
+    {
+     "id": "M-5-2",
+     "kind": "other",
+     "title": "Modificación del Reglamento (UE) 2018/1806 en lo que respecta a Vanuatu ***I (votación)",
+     "order": 5.0,
+     "time": "12:26",
+     "end": "12:27",
+     "slot": ""
+    },
+    {
+     "id": "M-5-3",
+     "kind": "other",
+     "title": "Objeción con arreglo al artículo 114 del Reglamento interno: medidas para reducir las capturas accidentales de delfín común (Delphinus delphis) y otros pequeños cetáceos en el Golfo de Vizcaya (votación)",
+     "order": 5.0,
+     "time": "12:27",
+     "end": "12:27",
+     "slot": ""
+    },
+    {
+     "id": "M-5-4",
+     "kind": "other",
+     "title": "Movilización del Fondo de Solidaridad de la Unión Europea: ayuda a Alemania e Italia en relación con las inundaciones ocurridas en 2024 (votación)",
+     "order": 5.0,
+     "time": "12:27",
+     "end": "12:29",
+     "slot": ""
+    },
+    {
+     "id": "M-5-5",
+     "kind": "other",
+     "title": "Proyecto de presupuesto rectificativo n.º 5/2024: ajuste en términos de créditos de pago, actualización de los ingresos y otras actualizaciones técnicas (votación)",
+     "order": 5.0,
+     "time": "12:29",
+     "end": "12:29",
+     "slot": ""
+    },
+    {
+     "id": "M-5-6",
+     "kind": "other",
+     "title": "Procedimiento presupuestario 2025: texto conjunto (votación)",
+     "order": 5.0,
+     "time": "12:29",
+     "end": "12:33",
+     "slot": ""
+    },
+    {
+     "id": "M-9",
+     "kind": "other",
+     "title": "Declaración de Budapest sobre el Nuevo Pacto para la Competitividad Europea: un futuro para los sectores agrícola e industrial de la Unión (debate de actualidad)",
+     "order": 9.0,
+     "time": "12:37",
+     "end": "14:06",
+     "slot": ""
+    },
+    {
+     "id": "M-10",
+     "kind": "debate",
+     "title": "Intensificación de la lucha contra el reclutamiento de menores para actos criminales y prevención del mismo",
+     "order": 10.0,
+     "time": "14:06",
+     "end": "14:43",
+     "slot": ""
+    },
+    {
+     "id": "M-11",
+     "kind": "debate",
+     "title": "Vulnerabilidades de las infraestructuras críticas y amenazas híbridas en el mar Báltico",
+     "order": 11.0,
+     "time": "14:43",
+     "end": "15:37",
+     "slot": ""
+    },
+    {
+     "id": "M-12",
+     "kind": "debate",
+     "title": "Subida de los precios de la energía y lucha contra la pobreza energética",
+     "order": 12.0,
+     "time": "15:37",
+     "end": "17:13",
+     "slot": ""
+    },
+    {
+     "id": "M-13",
+     "kind": "debate",
+     "title": "Legislación reciente dirigida contra las personas LGBTQI y necesidad de proteger el Estado de Derecho y una Unión sin discriminación",
+     "order": 13.0,
+     "time": "17:13",
+     "end": "18:30",
+     "slot": ""
+    },
+    {
+     "id": "M-14",
+     "kind": "debate",
+     "title": "Promoción de un marco favorable para la financiación de capital de riesgo y unas inversiones extranjeras directas seguras en la Unión",
+     "order": 14.0,
+     "time": "18:30",
+     "end": "19:06",
+     "slot": ""
+    },
+    {
+     "id": "M-15-1",
+     "kind": "other",
+     "title": "Hong Kong, en particular los casos de Jimmy Lai y los cuarenta y cinco activistas condenados recientemente en virtud de la Ley de Seguridad Nacional",
+     "order": 15.0,
+     "time": "19:06",
+     "end": "19:20",
+     "slot": ""
+    },
+    {
+     "id": "M-15-2",
+     "kind": "other",
+     "title": "Represión sistemática y creciente de las mujeres en Irán",
+     "order": 15.0,
+     "time": "19:20",
+     "end": "20:00",
+     "slot": ""
+    },
+    {
+     "id": "M-15-3",
+     "kind": "other",
+     "title": "Reducción del espacio para la sociedad civil en Camboya, en particular el caso de la organización de defensa de los derechos de los trabajadores CENTRAL",
+     "order": 15.0,
+     "time": "20:00",
+     "end": "20:12",
+     "slot": ""
+    },
+    {
+     "id": "M-16",
+     "kind": "debate",
+     "title": "Detención del escritor francoargelino Boualem Sansal, llamamiento en favor de su liberación inmediata e incondicional y represión de la libertad de expresión en Argelia",
+     "order": 16.0,
+     "time": "20:12",
+     "end": "20:33",
+     "slot": ""
+    },
+    {
+     "id": "M-17",
+     "kind": "debate",
+     "title": "Recomendación sobre los entornos libres de humo y aerosoles",
+     "order": 17.0,
+     "time": "20:33",
+     "end": "21:21",
+     "slot": ""
+    },
+    {
+     "id": "M-15",
+     "kind": "debate",
+     "title": "Debate sobre casos de violaciones de los derechos humanos, de la democracia y del Estado de Derecho",
+     "order": 15.0,
+     "time": "",
+     "end": "",
+     "slot": ""
+    },
+    {
+     "id": "V-70",
+     "kind": "vote",
+     "title": "Movilización del Fondo de Solidaridad de la Unión Europea: ayuda a Alemania e Italia en relación con las inundaciones ocurridas en 2024",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0020/2024"
+     ],
+     "procs": [
+      "2024-0284"
+     ],
+     "detail": "Movilización del Fondo de Solidaridad de la Unión Europea: ayuda a Alemania e Italia en relación con las inundaciones ocurridas en 2024 Informe: Giuseppe Lupo (A10-0020/2024)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 660,
+      "against": 11,
+      "abst": 4
+     }
+    },
+    {
+     "id": "V-69",
+     "kind": "vote",
+     "title": "Objeción con arreglo al artículo 114 del Reglamento interno: medidas para reducir las capturas accidentales de delfín común (Delphinus delphis) y otros pequeños cetáceos en el Golfo de Vizcaya",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0178/2024"
+     ],
+     "procs": [
+      "2024-2842"
+     ],
+     "detail": "Objeción con arreglo al artículo 114 del Reglamento interno: medidas para reducir las capturas accidentales de delfín común (Delphinus delphis) y otros pequeños cetáceos en el Golfo de Vizcaya Propuesta de Resolución: B10-0178/2024 (mayoría de los diputados que componen el Parlamento requerida)",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 123,
+      "against": 511,
+      "abst": 42
+     }
+    },
+    {
+     "id": "V-27",
+     "kind": "vote",
+     "title": "Proyecto de presupuesto rectificativo n.º 5/2024: ajuste en términos de créditos de pago, actualización de los ingresos y otras actualizaciones técnicas",
+     "order": 502.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0017/2024"
+     ],
+     "procs": [
+      "2024-0252"
+     ],
+     "detail": "Proyecto de presupuesto rectificativo n.º 5/2024: ajuste en términos de créditos de pago, actualización de los ingresos y otras actualizaciones técnicas Informe: Siegfried Mureşan (A10-0017/2024)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 525,
+      "against": 75,
+      "abst": 81
+     }
+    },
+    {
+     "id": "V-66",
+     "kind": "vote",
+     "title": "Procedimiento presupuestario 2025: texto conjunto",
+     "order": 503.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0014/2024"
+     ],
+     "procs": [
+      "2024-0176"
+     ],
+     "detail": "Procedimiento presupuestario 2025: texto conjunto Informe: Victor Negrescu, Niclas Herbst (A10-0014/2024) (mayoría de los diputados que componen el Parlamento requerida para el rechazo del texto conjunto)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 418,
+      "against": 185,
+      "abst": 67
+     }
+    },
+    {
+     "id": "R-965030",
+     "kind": "vote",
+     "title": "Presentación por parte de la presidenta electa de la Comisión del Colegio de Comisarios y de su programa",
+     "order": 504.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Presentación por parte de la presidenta electa de la Comisión del Colegio de Comisarios y de su programa Propuestas de Resolución: B10-0194/2024, B10-0196/2024",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 154,
+      "against": 507,
+      "abst": 19
+     }
+    },
+    {
+     "id": "V-73",
+     "kind": "vote",
+     "title": "Modificación del Reglamento (UE) 2018/1806 en lo que respecta a Vanuatu ***I",
+     "order": 505.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0015/2024"
+     ],
+     "procs": [
+      "2024-0128"
+     ],
+     "detail": "Modificación del Reglamento (UE) 2018/1806 en lo que respecta a Vanuatu ***I Informe: Paulo Cunha (A10-0015/2024)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 627,
+      "against": 6,
+      "abst": 37
+     }
+    },
+    {
+     "id": "V-29",
+     "kind": "vote",
+     "title": "Elección de la Comisión",
+     "order": 506.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Elección de la Comisión Elección de la Comisión (artículo 129, apartado 7, del Reglamento interno):",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 370,
+      "against": 282,
+      "abst": 36
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-11-26": {
+   "date": "2024-11-26",
+   "items": [
+    {
+     "id": "M-3",
+     "kind": "debate",
+     "title": "Intensificación del apoyo inquebrantable de la Unión a Ucrania frente a la guerra de agresión rusa y a la creciente cooperación militar entre Corea del Norte y Rusia",
+     "order": 3.0,
+     "time": "09:02",
+     "end": "11:52",
+     "slot": ""
+    },
+    {
+     "id": "M-5-1",
+     "kind": "other",
+     "title": "Renovación parcial de los miembros del Tribunal de Cuentas – Iliana Ivanova (votación)",
+     "order": 5.0,
+     "time": "12:06",
+     "end": "12:07",
+     "slot": ""
+    },
+    {
+     "id": "M-5-2",
+     "kind": "other",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente MON 89034 × 1507 × NK603 (votación)",
+     "order": 5.0,
+     "time": "12:07",
+     "end": "12:08",
+     "slot": ""
+    },
+    {
+     "id": "M-5-4",
+     "kind": "other",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente MON 89034 × 1507 × MON 88017 x 59122 y ocho subcombinaciones (votación)",
+     "order": 5.0,
+     "time": "12:08",
+     "end": "12:10",
+     "slot": ""
+    },
+    {
+     "id": "M-5-3",
+     "kind": "other",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: algodón modificado genéticamente COT102 (votación)",
+     "order": 5.0,
+     "time": "12:08",
+     "end": "12:08",
+     "slot": ""
+    },
+    {
+     "id": "M-5-6",
+     "kind": "other",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente DP915635 (votación)",
+     "order": 5.0,
+     "time": "12:10",
+     "end": "12:11",
+     "slot": ""
+    },
+    {
+     "id": "M-5-5",
+     "kind": "other",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente MON 810 (votación)",
+     "order": 5.0,
+     "time": "12:10",
+     "end": "12:10",
+     "slot": ""
+    },
+    {
+     "id": "M-5-7",
+     "kind": "other",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente DP23211 (votación)",
+     "order": 5.0,
+     "time": "12:11",
+     "end": "12:12",
+     "slot": ""
+    },
+    {
+     "id": "M-5-8",
+     "kind": "other",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente DP202216 (votación)",
+     "order": 5.0,
+     "time": "12:12",
+     "end": "12:14",
+     "slot": ""
+    },
+    {
+     "id": "M-5-9",
+     "kind": "other",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente MON 94804 (votación)",
+     "order": 5.0,
+     "time": "12:14",
+     "end": "12:14",
+     "slot": ""
+    },
+    {
+     "id": "M-7",
+     "kind": "debate",
+     "title": "Procedimiento presupuestario 2025: texto conjunto",
+     "order": 7.0,
+     "time": "12:19",
+     "end": "13:46",
+     "slot": ""
+    },
+    {
+     "id": "M-8",
+     "kind": "debate",
+     "title": "Previsiones económicas europeas de otoño de 2024: una recuperación gradual en condiciones adversas",
+     "order": 8.0,
+     "time": "13:46",
+     "end": "15:00",
+     "slot": ""
+    },
+    {
+     "id": "M-11",
+     "kind": "other",
+     "title": "Turno de preguntas a los comisarios - Retos para la ejecución de la política de cohesión en el período 2021-2027",
+     "order": 11.0,
+     "time": "15:02",
+     "end": "16:35",
+     "slot": ""
+    },
+    {
+     "id": "M-12",
+     "kind": "debate",
+     "title": "Escalada continuada en Oriente Próximo: la crisis humanitaria en Gaza y Cisjordania, el papel esencial del UNRWA en la región, la necesidad de liberar a todos los rehenes y las recientes órdenes de detención de la CPI",
+     "order": 12.0,
+     "time": "16:35",
+     "end": "17:47",
+     "slot": ""
+    },
+    {
+     "id": "M-14",
+     "kind": "debate",
+     "title": "Resultados de la CP29 y retos para la política climática internacional",
+     "order": 14.0,
+     "time": "17:47",
+     "end": "18:40",
+     "slot": ""
+    },
+    {
+     "id": "M-15",
+     "kind": "debate",
+     "title": "Plena adhesión de Bulgaria y Rumanía al espacio Schengen: necesidad urgente de suprimir los controles en las fronteras terrestres interiores",
+     "order": 15.0,
+     "time": "18:40",
+     "end": "19:43",
+     "slot": ""
+    },
+    {
+     "id": "M-16",
+     "kind": "debate",
+     "title": "Condiciones carcelarias en la Unión",
+     "order": 16.0,
+     "time": "19:43",
+     "end": "20:12",
+     "slot": ""
+    },
+    {
+     "id": "M-17",
+     "kind": "debate",
+     "title": "Necesidad urgente de abordar la brecha salarial",
+     "order": 17.0,
+     "time": "20:12",
+     "end": "21:07",
+     "slot": ""
+    },
+    {
+     "id": "M-18",
+     "kind": "debate",
+     "title": "Situación política y humanitaria en Mozambique",
+     "order": 18.0,
+     "time": "21:07",
+     "end": "21:35",
+     "slot": ""
+    },
+    {
+     "id": "V-31",
+     "kind": "vote",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente MON 94804",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0153/2024"
+     ],
+     "procs": [
+      "2024-2841"
+     ],
+     "detail": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente MON 94804 Propuesta de Resolución: B10-0153/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 468,
+      "against": 166,
+      "abst": 14
+     }
+    },
+    {
+     "id": "V-35",
+     "kind": "vote",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente MON 89034 × 1507 × NK603",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0148/2024"
+     ],
+     "procs": [
+      "2024-2836"
+     ],
+     "detail": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente MON 89034 × 1507 × NK603 Propuesta de Resolución: B10-0148/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 474,
+      "against": 171,
+      "abst": 13
+     }
+    },
+    {
+     "id": "V-36",
+     "kind": "vote",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: algodón modificado genéticamente COT102",
+     "order": 502.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0145/2024"
+     ],
+     "procs": [
+      "2024-2835"
+     ],
+     "detail": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: algodón modificado genéticamente COT102 Propuesta de Resolución: B10-0145/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 496,
+      "against": 143,
+      "abst": 18
+     }
+    },
+    {
+     "id": "V-32",
+     "kind": "vote",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente MON 810",
+     "order": 503.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0146/2024"
+     ],
+     "procs": [
+      "2024-2840"
+     ],
+     "detail": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente MON 810 Propuesta de Resolución: B10-0146/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 464,
+      "against": 163,
+      "abst": 27
+     }
+    },
+    {
+     "id": "V-34",
+     "kind": "vote",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente DP202216",
+     "order": 504.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0152/2024"
+     ],
+     "procs": [
+      "2024-2837"
+     ],
+     "detail": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente DP202216 Propuesta de Resolución: B10-0152/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 478,
+      "against": 165,
+      "abst": 16
+     }
+    },
+    {
+     "id": "V-38",
+     "kind": "vote",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente DP915635",
+     "order": 505.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0149/2024"
+     ],
+     "procs": [
+      "2024-2839"
+     ],
+     "detail": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente DP915635 Propuesta de Resolución: B10-0149/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 478,
+      "against": 166,
+      "abst": 17
+     }
+    },
+    {
+     "id": "V-33",
+     "kind": "vote",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente DP23211",
+     "order": 506.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0150/2024"
+     ],
+     "procs": [
+      "2024-2838"
+     ],
+     "detail": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente DP23211 Propuesta de Resolución: B10-0150/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 474,
+      "against": 166,
+      "abst": 17
+     }
+    },
+    {
+     "id": "V-25",
+     "kind": "vote",
+     "title": "Renovación parcial de los miembros del Tribunal de Cuentas – Iliana Ivanova",
+     "order": 507.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0018/2024"
+     ],
+     "procs": [
+      "2024-0804"
+     ],
+     "detail": "Renovación parcial de los miembros del Tribunal de Cuentas – Iliana Ivanova Informe: Csaba Molnár (A10-0018/2024) (votación secreta (artículo 133, apartado 3, del Reglamento interno))",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 581,
+      "against": 34,
+      "abst": 31
+     }
+    },
+    {
+     "id": "V-37",
+     "kind": "vote",
+     "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente MON 89034 × 1507 × MON 88017 x 59122 y ocho subcombinaciones",
+     "order": 508.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0147/2024"
+     ],
+     "procs": [
+      "2024-2834"
+     ],
+     "detail": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: maíz modificado genéticamente MON 89034 × 1507 × MON 88017 x 59122 y ocho subcombinaciones Propuesta de Resolución: B10-0147/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 476,
+      "against": 169,
+      "abst": 14
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-11-25": {
+   "date": "2024-11-25",
+   "items": [
+    {
+     "id": "M-3",
+     "kind": "other",
+     "title": "Declaración de la presidenta",
+     "order": 3.0,
+     "time": "17:03",
+     "end": "17:05",
+     "slot": ""
+    },
+    {
+     "id": "M-11",
+     "kind": "debate",
+     "title": "Día Internacional de la Eliminación de la Violencia contra la Mujer",
+     "order": 11.0,
+     "time": "17:21",
+     "end": "19:16",
+     "slot": ""
+    },
+    {
+     "id": "M-12",
+     "kind": "debate",
+     "title": "Resultados de la Cumbre de Líderes del G20",
+     "order": 12.0,
+     "time": "19:16",
+     "end": "19:55",
+     "slot": ""
+    },
+    {
+     "id": "M-13",
+     "kind": "debate",
+     "title": "Resultados de la Conferencia de las Partes en el Convenio sobre la Diversidad Biológica 2024 celebrada en Cali (Colombia) (CP16)",
+     "order": 13.0,
+     "time": "19:55",
+     "end": "20:36",
+     "slot": ""
+    },
+    {
+     "id": "M-14",
+     "kind": "debate",
+     "title": "Condena de la declaración unilateral ilegal de independencia de la entidad secesionista en Chipre y de todos los esfuerzos para legitimarla y reafirmación de la necesidad de solidaridad europea – 41 años después",
+     "order": 14.0,
+     "time": "20:36",
+     "end": "21:12",
+     "slot": ""
+    },
+    {
+     "id": "M-15",
+     "kind": "other",
+     "title": "Intervenciones de un minuto sobre asuntos de importancia política",
+     "order": 15.0,
+     "time": "21:12",
+     "end": "21:48",
+     "slot": ""
+    },
+    {
+     "id": "R-000002",
+     "kind": "vote",
+     "title": "Orden del día del martes - Solicitud del Grupo S&D",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del martes - Solicitud del Grupo S&amp;D",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 224,
+      "against": 211,
+      "abst": 11
+     }
+    },
+    {
+     "id": "R-000003",
+     "kind": "vote",
+     "title": "Orden del día del miércoles",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del miércoles",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 415,
+      "against": 5,
+      "abst": 3
+     }
+    },
+    {
+     "id": "R-000001",
+     "kind": "vote",
+     "title": "Orden del día del lunes - Solicitud del Grupo The Left",
+     "order": 502.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del lunes - Solicitud del Grupo The Left",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 156,
+      "against": 277,
+      "abst": 10
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-11-19": {
+   "date": "2024-11-19",
+   "items": [
+    {
+     "id": "M-4",
+     "kind": "other",
+     "title": "Discurso de Volodímir Zelenski, presidente de Ucrania",
+     "order": 4.0,
+     "time": "11:12",
+     "end": "11:24",
+     "slot": ""
+    },
+    {
+     "id": "M-5",
+     "kind": "debate",
+     "title": "Mil días de invasión rusa a gran escala de Ucrania",
+     "order": 5.0,
+     "time": "11:24",
+     "end": "11:54",
+     "slot": ""
+    },
+    {
+     "id": "M-9",
+     "kind": "other",
+     "title": "Interrupción del período de sesiones",
+     "order": 9.0,
+     "time": "11:54",
+     "end": "11:54",
+     "slot": ""
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Bruselas",
+   "final": true
+  },
+  "2024-11-14": {
+   "date": "2024-11-14",
+   "items": [
+    {
+     "id": "M-2",
+     "kind": "other",
+     "title": "Intervención de Sauli Niinistö - Presentación del informe sobre la manera de reforzar la preparación y capacidad de reacción de Europa en materia civil y de defensa",
+     "order": 2.0,
+     "time": "09:05",
+     "end": "09:27",
+     "slot": ""
+    },
+    {
+     "id": "M-3",
+     "kind": "debate",
+     "title": "Refuerzo de la preparación y capacidad de reacción de Europa en materia civil y de defensa",
+     "order": 3.0,
+     "time": "09:27",
+     "end": "11:02",
+     "slot": ""
+    },
+    {
+     "id": "M-5",
+     "kind": "other",
+     "title": "Período parcial de sesiones extraordinario",
+     "order": 5.0,
+     "time": "11:06",
+     "end": "11:08",
+     "slot": ""
+    },
+    {
+     "id": "M-6",
+     "kind": "other",
+     "title": "Suplicatorio de suspensión de la inmunidad",
+     "order": 6.0,
+     "time": "11:08",
+     "end": "11:08",
+     "slot": ""
+    },
+    {
+     "id": "M-7-1",
+     "kind": "other",
+     "title": "RESTORE: Apoyo regional urgente para la reconstrucción, que modifica el Reglamento (UE) 2021/1058 y el Reglamento (UE) 2021/1057 ***I (votación)",
+     "order": 7.0,
+     "time": "11:08",
+     "end": "11:09",
+     "slot": ""
+    },
+    {
+     "id": "M-7-2",
+     "kind": "other",
+     "title": "Medidas específicas adoptadas con cargo al Fondo Europeo Agrícola de Desarrollo Rural (Feader) para proporcionar ayuda adicional a los Estados miembros afectados por catástrofes naturales ***I (votación)",
+     "order": 7.0,
+     "time": "11:09",
+     "end": "11:09",
+     "slot": ""
+    },
+    {
+     "id": "M-7-3",
+     "kind": "other",
+     "title": "Reglamento sobre la deforestación: disposiciones relativas a la fecha de aplicación ***I (votación)",
+     "order": 7.0,
+     "time": "11:09",
+     "end": "11:20",
+     "slot": ""
+    },
+    {
+     "id": "M-7-4",
+     "kind": "other",
+     "title": "Certificado de exención del impuesto sobre el valor añadido en formato digital * (votación)",
+     "order": 7.0,
+     "time": "11:20",
+     "end": "11:22",
+     "slot": ""
+    },
+    {
+     "id": "M-7-5",
+     "kind": "other",
+     "title": "Mitigación más rápida y más segura de las retenciones en origen practicadas en exceso * (votación)",
+     "order": 7.0,
+     "time": "11:22",
+     "end": "11:23",
+     "slot": ""
+    },
+    {
+     "id": "M-7-6",
+     "kind": "other",
+     "title": "Modificación de los Estatutos del BEI * (votación)",
+     "order": 7.0,
+     "time": "11:23",
+     "end": "11:27",
+     "slot": ""
+    },
+    {
+     "id": "M-7-7",
+     "kind": "other",
+     "title": "Conferencia de las Naciones Unidas sobre el Cambio Climático de 2024 (CP29) en Bakú (Azerbaiyán) (votación)",
+     "order": 7.0,
+     "time": "11:27",
+     "end": "11:47",
+     "slot": ""
+    },
+    {
+     "id": "M-7-8",
+     "kind": "other",
+     "title": "Medidas de la Unión contra la «flota en la sombra» rusa y garantía de la plena aplicación de las sanciones contra Rusia (votación)",
+     "order": 7.0,
+     "time": "11:47",
+     "end": "11:55",
+     "slot": ""
+    },
+    {
+     "id": "M-13",
+     "kind": "other",
+     "title": "Interrupción del período de sesiones",
+     "order": 13.0,
+     "time": "12:08",
+     "end": "12:08",
+     "slot": ""
+    },
+    {
+     "id": "V-24",
+     "kind": "vote",
+     "title": "RESTORE: Apoyo regional urgente para la reconstrucción, que modifica el Reglamento (UE) 2021/1058 y el Reglamento (UE) 2021/1057 ***I",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "RESTORE: Apoyo regional urgente para la reconstrucción, que modifica el Reglamento (UE) 2021/1058 y el Reglamento (UE) 2021/1057 ***I Propuesta de Reglamento (COM(2024)0496 - C10-0147/2024 - 2024/0275(COD))",
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "V-23",
+     "kind": "vote",
+     "title": "Medidas específicas adoptadas con cargo al Fondo Europeo Agrícola de Desarrollo Rural (Feader) para proporcionar ayuda adicional a los Estados miembros afectados por catástrofes naturales ***I",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Medidas específicas adoptadas con cargo al Fondo Europeo Agrícola de Desarrollo Rural (Feader) para proporcionar ayuda adicional a los Estados miembros afectados por catástrofes naturales ***I Propuesta de Reglamento (COM(2024)0495 - C10-0148/2024 - 2024/0274(COD))",
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "V-19",
+     "kind": "vote",
+     "title": "Reglamento sobre la deforestación: disposiciones relativas a la fecha de aplicación ***I",
+     "order": 502.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Reglamento sobre la deforestación: disposiciones relativas a la fecha de aplicación ***I Propuesta de Reglamento (COM(2024)0452 - C10-0119/2024 - 2024/0249(COD))",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 394,
+      "against": 220,
+      "abst": 15
+     }
+    },
+    {
+     "id": "V-11",
+     "kind": "vote",
+     "title": "Certificado de exención del impuesto sobre el valor añadido en formato digital *",
+     "order": 503.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0012/2024"
+     ],
+     "procs": [
+      "2024-0152"
+     ],
+     "detail": "Certificado de exención del impuesto sobre el valor añadido en formato digital * Informe: Aurore Lalucq (A10-0012/2024)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 621,
+      "against": 10,
+      "abst": 11
+     }
+    },
+    {
+     "id": "V-12",
+     "kind": "vote",
+     "title": "Mitigación más rápida y más segura de las retenciones en origen practicadas en exceso *",
+     "order": 504.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0011/2024"
+     ],
+     "procs": [
+      "2023-0187"
+     ],
+     "detail": "Mitigación más rápida y más segura de las retenciones en origen practicadas en exceso * Informe: Herbert Dorfmann (A10-0011/2024)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 555,
+      "against": 48,
+      "abst": 42
+     }
+    },
+    {
+     "id": "V-4",
+     "kind": "vote",
+     "title": "Conferencia de las Naciones Unidas sobre el Cambio Climático de 2024 (CP29) en Bakú (Azerbaiyán)",
+     "order": 505.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0156/2024"
+     ],
+     "procs": [
+      "2024-2718"
+     ],
+     "detail": "Conferencia de las Naciones Unidas sobre el Cambio Climático de 2024 (CP29) en Bakú (Azerbaiyán) Propuesta de Resolución: B10-0156/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 429,
+      "against": 183,
+      "abst": 24
+     }
+    },
+    {
+     "id": "V-8",
+     "kind": "vote",
+     "title": "Modificación de los Estatutos del BEI *",
+     "order": 506.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0013/2024"
+     ],
+     "procs": [
+      "2024-0803"
+     ],
+     "detail": "Modificación de los Estatutos del BEI * Informe: Joachim Streit (A10-0013/2024)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 510,
+      "against": 105,
+      "abst": 27
+     }
+    },
+    {
+     "id": "V-14",
+     "kind": "vote",
+     "title": "Medidas de la Unión contra la «flota en la sombra» rusa y garantía de la plena aplicación de las sanciones contra Rusia",
+     "order": 507.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0166/2024",
+      "B10-0163/2024",
+      "B10-0161/2024",
+      "B10-0160/2024",
+      "B10-0164/2024",
+      "B10-0162/2024"
+     ],
+     "procs": [
+      "2024-2885"
+     ],
+     "detail": "Medidas de la Unión contra la «flota en la sombra» rusa y garantía de la plena aplicación de las sanciones contra Rusia Propuestas de Resolución: RC-B10-0161/2024, B10-0160/2024, B10-0161/2024, B10-0162/2024, B10-0163/2024, B10-0164/2024, B10-0166/2024",
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Bruselas",
+   "final": true
+  },
+  "2024-11-13": {
+   "date": "2024-11-13",
+   "items": [
+    {
+     "id": "M-3",
+     "kind": "other",
+     "title": "Declaración de la presidenta",
+     "order": 3.0,
+     "time": "15:05",
+     "end": "15:07",
+     "slot": ""
+    },
+    {
+     "id": "M-5",
+     "kind": "other",
+     "title": "Suplicatorio de suspensión de la inmunidad",
+     "order": 5.0,
+     "time": "15:07",
+     "end": "15:08",
+     "slot": ""
+    },
+    {
+     "id": "M-7",
+     "kind": "other",
+     "title": "Negociaciones antes de la primera lectura del Consejo (artículo 73 del Reglamento interno)",
+     "order": 7.0,
+     "time": "15:08",
+     "end": "15:08",
+     "slot": ""
+    },
+    {
+     "id": "M-8",
+     "kind": "other",
+     "title": "Curso dado a los asuntos pendientes (artículo 250 del Reglamento interno)",
+     "order": 8.0,
+     "time": "15:08",
+     "end": "15:09",
+     "slot": ""
+    },
+    {
+     "id": "M-12",
+     "kind": "debate",
+     "title": "Inundaciones devastadoras en España: necesidad urgente de apoyar a las víctimas, mejorar la preparación y combatir la crisis climática",
+     "order": 12.0,
+     "time": "15:27",
+     "end": "17:04",
+     "slot": ""
+    },
+    {
+     "id": "M-13",
+     "kind": "debate",
+     "title": "Relaciones entre la Unión y los Estados Unidos a la vista del resultado de las elecciones presidenciales estadounidenses",
+     "order": 13.0,
+     "time": "17:04",
+     "end": "18:58",
+     "slot": ""
+    },
+    {
+     "id": "M-14",
+     "kind": "debate",
+     "title": "Conferencia de las Naciones Unidas sobre el Cambio Climático de 2024 (CP29) en Bakú (Azerbaiyán)",
+     "order": 14.0,
+     "time": "18:58",
+     "end": "19:54",
+     "slot": ""
+    },
+    {
+     "id": "M-15",
+     "kind": "debate",
+     "title": "Empeoramiento de la crisis democrática en Georgia tras las recientes elecciones parlamentarias y el presunto fraude electoral",
+     "order": 15.0,
+     "time": "19:54",
+     "end": "20:36",
+     "slot": ""
+    },
+    {
+     "id": "M-16",
+     "kind": "debate",
+     "title": "Lamentable escalada de violencia en torno a un partido de fútbol en los Países Bajos y ataques inaceptables contra los aficionados israelíes",
+     "order": 16.0,
+     "time": "20:36",
+     "end": "21:32",
+     "slot": ""
+    },
+    {
+     "id": "M-17",
+     "kind": "debate",
+     "title": "Lucha contra el blanqueo de capitales y la financiación del terrorismo: inclusión de Rusia en la lista de la Unión de terceros países de alto riesgo",
+     "order": 17.0,
+     "time": "21:32",
+     "end": "22:12",
+     "slot": ""
+    },
+    {
+     "id": "M-18",
+     "kind": "other",
+     "title": "Intervenciones de un minuto sobre asuntos de importancia política",
+     "order": 18.0,
+     "time": "22:12",
+     "end": "22:43",
+     "slot": ""
+    },
+    {
+     "id": "R-000002",
+     "kind": "vote",
+     "title": "Orden del día del jueves - Solicitud del Grupo The Left",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del jueves - Solicitud del Grupo The Left",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 201,
+      "against": 353,
+      "abst": 7
+     }
+    },
+    {
+     "id": "R-000001",
+     "kind": "vote",
+     "title": "Orden del día del miércoles - Solicitud de los Grupos Renew y PPE",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del miércoles - Solicitud de los Grupos Renew y PPE",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 309,
+      "against": 191,
+      "abst": 34
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Bruselas",
+   "final": true
+  },
+  "2024-10-24": {
+   "date": "2024-10-24",
+   "items": [
+    {
+     "id": "M-3",
+     "kind": "debate",
+     "title": "Reducción del déficit de capacidades de la Unión: apoyo a las personas en las transiciones digital y ecológica para garantizar un crecimiento y una competitividad inclusivos, en consonancia con el informe Draghi",
+     "order": 3.0,
+     "time": "09:01",
+     "end": "10:44",
+     "slot": ""
+    },
+    {
+     "id": "M-4",
+     "kind": "debate",
+     "title": "Uso abusivo de las nuevas tecnologías para manipular y radicalizar a los jóvenes a través de la incitación al odio y un discurso antidemocrático",
+     "order": 4.0,
+     "time": "10:44",
+     "end": "12:02",
+     "slot": ""
+    },
+    {
+     "id": "M-6",
+     "kind": "other",
+     "title": "Premio Sájarov 2024 (anuncio del galardonado)",
+     "order": 6.0,
+     "time": "12:05",
+     "end": "12:09",
+     "slot": ""
+    },
+    {
+     "id": "M-7",
+     "kind": "other",
+     "title": "Suplicatorio de suspensión de la inmunidad",
+     "order": 7.0,
+     "time": "12:09",
+     "end": "12:10",
+     "slot": ""
+    },
+    {
+     "id": "M-9-1",
+     "kind": "other",
+     "title": "Situación en Azerbaiyán, violación de los derechos humanos y del Derecho internacional y relaciones con Armenia (votación)",
+     "order": 9.0,
+     "time": "12:12",
+     "end": "12:14",
+     "slot": ""
+    },
+    {
+     "id": "M-9-2",
+     "kind": "other",
+     "title": "Interpretación errónea de la Resolución 2758 de la Asamblea General de las Naciones Unidas por parte de la República Popular China y sus continuas provocaciones militares en torno a Taiwán (votación)",
+     "order": 9.0,
+     "time": "12:14",
+     "end": "12:17",
+     "slot": ""
+    },
+    {
+     "id": "M-12",
+     "kind": "debate",
+     "title": "Protección de nuestros océanos: amenazas constantes a las zonas marinas protegidas en la Unión y beneficios para las comunidades costeras",
+     "order": 12.0,
+     "time": "15:00",
+     "end": "15:37",
+     "slot": ""
+    },
+    {
+     "id": "M-17",
+     "kind": "other",
+     "title": "Interrupción del período de sesiones",
+     "order": 17.0,
+     "time": "15:41",
+     "end": "15:41",
+     "slot": ""
+    },
+    {
+     "id": "V-55",
+     "kind": "vote",
+     "title": "Situación en Azerbaiyán, violación de los derechos humanos y del Derecho internacional y relaciones con Armenia",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0142/2024",
+      "B10-0136/2024",
+      "B10-0139/2024",
+      "B10-0133/2024",
+      "B10-0131/2024",
+      "B10-0129/2024",
+      "B10-0141/2024"
+     ],
+     "procs": [
+      "2024-2890"
+     ],
+     "detail": "Situación en Azerbaiyán, violación de los derechos humanos y del Derecho internacional y relaciones con Armenia Propuestas de Resolución: RC-B10-0133/2024, B10-0129/2024, B10-0131/2024, B10-0133/2024, B10-0136/2024, B10-0139/2024, B10-0141/2024, B10-0142/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 453,
+      "against": 31,
+      "abst": 89
+     }
+    },
+    {
+     "id": "V-56",
+     "kind": "vote",
+     "title": "Interpretación errónea de la Resolución 2758 de la Asamblea General de las Naciones Unidas por parte de la República Popular China y sus continuas provocaciones militares en torno a Taiwán",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0137/2024",
+      "B10-0132/2024",
+      "B10-0134/2024",
+      "B10-0138/2024",
+      "B10-0130/2024",
+      "B10-0135/2024",
+      "B10-0140/2024"
+     ],
+     "procs": [
+      "2024-2891"
+     ],
+     "detail": "Interpretación errónea de la Resolución 2758 de la Asamblea General de las Naciones Unidas por parte de la República Popular China y sus continuas provocaciones militares en torno a Taiwán Propuestas de Resolución: RC-B10-0134/2024, B10-0130/2024, B10-0132/2024, B10-0134/2024, B10-0135/2024, B10-0137/2024, B10-0138/2024, B10-0140/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 432,
+      "against": 60,
+      "abst": 71
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-10-23": {
+   "date": "2024-10-23",
+   "items": [
+    {
+     "id": "M-2",
+     "kind": "debate",
+     "title": "Gestión de la migración de manera eficaz e integral a través de un mayor número de retornos",
+     "order": 2.0,
+     "time": "09:00",
+     "end": "10:42",
+     "slot": ""
+    },
+    {
+     "id": "M-3",
+     "kind": "debate",
+     "title": "Lucha contra la crisis del acero: impulsar una industria siderúrgica europea competitiva y sostenible y mantener un empleo de calidad",
+     "order": 3.0,
+     "time": "10:42",
+     "end": "11:57",
+     "slot": ""
+    },
+    {
+     "id": "M-5",
+     "kind": "other",
+     "title": "Declaración de la presidenta",
+     "order": 5.0,
+     "time": "12:04",
+     "end": "12:08",
+     "slot": ""
+    },
+    {
+     "id": "M-6-1",
+     "kind": "other",
+     "title": "Reglamento sobre la deforestación: disposiciones relativas a la fecha de aplicación ***I (votación)",
+     "order": 6.0,
+     "time": "12:08",
+     "end": "12:09",
+     "slot": ""
+    },
+    {
+     "id": "M-6-2",
+     "kind": "other",
+     "title": "Proyecto de presupuesto general de la Unión Europea para el ejercicio 2025: todas las secciones (votación)",
+     "order": 6.0,
+     "time": "12:09",
+     "end": "12:18",
+     "slot": ""
+    },
+    {
+     "id": "M-6-3",
+     "kind": "other",
+     "title": "Presupuesto general de la Unión Europea para el ejercicio 2025: todas las secciones (votación)",
+     "order": 6.0,
+     "time": "12:18",
+     "end": "12:45",
+     "slot": ""
+    },
+    {
+     "id": "M-6-4",
+     "kind": "other",
+     "title": "Orientaciones para las políticas de empleo de los Estados miembros * (votación)",
+     "order": 6.0,
+     "time": "12:45",
+     "end": "12:51",
+     "slot": ""
+    },
+    {
+     "id": "M-6-5",
+     "kind": "other",
+     "title": "Necesidad urgente de revisar el Reglamento sobre los productos sanitarios (votación)",
+     "order": 6.0,
+     "time": "12:51",
+     "end": "12:53",
+     "slot": ""
+    },
+    {
+     "id": "M-9",
+     "kind": "debate",
+     "title": "Constantes crímenes de guerra perpetrados por la Federación de Rusia, en particular el asesinato de prisioneros de guerra ucranianos",
+     "order": 9.0,
+     "time": "12:57",
+     "end": "13:14",
+     "slot": ""
+    },
+    {
+     "id": "M-10",
+     "kind": "other",
+     "title": "Reforma de la burocracia de la Unión: necesidad de terminar con las cargas y las declaraciones innecesarias para favorecer la competitividad y la innovación (debate de actualidad)",
+     "order": 10.0,
+     "time": "13:14",
+     "end": "14:25",
+     "slot": ""
+    },
+    {
+     "id": "M-11",
+     "kind": "debate",
+     "title": "Presentación del Informe Anual del Tribunal de Cuentas relativo a 2023",
+     "order": 11.0,
+     "time": "14:25",
+     "end": "15:22",
+     "slot": ""
+    },
+    {
+     "id": "M-12",
+     "kind": "debate",
+     "title": "Conclusiones del Comité para la Eliminación de la Discriminación contra la Mujer acerca de la ley polaca sobre el aborto",
+     "order": 12.0,
+     "time": "15:22",
+     "end": "16:47",
+     "slot": ""
+    },
+    {
+     "id": "M-13",
+     "kind": "debate",
+     "title": "Siete años desde el asesinato de Daphne Caruana Galizia: ausencia de progreso en el restablecimiento del Estado de Derecho en Malta",
+     "order": 13.0,
+     "time": "16:47",
+     "end": "17:35",
+     "slot": ""
+    },
+    {
+     "id": "M-14",
+     "kind": "debate",
+     "title": "Importancia de las ciudades y las regiones en la Unión: por un desarrollo local ecológico, social y próspero",
+     "order": 14.0,
+     "time": "17:35",
+     "end": "19:11",
+     "slot": ""
+    },
+    {
+     "id": "M-15",
+     "kind": "debate",
+     "title": "Injerencias extranjeras y ataques híbridos: necesidad de reforzar la resiliencia y la seguridad interior de la Unión",
+     "order": 15.0,
+     "time": "19:11",
+     "end": "20:07",
+     "slot": ""
+    },
+    {
+     "id": "M-16",
+     "kind": "other",
+     "title": "Propuestas de actos de la Unión",
+     "order": 16.0,
+     "time": "20:07",
+     "end": "20:08",
+     "slot": ""
+    },
+    {
+     "id": "M-17",
+     "kind": "debate",
+     "title": "Medidas de la Unión contra la «flota en la sombra» rusa y garantía de la plena aplicación de las sanciones contra Rusia",
+     "order": 17.0,
+     "time": "20:08",
+     "end": "20:58",
+     "slot": ""
+    },
+    {
+     "id": "M-18",
+     "kind": "debate",
+     "title": "Necesidad de reforzar el transporte por ferrocarril y el sector ferroviario en Europa",
+     "order": 18.0,
+     "time": "20:58",
+     "end": "21:56",
+     "slot": ""
+    },
+    {
+     "id": "R-963288",
+     "kind": "vote",
+     "title": "Proyecto de presupuesto general de la Unión Europea para el ejercicio 2025: todas las secciones",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Proyecto de presupuesto general de la Unión Europea para el ejercicio 2025: todas las secciones Proyectos de enmienda (mayoría de los diputados que componen el Parlamento requerida)",
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "V-62",
+     "kind": "vote",
+     "title": "Reglamento sobre la deforestación: disposiciones relativas a la fecha de aplicación ***I",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Reglamento sobre la deforestación: disposiciones relativas a la fecha de aplicación ***I",
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "V-27",
+     "kind": "vote",
+     "title": "Orientaciones para las políticas de empleo de los Estados miembros *",
+     "order": 502.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0004/2024"
+     ],
+     "procs": [
+      "2024-0599"
+     ],
+     "detail": "Orientaciones para las políticas de empleo de los Estados miembros * Informe: Li Andersson (A10-0004/2024)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 444,
+      "against": 179,
+      "abst": 20
+     }
+    },
+    {
+     "id": "V-34",
+     "kind": "vote",
+     "title": "Necesidad urgente de revisar el Reglamento sobre los productos sanitarios",
+     "order": 503.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0127/2024",
+      "B10-0125/2024",
+      "B10-0128/2024",
+      "B10-0126/2024",
+      "B10-0121/2024",
+      "B10-0123/2024",
+      "B10-0122/2024",
+      "B10-0124/2024"
+     ],
+     "procs": [
+      "2024-2849"
+     ],
+     "detail": "Necesidad urgente de revisar el Reglamento sobre los productos sanitarios Propuestas de Resolución: RC-B10-0123/2024/REV1, B10-0121/2024, B10-0122/2024, B10-0123/2024, B10-0124/2024, B10-0125/2024, B10-0126/2024, B10-0127/2024, B10-0128/2024",
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "V-20",
+     "kind": "vote",
+     "title": "Presupuesto general de la Unión Europea para el ejercicio 2025: todas las secciones",
+     "order": 504.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0008/2024"
+     ],
+     "procs": [
+      "2024-0176"
+     ],
+     "detail": "Presupuesto general de la Unión Europea para el ejercicio 2025: todas las secciones Informe: Victor Negrescu, Niclas Herbst (A10-0008/2024)",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 233,
+      "against": 360,
+      "abst": 59
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-10-22": {
+   "date": "2024-10-22",
+   "items": [
+    {
+     "id": "M-2",
+     "kind": "debate",
+     "title": "Establecimiento del Mecanismo de cooperación con Ucrania en materia de préstamos y concesión de una ayuda macrofinanciera excepcional a Ucrania ***I",
+     "order": 2.0,
+     "time": "09:00",
+     "end": "10:40",
+     "slot": ""
+    },
+    {
+     "id": "M-3",
+     "kind": "debate",
+     "title": "Necesidad urgente de un alto el fuego en el Líbano y de proteger la misión de la FPNUL en vista de los recientes ataques",
+     "order": 3.0,
+     "time": "10:40",
+     "end": "12:03",
+     "slot": ""
+    },
+    {
+     "id": "M-5",
+     "kind": "other",
+     "title": "Bienvenida",
+     "order": 5.0,
+     "time": "12:04",
+     "end": "12:04",
+     "slot": ""
+    },
+    {
+     "id": "M-6",
+     "kind": "other",
+     "title": "Suplicatorio de suspensión de la inmunidad",
+     "order": 6.0,
+     "time": "12:04",
+     "end": "12:05",
+     "slot": ""
+    },
+    {
+     "id": "M-7",
+     "kind": "other",
+     "title": "Solicitud de decisión de urgencia (artículo 170 del Reglamento interno)",
+     "order": 7.0,
+     "time": "12:05",
+     "end": "12:05",
+     "slot": ""
+    },
+    {
+     "id": "M-8",
+     "kind": "other",
+     "title": "Negociaciones antes de la primera lectura del Consejo (artículo 73 del Reglamento interno)",
+     "order": 8.0,
+     "time": "12:05",
+     "end": "12:05",
+     "slot": ""
+    },
+    {
+     "id": "M-9-1",
+     "kind": "other",
+     "title": "Establecimiento del Mecanismo de cooperación con Ucrania en materia de préstamos y concesión de una ayuda macrofinanciera excepcional a Ucrania ***I (votación)",
+     "order": 9.0,
+     "time": "12:06",
+     "end": "12:07",
+     "slot": ""
+    },
+    {
+     "id": "M-9-2",
+     "kind": "other",
+     "title": "Realización del Cielo Único Europeo (versión refundida) ***II (votación)",
+     "order": 9.0,
+     "time": "12:07",
+     "end": "12:07",
+     "slot": ""
+    },
+    {
+     "id": "M-9-3",
+     "kind": "other",
+     "title": "Proyecto de presupuesto rectificativo n.º 2/2024: consignación del excedente del ejercicio financiero 2023 (votación)",
+     "order": 9.0,
+     "time": "12:07",
+     "end": "12:08",
+     "slot": ""
+    },
+    {
+     "id": "M-9-4",
+     "kind": "other",
+     "title": "Proyecto de presupuesto rectificativo n.º 4/2024: actualización de los ingresos (recursos propios) y ajustes a algunas agencias descentralizadas (votación)",
+     "order": 9.0,
+     "time": "12:08",
+     "end": "12:10",
+     "slot": ""
+    },
+    {
+     "id": "M-9-5",
+     "kind": "other",
+     "title": "Movilización del Fondo Europeo de Adaptación a la Globalización: solicitud EGF/2024/001 BE/Match-Smatch (votación)",
+     "order": 9.0,
+     "time": "12:10",
+     "end": "12:11",
+     "slot": ""
+    },
+    {
+     "id": "M-9-6",
+     "kind": "other",
+     "title": "Aprobación de la gestión 2022: presupuesto general de la UE – Consejo Europeo y Consejo (votación)",
+     "order": 9.0,
+     "time": "12:11",
+     "end": "12:13",
+     "slot": ""
+    },
+    {
+     "id": "M-11",
+     "kind": "debate",
+     "title": "Presupuesto general de la Unión Europea para el ejercicio 2025: todas las secciones",
+     "order": 11.0,
+     "time": "12:16",
+     "end": "14:27",
+     "slot": ""
+    },
+    {
+     "id": "M-12",
+     "kind": "debate",
+     "title": "Protección de los periodistas europeos que cubren la guerra de agresión de Rusia contra Ucrania",
+     "order": 12.0,
+     "time": "14:27",
+     "end": "14:49",
+     "slot": ""
+    },
+    {
+     "id": "M-15",
+     "kind": "other",
+     "title": "Turno de preguntas a los comisarios - Situación de la salud animal en Europa: prevención y preparación frente a futuras crisis sanitarias en la agricultura",
+     "order": 15.0,
+     "time": "15:03",
+     "end": "16:26",
+     "slot": ""
+    },
+    {
+     "id": "M-17",
+     "kind": "other",
+     "title": "Turno de preguntas a los comisarios - Situación de la salud animal en Europa: prevención y preparación frente a futuras crisis sanitarias en la agricultura (continuación)",
+     "order": 17.0,
+     "time": "17:01",
+     "end": "17:08",
+     "slot": ""
+    },
+    {
+     "id": "M-18",
+     "kind": "debate",
+     "title": "Orientaciones para las políticas de empleo de los Estados miembros *",
+     "order": 18.0,
+     "time": "17:08",
+     "end": "18:18",
+     "slot": ""
+    },
+    {
+     "id": "M-20",
+     "kind": "debate",
+     "title": "Situación en Azerbaiyán, violación de los derechos humanos y del Derecho internacional y relaciones con Armenia",
+     "order": 20.0,
+     "time": "18:19",
+     "end": "19:22",
+     "slot": ""
+    },
+    {
+     "id": "M-21",
+     "kind": "debate",
+     "title": "Interpretación errónea de la Resolución 2758 de la Asamblea General de las Naciones Unidas por parte de la República Popular China y sus continuas provocaciones militares en torno a Taiwán",
+     "order": 21.0,
+     "time": "19:22",
+     "end": "20:03",
+     "slot": ""
+    },
+    {
+     "id": "M-22",
+     "kind": "debate",
+     "title": "Terrorismo auspiciado por la República Islámica de Irán a la luz de los recientes ataques en Europa",
+     "order": 22.0,
+     "time": "20:03",
+     "end": "21:05",
+     "slot": ""
+    },
+    {
+     "id": "M-23",
+     "kind": "debate",
+     "title": "Situación en Túnez",
+     "order": 23.0,
+     "time": "21:05",
+     "end": "21:36",
+     "slot": ""
+    },
+    {
+     "id": "V-61",
+     "kind": "vote",
+     "title": "Realización del Cielo Único Europeo (versión refundida) ***II",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0010/2024"
+     ],
+     "procs": [
+      "2013-0186"
+     ],
+     "detail": "Realización del Cielo Único Europeo (versión refundida) ***II Recomendación para la segunda lectura: Jens Gieseke, Johan Danielsson (A10-0010/2024)"
+    },
+    {
+     "id": "V-33",
+     "kind": "vote",
+     "title": "Establecimiento del Mecanismo de cooperación con Ucrania en materia de préstamos y concesión de una ayuda macrofinanciera excepcional a Ucrania ***I",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0006/2024"
+     ],
+     "procs": [
+      "2024-0234"
+     ],
+     "detail": "Establecimiento del Mecanismo de cooperación con Ucrania en materia de préstamos y concesión de una ayuda macrofinanciera excepcional a Ucrania ***I Informe: Karin Karlsbro (A10-0006/2024)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 518,
+      "against": 56,
+      "abst": 61
+     }
+    },
+    {
+     "id": "V-21",
+     "kind": "vote",
+     "title": "Proyecto de presupuesto rectificativo n.º 4/2024: actualización de los ingresos (recursos propios) y ajustes a algunas agencias descentralizadas",
+     "order": 502.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0007/2024"
+     ],
+     "procs": [
+      "2024-0185"
+     ],
+     "detail": "Proyecto de presupuesto rectificativo n.º 4/2024: actualización de los ingresos (recursos propios) y ajustes a algunas agencias descentralizadas Informe: Siegfried Mureşan (A10-0007/2024)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 522,
+      "against": 115,
+      "abst": 25
+     }
+    },
+    {
+     "id": "V-19",
+     "kind": "vote",
+     "title": "Proyecto de presupuesto rectificativo n.º 2/2024: consignación del excedente del ejercicio financiero 2023",
+     "order": 503.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0005/2024"
+     ],
+     "procs": [
+      "2024-0089"
+     ],
+     "detail": "Proyecto de presupuesto rectificativo n.º 2/2024: consignación del excedente del ejercicio financiero 2023 Informe: Siegfried Mureşan (A10-0005/2024)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 531,
+      "against": 91,
+      "abst": 35
+     }
+    },
+    {
+     "id": "V-22",
+     "kind": "vote",
+     "title": "Aprobación de la gestión 2022: presupuesto general de la UE – Consejo Europeo y Consejo",
+     "order": 504.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0003/2024"
+     ],
+     "procs": [
+      "2023-2131"
+     ],
+     "detail": "Aprobación de la gestión 2022: presupuesto general de la UE – Consejo Europeo y Consejo Segundo informe: Jonas Sjöstedt (A10-0003/2024)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 431,
+      "against": 131,
+      "abst": 83
+     }
+    },
+    {
+     "id": "V-28",
+     "kind": "vote",
+     "title": "Movilización del Fondo Europeo de Adaptación a la Globalización: solicitud EGF/2024/001 BE/Match-Smatch",
+     "order": 505.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0009/2024"
+     ],
+     "procs": [
+      "2024-0226"
+     ],
+     "detail": "Movilización del Fondo Europeo de Adaptación a la Globalización: solicitud EGF/2024/001 BE/Match-Smatch Informe: Michalis Hadjipantela (A10-0009/2024)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 601,
+      "against": 47,
+      "abst": 17
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-10-21": {
+   "date": "2024-10-21",
+   "items": [
+    {
+     "id": "M-3",
+     "kind": "other",
+     "title": "Declaraciones de la presidenta",
+     "order": 3.0,
+     "time": "17:04",
+     "end": "17:07",
+     "slot": ""
+    },
+    {
+     "id": "M-7",
+     "kind": "other",
+     "title": "Negociaciones antes de la primera lectura del Consejo (artículo 73 del Reglamento interno)",
+     "order": 7.0,
+     "time": "17:08",
+     "end": "17:08",
+     "slot": ""
+    },
+    {
+     "id": "M-11",
+     "kind": "debate",
+     "title": "Día Internacional para la Erradicación de la Pobreza",
+     "order": 11.0,
+     "time": "17:29",
+     "end": "17:43",
+     "slot": ""
+    },
+    {
+     "id": "M-12",
+     "kind": "other",
+     "title": "Discurso de Enrico Letta - Presentación del informe «Much more than a market» (Mucho más que un mercado)",
+     "order": 12.0,
+     "time": "17:43",
+     "end": "18:08",
+     "slot": ""
+    },
+    {
+     "id": "M-13",
+     "kind": "debate",
+     "title": "Capacitación del mercado único para ofrecer prosperidad y un futuro sostenible a todos los ciudadanos de la Unión",
+     "order": 13.0,
+     "time": "18:08",
+     "end": "19:15",
+     "slot": ""
+    },
+    {
+     "id": "M-14",
+     "kind": "debate",
+     "title": "Realización del Cielo Único Europeo ***II",
+     "order": 14.0,
+     "time": "19:15",
+     "end": "19:54",
+     "slot": ""
+    },
+    {
+     "id": "M-15",
+     "kind": "debate",
+     "title": "Una Europa más fuerte para unos productos más seguros a fin de proteger mejor a los consumidores y de luchar contra la competencia desleal: reforzar la supervisión por parte de la Unión del comercio electrónico y las importaciones",
+     "order": 15.0,
+     "time": "19:54",
+     "end": "21:20",
+     "slot": ""
+    },
+    {
+     "id": "M-16",
+     "kind": "other",
+     "title": "Intervenciones de un minuto sobre asuntos de importancia política",
+     "order": 16.0,
+     "time": "21:20",
+     "end": "22:01",
+     "slot": ""
+    },
+    {
+     "id": "R-000001",
+     "kind": "vote",
+     "title": "Orden del día del martes – Solicitud del Grupo Verts/ALE",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del martes – Solicitud del Grupo Verts/ALE",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 164,
+      "against": 319,
+      "abst": 1
+     }
+    },
+    {
+     "id": "R-000002",
+     "kind": "vote",
+     "title": "Orden del día del martes – Solicitud del Grupo Renew",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del martes – Solicitud del Grupo Renew",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 158,
+      "against": 288,
+      "abst": 34
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-10-10": {
+   "date": "2024-10-10",
+   "items": [
+    {
+     "id": "M-2",
+     "kind": "debate",
+     "title": "Incremento de la intolerancia religiosa en Europa",
+     "order": 2.0,
+     "time": "09:00",
+     "end": "09:59",
+     "slot": ""
+    },
+    {
+     "id": "M-3",
+     "kind": "other",
+     "title": "Suplicatorio de suspensión de la inmunidad",
+     "order": 3.0,
+     "time": "09:59",
+     "end": "10:00",
+     "slot": ""
+    },
+    {
+     "id": "M-5",
+     "kind": "other",
+     "title": "Posición del Consejo en primera lectura (artículo 64 del Reglamento interno)",
+     "order": 5.0,
+     "time": "10:00",
+     "end": "10:00",
+     "slot": ""
+    },
+    {
+     "id": "M-6",
+     "kind": "other",
+     "title": "Incremento de la intolerancia religiosa en Europa (continuación del debate)",
+     "order": 6.0,
+     "time": "10:00",
+     "end": "10:38",
+     "slot": ""
+    },
+    {
+     "id": "M-7",
+     "kind": "debate",
+     "title": "Día Mundial de la Salud Mental: necesidad de una estrategia integral de la Unión en materia de salud mental",
+     "order": 7.0,
+     "time": "10:38",
+     "end": "12:09",
+     "slot": ""
+    },
+    {
+     "id": "M-10-1",
+     "kind": "other",
+     "title": "Caso de Bülent Mumay en Turquía (votación)",
+     "order": 10.0,
+     "time": "12:17",
+     "end": "12:22",
+     "slot": ""
+    },
+    {
+     "id": "M-10-2",
+     "kind": "other",
+     "title": "Casos de uigures encarcelados injustamente en China, en particular Ilham Tohti y Gulshan Abbas (votación)",
+     "order": 10.0,
+     "time": "12:22",
+     "end": "12:23",
+     "slot": ""
+    },
+    {
+     "id": "M-10-3",
+     "kind": "other",
+     "title": "Irak, en particular la situación de los derechos de las mujeres y la reciente propuesta de modificación de la Ley del Estatuto Personal (votación)",
+     "order": 10.0,
+     "time": "12:23",
+     "end": "12:25",
+     "slot": ""
+    },
+    {
+     "id": "M-13",
+     "kind": "debate",
+     "title": "Consecuencias de los devastadores incendios forestales en la Amazonia e importancia de la Amazonia en la lucha contra el cambio climático",
+     "order": 13.0,
+     "time": "15:00",
+     "end": "15:35",
+     "slot": ""
+    },
+    {
+     "id": "M-17",
+     "kind": "other",
+     "title": "Interrupción del período de sesiones",
+     "order": 17.0,
+     "time": "15:36",
+     "end": "15:36",
+     "slot": ""
+    },
+    {
+     "id": "V-40",
+     "kind": "vote",
+     "title": "Irak, en particular la situación de los derechos de las mujeres y la reciente propuesta de modificación de la Ley del Estatuto Personal",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0094/2024",
+      "B10-0088/2024",
+      "B10-0091/2024",
+      "B10-0090/2024",
+      "B10-0089/2024",
+      "B10-0093/2024",
+      "B10-0092/2024"
+     ],
+     "procs": [
+      "2024-2858"
+     ],
+     "detail": "Irak, en particular la situación de los derechos de las mujeres y la reciente propuesta de modificación de la Ley del Estatuto Personal Propuestas de Resolución: RC-B10-0089/2024, B10-0088/2024, B10-0089/2024, B10-0090/2024, B10-0091/2024, B10-0092/2024, B10-0093/2024, B10-0094/2024",
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "V-39",
+     "kind": "vote",
+     "title": "Caso de Bülent Mumay en Turquía",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0095/2024",
+      "B10-0096/2024",
+      "B10-0100/2024",
+      "B10-0097/2024",
+      "B10-0099/2024",
+      "B10-0098/2024"
+     ],
+     "procs": [
+      "2024-2856"
+     ],
+     "detail": "Caso de Bülent Mumay en Turquía Propuestas de Resolución: RC-B10-0095/2024, B10-0095/2024, B10-0096/2024, B10-0097/2024, B10-0098/2024, B10-0099/2024, B10-0100/2024",
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "V-38",
+     "kind": "vote",
+     "title": "Casos de uigures encarcelados injustamente en China, en particular Ilham Tohti y Gulshan Abbas",
+     "order": 502.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0118/2024",
+      "B10-0115/2024",
+      "B10-0117/2024",
+      "B10-0116/2024",
+      "B10-0101/2024",
+      "B10-0114/2024"
+     ],
+     "procs": [
+      "2024-2857"
+     ],
+     "detail": "Casos de uigures encarcelados injustamente en China, en particular Ilham Tohti y Gulshan Abbas Propuestas de Resolución: RC-B10-0101/2024/REV1, B10-0101/2024, B10-0114/2024, B10-0115/2024, B10-0116/2024, B10-0117/2024, B10-0118/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 540,
+      "against": 23,
+      "abst": 47
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-10-09": {
+   "date": "2024-10-09",
+   "items": [
+    {
+     "id": "M-2",
+     "kind": "debate",
+     "title": "Presentación del programa de actividades de la Presidencia húngara",
+     "order": 2.0,
+     "time": "09:06",
+     "end": "12:37",
+     "slot": ""
+    },
+    {
+     "id": "M-4",
+     "kind": "other",
+     "title": "Elección del Defensor del Pueblo Europeo - candidaturas recibidas",
+     "order": 4.0,
+     "time": "12:39",
+     "end": "12:40",
+     "slot": ""
+    },
+    {
+     "id": "M-5-1",
+     "kind": "other",
+     "title": "Refuerzo de la resiliencia de Moldavia frente a la injerencia rusa ante la perspectiva de las próximas elecciones presidenciales y referéndum constitucional sobre la integración en la Unión (votación)",
+     "order": 5.0,
+     "time": "12:40",
+     "end": "12:42",
+     "slot": ""
+    },
+    {
+     "id": "M-5-2",
+     "kind": "other",
+     "title": "Retroceso democrático y amenazas al pluralismo político en Georgia (votación)",
+     "order": 5.0,
+     "time": "12:42",
+     "end": "12:46",
+     "slot": ""
+    },
+    {
+     "id": "M-8",
+     "kind": "debate",
+     "title": "Inundaciones devastadoras recientes en Bosnia y Herzegovina",
+     "order": 8.0,
+     "time": "12:50",
+     "end": "13:11",
+     "slot": ""
+    },
+    {
+     "id": "M-9",
+     "kind": "other",
+     "title": "Cobrar impuestos a las personas muy ricas para acabar con la pobreza y reducir las desigualdades: apoyo de la Unión a la propuesta de la Presidencia del G20 (debate de actualidad)",
+     "order": 9.0,
+     "time": "13:11",
+     "end": "14:09",
+     "slot": ""
+    },
+    {
+     "id": "M-10",
+     "kind": "debate",
+     "title": "Garantía de una vivienda sostenible, decente y asequible en Europa: impulso de las inversiones, la propiedad privada y los programas de vivienda pública",
+     "order": 10.0,
+     "time": "14:09",
+     "end": "16:34",
+     "slot": ""
+    },
+    {
+     "id": "M-11",
+     "kind": "debate",
+     "title": "Refuerzo de la seguridad de las fronteras exteriores de Europa: necesidad de un enfoque integral y de un mayor apoyo a Frontex",
+     "order": 11.0,
+     "time": "16:34",
+     "end": "18:14",
+     "slot": ""
+    },
+    {
+     "id": "M-12",
+     "kind": "debate",
+     "title": "Prevención de la delincuencia relacionada con las drogas, su efecto en la ciudadanía de la Unión y necesidad de una respuesta europea eficaz",
+     "order": 12.0,
+     "time": "18:14",
+     "end": "19:06",
+     "slot": ""
+    },
+    {
+     "id": "M-14",
+     "kind": "debate",
+     "title": "Informe anual sobre el Estado de Derecho de 2024",
+     "order": 14.0,
+     "time": "19:06",
+     "end": "20:11",
+     "slot": ""
+    },
+    {
+     "id": "M-15",
+     "kind": "debate",
+     "title": "Necesidad urgente de revisar el Reglamento sobre los productos sanitarios",
+     "order": 15.0,
+     "time": "20:11",
+     "end": "20:48",
+     "slot": ""
+    },
+    {
+     "id": "M-16-1",
+     "kind": "other",
+     "title": "Caso de Bülent Mumay en Turquía",
+     "order": 16.0,
+     "time": "20:48",
+     "end": "21:07",
+     "slot": ""
+    },
+    {
+     "id": "M-16-2",
+     "kind": "other",
+     "title": "Casos de uigures encarcelados injustamente en China, en particular Ilham Tohti y Gulshan Abbas",
+     "order": 16.0,
+     "time": "21:07",
+     "end": "21:29",
+     "slot": ""
+    },
+    {
+     "id": "M-16-3",
+     "kind": "other",
+     "title": "Irak, en particular la situación de los derechos de las mujeres y la reciente propuesta de modificación de la Ley del Estatuto Personal",
+     "order": 16.0,
+     "time": "21:29",
+     "end": "21:52",
+     "slot": ""
+    },
+    {
+     "id": "M-17",
+     "kind": "debate",
+     "title": "Proteger el presupuesto de la Unión y garantizar que los fondos de la Unión no benefician a entidades o individuos vinculados a movimientos terroristas o islamistas",
+     "order": 17.0,
+     "time": "21:52",
+     "end": "22:27",
+     "slot": ""
+    },
+    {
+     "id": "M-16",
+     "kind": "debate",
+     "title": "Debate sobre casos de violaciones de los derechos humanos, de la democracia y del Estado de Derecho",
+     "order": 16.0,
+     "time": "",
+     "end": "",
+     "slot": ""
+    },
+    {
+     "id": "V-25",
+     "kind": "vote",
+     "title": "Refuerzo de la resiliencia de Moldavia frente a la injerencia rusa ante la perspectiva de las próximas elecciones presidenciales y referéndum constitucional sobre la integración en la Unión",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0081/2024",
+      "B10-0082/2024",
+      "B10-0073/2024",
+      "B10-0072/2024",
+      "B10-0080/2024",
+      "B10-0085/2024"
+     ],
+     "procs": [
+      "2024-2821"
+     ],
+     "detail": "Refuerzo de la resiliencia de Moldavia frente a la injerencia rusa ante la perspectiva de las próximas elecciones presidenciales y referéndum constitucional sobre la integración en la Unión Propuestas de Resolución: RC-B10-0072/2024, B10-0072/2024, B10-0073/2024, B10-0080/2024, B10-0081/2024, B10-0082/2024, B10-0085/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 508,
+      "against": 53,
+      "abst": 104
+     }
+    },
+    {
+     "id": "V-24",
+     "kind": "vote",
+     "title": "Retroceso democrático y amenazas al pluralismo político en Georgia",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "B10-0086/2024",
+      "B10-0070/2024",
+      "B10-0084/2024",
+      "B10-0079/2024",
+      "B10-0071/2024",
+      "B10-0074/2024",
+      "B10-0083/2024"
+     ],
+     "procs": [
+      "2024-2822"
+     ],
+     "detail": "Retroceso democrático y amenazas al pluralismo político en Georgia Propuestas de Resolución: RC-B10-0070/2024, B10-0070/2024, B10-0071/2024, B10-0074/2024, B10-0079/2024, B10-0083/2024, B10-0084/2024, B10-0086/2024",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 495,
+      "against": 73,
+      "abst": 86
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-10-08": {
+   "date": "2024-10-08",
+   "items": [
+    {
+     "id": "M-2",
+     "kind": "other",
+     "title": "Sanciones",
+     "order": 2.0,
+     "time": "09:01",
+     "end": "09:02",
+     "slot": ""
+    },
+    {
+     "id": "M-3",
+     "kind": "debate",
+     "title": "Preparación del Consejo Europeo de los días 17 y 18 de octubre de 2024",
+     "order": 3.0,
+     "time": "09:02",
+     "end": "10:26",
+     "slot": ""
+    },
+    {
+     "id": "M-4",
+     "kind": "debate",
+     "title": "Escalada de violencia en Oriente Próximo y situación en el Líbano",
+     "order": 4.0,
+     "time": "10:26",
+     "end": "12:29",
+     "slot": ""
+    },
+    {
+     "id": "M-6-1",
+     "kind": "other",
+     "title": "Movilización del Fondo de Solidaridad de la Unión Europea: ayuda a Italia, Eslovenia, Austria, Grecia y Francia tras las catástrofes naturales ocurridas en 2023 (votación)",
+     "order": 6.0,
+     "time": "12:33",
+     "end": "12:34",
+     "slot": ""
+    },
+    {
+     "id": "M-9",
+     "kind": "debate",
+     "title": "Crisis del sector del automóvil de la Unión, posible cierre de fábricas y necesidad de mejorar la competitividad y mantener el empleo en Europa",
+     "order": 9.0,
+     "time": "12:37",
+     "end": "16:09",
+     "slot": ""
+    },
+    {
+     "id": "M-10",
+     "kind": "debate",
+     "title": "Refuerzo de la resiliencia de Moldavia frente a la injerencia rusa ante la perspectiva de las próximas elecciones presidenciales y referéndum constitucional sobre la integración en la Unión",
+     "order": 10.0,
+     "time": "16:09",
+     "end": "17:20",
+     "slot": ""
+    },
+    {
+     "id": "M-13",
+     "kind": "debate",
+     "title": "Retroceso democrático y amenazas al pluralismo político en Georgia",
+     "order": 13.0,
+     "time": "17:20",
+     "end": "18:41",
+     "slot": ""
+    },
+    {
+     "id": "M-14",
+     "kind": "debate",
+     "title": "Resultados de la Cumbre del Futuro: transformar la gobernanza mundial para construir la paz, promover los derechos humanos y alcanzar los Objetivos de Desarrollo Sostenible",
+     "order": 14.0,
+     "time": "18:41",
+     "end": "19:54",
+     "slot": ""
+    },
+    {
+     "id": "M-16",
+     "kind": "debate",
+     "title": "Situación en Sudán",
+     "order": 16.0,
+     "time": "19:54",
+     "end": "20:24",
+     "slot": ""
+    },
+    {
+     "id": "V-18",
+     "kind": "vote",
+     "title": "Movilización del Fondo de Solidaridad de la Unión Europea: ayuda a Italia, Eslovenia, Austria, Grecia y Francia tras las catástrofes naturales ocurridas en 2023",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0002/2024"
+     ],
+     "procs": [
+      "2024-0212"
+     ],
+     "detail": "Movilización del Fondo de Solidaridad de la Unión Europea: ayuda a Italia, Eslovenia, Austria, Grecia y Francia tras las catástrofes naturales ocurridas en 2023 Informe: Georgios Aftias (A10-0002/2024)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 632,
+      "against": 7,
+      "abst": 3
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
+  },
+  "2024-10-07": {
+   "date": "2024-10-07",
+   "items": [
+    {
+     "id": "M-3",
+     "kind": "other",
+     "title": "Declaración de la presidenta",
+     "order": 3.0,
+     "time": "17:06",
+     "end": "17:11",
+     "slot": ""
+    },
+    {
+     "id": "M-12",
+     "kind": "debate",
+     "title": "Un año después de los atentados terroristas del 7 de octubre perpetrados por Hamás",
+     "order": 12.0,
+     "time": "17:32",
+     "end": "18:54",
+     "slot": ""
+    },
+    {
+     "id": "M-13",
+     "kind": "debate",
+     "title": "Restablecimiento de los controles en las fronteras interiores en varios Estados miembros y sus consecuencias para el espacio Schengen",
+     "order": 13.0,
+     "time": "18:54",
+     "end": "20:08",
+     "slot": ""
+    },
+    {
+     "id": "M-14",
+     "kind": "debate",
+     "title": "Necesidad de luchar contra el problema sistémico de la violencia de género en Europa",
+     "order": 14.0,
+     "time": "20:08",
+     "end": "20:54",
+     "slot": ""
+    },
+    {
+     "id": "M-15",
+     "kind": "debate",
+     "title": "Hacer frente a las noticias falsas, al populismo y a la desinformación en la Unión: la importancia de la radiodifusión pública, el pluralismo de los medios de comunicación y el periodismo independiente",
+     "order": 15.0,
+     "time": "20:54",
+     "end": "22:00",
+     "slot": ""
+    },
+    {
+     "id": "M-16",
+     "kind": "debate",
+     "title": "Incendios forestales extremos en Europa meridional, en particular en Portugal y en Grecia, y necesidad de reforzar la acción por el clima de la Unión en materia de adaptación y mitigación",
+     "order": 16.0,
+     "time": "22:00",
+     "end": "22:46",
+     "slot": ""
+    },
+    {
+     "id": "M-17",
+     "kind": "other",
+     "title": "Movilización del Fondo de Solidaridad de la Unión Europea: ayuda a Italia, Eslovenia, Austria, Grecia y Francia tras las catástrofes naturales ocurridas en 2023 (breve presentación)",
+     "order": 17.0,
+     "time": "22:46",
+     "end": "22:55",
+     "slot": ""
+    },
+    {
+     "id": "M-18",
+     "kind": "other",
+     "title": "Intervenciones de un minuto sobre asuntos de importancia política",
+     "order": 18.0,
+     "time": "22:55",
+     "end": "23:30",
+     "slot": ""
+    },
+    {
+     "id": "R-000001",
+     "kind": "vote",
+     "title": "Orden del día del martes - Solicitud del Grupo PfE",
+     "order": 500.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del martes - Solicitud del Grupo PfE",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 85,
+      "against": 335,
+      "abst": 5
+     }
+    },
+    {
+     "id": "R-000002",
+     "kind": "vote",
+     "title": "Orden del día del martes - Solicitud del Grupo The Left",
+     "order": 501.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Orden del día del martes - Solicitud del Grupo The Left",
+     "result": {
+      "outcome": "REJECTED",
+      "for": 189,
+      "against": 254,
+      "abst": 8
+     }
+    }
+   ],
+   "source": "minutes",
+   "fetched": "2026-11-23",
+   "place": "Estrasburgo",
+   "final": true
   }
  },
  "sittings": [
