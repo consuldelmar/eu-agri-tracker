@@ -1067,7 +1067,7 @@
      "id": "D-90",
      "kind": "debate",
      "title": "Papel y capacidad de Europa para proteger el orden internacional y garantizar una paz justa y duradera para Ucrania",
-     "order": 25.0,
+     "order": 24.0,
      "time": "09:00",
      "end": "11:50",
      "slot": "DEBATE PRIORITARIO",
@@ -1081,7 +1081,7 @@
      "id": "D-89",
      "kind": "debate",
      "title": "Desbloqueo de las negociaciones sobre el MFP 2028-2034, incluidos nuevos recursos propios, a raíz del marco de negociación revisado",
-     "order": 26.0,
+     "order": 25.0,
      "time": "10:15",
      "end": "11:50",
      "slot": "DEBATE PRIORITARIO",
@@ -1095,7 +1095,7 @@
      "id": "V-59",
      "kind": "vote",
      "title": "Proyecto de presupuesto rectificativo n.º 3/2026: ajustes en los gastos, actualización de los ingresos y otros ajustes técnicos",
-     "order": 27.0,
+     "order": 26.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1118,7 +1118,7 @@
      "id": "V-80",
      "kind": "vote",
      "title": "Procedimiento presupuestario 2027: texto conjunto",
-     "order": 28.0,
+     "order": 27.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1142,7 +1142,7 @@
      "id": "V-93",
      "kind": "vote",
      "title": "Establecimiento de Europa Global",
-     "order": 29.0,
+     "order": 28.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1169,7 +1169,7 @@
      "id": "V-61",
      "kind": "vote",
      "title": "Procedimientos de la Unión para la autorización y el control de los medicamentos de uso humano y normas por las que se rige la Agencia Europea de Medicamentos",
-     "order": 30.0,
+     "order": 29.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1193,7 +1193,7 @@
      "id": "V-60",
      "kind": "vote",
      "title": "Código de la Unión sobre medicamentos para uso humano",
-     "order": 31.0,
+     "order": 30.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1217,7 +1217,7 @@
      "id": "V-67",
      "kind": "vote",
      "title": "Modificación del Reglamento interno del Parlamento en lo que se refiere al voto por delegación durante el embarazo e inmediatamente después del parto",
-     "order": 32.0,
+     "order": 31.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1234,6 +1234,31 @@
      ],
      "people": [
       "Juan Fernando López Aguilar"
+     ]
+    },
+    {
+     "id": "V-43",
+     "kind": "vote",
+     "title": "Agilización de las evaluaciones ambientales (paquete ómnibus VIII sobre legislación ambiental)",
+     "order": 32.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "long": "Informe sobre la propuesta de Reglamento del Parlamento Europeo y del Consejo sobre la agilización de las evaluaciones ambientales",
+     "type": "Informe",
+     "symbol": "***I",
+     "refs": [
+      "2025/0391(COD)"
+     ],
+     "com": "COM(2025)0984",
+     "docs": [
+      "A10-0290/2026"
+     ],
+     "orgs": [
+      "ENVI"
+     ],
+     "people": [
+      "Emma Ytterell"
      ]
     },
     {
@@ -1468,10 +1493,7 @@
       "2026/2969(RSP)"
      ],
      "docs": [
-      "B10-0509/2026",
-      "B10-0508/2026",
-      "B10-0511/2026",
-      "B10-0510/2026"
+      "RC-B10-0508/2026"
      ]
     },
     {
@@ -1569,9 +1591,11 @@
      ],
      "docs": [
       "B10-0515/2026",
+      "B10-0531/2026",
       "B10-0526/2026",
       "B10-0517/2026",
-      "B10-0523/2026"
+      "B10-0523/2026",
+      "B10-0539/2026"
      ]
     },
     {
@@ -1586,8 +1610,10 @@
       "2026/2991(RSP)"
      ],
      "docs": [
+      "B10-0529/2026",
       "B10-0521/2026",
-      "B10-0522/2026"
+      "B10-0522/2026",
+      "B10-0537/2026"
      ]
     },
     {
@@ -1602,8 +1628,11 @@
       "2026/2992(RSP)"
      ],
      "docs": [
+      "B10-0545/2026",
       "B10-0524/2026",
       "B10-0518/2026",
+      "B10-0532/2026",
+      "B10-0542/2026",
       "B10-0516/2026"
      ]
     },

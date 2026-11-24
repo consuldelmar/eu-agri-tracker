@@ -9,7 +9,7 @@
  "committees": [],
  "people": [],
  "started": "2026-08-24",
- "last_activity": "2026-11-20",
+ "last_activity": "2026-11-24",
  "events": [
   {
    "date": "2026-08-24",
@@ -71,9 +71,26 @@
    "title": "Orden del día (ST 14448/26)",
    "url": "https://data.consilium.europa.eu/doc/document/ST-14448-2026-INIT/en/pdf",
    "source": "council"
+  },
+  {
+   "id": "council-agenda-ST-15894-2026-COR-1",
+   "date": "2026-11-25",
+   "body": "Coreper I",
+   "title": "Orden del día (ST 15894/26 COR 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15894-2026-COR-1/en/pdf",
+   "source": "council"
   }
  ],
- "scheduled": [],
+ "scheduled": [
+  {
+   "id": "council-agenda-ST-15894-2026-COR-1",
+   "date": "2026-11-25",
+   "body": "Coreper I",
+   "title": "Orden del día (ST 15894/26 COR 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15894-2026-COR-1/en/pdf",
+   "source": "council"
+  }
+ ],
  "council_docs": [
   {
    "id": "ST-12522-2026-INIT",
@@ -151,6 +168,17 @@
    "body": "Consejo",
    "step": null,
    "meeting_date": null
+  },
+  {
+   "id": "ST-15894-2026-COR-1",
+   "code": "ST 15894/26 COR 1",
+   "date": "2026-11-24",
+   "title": "PERMANENT REPRESENTATIVES COMMITTEE (Part 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15894-2026-COR-1/en/pdf",
+   "kind": "agenda",
+   "body": "Coreper I",
+   "step": "Orientación general",
+   "meeting_date": "2026-11-25"
   }
  ],
  "tags": [],
@@ -191,7 +219,10 @@
   "current_label": "Acuerdo en el Consejo",
   "hint": "Acuerdo de los ministros (a menudo en el Consejo AGRIFISH)",
   "next_label": "Adopción",
-  "next_date": null
+  "next_date": {
+   "date": "2026-11-25",
+   "body": "Coreper I"
+  }
  },
  "followed": false,
  "follow_url": ""
