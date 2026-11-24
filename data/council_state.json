@@ -7551,6 +7551,93 @@
     "16108/26"
    ],
    "cm_clean": true
+  },
+  "CM-5109-2026-INIT": {
+   "id": "CM-5109-2026-INIT",
+   "code": "CM 5109/26",
+   "kind": "agenda",
+   "body": "Counsellors/Attachés (Agri - Animals and Veterinary Questions)",
+   "title": "Counsellors/Attachés (Agri - Animals and Veterinary Questions)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5109-2026-INIT/en/pdf",
+   "date": "2026-11-23",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {},
+   "meeting_date": "2026-12-01",
+   "doc_numbers": [
+    "1255/97"
+   ],
+   "cm_clean": true
+  },
+  "ST-16253-2026-INIT": {
+   "id": "ST-16253-2026-INIT",
+   "code": "ST 16253/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "COMMISSION DELEGATED REGULATION (EU) …/... of 23.11.2026 amending Commission Delegated Regulation (EU) 2021/1342 as regards the expiry date of the recognition of third countries recognised for the purposes of equivalence under Article 33(2) of Council Regulation (EC) No 834/2007",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-16253-2026-INIT/en/pdf",
+   "date": "2026-11-23",
+   "step": null,
+   "refs": [
+    "2025/0417(COD)"
+   ],
+   "read": true,
+   "ref_titles": {}
+  },
+  "CM-5178-2026-INIT": {
+   "id": "CM-5178-2026-INIT",
+   "code": "CM 5178/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "EU-Cabo Verde SFPA - Joint Committee meeting - 1st coordination meeting",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5178-2026-INIT/en/pdf",
+   "date": "2026-11-23",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {}
+  },
+  "CM-5188-2026-INIT": {
+   "id": "CM-5188-2026-INIT",
+   "code": "CM 5188/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "EU-Mauritania SFPA – EU coordination meeting",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5188-2026-INIT/en/pdf",
+   "date": "2026-11-23",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {}
+  },
+  "ST-16052-2026-ADD-1": {
+   "id": "ST-16052-2026-ADD-1",
+   "code": "ST 16052/26 ADD 1",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Chemicals Agency and amending Regulations (EC) No 1907/2006, (EU) No 528/2012, (EU) No 649/2012 and (EU) 2019/1021 (first reading) - Adoption of the legislative act = Statement",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-16052-2026-ADD-1/en/pdf",
+   "date": "2026-11-20",
+   "step": "Adopción por el Consejo",
+   "refs": [
+    "2025/0207(COD)"
+   ],
+   "read": true,
+   "ref_titles": {}
+  },
+  "ST-16161-2026-INIT": {
+   "id": "ST-16161-2026-INIT",
+   "code": "ST 16161/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Commission’s Communication ‘Strengthening the Union’s global reach: A new strategic vision for the EU’s outermost regions’ - Council conclusions (23 November 2026)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-16161-2026-INIT/en/pdf",
+   "date": "2026-11-23",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {}
   }
  },
  "first_run_done": true,
