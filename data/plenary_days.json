@@ -138,7 +138,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-23",
+   "fetched": "2026-11-24",
    "place": "Bruselas",
    "final": false
   },
@@ -574,7 +574,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-23",
+   "fetched": "2026-11-24",
    "place": "Bruselas",
    "final": false
   },
@@ -669,10 +669,43 @@
      "end": "21:00",
      "slot": "Debate",
      "docs": []
+    },
+    {
+     "id": "R-074428",
+     "kind": "vote",
+     "title": "Ordre du jour de lundi – Demande du groupe Verts/ALE – Myanmar/Birmanie (débat)",
+     "order": 506.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Ordre du jour de lundi – Demande du groupe Verts/ALE – Myanmar/Birmanie (débat) (Majorité des suffrages exprimés requise)",
+     "result": {
+      "outcome": "ADOPTED"
+     }
+    },
+    {
+     "id": "R-000001",
+     "kind": "vote",
+     "title": "Ordre du jour de lundi – Demande du groupe Verts/ALE – Myanmar/Birmanie (résolution)",
+     "order": 507.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": "Ordre du jour de lundi – Demande du groupe Verts/ALE – Myanmar/Birmanie (résolution) (Majorité des suffrages exprimés requise)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 207,
+      "against": 185,
+      "abst": 11
+     }
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-23",
+   "fetched": "2026-11-24",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1040,7 +1073,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-23",
+   "fetched": "2026-11-24",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1603,7 +1636,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-23",
+   "fetched": "2026-11-24",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1789,7 +1822,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-23",
+   "fetched": "2026-11-24",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1797,7 +1830,7 @@
    "date": "2026-12-14",
    "items": [],
    "source": "",
-   "fetched": "2026-11-23",
+   "fetched": "2026-11-24",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1805,7 +1838,7 @@
    "date": "2026-12-15",
    "items": [],
    "source": "",
-   "fetched": "2026-11-23",
+   "fetched": "2026-11-24",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1813,7 +1846,7 @@
    "date": "2026-12-16",
    "items": [],
    "source": "",
-   "fetched": "2026-11-23",
+   "fetched": "2026-11-24",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1821,7 +1854,7 @@
    "date": "2026-12-17",
    "items": [],
    "source": "",
-   "fetched": "2026-11-23",
+   "fetched": "2026-11-24",
    "place": "Estrasburgo",
    "final": false
   },

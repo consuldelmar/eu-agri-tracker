@@ -71,14 +71,6 @@
  ],
  "scheduled": [
   {
-   "id": "council-agenda-ST-15697-2026-INIT",
-   "date": "2026-11-23",
-   "body": "Consejo",
-   "title": "Orden del día (ST 15697/26)",
-   "url": "https://data.consilium.europa.eu/doc/document/ST-15697-2026-INIT/en/pdf",
-   "source": "council"
-  },
-  {
    "id": "council-agenda-ST-15420-2026-REV-2",
    "date": "2026-12-01",
    "body": "Coreper I",
@@ -183,8 +175,8 @@
   "hint": "Se negocia en el grupo de trabajo del Consejo",
   "next_label": "Acuerdo en el Consejo",
   "next_date": {
-   "date": "2026-11-23",
-   "body": "Consejo"
+   "date": "2026-12-01",
+   "body": "Coreper I"
   }
  },
  "followed": true,

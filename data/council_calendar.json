@@ -500,16 +500,6 @@
   "refs": []
  },
  {
-  "id": "council-wp-agri-mpo_372628",
-  "date": "2026-11-24",
-  "source": "council",
-  "body": "Grupo de trabajo del Consejo",
-  "title": "Grupo de trabajo: Fisheries Policy (Directors General)",
-  "description": "",
-  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2026/11/wp-on-fisheries-policy-directors-general-(372628)/",
-  "refs": []
- },
- {
   "id": "council-wp-agri-mpo_372218",
   "date": "2026-11-25",
   "source": "council",
@@ -717,6 +707,16 @@
   "title": "Grupo de trabajo: Forestry",
   "description": "",
   "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/1/wp-on-forestry-(373106)/",
+  "refs": []
+ },
+ {
+  "id": "council-wp-agri-mpo_372628",
+  "date": "2026-11-24",
+  "source": "council",
+  "body": "Grupo de trabajo del Consejo",
+  "title": "Grupo de trabajo: Fisheries Policy (Directors General)",
+  "description": "",
+  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2026/11/wp-on-fisheries-policy-directors-general-(372628)/",
   "refs": []
  },
  {
