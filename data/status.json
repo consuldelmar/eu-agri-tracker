@@ -1,8 +1,8 @@
 {
- "started": "2026-11-24T20:06:41+00:00",
+ "started": "2026-11-24T23:15:04+00:00",
  "parliament": {
-  "changed_in_feed": 124,
-  "files_read": 124,
+  "changed_in_feed": 134,
+  "files_read": 134,
   "queue_left": 0,
   "tracked": 381,
   "failed": 0,
@@ -16,21 +16,21 @@
  "council": {
   "agri": "50 meetings",
   "wp-agri": "41 meetings",
-  "coreper": "46 meetings",
+  "coreper": "47 meetings",
   "AGNDCSA": "500 documents in feed",
   "AGNDCRP1": "500 documents in feed",
   "THMAF": "500 documents in feed",
   "cited_documents": "0 read (0 with a file number), 0 left",
-  "pdfs": "1 read, 0 left for the next run",
+  "pdfs": "0 read, 0 left for the next run",
   "press": "3 relevant press releases"
  },
  "council_cited": {
   "from_parliament": 0,
   "council_only": 12
  },
- "changes": 1,
- "finished": "2026-11-24T20:11:23+00:00",
- "requests": 197,
+ "changes": 0,
+ "finished": "2026-11-24T23:20:14+00:00",
+ "requests": 206,
  "request_errors": 0,
  "files": 381,
  "problems": []

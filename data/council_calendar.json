@@ -500,26 +500,6 @@
   "refs": []
  },
  {
-  "id": "council-wp-agri-mpo_372218",
-  "date": "2026-11-25",
-  "source": "council",
-  "body": "Grupo de trabajo del Consejo",
-  "title": "Grupo de trabajo: Int. Food And Agric. Questions ( Codex Alimentarius) (Ccnfsdu45)",
-  "description": "",
-  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2026/11/informal-vtc-wp-on-int-food-and-agric-questions-codex-alimentarius-ccnfsdu45-(372218)/",
-  "refs": []
- },
- {
-  "id": "council-wp-agri-mpo_372219",
-  "date": "2026-11-25",
-  "source": "council",
-  "body": "Grupo de trabajo del Consejo",
-  "title": "Grupo de trabajo: Int. Food And Agric. Questions ( Codex Alimentarius) (Ccfh)",
-  "description": "",
-  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2026/11/informal-vtc-wp-on-int-food-and-agric-questions-codex-alimentarius-ccfh-(372219)/",
-  "refs": []
- },
- {
   "id": "council-wp-agri-mpo_371653",
   "date": "2026-11-30",
   "source": "council",
@@ -707,6 +687,26 @@
   "title": "Grupo de trabajo: Forestry",
   "description": "",
   "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/1/wp-on-forestry-(373106)/",
+  "refs": []
+ },
+ {
+  "id": "council-wp-agri-mpo_372219",
+  "date": "2026-11-25",
+  "source": "council",
+  "body": "Grupo de trabajo del Consejo",
+  "title": "Grupo de trabajo: Int. Food And Agric. Questions ( Codex Alimentarius) (Ccfh)",
+  "description": "",
+  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2026/11/informal-vtc-wp-on-int-food-and-agric-questions-codex-alimentarius-ccfh-(372219)/",
+  "refs": []
+ },
+ {
+  "id": "council-wp-agri-mpo_372218",
+  "date": "2026-11-25",
+  "source": "council",
+  "body": "Grupo de trabajo del Consejo",
+  "title": "Grupo de trabajo: Int. Food And Agric. Questions ( Codex Alimentarius) (Ccnfsdu45)",
+  "description": "",
+  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2026/11/informal-vtc-wp-on-int-food-and-agric-questions-codex-alimentarius-ccnfsdu45-(372218)/",
   "refs": []
  },
  {
@@ -907,26 +907,6 @@
   "title": "Grupo de trabajo: Fisheries Policy",
   "description": "",
   "url": "https://www.consilium.europa.eu//en/meetings/mpo/2026/10/wp-on-fisheries-policy-(370489)/",
-  "refs": []
- },
- {
-  "id": "council-coreper-mpo_363099",
-  "date": "2026-11-25",
-  "source": "council",
-  "body": "Coreper I",
-  "title": "Coreper 1 - Permanent Representatives Committee",
-  "description": "",
-  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2026/11/coreper-1-permanent-representatives-committee-(363099)/",
-  "refs": []
- },
- {
-  "id": "council-coreper-mpo_363098",
-  "date": "2026-11-25",
-  "source": "council",
-  "body": "Coreper II",
-  "title": "Coreper 2 - Permanent Representatives Committee",
-  "description": "",
-  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2026/11/coreper-2-permanent-representatives-committee-(363098)/",
   "refs": []
  },
  {
@@ -1367,6 +1347,36 @@
   "title": "Coreper 2 - Permanent Representatives Committee",
   "description": "",
   "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/4/coreper-2-permanent-representatives-committee-(368647)/",
+  "refs": []
+ },
+ {
+  "id": "council-coreper-mpo_368650",
+  "date": "2027-04-09",
+  "source": "council",
+  "body": "Coreper I",
+  "title": "Coreper 1 - Permanent Representatives Committee",
+  "description": "",
+  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/4/coreper-1-permanent-representatives-committee-(368650)/",
+  "refs": []
+ },
+ {
+  "id": "council-coreper-mpo_368651",
+  "date": "2027-04-09",
+  "source": "council",
+  "body": "Coreper II",
+  "title": "Coreper 2 - Permanent Representatives Committee (posible)",
+  "description": "",
+  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/4/poss-coreper-2-permanent-representatives-committee-(368651)/",
+  "refs": []
+ },
+ {
+  "id": "council-coreper-mpo_368654",
+  "date": "2027-04-14",
+  "source": "council",
+  "body": "Coreper I",
+  "title": "Coreper 1 - Permanent Representatives Committee",
+  "description": "",
+  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/4/coreper-1-permanent-representatives-committee-(368654)/",
   "refs": []
  },
  {
