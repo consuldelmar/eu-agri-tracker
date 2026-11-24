@@ -163,6 +163,69 @@
    "role": "opinion_rapporteur",
    "committee": "PETI",
    "since": "2026-07-17"
+  },
+  {
+   "id": "256992",
+   "name": "Hana JALLOUL MURO",
+   "group": "S&D",
+   "country": "ES",
+   "role": "opinion_shadow",
+   "committee": "PETI",
+   "since": "2026-09-07"
+  },
+  {
+   "id": "197627",
+   "name": "Virginie JORON",
+   "group": "PfE",
+   "country": "FR",
+   "role": "opinion_shadow",
+   "committee": "PETI",
+   "since": "2026-09-15"
+  },
+  {
+   "id": "124884",
+   "name": "Kosma ZŁOTOWSKI",
+   "group": "ECR",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "PETI",
+   "since": "2026-10-26"
+  },
+  {
+   "id": "257037",
+   "name": "Michał KOBOSKO",
+   "group": "Renew",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "PETI",
+   "since": "2026-09-15"
+  },
+  {
+   "id": "256995",
+   "name": "Gordan BOSANAC",
+   "group": "Verts/ALE",
+   "country": "HR",
+   "role": "opinion_shadow",
+   "committee": "PETI",
+   "since": "2026-10-13"
+  },
+  {
+   "id": "257135",
+   "name": "Valentina PALMISANO",
+   "group": "The Left",
+   "country": "IT",
+   "role": "opinion_shadow",
+   "committee": "PETI",
+   "since": "2026-10-13"
+  },
+  {
+   "id": "257070",
+   "name": "Marcin SYPNIEWSKI",
+   "group": "ESN",
+   "country": "PL",
+   "role": "opinion_shadow",
+   "committee": "PETI",
+   "since": "2026-07-17"
   }
  ],
  "started": "2026-05-21",
@@ -214,8 +277,6 @@
  "agenda": [],
  "scheduled": [],
  "council_docs": [],
- "followed": false,
- "follow_url": "",
  "tags": [],
  "progress": {
   "stages": [
@@ -248,5 +309,7 @@
   "hint": "La comisión del PE prepara y vota su informe",
   "next_label": "Pleno del PE",
   "next_date": null
- }
+ },
+ "followed": false,
+ "follow_url": ""
 }

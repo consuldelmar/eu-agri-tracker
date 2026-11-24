@@ -823,5 +823,49 @@
   "importance": "low",
   "seen": "2026-11-24",
   "file_id": "2025-0417"
+ },
+ {
+  "id": "9db82da84c36",
+  "date": "2026-11-24",
+  "ref": "2026/2074(INI)",
+  "kind": "event",
+  "text": "2026-11-24: Resultados de votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0279_EN.html",
+  "importance": "low",
+  "seen": "2026-11-24",
+  "file_id": "2026-2074"
+ },
+ {
+  "id": "e147db0f6149",
+  "date": "2026-11-24",
+  "ref": "2026/2074(INI)",
+  "kind": "status",
+  "text": "Expediente concluido",
+  "url": "",
+  "importance": "high",
+  "seen": "2026-11-24",
+  "file_id": "2026-2074"
+ },
+ {
+  "id": "1bfe8f9b29c9",
+  "date": "2026-11-24",
+  "ref": "2025/0417(COD)",
+  "kind": "event",
+  "text": "2026-11-24: Resultados de votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0209_EN.html",
+  "importance": "low",
+  "seen": "2026-11-24",
+  "file_id": "2025-0417"
+ },
+ {
+  "id": "490b9834a6ac",
+  "date": "2026-11-24",
+  "ref": "2023/0131(COD)",
+  "kind": "scheduled",
+  "text": "Previsto: Pleno del PE, 2026-11-25 — Votación (punto V-61)",
+  "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_ES.html",
+  "importance": "high",
+  "seen": "2026-11-24",
+  "file_id": "2023-0131"
  }
 ]

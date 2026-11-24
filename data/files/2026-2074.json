@@ -5,7 +5,7 @@
  "title": "Plan plurianual para la pesca demersal en el Mediterráneo occidental ",
  "title_en": "Multiannual plan for the fisheries exploiting demersal stocks in the western Mediterranean Sea",
  "stage": "Informe aprobado en comisión",
- "ongoing": true,
+ "ongoing": false,
  "committees": [
   {
    "code": "PECH",
@@ -78,7 +78,7 @@
   }
  ],
  "started": "2026-06-17",
- "last_activity": "2026-11-18",
+ "last_activity": "2026-11-24",
  "events": [
   {
    "date": "2026-06-17",
@@ -151,6 +151,19 @@
      "amendments": 9
     }
    ]
+  },
+  {
+   "date": "2026-11-24",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0279",
+     "title": "Informe A10-0279/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0279_EN.html",
+     "kind": "report"
+    }
+   ]
   }
  ],
  "docs": [
@@ -169,13 +182,6 @@
    "date": "2026-07-17"
   },
   {
-   "id": "A-10-2026-0279",
-   "title": "Informe A10-0279/2026",
-   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0279_EN.html",
-   "kind": "report",
-   "date": "2026-10-21"
-  },
-  {
    "id": "A-10-2026-0279-AM-004-009",
    "title": "Enmiendas al Pleno 4-9 (informe A10-0279/2026)",
    "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0279-AM-004-009_EN.pdf",
@@ -190,6 +196,13 @@
    "kind": "plenary_amendments",
    "amendments": 9,
    "date": "2026-11-18"
+  },
+  {
+   "id": "A-10-2026-0279",
+   "title": "Informe A10-0279/2026",
+   "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0279_EN.html",
+   "kind": "report",
+   "date": "2026-11-24"
   }
  ],
  "amendments": {
@@ -261,16 +274,16 @@
    {
     "key": "ep_plenary",
     "label": "Pleno del PE",
-    "state": "current",
-    "date": null,
-    "detail": ""
+    "state": "done",
+    "date": "2026-11-24",
+    "detail": "votado en el Pleno"
    }
   ],
-  "done": 2,
+  "done": 3,
   "total": 3,
-  "current": "ep_plenary",
+  "current": null,
   "current_label": "Pleno del PE",
-  "hint": "Votación en el Pleno del PE",
+  "hint": "",
   "next_label": "",
   "next_date": {
    "date": "2026-11-24",

@@ -748,8 +748,6 @@
    "meeting_date": "2026-11-06"
   }
  ],
- "followed": false,
- "follow_url": "",
  "tags": [
   "MFF 2028-2034"
  ],
@@ -826,5 +824,7 @@
   "hint": "El PE fija su posición o el mandato para negociar",
   "next_label": "Posición del Consejo",
   "next_date": null
- }
+ },
+ "followed": false,
+ "follow_url": ""
 }

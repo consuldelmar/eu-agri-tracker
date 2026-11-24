@@ -673,14 +673,14 @@
     {
      "id": "R-074428",
      "kind": "vote",
-     "title": "Ordre du jour de lundi – Demande du groupe Verts/ALE – Myanmar/Birmanie (débat)",
+     "title": "Orden del día del lunes - Solicitud del Grupo Verts/ALE - Myanmar/Birmania (debate)",
      "order": 506.0,
      "time": "",
      "end": "",
      "slot": "",
      "docs": [],
      "procs": [],
-     "detail": "Ordre du jour de lundi – Demande du groupe Verts/ALE – Myanmar/Birmanie (débat) (Majorité des suffrages exprimés requise)",
+     "detail": "Orden del día del lunes - Solicitud del Grupo Verts/ALE - Myanmar/Birmania (debate) (Mayoría de los votos emitidos requerida)",
      "result": {
       "outcome": "ADOPTED"
      }
@@ -688,14 +688,14 @@
     {
      "id": "R-000001",
      "kind": "vote",
-     "title": "Ordre du jour de lundi – Demande du groupe Verts/ALE – Myanmar/Birmanie (résolution)",
+     "title": "Orden del día del lunes - Solicitud del Grupo Verts/ALE - Myanmar/Birmania (resolución)",
      "order": 507.0,
      "time": "",
      "end": "",
      "slot": "",
      "docs": [],
      "procs": [],
-     "detail": "Ordre du jour de lundi – Demande du groupe Verts/ALE – Myanmar/Birmanie (résolution) (Majorité des suffrages exprimés requise)",
+     "detail": "Orden del día del lunes - Solicitud del Grupo Verts/ALE - Myanmar/Birmania (resolución) (Mayoría de los votos emitidos requerida)",
      "result": {
       "outcome": "ADOPTED",
       "for": 207,
@@ -872,35 +872,10 @@
      ]
     },
     {
-     "id": "V-43",
-     "kind": "vote",
-     "title": "Agilización de las evaluaciones ambientales (paquete ómnibus VIII sobre legislación ambiental)",
-     "order": 14.0,
-     "time": "12:00",
-     "end": "13:00",
-     "slot": "TURNO DE VOTACIONES",
-     "long": "Informe sobre la propuesta de Reglamento del Parlamento Europeo y del Consejo sobre la agilización de las evaluaciones ambientales",
-     "type": "Informe",
-     "symbol": "***I",
-     "refs": [
-      "2025/0391(COD)"
-     ],
-     "com": "COM(2025)0984",
-     "docs": [
-      "A10-0290/2026"
-     ],
-     "orgs": [
-      "ENVI"
-     ],
-     "people": [
-      "Emma Ytterell"
-     ]
-    },
-    {
      "id": "V-75",
      "kind": "vote",
      "title": "Producción ecológica: modificación en lo que respecta a determinadas normas sobre producción, etiquetado y certificación y a determinadas normas sobre el comercio con terceros países",
-     "order": 15.0,
+     "order": 14.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -925,7 +900,7 @@
      "id": "V-42",
      "kind": "vote",
      "title": "Protección de los intereses financieros de la Unión en el marco financiero plurianual posterior a 2027 mediante la revisión de la arquitectura de lucha contra el fraude",
-     "order": 16.0,
+     "order": 15.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -949,7 +924,7 @@
      "id": "V-74",
      "kind": "vote",
      "title": "Plan plurianual para la pesca demersal en el Mediterráneo occidental",
-     "order": 17.0,
+     "order": 16.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -972,7 +947,7 @@
      "id": "D-80",
      "kind": "debate",
      "title": "Procedimiento presupuestario 2027: texto conjunto",
-     "order": 18.0,
+     "order": 17.0,
      "time": "13:00",
      "end": "15:00",
      "slot": "Debate (o al final de turno de votaciones)",
@@ -996,7 +971,7 @@
      "id": "D-82",
      "kind": "debate",
      "title": "Presentación del paquete de otoño del Semestre Europeo",
-     "order": 19.0,
+     "order": 18.0,
      "time": "15:00",
      "end": "15:45",
      "slot": "Sesión de control",
@@ -1009,7 +984,7 @@
      "id": "D-81",
      "kind": "debate",
      "title": "Memorándum de entendimiento ilegal entre Turquía y Libia e infracción de la Convención de las Naciones Unidas sobre el Derecho del Mar",
-     "order": 20.0,
+     "order": 19.0,
      "time": "15:45",
      "end": "16:45",
      "slot": "Debate",
@@ -1017,13 +992,21 @@
      "refs": [
       "2026/2981(RSP)"
      ],
-     "docs": []
+     "docs": [
+      "B10-0534/2026",
+      "B10-0533/2026",
+      "B10-0540/2026",
+      "B10-0538/2026",
+      "B10-0541/2026",
+      "B10-0535/2026",
+      "B10-0536/2026"
+     ]
     },
     {
      "id": "D-83",
      "kind": "debate",
      "title": "Situación humanitaria en Gaza",
-     "order": 21.0,
+     "order": 20.0,
      "time": "16:45",
      "end": "18:00",
      "slot": "Debate",
@@ -1037,7 +1020,7 @@
      "id": "D-84",
      "kind": "debate",
      "title": "Mantenimiento de las sanciones a Rusia en el deporte internacional",
-     "order": 22.0,
+     "order": 21.0,
      "time": "18:00",
      "end": "18:45",
      "slot": "Debate",
@@ -1051,7 +1034,7 @@
      "id": "D-85",
      "kind": "debate",
      "title": "Repercusiones de los retos en materia de seguridad en la frontera oriental de Europa para los Estados miembros situados en primera línea",
-     "order": 23.0,
+     "order": 22.0,
      "time": "18:45",
      "end": "20:00",
      "slot": "Debate",
@@ -1065,7 +1048,7 @@
      "id": "D-8",
      "kind": "debate",
      "title": "Explicaciones de voto",
-     "order": 24.0,
+     "order": 23.0,
      "time": "18:45",
      "end": "20:00",
      "slot": "Debate",
@@ -1688,7 +1671,8 @@
       "B10-0525/2026",
       "B10-0520/2026",
       "B10-0528/2026",
-      "B10-0513/2026"
+      "B10-0513/2026",
+      "B10-0530/2026"
      ]
     },
     {
@@ -1705,7 +1689,9 @@
      ],
      "docs": [
       "B10-0526/2026",
+      "B10-0539/2026",
       "B10-0515/2026",
+      "B10-0531/2026",
       "B10-0523/2026",
       "B10-0517/2026"
      ]
@@ -1724,7 +1710,9 @@
      ],
      "docs": [
       "B10-0521/2026",
-      "B10-0522/2026"
+      "B10-0529/2026",
+      "B10-0522/2026",
+      "B10-0537/2026"
      ]
     },
     {
@@ -1741,15 +1729,37 @@
      ],
      "docs": [
       "B10-0524/2026",
+      "B10-0545/2026",
       "B10-0518/2026",
-      "B10-0516/2026"
+      "B10-0516/2026",
+      "B10-0532/2026",
+      "B10-0542/2026"
      ]
+    },
+    {
+     "id": "V-106",
+     "kind": "vote",
+     "title": "Reducción de las emisiones de metano en el sector energético: aplazamiento de determinadas obligaciones",
+     "order": 59.0,
+     "time": "12:00",
+     "end": "14:00",
+     "slot": "TURNO DE VOTACIONES",
+     "symbol": "***I",
+     "refs": [
+      "2026/0325(COD)"
+     ],
+     "com": "COM(2026)0569",
+     "people": [
+      "Dimitris Tsiodras",
+      "Borys Budka"
+     ],
+     "docs": []
     },
     {
      "id": "V-78",
      "kind": "vote",
      "title": "Trigésimo quinto aniversario de la caída y destrucción de Vukovar",
-     "order": 59.0,
+     "order": 60.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1766,7 +1776,7 @@
      "id": "V-81",
      "kind": "vote",
      "title": "Memorándum de entendimiento ilegal entre Turquía y Libia e infracción de la Convención de las Naciones Unidas sobre el Derecho del Mar",
-     "order": 60.0,
+     "order": 61.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1774,13 +1784,21 @@
      "refs": [
       "2026/2981(RSP)"
      ],
-     "docs": []
+     "docs": [
+      "B10-0535/2026",
+      "B10-0538/2026",
+      "B10-0534/2026",
+      "B10-0533/2026",
+      "B10-0540/2026",
+      "B10-0536/2026",
+      "B10-0541/2026"
+     ]
     },
     {
      "id": "V-102",
      "kind": "vote",
      "title": "Apoyo a las candidaturas de ciudades de la Unión para albergar la sede de un nuevo pilar de las Naciones Unidas para la evaluación independiente y la gobernanza ética de la IA",
-     "order": 61.0,
+     "order": 62.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1791,6 +1809,7 @@
      "docs": [
       "B10-0527/2026",
       "B10-0513/2026",
+      "B10-0530/2026",
       "B10-0528/2026",
       "B10-0520/2026",
       "B10-0525/2026"
@@ -1800,7 +1819,7 @@
      "id": "D-103",
      "kind": "debate",
      "title": "Situación de la industria europea del silicio metálico",
-     "order": 62.0,
+     "order": 63.0,
      "time": "15:00",
      "end": "16:00",
      "slot": "Debate",
@@ -1814,7 +1833,7 @@
      "id": "D-15",
      "kind": "debate",
      "title": "Explicaciones de voto",
-     "order": 63.0,
+     "order": 64.0,
      "time": "15:00",
      "end": "16:00",
      "slot": "Debate",

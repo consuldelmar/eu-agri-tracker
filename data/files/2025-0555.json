@@ -1156,8 +1156,6 @@
    "meeting_date": null
   }
  ],
- "followed": false,
- "follow_url": "",
  "tags": [
   "MFF 2028-2034"
  ],
@@ -1234,5 +1232,7 @@
   "hint": "El PE fija su posición o el mandato para negociar",
   "next_label": "Trílogos",
   "next_date": null
- }
+ },
+ "followed": false,
+ "follow_url": ""
 }

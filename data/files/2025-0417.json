@@ -91,7 +91,7 @@
   }
  ],
  "started": "2026-01-27",
- "last_activity": "2026-11-18",
+ "last_activity": "2026-11-24",
  "events": [
   {
    "date": "2026-01-27",
@@ -188,6 +188,19 @@
      "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0209-AM-051-051_EN.pdf",
      "kind": "plenary_amendments",
      "amendments": 1
+    }
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0209",
+     "title": "Informe A10-0209/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0209_EN.html",
+     "kind": "report"
     }
    ]
   }
