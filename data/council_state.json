@@ -7742,6 +7742,22 @@
    "refs": [],
    "read": true,
    "ref_titles": {}
+  },
+  "CM-5180-2026-INIT": {
+   "id": "CM-5180-2026-INIT",
+   "code": "CM 5180/26",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Commodities (PROBA)",
+   "title": "Informal videoconference of the members of the Working Party on Commodities (PROBA)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5180-2026-INIT/en/pdf",
+   "date": "2026-11-25",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {},
+   "meeting_date": "2026-12-09",
+   "doc_numbers": [],
+   "cm_clean": true
   }
  },
  "first_run_done": true,
