@@ -9,7 +9,7 @@
  "committees": [],
  "people": [],
  "started": "2026-10-13",
- "last_activity": "2026-11-03",
+ "last_activity": "2026-11-24",
  "events": [
   {
    "date": "2026-10-15",
@@ -117,6 +117,17 @@
    "body": "Grupo de trabajo: Fisheries Policy",
    "step": null,
    "meeting_date": "2026-11-05"
+  },
+  {
+   "id": "ST-14582-2026-INIT",
+   "code": "ST 14582/26",
+   "date": "2026-11-24",
+   "title": "Proposal for a COUNCIL DECISION on the signing, and provisional application of the Sustainable Fisheries Partnership Agreement and its Implementing Protocol (2026-2030) between the European Union and the Republic of Mauritius - Adoption Proposal for a COUNCIL DECISION on the conclusion of the Sustainable Fisheries Partnership Agreement and its Implementing Protocol (2026-2030) between the European Union and the Republic of Mauritius - Agreement in principle - Request for the consent of the European Parliament Proposal for a COUNCIL REGULATION on the allocation of the fishing opportunities provided for in the Protocol on the implementation of the Sustainable Fisheries Partnership Agreement between the European Union and the Republic of Mauritius (2026-2030) - Adoption",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14582-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
   }
  ],
  "tags": [

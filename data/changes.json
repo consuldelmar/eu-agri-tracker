@@ -878,5 +878,49 @@
   "importance": "high",
   "seen": "2026-11-24",
   "file_id": "2026-0240"
+ },
+ {
+  "id": "3c5990950b1e",
+  "date": "2026-11-24",
+  "ref": "2026/0310(NLE)",
+  "kind": "council_doc",
+  "text": "Documento del Consejo: Proposal for a COUNCIL DECISION on the signing, and provisional application of the Sustainable Fisheries Partnership Agreement and its Imple — ST 14582/26",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-14582-2026-INIT/en/pdf",
+  "importance": "low",
+  "seen": "2026-11-25",
+  "file_id": "2026-0310"
+ },
+ {
+  "id": "4995d945f00b",
+  "date": "2026-11-24",
+  "ref": "2026/0240(NLE)",
+  "kind": "council_doc",
+  "text": "Documento del Consejo: COUNCIL REGULATION fixing the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea for 2027  — ST 15920/26 COR 1",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-15920-2026-COR-1/en/pdf",
+  "importance": "low",
+  "seen": "2026-11-25",
+  "file_id": "2026-0240"
+ },
+ {
+  "id": "50ab56f4b793",
+  "date": "2026-11-24",
+  "ref": "2026/0309(NLE)",
+  "kind": "council_doc",
+  "text": "Documento del Consejo: Proposal for a COUNCIL DECISION on the signing, and provisional application of the Sustainable Fisheries Partnership Agreement and its Imple — ST 14582/26",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-14582-2026-INIT/en/pdf",
+  "importance": "low",
+  "seen": "2026-11-25",
+  "file_id": "2026-0309"
+ },
+ {
+  "id": "8255601f36cf",
+  "date": "2026-11-24",
+  "ref": "2026/0311(NLE)",
+  "kind": "council_doc",
+  "text": "Documento del Consejo: Proposal for a COUNCIL DECISION on the signing, and provisional application of the Sustainable Fisheries Partnership Agreement and its Imple — ST 14582/26",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-14582-2026-INIT/en/pdf",
+  "importance": "low",
+  "seen": "2026-11-25",
+  "file_id": "2026-0311"
  }
 ]

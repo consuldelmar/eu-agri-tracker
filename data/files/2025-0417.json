@@ -312,16 +312,7 @@
    "source": "ep"
   }
  ],
- "scheduled": [
-  {
-   "id": "ep-pl-MTG-PL-2026-11-24-OJ-ITM-V-75",
-   "date": "2026-11-24",
-   "body": "Pleno del PE",
-   "title": "Votación (punto V-75)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-24_ES.html",
-   "source": "ep"
-  }
- ],
+ "scheduled": [],
  "council_docs": [
   {
    "id": "ST-14207-2026-INIT",
@@ -485,10 +476,7 @@
   "current_label": "Aprobación del PE",
   "hint": "Votación final en el Pleno del PE",
   "next_label": "Adopción del Consejo",
-  "next_date": {
-   "date": "2026-11-24",
-   "body": "Pleno del PE"
-  }
+  "next_date": null
  },
  "followed": false,
  "follow_url": ""

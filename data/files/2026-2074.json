@@ -241,16 +241,7 @@
    "source": "ep"
   }
  ],
- "scheduled": [
-  {
-   "id": "ep-pl-MTG-PL-2026-11-24-OJ-ITM-V-74",
-   "date": "2026-11-24",
-   "body": "Pleno del PE",
-   "title": "Votación (punto V-74)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-24_ES.html",
-   "source": "ep"
-  }
- ],
+ "scheduled": [],
  "council_docs": [],
  "tags": [
   "Pesca"
@@ -285,10 +276,7 @@
   "current_label": "Pleno del PE",
   "hint": "",
   "next_label": "",
-  "next_date": {
-   "date": "2026-11-24",
-   "body": "Pleno del PE"
-  }
+  "next_date": null
  },
  "followed": true,
  "follow_url": "https://github.com/consuldelmar/eu-agri-tracker/issues/2"

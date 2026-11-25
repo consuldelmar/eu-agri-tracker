@@ -138,7 +138,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-24",
+   "fetched": "2026-11-25",
    "place": "Bruselas",
    "final": false
   },
@@ -574,7 +574,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-24",
+   "fetched": "2026-11-25",
    "place": "Bruselas",
    "final": false
   },
@@ -705,7 +705,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-24",
+   "fetched": "2026-11-25",
    "place": "Estrasburgo",
    "final": false
   },
@@ -763,7 +763,13 @@
      ],
      "people": [
       "Pierfrancesco Maran"
-     ]
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 403,
+      "against": 78,
+      "abst": 146
+     }
     },
     {
      "id": "V-29",
@@ -792,7 +798,13 @@
       "Mariateresa Vivaldini",
       "Niels Flemming Hansen",
       "Lukas Mandl"
-     ]
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 572,
+      "against": 44,
+      "abst": 42
+     }
     },
     {
      "id": "V-30",
@@ -819,7 +831,13 @@
      "people": [
       "Mariateresa Vivaldini",
       "Kristian Vigenin"
-     ]
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 575,
+      "against": 46,
+      "abst": 34
+     }
     },
     {
      "id": "V-37",
@@ -844,7 +862,13 @@
      ],
      "people": [
       "Reinier Van Lanschot"
-     ]
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 627,
+      "against": 4,
+      "abst": 36
+     }
     },
     {
      "id": "V-36",
@@ -869,7 +893,13 @@
      ],
      "people": [
       "Reinier Van Lanschot"
-     ]
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 622,
+      "against": 2,
+      "abst": 38
+     }
     },
     {
      "id": "V-75",
@@ -894,7 +924,10 @@
      ],
      "people": [
       "Camilla Laureti"
-     ]
+     ],
+     "result": {
+      "outcome": "ADOPTED"
+     }
     },
     {
      "id": "V-42",
@@ -918,7 +951,13 @@
      "people": [
       "Tomáš Zdechovský",
       "Dick Erixon"
-     ]
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 552,
+      "against": 9,
+      "abst": 101
+     }
     },
     {
      "id": "V-74",
@@ -941,7 +980,13 @@
      ],
      "people": [
       "Carmen Crespo Díaz"
-     ]
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 515,
+      "against": 99,
+      "abst": 14
+     }
     },
     {
      "id": "D-80",
@@ -1053,10 +1098,32 @@
      "end": "20:00",
      "slot": "Debate",
      "docs": []
+    },
+    {
+     "id": "V-43",
+     "kind": "vote",
+     "title": "Accélérer les évaluations environnementales (Omnibus VIII sur la législation environnementale) ***I",
+     "order": 517.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [
+      "A10-0290/2026"
+     ],
+     "procs": [
+      "2025-0391"
+     ],
+     "detail": "Accélérer les évaluations environnementales (Omnibus VIII sur la législation environnementale) ***I Rapport: Emma Ytterell (A10-0290/2026) (Majorité des suffrages exprimés requise)",
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 390,
+      "against": 258,
+      "abst": 15
+     }
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-24",
+   "fetched": "2026-11-25",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1648,7 +1715,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-24",
+   "fetched": "2026-11-25",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1870,7 +1937,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-24",
+   "fetched": "2026-11-25",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1878,7 +1945,7 @@
    "date": "2026-12-14",
    "items": [],
    "source": "",
-   "fetched": "2026-11-24",
+   "fetched": "2026-11-25",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1886,7 +1953,7 @@
    "date": "2026-12-15",
    "items": [],
    "source": "",
-   "fetched": "2026-11-24",
+   "fetched": "2026-11-25",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1894,7 +1961,7 @@
    "date": "2026-12-16",
    "items": [],
    "source": "",
-   "fetched": "2026-11-24",
+   "fetched": "2026-11-25",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1902,7 +1969,7 @@
    "date": "2026-12-17",
    "items": [],
    "source": "",
-   "fetched": "2026-11-24",
+   "fetched": "2026-11-25",
    "place": "Estrasburgo",
    "final": false
   },

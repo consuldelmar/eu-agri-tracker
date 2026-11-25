@@ -7660,6 +7660,88 @@
     "15920/26"
    ],
    "cm_clean": true
+  },
+  "CM-5140-2026-INIT": {
+   "id": "CM-5140-2026-INIT",
+   "code": "CM 5140/26",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Animals and Veterinary Questions (Chief Veterinary Officers)",
+   "title": "Working Party on Animals and Veterinary Questions (Chief Veterinary Officers)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5140-2026-INIT/en/pdf",
+   "date": "2026-11-24",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {},
+   "meeting_date": "2026-12-03",
+   "doc_numbers": [
+    "15766/26"
+   ],
+   "cm_clean": true
+  },
+  "ST-16205-2026-INIT": {
+   "id": "ST-16205-2026-INIT",
+   "code": "ST 16205/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Attendance of representatives of the EFTA countries at the Working Party on Animals and Veterinary Questions (Chief Veterinary Officers) on 3 December 2026 - Approval",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-16205-2026-INIT/en/pdf",
+   "date": "2026-11-24",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {}
+  },
+  "ST-14582-2026-INIT": {
+   "id": "ST-14582-2026-INIT",
+   "code": "ST 14582/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Proposal for a COUNCIL DECISION on the signing, and provisional application of the Sustainable Fisheries Partnership Agreement and its Implementing Protocol (2026-2030) between the European Union and the Republic of Mauritius - Adoption Proposal for a COUNCIL DECISION on the conclusion of the Sustainable Fisheries Partnership Agreement and its Implementing Protocol (2026-2030) between the European Union and the Republic of Mauritius - Agreement in principle - Request for the consent of the European Parliament Proposal for a COUNCIL REGULATION on the allocation of the fishing opportunities provided for in the Protocol on the implementation of the Sustainable Fisheries Partnership Agreement between the European Union and the Republic of Mauritius (2026-2030) - Adoption",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14582-2026-INIT/en/pdf",
+   "date": "2026-11-24",
+   "step": null,
+   "refs": [
+    "2026/0309(NLE)",
+    "2026/0310(NLE)",
+    "2026/0311(NLE)"
+   ],
+   "read": true,
+   "ref_titles": {
+    "2026/0309(NLE)": "COUNCIL DECISION on the signing, and provisional application of the Sustainable Fisheries Partnership Agreement and its Implementing Protocol (2026-2030) between the European Union and the Republic of Mauritius",
+    "2026/0310(NLE)": "COUNCIL DECISION on the signing, and provisional application of the Sustainable Fisheries Partnership Agreement and its Implementing Protocol (2026-2030) between the European Union and the Republic of Mauritius",
+    "2026/0311(NLE)": "COUNCIL DECISION on the signing, and provisional application of the Sustainable Fisheries Partnership Agreement and its Implementing Protocol (2026-2030) between the European Union and the Republic of Mauritius"
+   }
+  },
+  "ST-15920-2026-COR-1": {
+   "id": "ST-15920-2026-COR-1",
+   "code": "ST 15920/26 COR 1",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "COUNCIL REGULATION fixing the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea for 2027 and amending Regulation (EU) 2026/249 as regards certain fishing opportunities in other waters - Adoption",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15920-2026-COR-1/en/pdf",
+   "date": "2026-11-24",
+   "step": null,
+   "refs": [
+    "2026/0240(NLE)"
+   ],
+   "read": true,
+   "ref_titles": {
+    "2026/0240(NLE)": "COUNCIL REGULATION fixing the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea for 2027 and amending Regulation (EU) 2026/249 as regards certain fishing opportunities in other waters"
+   }
+  },
+  "WK-15578-2026-INIT": {
+   "id": "WK-15578-2026-INIT",
+   "code": "WK 15578/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Action Plan on Cable Security  - Presentation by the Commission",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-15578-2026-INIT/en/pdf",
+   "date": "2026-10-08",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {}
   }
  },
  "first_run_done": true,
