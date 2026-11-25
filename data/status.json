@@ -1,5 +1,5 @@
 {
- "started": "2026-11-25T19:10:30+00:00",
+ "started": "2026-11-25T22:43:51+00:00",
  "parliament": {
   "changed_in_feed": 181,
   "files_read": 179,
@@ -21,16 +21,16 @@
   "AGNDCRP1": "500 documents in feed",
   "THMAF": "500 documents in feed",
   "cited_documents": "0 read (0 with a file number), 0 left",
-  "pdfs": "1 read, 0 left for the next run",
-  "press": "3 relevant press releases"
+  "pdfs": "0 read, 0 left for the next run",
+  "press": "2 relevant press releases"
  },
  "council_cited": {
   "from_parliament": 0,
   "council_only": 12
  },
  "changes": 0,
- "finished": "2026-11-25T19:17:44+00:00",
- "requests": 253,
+ "finished": "2026-11-25T22:50:11+00:00",
+ "requests": 252,
  "request_errors": 0,
  "files": 381,
  "problems": []
