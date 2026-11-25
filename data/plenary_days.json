@@ -1102,7 +1102,7 @@
     {
      "id": "V-43",
      "kind": "vote",
-     "title": "Accélérer les évaluations environnementales (Omnibus VIII sur la législation environnementale) ***I",
+     "title": "Agilización de las evaluaciones ambientales (paquete ómnibus VIII sobre legislación ambiental) ***I",
      "order": 517.0,
      "time": "",
      "end": "",
@@ -1110,10 +1110,8 @@
      "docs": [
       "A10-0290/2026"
      ],
-     "procs": [
-      "2025-0391"
-     ],
-     "detail": "Accélérer les évaluations environnementales (Omnibus VIII sur la législation environnementale) ***I Rapport: Emma Ytterell (A10-0290/2026) (Majorité des suffrages exprimés requise)",
+     "procs": [],
+     "detail": "Agilización de las evaluaciones ambientales (paquete ómnibus VIII sobre legislación ambiental) ***I Informe: Emma Ytterell (A10-0290/2026) (mayoría de los votos emitidos requerida)",
      "result": {
       "outcome": "ADOPTED",
       "for": 390,
@@ -1233,10 +1231,160 @@
      ]
     },
     {
+     "id": "V-49",
+     "kind": "vote",
+     "title": "Creación del Fondo Social Europeo como parte de los planes de colaboración nacional y regional establecidos en el Reglamento (UE) [planes CNR], por el que se establecen las condiciones para la ejecución de la ayuda de la Unión destinada al empleo de calidad, las capacidades y la inclusión social para el período 2028-2034",
+     "order": 29.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Informe",
+     "symbol": "***I",
+     "refs": [
+      "2025/0239(COD)"
+     ],
+     "com": "COM(2025)0558",
+     "docs": [
+      "A10-0291/2026"
+     ],
+     "orgs": [
+      "EMPL"
+     ],
+     "people": [
+      "David Casa",
+      "Marit Maij"
+     ]
+    },
+    {
+     "id": "V-107",
+     "kind": "vote",
+     "title": "Creación del Programa Marco de Investigación e Innovación «Horizonte Europa» para el período 2028-2034, establecimiento de sus normas de participación y difusión, y derogación del Reglamento (UE) 2021/695",
+     "order": 30.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Informe",
+     "symbol": "***I",
+     "refs": [
+      "2025/0543(COD)"
+     ],
+     "com": "COM(2025)0543",
+     "docs": [
+      "A10-0299/2026"
+     ],
+     "orgs": [
+      "ITRE"
+     ],
+     "people": [
+      "Christian Ehler"
+     ]
+    },
+    {
+     "id": "V-48",
+     "kind": "vote",
+     "title": "Establecimiento del Mecanismo «Conectar Europa» para el período 2028-2034, modificación del Reglamento (UE) 2024/1679 y derogación del Reglamento (UE) 2021/1153",
+     "order": 31.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Informe",
+     "symbol": "***I",
+     "refs": [
+      "2025/0221(COD)"
+     ],
+     "com": "COM(2025)0547",
+     "docs": [
+      "A10-0301/2026"
+     ],
+     "orgs": [
+      "ITRE",
+      "TRAN"
+     ],
+     "people": [
+      "Kamila Gasiuk-Pihowicz",
+      "Oihane Agirregoitia Martínez"
+     ]
+    },
+    {
+     "id": "V-108",
+     "kind": "vote",
+     "title": "Establecimiento del Fondo Europeo de Competitividad (FEC), incluido el programa específico de actividades de investigación e innovación en materia de defensa",
+     "order": 32.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Informe",
+     "symbol": "***I",
+     "refs": [
+      "2025/0555(COD)"
+     ],
+     "com": "COM(2025)0555",
+     "docs": [
+      "A10-0308/2026"
+     ],
+     "orgs": [
+      "ITRE"
+     ],
+     "people": [
+      "Christian Ehler",
+      "Dan Nica"
+     ]
+    },
+    {
+     "id": "V-58",
+     "kind": "vote",
+     "title": "Establecimiento del apoyo de la Unión al asilo, la migración y la integración para el período 2028-2034",
+     "order": 33.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Informe",
+     "symbol": "***I",
+     "refs": [
+      "2025/0540(COD)"
+     ],
+     "com": "COM(2025)0540",
+     "docs": [
+      "A10-0312/2026"
+     ],
+     "orgs": [
+      "LIBE"
+     ],
+     "people": [
+      "Ana Catarina Mendes"
+     ]
+    },
+    {
+     "id": "V-109",
+     "kind": "vote",
+     "title": "Establecimiento del programa «AgoraEU» para el período 2028-2034 y derogación de los Reglamentos (UE) 2021/692 y (UE) 2021/818",
+     "order": 34.0,
+     "time": "12:00",
+     "end": "13:00",
+     "slot": "TURNO DE VOTACIONES",
+     "type": "Informe",
+     "symbol": "***I",
+     "refs": [
+      "2025/0550(COD)"
+     ],
+     "com": "COM(2025)0550",
+     "docs": [
+      "A10-0313/2026"
+     ],
+     "orgs": [
+      "CULT",
+      "LIBE"
+     ],
+     "people": [
+      "Emma Rafowicz",
+      "Alice Kuhnke"
+     ]
+    },
+    {
      "id": "V-61",
      "kind": "vote",
      "title": "Procedimientos de la Unión para la autorización y el control de los medicamentos de uso humano y normas por las que se rige la Agencia Europea de Medicamentos",
-     "order": 29.0,
+     "order": 35.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1260,7 +1408,7 @@
      "id": "V-60",
      "kind": "vote",
      "title": "Código de la Unión sobre medicamentos para uso humano",
-     "order": 30.0,
+     "order": 36.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1284,7 +1432,7 @@
      "id": "V-67",
      "kind": "vote",
      "title": "Modificación del Reglamento interno del Parlamento en lo que se refiere al voto por delegación durante el embarazo e inmediatamente después del parto",
-     "order": 31.0,
+     "order": 37.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1307,7 +1455,7 @@
      "id": "V-43",
      "kind": "vote",
      "title": "Agilización de las evaluaciones ambientales (paquete ómnibus VIII sobre legislación ambiental)",
-     "order": 32.0,
+     "order": 38.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1332,7 +1480,7 @@
      "id": "V-26",
      "kind": "vote",
      "title": "Marco para reforzar la disponibilidad y la seguridad del suministro de medicamentos esenciales, así como la disponibilidad y accesibilidad de los medicamentos de interés común",
-     "order": 33.0,
+     "order": 39.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1357,7 +1505,7 @@
      "id": "V-71",
      "kind": "vote",
      "title": "Comercialización de microorganismos modificados genéticamente y procesamiento de órganos",
-     "order": 34.0,
+     "order": 40.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1384,7 +1532,7 @@
      "id": "V-73",
      "kind": "vote",
      "title": "Amplio paquete de acuerdos entre la Unión y Suiza para consolidar, profundizar y ampliar sus relaciones bilaterales: informe provisional",
-     "order": 35.0,
+     "order": 41.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1407,7 +1555,7 @@
      "id": "V-72",
      "kind": "vote",
      "title": "Amplio paquete de acuerdos entre la Unión y Suiza para consolidar, profundizar y ampliar sus relaciones bilaterales",
-     "order": 36.0,
+     "order": 42.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1432,7 +1580,7 @@
      "id": "V-68",
      "kind": "vote",
      "title": "Fraude en el ámbito del IVA: prórroga del período de aplicación del mecanismo opcional de inversión del sujeto pasivo y del mecanismo de reacción rápida",
-     "order": 37.0,
+     "order": 43.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1457,7 +1605,7 @@
      "id": "V-104",
      "kind": "vote",
      "title": "Programa de Investigación y Formación de Euratom para el período 2028-2032",
-     "order": 38.0,
+     "order": 44.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1482,7 +1630,7 @@
      "id": "V-55",
      "kind": "vote",
      "title": "Mecanismo de inversión del sujeto pasivo del IVA",
-     "order": 39.0,
+     "order": 45.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1505,7 +1653,7 @@
      "id": "V-40",
      "kind": "vote",
      "title": "Relaciones políticas entre la Unión y Siria",
-     "order": 40.0,
+     "order": 46.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1528,7 +1676,7 @@
      "id": "V-18",
      "kind": "vote",
      "title": "Hacia una estrategia de la Unión para proteger y reforzar el sistema de justicia internacional y sus instituciones, mecanismos y socios",
-     "order": 41.0,
+     "order": 47.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1551,7 +1699,7 @@
      "id": "V-92",
      "kind": "vote",
      "title": "Libertad de los medios de comunicación y Estado de Derecho en la República Checa: amenazas a la independencia de los organismos públicos de radiodifusión",
-     "order": 42.0,
+     "order": 48.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1567,7 +1715,7 @@
      "id": "V-91",
      "kind": "vote",
      "title": "Oposición con arreglo al artículo 115, apartados 2 y 3, del Reglamento interno: lista europea de instalaciones de reciclado de buques",
-     "order": 43.0,
+     "order": 49.0,
      "time": "12:00",
      "end": "13:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1583,7 +1731,7 @@
      "id": "D-10",
      "kind": "debate",
      "title": "Debate de actualidad a petición de un grupo político (The Left) (artículo 169 del Reglamento interno) - Coste de la vida: hora de declarar el estado de emergencia para combatir la pobreza y poner fin a la crisis de la vivienda",
-     "order": 44.0,
+     "order": 50.0,
      "time": "13:00",
      "end": "20:00",
      "slot": "Debate (o al final del turno de votaciones)",
@@ -1593,7 +1741,7 @@
      "id": "D-97",
      "kind": "debate",
      "title": "Lucha contra la violencia de género en la era de la tecnología digital",
-     "order": 45.0,
+     "order": 51.0,
      "time": "14:15",
      "end": "15:30",
      "slot": "Debate",
@@ -1607,7 +1755,7 @@
      "id": "D-98",
      "kind": "debate",
      "title": "Discurso del odio político y mediático que alimenta el racismo y la violencia en Europa",
-     "order": 46.0,
+     "order": 52.0,
      "time": "15:30",
      "end": "17:15",
      "slot": "Debate",
@@ -1621,7 +1769,7 @@
      "id": "D-99",
      "kind": "debate",
      "title": "Inclusión de la corrupción en el régimen de sanciones de la UE de alcance mundial en materia de derechos humanos",
-     "order": 47.0,
+     "order": 53.0,
      "time": "17:15",
      "end": "18:15",
      "slot": "Debate",
@@ -1635,7 +1783,7 @@
      "id": "D-101",
      "kind": "debate",
      "title": "Día Europeo de la Igualdad Salarial",
-     "order": 48.0,
+     "order": 54.0,
      "time": "18:15",
      "end": "18:30",
      "slot": "Debate",
@@ -1649,7 +1797,7 @@
      "id": "D-94",
      "kind": "debate",
      "title": "Caso del periodista sueco-eritreo Dawit Isaak, detenido arbitrariamente en Eritrea",
-     "order": 49.0,
+     "order": 55.0,
      "time": "18:30",
      "end": "20:00",
      "slot": "Debates",
@@ -1657,19 +1805,14 @@
       "2026/2990(RSP)"
      ],
      "docs": [
-      "B10-0515/2026",
-      "B10-0531/2026",
-      "B10-0526/2026",
-      "B10-0517/2026",
-      "B10-0523/2026",
-      "B10-0539/2026"
+      "RC-B10-0517/2026"
      ]
     },
     {
      "id": "D-95",
      "kind": "debate",
      "title": "Condena del activista en favor de la democracia y antiguo parlamentario Au Kam San en Macao",
-     "order": 50.0,
+     "order": 56.0,
      "time": "18:30",
      "end": "20:00",
      "slot": "Debates",
@@ -1677,6 +1820,7 @@
       "2026/2991(RSP)"
      ],
      "docs": [
+      "B10-0544/2026",
       "B10-0529/2026",
       "B10-0521/2026",
       "B10-0522/2026",
@@ -1687,7 +1831,7 @@
      "id": "D-96",
      "kind": "debate",
      "title": "Caso de Paata Burchuladze y de los presos políticos bajo el régimen de Sueño Georgiano",
-     "order": 51.0,
+     "order": 57.0,
      "time": "18:30",
      "end": "20:00",
      "slot": "Debates",
@@ -1699,15 +1843,15 @@
       "B10-0524/2026",
       "B10-0518/2026",
       "B10-0532/2026",
-      "B10-0516/2026",
-      "B10-0542/2026"
+      "B10-0542/2026",
+      "B10-0516/2026"
      ]
     },
     {
      "id": "D-12",
      "kind": "debate",
      "title": "Explicaciones de voto",
-     "order": 52.0,
+     "order": 58.0,
      "time": "18:30",
      "end": "20:00",
      "slot": "Debates",
@@ -1726,7 +1870,7 @@
      "id": "D-88",
      "kind": "debate",
      "title": "Resultados de la cumbre de las Naciones Unidas sobre el clima en Antalya (CP31)",
-     "order": 53.0,
+     "order": 59.0,
      "time": "09:00",
      "end": "11:50",
      "slot": "Debate",
@@ -1740,7 +1884,7 @@
      "id": "D-86",
      "kind": "debate",
      "title": "Respuesta europea a las políticas farmacéuticas de los Estados Unidos: salvaguardar el acceso de los pacientes a medicamentos críticos, innovadores y que salvan vidas",
-     "order": 54.0,
+     "order": 60.0,
      "time": "10:15",
      "end": "11:30",
      "slot": "Debate",
@@ -1754,7 +1898,7 @@
      "id": "D-102",
      "kind": "debate",
      "title": "Apoyo a las candidaturas de ciudades de la Unión para albergar la sede de un nuevo pilar de las Naciones Unidas para la evaluación independiente y la gobernanza ética de la IA",
-     "order": 55.0,
+     "order": 61.0,
      "time": "11:30",
      "end": "11:50",
      "slot": "Debate",
@@ -1775,7 +1919,7 @@
      "id": "V-94",
      "kind": "vote",
      "title": "Caso del periodista sueco-eritreo Dawit Isaak, detenido arbitrariamente en Eritrea",
-     "order": 56.0,
+     "order": 62.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1784,19 +1928,14 @@
       "2026/2990(RSP)"
      ],
      "docs": [
-      "B10-0526/2026",
-      "B10-0539/2026",
-      "B10-0515/2026",
-      "B10-0531/2026",
-      "B10-0523/2026",
-      "B10-0517/2026"
+      "RC-B10-0517/2026"
      ]
     },
     {
      "id": "V-95",
      "kind": "vote",
      "title": "Condena del activista en favor de la democracia y antiguo parlamentario Au Kam San en Macao",
-     "order": 57.0,
+     "order": 63.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1805,6 +1944,7 @@
       "2026/2991(RSP)"
      ],
      "docs": [
+      "B10-0544/2026",
       "B10-0521/2026",
       "B10-0529/2026",
       "B10-0522/2026",
@@ -1815,7 +1955,7 @@
      "id": "V-96",
      "kind": "vote",
      "title": "Caso de Paata Burchuladze y de los presos políticos bajo el régimen de Sueño Georgiano",
-     "order": 58.0,
+     "order": 64.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1836,7 +1976,7 @@
      "id": "V-106",
      "kind": "vote",
      "title": "Reducción de las emisiones de metano en el sector energético: aplazamiento de determinadas obligaciones",
-     "order": 59.0,
+     "order": 65.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1855,7 +1995,7 @@
      "id": "V-78",
      "kind": "vote",
      "title": "Trigésimo quinto aniversario de la caída y destrucción de Vukovar",
-     "order": 60.0,
+     "order": 66.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1864,15 +2004,14 @@
       "2026/2979(RSP)"
      ],
      "docs": [
-      "B10-0506/2026",
-      "B10-0507/2026"
+      "RC-B10-0506/2026"
      ]
     },
     {
      "id": "V-81",
      "kind": "vote",
      "title": "Memorándum de entendimiento ilegal entre Turquía y Libia e infracción de la Convención de las Naciones Unidas sobre el Derecho del Mar",
-     "order": 61.0,
+     "order": 67.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1881,20 +2020,14 @@
       "2026/2981(RSP)"
      ],
      "docs": [
-      "B10-0535/2026",
-      "B10-0538/2026",
-      "B10-0534/2026",
-      "B10-0533/2026",
-      "B10-0540/2026",
-      "B10-0536/2026",
-      "B10-0541/2026"
+      "RC-B10-0533/2026"
      ]
     },
     {
      "id": "V-102",
      "kind": "vote",
      "title": "Apoyo a las candidaturas de ciudades de la Unión para albergar la sede de un nuevo pilar de las Naciones Unidas para la evaluación independiente y la gobernanza ética de la IA",
-     "order": 62.0,
+     "order": 68.0,
      "time": "12:00",
      "end": "14:00",
      "slot": "TURNO DE VOTACIONES",
@@ -1903,19 +2036,14 @@
       "2026/2997(RSP)"
      ],
      "docs": [
-      "B10-0527/2026",
-      "B10-0513/2026",
-      "B10-0530/2026",
-      "B10-0528/2026",
-      "B10-0520/2026",
-      "B10-0525/2026"
+      "RC-B10-0520/2026"
      ]
     },
     {
      "id": "D-103",
      "kind": "debate",
      "title": "Situación de la industria europea del silicio metálico",
-     "order": 63.0,
+     "order": 69.0,
      "time": "15:00",
      "end": "16:00",
      "slot": "Debate",
@@ -1929,7 +2057,7 @@
      "id": "D-15",
      "kind": "debate",
      "title": "Explicaciones de voto",
-     "order": 64.0,
+     "order": 70.0,
      "time": "15:00",
      "end": "16:00",
      "slot": "Debate",

@@ -4,7 +4,7 @@
  "type": "COD",
  "title": "Concesión a Francia de la facultad para adherirse a la Convención Interamericana para la Protección y Conservación de las Tortugas Marinas",
  "title_en": "Empowering France to accede to the Inter-American Convention for the Protection and Conservation of Sea Turtles",
- "stage": "Posición del Parlamento aprobada en el Pleno",
+ "stage": "Acto firmado",
  "ongoing": true,
  "committees": [
   {
@@ -127,7 +127,7 @@
   }
  ],
  "started": "2025-12-15",
- "last_activity": "2026-10-07",
+ "last_activity": "2026-11-25",
  "events": [
   {
    "date": "2025-12-15",
@@ -264,6 +264,12 @@
      "kind": "report"
     }
    ]
+  },
+  {
+   "date": "2026-11-25",
+   "type": "SIGNATURE",
+   "title": "Acto firmado",
+   "docs": []
   }
  ],
  "docs": [

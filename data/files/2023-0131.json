@@ -4,7 +4,7 @@
  "type": "COD",
  "title": "Establecimiento de los procedimientos de la Unión para la autorización y el control de los medicamentos de uso humano, establecimiento de las normas por las que se rige la Agencia Europea de Medicamentos, modificación del Reglamento (CE) n.º 1394/2007 y el Reglamento (UE) n.º 536/2014 y derogación del Reglamento (CE) n.º 726/2004, el Reglamento (CE) n.º 141/2000 y el Reglamento (CE) n.º 1901/2006",
  "title_en": "Laying down Union procedures for the authorisation and supervision of medicinal products for human use and establishing rules governing the European Medicines Agency, amending Regulation (EC) No 1394/2007 and Regulation (EU) No 536/2014 and repealing Regulation (EC) No 726/2004, Regulation (EC) No 141/2000 and Regulation (EC) No 1901/2006",
- "stage": "Informe aprobado en comisión",
+ "stage": "Acto firmado",
  "ongoing": true,
  "committees": [
   {
@@ -250,7 +250,7 @@
   }
  ],
  "started": "2023-09-14",
- "last_activity": "2026-11-13",
+ "last_activity": "2026-11-25",
  "events": [
   {
    "date": "2023-09-14",
@@ -534,6 +534,12 @@
      "kind": "report"
     }
    ]
+  },
+  {
+   "date": "2026-11-25",
+   "type": "SIGNATURE",
+   "title": "Acto firmado",
+   "docs": []
   }
  ],
  "docs": [
@@ -856,31 +862,31 @@
    {
     "key": "ep_approval",
     "label": "Aprobación del PE",
-    "state": "current",
+    "state": "implied",
     "date": null,
     "detail": ""
    },
    {
     "key": "council_adoption",
     "label": "Adopción del Consejo",
-    "state": "pending",
-    "date": null,
-    "detail": ""
+    "state": "done",
+    "date": "2026-11-25",
+    "detail": "adoptado y firmado"
    },
    {
     "key": "published",
     "label": "Diario Oficial",
-    "state": "pending",
+    "state": "current",
     "date": null,
     "detail": ""
    }
   ],
-  "done": 6,
+  "done": 8,
   "total": 9,
-  "current": "ep_approval",
-  "current_label": "Aprobación del PE",
-  "hint": "Votación final en el Pleno del PE",
-  "next_label": "Adopción del Consejo",
+  "current": "published",
+  "current_label": "Diario Oficial",
+  "hint": "Publicación en el Diario Oficial",
+  "next_label": "",
   "next_date": {
    "date": "2026-11-25",
    "body": "Pleno del PE"

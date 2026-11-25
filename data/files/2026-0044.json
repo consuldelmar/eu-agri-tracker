@@ -311,7 +311,7 @@
    "source": "ep",
    "body": "Pleno del PE",
    "title": "Votación (punto V-35)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_EN.html",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_ES.html",
    "refs": [
     "2026/0044(COD)"
    ]
@@ -340,7 +340,7 @@
    "date": "2026-11-12",
    "body": "Pleno del PE",
    "title": "Votación (punto V-35)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_EN.html",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_ES.html",
    "source": "ep"
   }
  ],
@@ -402,8 +402,6 @@
    "meeting_date": null
   }
  ],
- "followed": false,
- "follow_url": "",
  "tags": [],
  "progress": {
   "stages": [
@@ -478,5 +476,7 @@
   "hint": "Publicación en el Diario Oficial",
   "next_label": "",
   "next_date": null
- }
+ },
+ "followed": false,
+ "follow_url": ""
 }

@@ -154,6 +154,19 @@
   },
   {
    "date": "2026-11-24",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "PV-10-2026-11-24-ITM-006-09",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-24-ITM-006-09_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-24",
    "type": "PLENARY_VOTE_RESULTS",
    "title": "Resultados de votación en el Pleno",
    "docs": [

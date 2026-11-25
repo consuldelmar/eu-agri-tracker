@@ -736,7 +736,7 @@
    "source": "ep",
    "body": "Pleno del PE",
    "title": "Votación (punto V-72)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_ES.html",
    "refs": [
     "2025/0162(NLE)"
    ]
@@ -758,7 +758,7 @@
    "date": "2026-11-25",
    "body": "Pleno del PE",
    "title": "Votación (punto V-72)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_ES.html",
    "source": "ep"
   }
  ],
@@ -768,13 +768,11 @@
    "date": "2026-11-25",
    "body": "Pleno del PE",
    "title": "Votación (punto V-72)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_EN.html",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_ES.html",
    "source": "ep"
   }
  ],
  "council_docs": [],
- "followed": false,
- "follow_url": "",
  "tags": [],
  "progress": {
   "stages": [
@@ -810,5 +808,7 @@
    "date": "2026-11-25",
    "body": "Pleno del PE"
   }
- }
+ },
+ "followed": false,
+ "follow_url": ""
 }

@@ -4,7 +4,7 @@
  "type": "COD",
  "title": "Modificación del Reglamento (UE) 2018/848 en lo que respecta a determinadas normas sobre producción, etiquetado y certificación y a determinadas normas sobre el comercio con terceros países",
  "title_en": "Amending Regulation (EU) 2018/848 as regards certain production, labelling and certification rules and certain rules on trade with third countries",
- "stage": "Acuerdo provisional aprobado en comisión",
+ "stage": "Posición del Parlamento aprobada en el Pleno",
  "ongoing": true,
  "committees": [
   {
@@ -193,6 +193,32 @@
   },
   {
    "date": "2026-11-24",
+   "type": "PLENARY_ADOPT_POSITION",
+   "title": "Posición del Parlamento aprobada en el Pleno",
+   "docs": [
+    {
+     "id": "TA-10-2026-0386",
+     "title": "Texto aprobado P10_TA(2026)0386",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0386_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "PV-10-2026-11-24-ITM-006-07",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-24-ITM-006-07_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-24",
    "type": "PLENARY_VOTE_RESULTS",
    "title": "Resultados de votación en el Pleno",
    "docs": [
@@ -258,6 +284,13 @@
    "kind": "plenary_amendments",
    "amendments": 1,
    "date": "2026-11-18"
+  },
+  {
+   "id": "TA-10-2026-0386",
+   "title": "Texto aprobado P10_TA(2026)0386",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0386_EN.html",
+   "kind": "adopted_text",
+   "date": "2026-11-24"
   }
  ],
  "amendments": {
@@ -451,14 +484,14 @@
    {
     "key": "ep_approval",
     "label": "Aprobación del PE",
-    "state": "current",
-    "date": null,
-    "detail": ""
+    "state": "done",
+    "date": "2026-11-24",
+    "detail": "votado en el Pleno"
    },
    {
     "key": "council_adoption",
     "label": "Adopción del Consejo",
-    "state": "pending",
+    "state": "current",
     "date": null,
     "detail": ""
    },
@@ -470,12 +503,12 @@
     "detail": ""
    }
   ],
-  "done": 6,
+  "done": 7,
   "total": 9,
-  "current": "ep_approval",
-  "current_label": "Aprobación del PE",
-  "hint": "Votación final en el Pleno del PE",
-  "next_label": "Adopción del Consejo",
+  "current": "council_adoption",
+  "current_label": "Adopción del Consejo",
+  "hint": "Adopción formal por el Consejo",
+  "next_label": "Diario Oficial",
   "next_date": null
  },
  "followed": false,

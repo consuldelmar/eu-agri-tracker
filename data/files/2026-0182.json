@@ -180,8 +180,26 @@
   "AGRI (opinión)",
   "PECH (opinión)"
  ],
- "agenda": [],
- "scheduled": [],
+ "agenda": [
+  {
+   "id": "ep-com-AGRI-2026-11-30",
+   "date": "2026-11-30",
+   "body": "Comisión AGRI del PE",
+   "title": "Orden del día de la reunión",
+   "url": "https://redmapl3.europarl.europa.eu/RedmapFront/media/reds_iCmOj/AGRI-OJ-2026-11-30-1/AGRI-OJ-2026-11-30-1_en.pdf",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [
+  {
+   "id": "ep-com-AGRI-2026-11-30",
+   "date": "2026-11-30",
+   "body": "Comisión AGRI del PE",
+   "title": "Orden del día de la reunión",
+   "url": "https://redmapl3.europarl.europa.eu/RedmapFront/media/reds_iCmOj/AGRI-OJ-2026-11-30-1/AGRI-OJ-2026-11-30-1_en.pdf",
+   "source": "ep"
+  }
+ ],
  "council_docs": [],
  "tags": [],
  "progress": {
@@ -214,7 +232,10 @@
   "current_label": "Comisión del PE",
   "hint": "La comisión del PE prepara y vota su informe",
   "next_label": "Pleno del PE",
-  "next_date": null
+  "next_date": {
+   "date": "2026-11-30",
+   "body": "Comisión AGRI del PE"
+  }
  },
  "followed": false,
  "follow_url": ""

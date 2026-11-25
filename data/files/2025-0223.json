@@ -892,7 +892,7 @@
    "source": "ep",
    "body": "Pleno del PE",
    "title": "Debate (punto D-37)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-11_EN.html",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-11_ES.html",
    "refs": [
     "2025/0223(COD)"
    ]
@@ -903,7 +903,7 @@
    "source": "ep",
    "body": "Pleno del PE",
    "title": "Votación (punto V-37)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_EN.html",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_ES.html",
    "refs": [
     "2025/0223(COD)"
    ]
@@ -924,7 +924,7 @@
    "date": "2026-11-11",
    "body": "Pleno del PE",
    "title": "Debate (punto D-37)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-11_EN.html",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-11_ES.html",
    "source": "ep"
   },
   {
@@ -932,14 +932,12 @@
    "date": "2026-11-12",
    "body": "Pleno del PE",
    "title": "Votación (punto V-37)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_EN.html",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_ES.html",
    "source": "ep"
   }
  ],
  "scheduled": [],
  "council_docs": [],
- "followed": false,
- "follow_url": "",
  "tags": [],
  "progress": {
   "stages": [
@@ -1014,5 +1012,7 @@
   "hint": "El Consejo fija su orientación general o mandato",
   "next_label": "Trílogos",
   "next_date": null
- }
+ },
+ "followed": false,
+ "follow_url": ""
 }

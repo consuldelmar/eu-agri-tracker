@@ -41,8 +41,6 @@
  "agenda": [],
  "scheduled": [],
  "council_docs": [],
- "followed": false,
- "follow_url": "",
  "tags": [
   "PAC"
  ],
@@ -77,5 +75,7 @@
   "hint": "El PE puede objetar durante el plazo de control",
   "next_label": "Resultado",
   "next_date": null
- }
+ },
+ "followed": false,
+ "follow_url": ""
 }

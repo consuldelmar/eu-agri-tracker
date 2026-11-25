@@ -4,7 +4,7 @@
  "type": "COD",
  "title": "Creación del Fondo Social Europeo como parte de los planes de colaboración nacional y regional establecidos en el Reglamento (UE) [planes CNR], por el que se establecen las condiciones para la ejecución de la ayuda de la Unión destinada al empleo de calidad, las capacidades y la inclusión social para el período 2028-2034",
  "title_en": "Establishing the European Social Fund as part of the National and Regional Partnership Plan set out in Regulation (EU) […] [NRPPlan] establishing conditions for the implementation of the Union support to quality employment, skills and social inclusion for the period from 2028 to 2034",
- "stage": "Informe aprobado en comisión",
+ "stage": "El Pleno confirma el mandato para negociar",
  "ongoing": true,
  "committees": [
   {
@@ -337,7 +337,7 @@
   }
  ],
  "started": "2025-10-23",
- "last_activity": "2026-11-11",
+ "last_activity": "2026-11-25",
  "events": [
   {
    "date": "2025-10-23",
@@ -440,6 +440,12 @@
      "kind": "report"
     }
    ]
+  },
+  {
+   "date": "2026-11-25",
+   "type": "PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
+   "title": "El Pleno confirma el mandato para negociar",
+   "docs": []
   }
  ],
  "docs": [
@@ -504,7 +510,19 @@
   "plenary": 0,
   "committee_documents": 2
  },
- "ep_scheduled": [],
+ "ep_scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-49",
+   "date": "2026-11-25",
+   "source": "ep",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-49)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_ES.html",
+   "refs": [
+    "2025/0239(COD)"
+   ]
+  }
+ ],
  "links": {
   "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0239(COD)",
   "eurlex": "https://eur-lex.europa.eu/procedure/EN/2025_239",
@@ -514,8 +532,26 @@
  "scope": [
   "REGI (opinión)"
  ],
- "agenda": [],
- "scheduled": [],
+ "agenda": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-49",
+   "date": "2026-11-25",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-49)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_ES.html",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [
+  {
+   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-49",
+   "date": "2026-11-25",
+   "body": "Pleno del PE",
+   "title": "Votación (punto V-49)",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_ES.html",
+   "source": "ep"
+  }
+ ],
  "council_docs": [],
  "tags": [
   "MFF 2028-2034"
@@ -539,14 +575,14 @@
    {
     "key": "ep_mandate",
     "label": "Posición del PE",
-    "state": "current",
-    "date": null,
-    "detail": ""
+    "state": "done",
+    "date": "2026-11-25",
+    "detail": "mandato confirmado por el Pleno"
    },
    {
     "key": "council_mandate",
     "label": "Posición del Consejo",
-    "state": "pending",
+    "state": "current",
     "date": null,
     "detail": ""
    },
@@ -586,13 +622,16 @@
     "detail": ""
    }
   ],
-  "done": 2,
+  "done": 3,
   "total": 9,
-  "current": "ep_mandate",
-  "current_label": "Posición del PE",
-  "hint": "El PE fija su posición o el mandato para negociar",
-  "next_label": "Posición del Consejo",
-  "next_date": null
+  "current": "council_mandate",
+  "current_label": "Posición del Consejo",
+  "hint": "El Consejo fija su orientación general o mandato",
+  "next_label": "Trílogos",
+  "next_date": {
+   "date": "2026-11-25",
+   "body": "Pleno del PE"
+  }
  },
  "followed": false,
  "follow_url": ""

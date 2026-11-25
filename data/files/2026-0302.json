@@ -136,8 +136,6 @@
    "meeting_date": "2026-10-08"
   }
  ],
- "followed": false,
- "follow_url": "",
  "tags": [
   "Pesca"
  ],
@@ -214,5 +212,7 @@
   "hint": "La comisión del PE prepara y vota su informe",
   "next_label": "Posición del PE",
   "next_date": null
- }
+ },
+ "followed": false,
+ "follow_url": ""
 }

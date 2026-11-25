@@ -4,7 +4,7 @@
  "type": "COD",
  "title": "Modificación de los Reglamentos (CE) n.º 1272/2008, (CE) n.º 1223/2009 y (UE) 2019/1009 en lo que respecta a la simplificación de determinados requisitos y procedimientos para los productos químicos",
  "title_en": "Amending Regulations (EC) No 1272/2008, (EC) No 1223/2009 and (EU) 2019/1009 as regards simplification of certain requirements and procedures for chemical products",
- "stage": "Debate en el Pleno",
+ "stage": "Acto firmado",
  "ongoing": true,
  "committees": [
   {
@@ -176,7 +176,7 @@
   }
  ],
  "started": "2025-09-08",
- "last_activity": "2026-10-22",
+ "last_activity": "2026-11-25",
  "events": [
   {
    "date": "2025-09-08",
@@ -456,6 +456,12 @@
      "kind": "report"
     }
    ]
+  },
+  {
+   "date": "2026-11-25",
+   "type": "SIGNATURE",
+   "title": "Acto firmado",
+   "docs": []
   }
  ],
  "docs": [
