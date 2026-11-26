@@ -1,12 +1,12 @@
 {
- "started": "2026-11-26T18:57:41+00:00",
+ "started": "2026-11-26T22:33:47+00:00",
  "parliament": {
   "changed_in_feed": 160,
   "files_read": 159,
   "queue_left": 0,
   "tracked": 382,
   "failed": 0,
-  "throttled": 0
+  "throttled": 1
  },
  "plenary": {
   "read": 4,
@@ -28,9 +28,9 @@
   "from_parliament": 0,
   "council_only": 12
  },
- "changes": 6,
- "finished": "2026-11-26T19:04:40+00:00",
- "requests": 233,
+ "changes": 0,
+ "finished": "2026-11-26T22:39:50+00:00",
+ "requests": 234,
  "request_errors": 0,
  "files": 382,
  "problems": []
