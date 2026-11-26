@@ -761,7 +761,7 @@
   }
  ],
  "started": "2025-10-23",
- "last_activity": "2026-11-10",
+ "last_activity": "2026-11-26",
  "events": [
   {
    "date": "2025-10-23",
@@ -907,23 +907,11 @@
   {
    "date": "2026-11-03",
    "type": "COMMITTEE_TABLING_AMENDMENT",
-   "title": "Enmiendas presentadas en comisión (9 documentos)",
+   "title": "Enmiendas presentadas en comisión (4 documentos)",
    "docs": [
-    {
-     "id": "CJ13-AM-797493",
-     "title": "CJ13-AM-797493",
-     "url": "",
-     "kind": "other"
-    },
     {
      "id": "CJ13-AM-797491",
      "title": "CJ13-AM-797491",
-     "url": "",
-     "kind": "other"
-    },
-    {
-     "id": "CJ13-AM-797496",
-     "title": "CJ13-AM-797496",
      "url": "",
      "kind": "other"
     },
@@ -944,24 +932,6 @@
      "title": "CJ13-AM-797490",
      "url": "",
      "kind": "other"
-    },
-    {
-     "id": "CJ13-AM-797497",
-     "title": "CJ13-AM-797497",
-     "url": "",
-     "kind": "other"
-    },
-    {
-     "id": "CJ13-AM-797492",
-     "title": "CJ13-AM-797492",
-     "url": "",
-     "kind": "other"
-    },
-    {
-     "id": "CJ13-AM-797541",
-     "title": "CJ13-AM-797541",
-     "url": "",
-     "kind": "other"
     }
    ]
   },
@@ -979,7 +949,20 @@
    ]
   },
   {
-   "date": "2026-11-05",
+   "date": "2026-11-10",
+   "type": "COMMITTEE_TABLING_AMENDMENT",
+   "title": "Enmiendas presentadas en comisión",
+   "docs": [
+    {
+     "id": "CJ13-AM-797543",
+     "title": "CJ13-AM-797543",
+     "url": "",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
    "type": "COMMITTEE_TABLING_AMENDMENT",
    "title": "Enmiendas presentadas en comisión",
    "docs": [
@@ -992,13 +975,13 @@
    ]
   },
   {
-   "date": "2026-11-10",
+   "date": "2026-11-26",
    "type": "COMMITTEE_TABLING_AMENDMENT",
    "title": "Enmiendas presentadas en comisión",
    "docs": [
     {
-     "id": "CJ13-AM-797543",
-     "title": "CJ13-AM-797543",
+     "id": "CJ13-AM-797541",
+     "title": "CJ13-AM-797541",
      "url": "",
      "kind": "other"
     }
@@ -1091,22 +1074,8 @@
    "date": "2026-10-29"
   },
   {
-   "id": "CJ13-AM-797493",
-   "title": "CJ13-AM-797493",
-   "url": "",
-   "kind": "other",
-   "date": "2026-11-03"
-  },
-  {
    "id": "CJ13-AM-797491",
    "title": "CJ13-AM-797491",
-   "url": "",
-   "kind": "other",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "CJ13-AM-797496",
-   "title": "CJ13-AM-797496",
    "url": "",
    "kind": "other",
    "date": "2026-11-03"
@@ -1133,27 +1102,6 @@
    "date": "2026-11-03"
   },
   {
-   "id": "CJ13-AM-797497",
-   "title": "CJ13-AM-797497",
-   "url": "",
-   "kind": "other",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "CJ13-AM-797492",
-   "title": "CJ13-AM-797492",
-   "url": "",
-   "kind": "other",
-   "date": "2026-11-03"
-  },
-  {
-   "id": "CJ13-AM-797541",
-   "title": "CJ13-AM-797541",
-   "url": "",
-   "kind": "other",
-   "date": "2026-11-03"
-  },
-  {
    "id": "CJ13-AM-797542",
    "title": "CJ13-AM-797542",
    "url": "",
@@ -1161,18 +1109,25 @@
    "date": "2026-11-04"
   },
   {
-   "id": "CJ13-AM-797588",
-   "title": "CJ13-AM-797588",
-   "url": "",
-   "kind": "other",
-   "date": "2026-11-05"
-  },
-  {
    "id": "CJ13-AM-797543",
    "title": "CJ13-AM-797543",
    "url": "",
    "kind": "other",
    "date": "2026-11-10"
+  },
+  {
+   "id": "CJ13-AM-797588",
+   "title": "CJ13-AM-797588",
+   "url": "",
+   "kind": "other",
+   "date": "2026-11-25"
+  },
+  {
+   "id": "CJ13-AM-797541",
+   "title": "CJ13-AM-797541",
+   "url": "",
+   "kind": "other",
+   "date": "2026-11-26"
   }
  ],
  "amendments": {

@@ -1219,5 +1219,203 @@
   "importance": "high",
   "seen": "2026-11-26",
   "file_id": "2026-0349"
+ },
+ {
+  "id": "24cb6fd61dd7",
+  "date": "2026-11-25",
+  "ref": "2025/0543(COD)",
+  "kind": "event",
+  "text": "2026-11-25: Votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-25-ITM-008-05_EN.html",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0543"
+ },
+ {
+  "id": "646087dca272",
+  "date": "2026-11-25",
+  "ref": "2025/0543(COD)",
+  "kind": "event",
+  "text": "2026-11-25: Resultados de votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0299_EN.html",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0543"
+ },
+ {
+  "id": "615d0b4d2d79",
+  "date": "2026-11-25",
+  "ref": "2025/0239(COD)",
+  "kind": "event",
+  "text": "2026-11-25: Votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-25-ITM-008-04_EN.html",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0239"
+ },
+ {
+  "id": "2ea210181aa9",
+  "date": "2026-11-25",
+  "ref": "2025/0239(COD)",
+  "kind": "event",
+  "text": "2026-11-25: Resultados de votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0291_EN.html",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0239"
+ },
+ {
+  "id": "55ba401c0f73",
+  "date": "2026-11-25",
+  "ref": "2025/0555(COD)",
+  "kind": "event",
+  "text": "2026-11-25: Votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-25-ITM-008-07_EN.html",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0555"
+ },
+ {
+  "id": "397a4b4bf977",
+  "date": "2026-11-25",
+  "ref": "2025/0555(COD)",
+  "kind": "event",
+  "text": "2026-11-25: Resultados de votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0308_EN.html",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0555"
+ },
+ {
+  "id": "b05a0dcee93e",
+  "date": "2026-11-03",
+  "ref": "2025/0545(COD)",
+  "kind": "event",
+  "text": "2026-11-03: Enmiendas presentadas en comisión (4 documentos)",
+  "url": "",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0545"
+ },
+ {
+  "id": "32b40655c9e4",
+  "date": "2026-11-25",
+  "ref": "2025/0545(COD)",
+  "kind": "event",
+  "text": "2026-11-25: Enmiendas presentadas en comisión",
+  "url": "",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0545"
+ },
+ {
+  "id": "9d780f1f9461",
+  "date": "2026-11-26",
+  "ref": "2025/0545(COD)",
+  "kind": "event",
+  "text": "2026-11-26: Enmiendas presentadas en comisión",
+  "url": "",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0545"
+ },
+ {
+  "id": "f0b9bf998615",
+  "date": "2026-11-25",
+  "ref": "2025/0162(NLE)",
+  "kind": "event",
+  "text": "2026-11-25: Votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-25-ITM-008-17_EN.html",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0162"
+ },
+ {
+  "id": "2b0832458be4",
+  "date": "2026-11-25",
+  "ref": "2025/0162(NLE)",
+  "kind": "event",
+  "text": "2026-11-25: Resultados de votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0236_EN.html",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0162"
+ },
+ {
+  "id": "ce617bbb91f2",
+  "date": "2026-11-26",
+  "ref": "2025/0162(NLE)",
+  "kind": "status",
+  "text": "Expediente concluido",
+  "url": "",
+  "importance": "high",
+  "seen": "2026-11-26",
+  "file_id": "2025-0162"
+ },
+ {
+  "id": "838258790ad5",
+  "date": "2026-11-25",
+  "ref": "2025/0221(COD)",
+  "kind": "event",
+  "text": "2026-11-25: Votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-25-ITM-008-06_EN.html",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0221"
+ },
+ {
+  "id": "043b72eaddf5",
+  "date": "2026-11-25",
+  "ref": "2025/0221(COD)",
+  "kind": "event",
+  "text": "2026-11-25: Resultados de votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0301_EN.html",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0221"
+ },
+ {
+  "id": "54a81fa8a7a5",
+  "date": "2026-11-25",
+  "ref": "2023/0131(COD)",
+  "kind": "event",
+  "text": "2026-11-25: Votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-25-ITM-008-10_EN.html",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2023-0131"
+ },
+ {
+  "id": "605249c2da17",
+  "date": "2026-11-25",
+  "ref": "2023/0131(COD)",
+  "kind": "event",
+  "text": "2026-11-25: Resultados de votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0296_EN.html",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2023-0131"
+ },
+ {
+  "id": "5e2a702ce487",
+  "date": "2026-11-25",
+  "ref": "2025/0227(COD)",
+  "kind": "event",
+  "text": "2026-11-25: Votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-25-ITM-008-03_EN.html",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0227"
+ },
+ {
+  "id": "6609236d2435",
+  "date": "2026-11-25",
+  "ref": "2025/0227(COD)",
+  "kind": "event",
+  "text": "2026-11-25: Resultados de votación en el Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0277_EN.html",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0227"
  }
 ]

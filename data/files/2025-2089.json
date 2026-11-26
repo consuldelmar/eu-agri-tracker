@@ -265,7 +265,7 @@
    "source": "ep",
    "body": "Pleno del PE",
    "title": "Votación (punto V-45)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_EN.html",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_ES.html",
    "refs": [
     "2025/2089(INI)"
    ]
@@ -286,14 +286,12 @@
    "date": "2026-11-12",
    "body": "Pleno del PE",
    "title": "Votación (punto V-45)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_EN.html",
+   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-12_ES.html",
    "source": "ep"
   }
  ],
  "scheduled": [],
  "council_docs": [],
- "followed": false,
- "follow_url": "",
  "tags": [],
  "progress": {
   "stages": [
@@ -326,5 +324,7 @@
   "hint": "",
   "next_label": "",
   "next_date": null
- }
+ },
+ "followed": false,
+ "follow_url": ""
 }

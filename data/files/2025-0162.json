@@ -5,7 +5,7 @@
  "title": "Celebración de un amplio paquete de acuerdos para consolidar, profundizar y ampliar las relaciones bilaterales con la Confederación Suiza",
  "title_en": "Conclusion of a broad package of agreements to consolidate, deepen and expand the bilateral relations with the Swiss Confederation",
  "stage": "Informe aprobado en comisión",
- "ongoing": true,
+ "ongoing": false,
  "committees": [
   {
    "code": "AFET",
@@ -575,7 +575,7 @@
   }
  ],
  "started": "2026-03-11",
- "last_activity": "2026-09-16",
+ "last_activity": "2026-11-25",
  "events": [
   {
    "date": "2026-03-11",
@@ -672,6 +672,32 @@
      "kind": "report"
     }
    ]
+  },
+  {
+   "date": "2026-11-25",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "PV-10-2026-11-25-ITM-008-17",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-25-ITM-008-17_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0236",
+     "title": "Informe A10-0236/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0236_EN.html",
+     "kind": "report"
+    }
+   ]
   }
  ],
  "docs": [
@@ -722,7 +748,7 @@
    "title": "Informe A10-0236/2026",
    "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0236_EN.html",
    "kind": "report",
-   "date": "2026-09-16"
+   "date": "2026-11-25"
   }
  ],
  "amendments": {
@@ -784,16 +810,16 @@
    {
     "key": "ep_plenary",
     "label": "Pleno del PE",
-    "state": "current",
-    "date": null,
-    "detail": ""
+    "state": "done",
+    "date": "2026-11-25",
+    "detail": "votado en el Pleno"
    }
   ],
-  "done": 2,
+  "done": 3,
   "total": 3,
-  "current": "ep_plenary",
+  "current": null,
   "current_label": "Pleno del PE",
-  "hint": "Votación en el Pleno del PE",
+  "hint": "",
   "next_label": "",
   "next_date": null
  },

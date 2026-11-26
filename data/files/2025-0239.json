@@ -446,6 +446,32 @@
    "type": "PLENARY_ENDORSE_COMMITTEE_INTERINSTITUTIONAL_NEGOTIATIONS",
    "title": "El Pleno confirma el mandato para negociar",
    "docs": []
+  },
+  {
+   "date": "2026-11-25",
+   "type": "PLENARY_VOTE",
+   "title": "Votación en el Pleno",
+   "docs": [
+    {
+     "id": "PV-10-2026-11-25-ITM-008-04",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-10-2026-11-25-ITM-008-04_EN.html",
+     "kind": "minutes"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "type": "PLENARY_VOTE_RESULTS",
+   "title": "Resultados de votación en el Pleno",
+   "docs": [
+    {
+     "id": "A-10-2026-0291",
+     "title": "Informe A10-0291/2026",
+     "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0291_EN.html",
+     "kind": "report"
+    }
+   ]
   }
  ],
  "docs": [
