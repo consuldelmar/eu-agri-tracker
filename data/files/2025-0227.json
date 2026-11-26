@@ -678,16 +678,7 @@
    "source": "ep"
   }
  ],
- "scheduled": [
-  {
-   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-93",
-   "date": "2026-11-25",
-   "body": "Pleno del PE",
-   "title": "Votación (punto V-93)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_ES.html",
-   "source": "ep"
-  }
- ],
+ "scheduled": [],
  "council_docs": [],
  "tags": [
   "MFF 2028-2034"
@@ -764,10 +755,7 @@
   "current_label": "Posición del Consejo",
   "hint": "El Consejo fija su orientación general o mandato",
   "next_label": "Trílogos",
-  "next_date": {
-   "date": "2026-11-25",
-   "body": "Pleno del PE"
-  }
+  "next_date": null
  },
  "followed": false,
  "follow_url": ""

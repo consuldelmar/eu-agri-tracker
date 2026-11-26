@@ -1,5 +1,5 @@
 {
- "started": "2026-11-25T22:43:51+00:00",
+ "started": "2026-11-26T01:45:02+00:00",
  "parliament": {
   "changed_in_feed": 181,
   "files_read": 179,
@@ -9,7 +9,7 @@
   "throttled": 1
  },
  "plenary": {
-  "read": 4,
+  "read": 10,
   "left": 2,
   "days": 132
  },
@@ -20,17 +20,17 @@
   "AGNDCSA": "500 documents in feed",
   "AGNDCRP1": "500 documents in feed",
   "THMAF": "500 documents in feed",
-  "cited_documents": "0 read (0 with a file number), 0 left",
-  "pdfs": "0 read, 0 left for the next run",
+  "cited_documents": "3 read (0 with a file number), 0 left",
+  "pdfs": "15 read, 0 left for the next run",
   "press": "2 relevant press releases"
  },
  "council_cited": {
   "from_parliament": 0,
   "council_only": 12
  },
- "changes": 0,
- "finished": "2026-11-25T22:50:11+00:00",
- "requests": 252,
+ "changes": 8,
+ "finished": "2026-11-26T01:51:57+00:00",
+ "requests": 278,
  "request_errors": 0,
  "files": 381,
  "problems": []

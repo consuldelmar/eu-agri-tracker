@@ -1973,7 +1973,9 @@
    "url": "https://data.consilium.europa.eu/doc/document/CM-5089-2026-INIT/en/pdf",
    "date": "2026-11-18",
    "step": "Texto de compromiso de la Presidencia",
-   "refs": [],
+   "refs": [
+    "2026/0269(NLE)"
+   ],
    "read": true,
    "meeting_date": "2026-11-20",
    "doc_numbers": [
@@ -7758,6 +7760,202 @@
    "meeting_date": "2026-12-09",
    "doc_numbers": [],
    "cm_clean": true
+  },
+  "ST-11693-2026-ADD-1": {
+   "id": "ST-11693-2026-ADD-1",
+   "code": "ST 11693/26 ADD 1",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Position of the Council at first reading with a view to the adoption of a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the production and marketing of plant reproductive material in the Union, amending Regulations (EU) 2016/2031 and (EU) 2017/625 of the European Parliament and of the Council, and repealing Council Directives 66/401/EEC, 66/402/EEC, 68/193/EEC, 2002/53/EC, 2002/54/EC, 2002/55/EC, 2002/56/EC, 2002/57/EC, 2008/72/EC and 2008/90/EC and Council Decisions 2003/17/EC and 2005/834/EC (PRM Regulation) – Draft Statement of the Council's reasons",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-11693-2026-ADD-1/en/pdf",
+   "date": "2026-11-25",
+   "step": "Posición del Consejo",
+   "refs": [
+    "2023/0227(COD)"
+   ],
+   "read": true,
+   "ref_titles": {}
+  },
+  "ST-11693-2026-INIT": {
+   "id": "ST-11693-2026-INIT",
+   "code": "ST 11693/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Position of the Council at first reading with a view to the adoption of a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the production and marketing of plant reproductive material in the Union, amending Regulations (EU) 2016/2031 and (EU) 2017/625 of the European Parliament and of the Council, and repealing Council Directives 66/401/EEC, 66/402/EEC, 68/193/EEC, 2002/53/EC, 2002/54/EC, 2002/55/EC, 2002/56/EC, 2002/57/EC, 2008/72/EC and 2008/90/EC and Council Decisions 2003/17/EC and 2005/834/EC (PRM Regulation)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-11693-2026-INIT/en/pdf",
+   "date": "2026-11-25",
+   "step": "Posición del Consejo",
+   "refs": [
+    "2023/0227(COD)"
+   ],
+   "read": true,
+   "ref_titles": {}
+  },
+  "ST-15752-2026-INIT": {
+   "id": "ST-15752-2026-INIT",
+   "code": "ST 15752/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2018/848 as regards certain production, labelling and certification rules and certain rules on trade with third countries - Outcome of the European Parliament’s first reading (Strasbourg, 23 to 26 November 2026)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15752-2026-INIT/en/pdf",
+   "date": "2026-11-25",
+   "step": null,
+   "refs": [
+    "2025/0417(COD)"
+   ],
+   "read": true,
+   "ref_titles": {
+    "2025/0417(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2018/848 as regards certain production, labelling and certification rules and certain rules on trade with third countries"
+   }
+  },
+  "CM-5201-2026-INIT": {
+   "id": "CM-5201-2026-INIT",
+   "code": "CM 5201/26",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5201-2026-INIT/en/pdf",
+   "date": "2026-11-24",
+   "step": "Texto de compromiso de la Presidencia",
+   "refs": [
+    "2026/0269(NLE)",
+    "2026/0349(NLE)"
+   ],
+   "read": true,
+   "ref_titles": {},
+   "meeting_date": "2026-11-30",
+   "doc_numbers": [
+    "13338/26",
+    "14310/26",
+    "15162/26",
+    "15299/26",
+    "15993/26",
+    "16011/26",
+    "16355/26",
+    "16379/26"
+   ],
+   "cm_clean": true
+  },
+  "CM-5219-2026-INIT": {
+   "id": "CM-5219-2026-INIT",
+   "code": "CM 5219/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "138th session of the OECD Committee of Fisheries (2-3 December 2026, Paris), - EU coordination meeting",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5219-2026-INIT/en/pdf",
+   "date": "2026-11-25",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {}
+  },
+  "CM-5225-2026-INIT": {
+   "id": "CM-5225-2026-INIT",
+   "code": "CM 5225/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Trilateral EU-Norway-UK consultations on fishing opportunities for 2027 – EU coordination meeting",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5225-2026-INIT/en/pdf",
+   "date": "2026-11-25",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {}
+  },
+  "CM-5228-2026-INIT": {
+   "id": "CM-5228-2026-INIT",
+   "code": "CM 5228/26",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Maritime Issues",
+   "title": "Working Party on Maritime Issues - Integrated Maritime Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5228-2026-INIT/en/pdf",
+   "date": "2026-11-25",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {},
+   "meeting_date": "2026-12-09",
+   "doc_numbers": [],
+   "cm_clean": true
+  },
+  "PE-56-2026-REV-1": {
+   "id": "PE-56-2026-REV-1",
+   "code": "PE 56/26 REV 1",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL EMPOWERING FRANCE TO ACCEDE TO THE INTER-AMERICAN CONVENTION FOR THE PROTECTION AND CONSERVATION OF SEA TURTLES",
+   "url": "https://data.consilium.europa.eu/doc/document/PE-56-2026-REV-1/en/pdf",
+   "date": "2026-11-25",
+   "step": null,
+   "refs": [
+    "2025/0349(COD)"
+   ],
+   "read": true,
+   "ref_titles": {}
+  },
+  "ST-15993-2026-INIT": {
+   "id": "ST-15993-2026-INIT",
+   "code": "ST 15993/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Proposal for a COUNCIL REGULATION fixing for 2027 the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Mediterranean and Black Seas - Commission services non-paper",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15993-2026-INIT/en/pdf",
+   "date": "2026-11-20",
+   "step": null,
+   "refs": [
+    "2026/0269(NLE)"
+   ],
+   "read": true,
+   "ref_titles": {
+    "2026/0269(NLE)": "COUNCIL REGULATION fixing for 2027 the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Mediterranean and Black Seas"
+   }
+  },
+  "ST-16419-2026-INIT": {
+   "id": "ST-16419-2026-INIT",
+   "code": "ST 16419/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Opinion of the European Data Protection Supervisor on the Proposal for a Regulation laying down management, conservation and control measures applicable in the Convention area of the North Pacific Fisheries Commission",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-16419-2026-INIT/en/pdf",
+   "date": "2026-11-25",
+   "step": null,
+   "refs": [
+    "2026/0290(COD)"
+   ],
+   "read": true,
+   "ref_titles": {}
+  },
+  "CM-5220-2026-INIT": {
+   "id": "CM-5220-2026-INIT",
+   "code": "CM 5220/26",
+   "kind": "agenda",
+   "body": "Consejo",
+   "title": "182nd session of the FAO Council (30 November - 4 December 2026) - EU coordination meeting",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5220-2026-INIT/en/pdf",
+   "date": "2026-11-25",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {},
+   "meeting_date": "2026-12-04",
+   "doc_numbers": [],
+   "cm_clean": true
+  },
+  "CM-5221-2026-INIT": {
+   "id": "CM-5221-2026-INIT",
+   "code": "CM 5221/26",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: International Food and Agricultural Questions (FAO)",
+   "title": "Informal videoconference of the members of the Working Party on International Food and Agricultural Questions (FAO)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5221-2026-INIT/en/pdf",
+   "date": "2026-11-25",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {},
+   "meeting_date": "2026-11-27",
+   "doc_numbers": [],
+   "cm_clean": true
   }
  },
  "first_run_done": true,
@@ -7858,6 +8056,9 @@
   "13318/26": "2026-11-23",
   "13322/26": "2026-11-23",
   "13392/26": "2026-11-23",
-  "13544/26": "2026-11-23"
+  "13544/26": "2026-11-23",
+  "15299/26": "2026-11-26",
+  "16355/26": "2026-11-26",
+  "16379/26": "2026-11-26"
  }
 }

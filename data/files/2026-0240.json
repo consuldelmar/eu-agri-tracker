@@ -81,16 +81,7 @@
    "source": "council"
   }
  ],
- "scheduled": [
-  {
-   "id": "council-agenda-ST-15894-2026-COR-1",
-   "date": "2026-11-25",
-   "body": "Coreper I",
-   "title": "Orden del día (ST 15894/26 COR 1)",
-   "url": "https://data.consilium.europa.eu/doc/document/ST-15894-2026-COR-1/en/pdf",
-   "source": "council"
-  }
- ],
+ "scheduled": [],
  "council_docs": [
   {
    "id": "ST-12522-2026-INIT",
@@ -230,10 +221,7 @@
   "current_label": "Acuerdo en el Consejo",
   "hint": "Acuerdo de los ministros (a menudo en el Consejo AGRIFISH)",
   "next_label": "Adopción",
-  "next_date": {
-   "date": "2026-11-25",
-   "body": "Coreper I"
-  }
+  "next_date": null
  },
  "followed": false,
  "follow_url": ""

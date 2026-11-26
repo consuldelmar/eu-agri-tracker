@@ -1478,6 +1478,17 @@
   ]
  },
  {
+  "id": "council-agenda-CM-5089-2026-INIT",
+  "date": "2026-11-20",
+  "source": "council",
+  "body": "Grupo de trabajo: Fisheries Policy",
+  "title": "Orden del día (CM 5089/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-5089-2026-INIT/en/pdf",
+  "refs": [
+   "2026/0269(NLE)"
+  ]
+ },
+ {
   "id": "council-agenda-CM-4533-2026-REV-1",
   "date": "2026-11-17",
   "source": "council",
@@ -1668,6 +1679,18 @@
   "url": "https://data.consilium.europa.eu/doc/document/ST-15894-2026-COR-1/en/pdf",
   "refs": [
    "2026/0240(NLE)"
+  ]
+ },
+ {
+  "id": "council-agenda-CM-5201-2026-INIT",
+  "date": "2026-11-30",
+  "source": "council",
+  "body": "Grupo de trabajo: Fisheries Policy",
+  "title": "Orden del día (CM 5201/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-5201-2026-INIT/en/pdf",
+  "refs": [
+   "2026/0269(NLE)",
+   "2026/0349(NLE)"
   ]
  }
 ]

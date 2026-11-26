@@ -462,6 +462,28 @@
    "body": "Consejo",
    "step": "Posición del Consejo",
    "meeting_date": "2026-10-21"
+  },
+  {
+   "id": "ST-11693-2026-ADD-1",
+   "code": "ST 11693/26 ADD 1",
+   "date": "2026-11-25",
+   "title": "Position of the Council at first reading with a view to the adoption of a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the production and marketing of plant reproductive material in the Union, amending Regulations (EU) 2016/2031 and (EU) 2017/625 of the European Parliament and of the Council, and repealing Council Directives 66/401/EEC, 66/402/EEC, 68/193/EEC, 2002/53/EC, 2002/54/EC, 2002/55/EC, 2002/56/EC, 2002/57/EC, 2008/72/EC and 2008/90/EC and Council Decisions 2003/17/EC and 2005/834/EC (PRM Regulation) – Draft Statement of the Council's reasons",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-11693-2026-ADD-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Posición del Consejo",
+   "meeting_date": null
+  },
+  {
+   "id": "ST-11693-2026-INIT",
+   "code": "ST 11693/26",
+   "date": "2026-11-25",
+   "title": "Position of the Council at first reading with a view to the adoption of a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the production and marketing of plant reproductive material in the Union, amending Regulations (EU) 2016/2031 and (EU) 2017/625 of the European Parliament and of the Council, and repealing Council Directives 66/401/EEC, 66/402/EEC, 68/193/EEC, 2002/53/EC, 2002/54/EC, 2002/55/EC, 2002/56/EC, 2002/57/EC, 2008/72/EC and 2008/90/EC and Council Decisions 2003/17/EC and 2005/834/EC (PRM Regulation)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-11693-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Posición del Consejo",
+   "meeting_date": null
   }
  ],
  "followed": false,

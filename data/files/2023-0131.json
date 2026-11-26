@@ -758,16 +758,7 @@
    "source": "ep"
   }
  ],
- "scheduled": [
-  {
-   "id": "ep-pl-MTG-PL-2026-11-25-OJ-ITM-V-61",
-   "date": "2026-11-25",
-   "body": "Pleno del PE",
-   "title": "Votación (punto V-61)",
-   "url": "https://www.europarl.europa.eu/doceo/document/OJQ-10-2026-11-25_ES.html",
-   "source": "ep"
-  }
- ],
+ "scheduled": [],
  "council_docs": [
   {
    "id": "ST-7105-2026-ADD-1-COR-1",
@@ -887,10 +878,7 @@
   "current_label": "Diario Oficial",
   "hint": "Publicación en el Diario Oficial",
   "next_label": "",
-  "next_date": {
-   "date": "2026-11-25",
-   "body": "Pleno del PE"
-  }
+  "next_date": null
  },
  "followed": false,
  "follow_url": ""

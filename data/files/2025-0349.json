@@ -407,6 +407,17 @@
    "body": "Coreper I",
    "step": "Mandato de negociación con el PE",
    "meeting_date": "2026-10-21"
+  },
+  {
+   "id": "PE-56-2026-REV-1",
+   "code": "PE 56/26 REV 1",
+   "date": "2026-11-25",
+   "title": "DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL EMPOWERING FRANCE TO ACCEDE TO THE INTER-AMERICAN CONVENTION FOR THE PROTECTION AND CONSERVATION OF SEA TURTLES",
+   "url": "https://data.consilium.europa.eu/doc/document/PE-56-2026-REV-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
   }
  ],
  "tags": [],

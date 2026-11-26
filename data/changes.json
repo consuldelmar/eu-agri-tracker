@@ -1131,5 +1131,93 @@
   "importance": "high",
   "seen": "2026-11-25",
   "file_id": "2025-0227"
+ },
+ {
+  "id": "c5e00a1c7a52",
+  "date": "2026-11-25",
+  "ref": "2026/0290(COD)",
+  "kind": "council_doc",
+  "text": "Documento del Consejo: Opinion of the European Data Protection Supervisor on the Proposal for a Regulation laying down management, conservation and control measure — ST 16419/26",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-16419-2026-INIT/en/pdf",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2026-0290"
+ },
+ {
+  "id": "dcd81d2c239d",
+  "date": "2026-11-25",
+  "ref": "2023/0227(COD)",
+  "kind": "council_doc",
+  "text": "Consejo: Posición del Consejo — ST 11693/26 ADD 1",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-11693-2026-ADD-1/en/pdf",
+  "importance": "high",
+  "seen": "2026-11-26",
+  "file_id": "2023-0227"
+ },
+ {
+  "id": "fa4cb8c223bb",
+  "date": "2026-11-25",
+  "ref": "2023/0227(COD)",
+  "kind": "council_doc",
+  "text": "Consejo: Posición del Consejo — ST 11693/26",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-11693-2026-INIT/en/pdf",
+  "importance": "high",
+  "seen": "2026-11-26",
+  "file_id": "2023-0227"
+ },
+ {
+  "id": "bcee0b75d7f8",
+  "date": "2026-11-25",
+  "ref": "2025/0417(COD)",
+  "kind": "council_doc",
+  "text": "Documento del Consejo: Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2018/848 as regards certain production, lab — ST 15752/26",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-15752-2026-INIT/en/pdf",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0417"
+ },
+ {
+  "id": "1531d7c49e3f",
+  "date": "2026-11-25",
+  "ref": "2025/0349(COD)",
+  "kind": "council_doc",
+  "text": "Documento del Consejo: DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL EMPOWERING FRANCE TO ACCEDE TO THE INTER-AMERICAN CONVENTION FOR THE PROTECTION AND C — PE 56/26 REV 1",
+  "url": "https://data.consilium.europa.eu/doc/document/PE-56-2026-REV-1/en/pdf",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2025-0349"
+ },
+ {
+  "id": "cf05a0250bc5",
+  "date": "2026-11-26",
+  "ref": "2026/0269(NLE)",
+  "kind": "scheduled",
+  "text": "Previsto: Grupo de trabajo: Fisheries Policy, 2026-11-30 — Orden del día (CM 5201/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-5201-2026-INIT/en/pdf",
+  "importance": "high",
+  "seen": "2026-11-26",
+  "file_id": "2026-0269"
+ },
+ {
+  "id": "9ea8b530d3f5",
+  "date": "2026-11-20",
+  "ref": "2026/0269(NLE)",
+  "kind": "council_doc",
+  "text": "Documento del Consejo: Proposal for a COUNCIL REGULATION fixing for 2027 the fishing opportunities for certain fish stocks and groups of fish stocks applicable in  — ST 15993/26",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-15993-2026-INIT/en/pdf",
+  "importance": "low",
+  "seen": "2026-11-26",
+  "file_id": "2026-0269"
+ },
+ {
+  "id": "74995297b3c9",
+  "date": "2026-11-26",
+  "ref": "2026/0349(NLE)",
+  "kind": "scheduled",
+  "text": "Previsto: Grupo de trabajo: Fisheries Policy, 2026-11-30 — Orden del día (CM 5201/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-5201-2026-INIT/en/pdf",
+  "importance": "high",
+  "seen": "2026-11-26",
+  "file_id": "2026-0349"
  }
 ]

@@ -138,7 +138,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-25",
+   "fetched": "2026-11-26",
    "place": "Bruselas",
    "final": false
   },
@@ -574,7 +574,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-25",
+   "fetched": "2026-11-26",
    "place": "Bruselas",
    "final": false
   },
@@ -705,7 +705,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-25",
+   "fetched": "2026-11-26",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1121,7 +1121,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-25",
+   "fetched": "2026-11-26",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1820,11 +1820,11 @@
       "2026/2991(RSP)"
      ],
      "docs": [
-      "B10-0537/2026",
       "B10-0544/2026",
       "B10-0529/2026",
       "B10-0521/2026",
-      "B10-0522/2026"
+      "B10-0522/2026",
+      "B10-0537/2026"
      ]
     },
     {
@@ -1856,10 +1856,286 @@
      "end": "20:00",
      "slot": "Debates",
      "docs": []
+    },
+    {
+     "id": "R-993433",
+     "kind": "vote",
+     "title": "Fraude à la TVA: prolongation de la période d’application du mécanisme d’autoliquidation facultatif et du mécanisme de réaction rapide - VAT fraud: extension of the application period of the optional reverse charge mechanism and Quick Reaction Mechanism - Mehrwertsteuerbetrug: Verlängerung des Anwendungszeitraums der fakultativen Umkehrung der Steuerschuldnerschaft und des Schnellreaktionsmechanismus",
+     "order": 535.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993427",
+     "kind": "vote",
+     "title": "Cadre visant à renforcer la disponibilité et la sécurité de l’approvisionnement en médicaments critiques ainsi que la disponibilité et l’accessibilité des médicaments d’intérêt commun - Framework for strengthening the availability and security of supply of critical medicinal products as well as the availability of, and accessibility of, medicinal products of common interest - Rahmen für die Stärkung der Verfügbarkeit von und der Sicherheit der Versorgung mit kritischen Arzneimitteln sowie der Verfügbarkeit und der Zugänglichkeit von Arzneimitteln von gemeinsamem Interesse",
+     "order": 536.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993477",
+     "kind": "vote",
+     "title": "Établissement du soutien de l’Union en faveur de l’asile, de la migration et de l’intégration pour la période 2028-2034 - Union support for asylum, migration and integration 2028–2034 - Unionsunterstützung in den Bereichen Asyl, Migration und Integration für den Zeitraum 2028 bis 2034",
+     "order": 537.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993480",
+     "kind": "vote",
+     "title": "Liberté des médias et état de droit en République tchèque: menaces pour l'indépendance des radiodiffuseurs publics - Media freedom and rule of law in the Czech Republic: threats to the independence of public broadcasters - Medienfreiheit und Rechtsstaatlichkeit in der Tschechischen Republik: Bedrohungen der Unabhängigkeit öffentlicher Rundfunkanstalten",
+     "order": 538.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993474",
+     "kind": "vote",
+     "title": "Établissement du mécanisme pour l’interconnexion en Europe pour la période 2028-2034, modification du règlement (UE) 2024/1679 et abrogation du règlement (UE) 2021/1153 - Connecting Europe Facility 2028–2034 - Schaffung der Fazilität „Connecting Europe“ für den Zeitraum 2028-2034, Änderung der Verordnung (EU) 2024/1679 und Aufhebung der Verordnung (EU) 2021/1153",
+     "order": 539.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993473",
+     "kind": "vote",
+     "title": "Etablissement du Fonds social européen dans le cadre des plans de partenariat national et régional établis par le règlement (UE) [plans PNR] et établissement des conditions de mise en œuvre du soutien de l’Union à des emplois de qualité, aux compétences et à l’inclusion sociale pour la période allant de 2028 à 2034 - European Social Fund 2028–2034 - Einrichtung des Europäischen Sozialfonds als Teil des in der Verordnung (EU) […] [NRP-Plan] festgelegten Plans für nationale und regionale Partnerschaft und mit Bedingungen für die Bereitstellung der Unionsunterstützung für qualitativ hochwertige Beschäftigung, Kompetenzen und soziale Inklusion für den Zeitraum von 2028 bis 2034",
+     "order": 540.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993434",
+     "kind": "vote",
+     "title": "Relations politiques UE-Syrie - EU-Syria political relations - Die politischen Beziehungen zwischen der EU und Syrien",
+     "order": 541.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993429",
+     "kind": "vote",
+     "title": "Mécanisme d’autoliquidation de la TVA - VAT reverse-charge mechanism - Umkehrung der Steuerschuldnerschaft (MwSt.)",
+     "order": 542.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993478",
+     "kind": "vote",
+     "title": "Etablissement du programme «AgoraEU» pour la période 2028-2034 et abrogation des règlements (UE) 2021/692 et (UE) 2021/818 - 'AgoraEU' programme 2028–2034 - Einrichtung des Programms „AgoraEU“ für den Zeitraum 2028-2034 und Aufhebung der Verordnungen (EU) 2021/692 und (EU) 2021/818",
+     "order": 543.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993453",
+     "kind": "vote",
+     "title": "Programme Euratom de recherche et de formation 2028-2032 - Euratom research and training programme 2028-2032 - Euratom-Programm für Forschung und Ausbildung (2028-2032)",
+     "order": 544.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993430",
+     "kind": "vote",
+     "title": "Code de l’Union relatif aux médicaments à usage humain - Union code relating to medicinal products for human use - Unionskodex für Humanarzneimittel",
+     "order": 545.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993411",
+     "kind": "vote",
+     "title": "Paquet global d'accords UE-Suisse visant à consolider, à approfondir et à accroître leurs relations bilatérales - EU-Switzerland broad package of agreements to consolidate, deepen and expand their bilateral relations - Umfangreiches Paket von Abkommen zwischen der EU und der Schweiz zur Konsolidierung, Vertiefung und Ausweitung ihrer bilateralen Beziehungen",
+     "order": 546.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993489",
+     "kind": "vote",
+     "title": "Accélérer les évaluations environnementales (Omnibus VIII sur la législation environnementale) - Speeding-up environmental assessments (Omnibus VIII on environmental legislation) - Beschleunigung von Umweltprüfungen (Omnibus-Paket VIII zum Umweltrecht)",
+     "order": 547.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993475",
+     "kind": "vote",
+     "title": "Établissement du programme-cadre pour la recherche et l’innovation «Horizon Europe» pour la période 2028-2034, définition de ses règles de participation et de diffusion, et abrogation du règlement (UE) 2021/695 - Horizon Europe framework programme for research and innovation 2028–2034 - Einrichtung von „Horizont Europa“, dem Rahmenprogramm für Forschung und Innovation, für den Zeitraum 2028-2034 sowie dessen Regeln für die Beteiligung und die Verbreitung der Ergebnisse und Aufhebung der Verordnung (EU) 2021/695",
+     "order": 548.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993432",
+     "kind": "vote",
+     "title": "Modifications du règlement intérieur du Parlement concernant le vote par procuration pendant la grossesse et immédiatement après l’accouchement - Amendments to Parliament’s Rules of Procedure on proxy voting during pregnancy and immediately after childbirth - Änderungen der Geschäftsordnung des Europäischen Parlaments betreffend die Stimmrechtsübertragung während einer Schwangerschaft und unmittelbar nach der Entbindung",
+     "order": 549.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993451",
+     "kind": "vote",
+     "title": "Établissement de «Europe dans le monde» - Establishing Global Europe - Einrichtung des Instruments „Europa in der Welt“",
+     "order": 550.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993412",
+     "kind": "vote",
+     "title": "Paquet global d'accords UE-Suisse visant à consolider, à approfondir et à accroître leurs relations bilatérales  – rapport intérimaire - EU-Switzerland broad package of agreements to consolidate, deepen and expand their bilateral relations – interim report - Umfangreiches Paket von Abkommen zwischen der EU und der Schweiz zur Konsolidierung, Vertiefung und Ausweitung ihrer bilateralen Beziehungen – Zwischenbericht",
+     "order": 551.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993472",
+     "kind": "vote",
+     "title": "Projet de budget rectificatif nº 3 pour l'exercice 2026: ajustement relatifs aux dépenses, mise à jour des recettes et autres actualisations techniques  - Draft amending budget No 3/2026: adjustments in expenditure, update of revenues and other technical updates - Entwurf des Berichtigungshaushaltsplans Nr. 3/2026: Anpassungen bei den Ausgaben, Aktualisierung der Einnahmen und weitere technische Aktualisierungen",
+     "order": 552.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993413",
+     "kind": "vote",
+     "title": "La mise sur le marché de micro-organismes génétiquement modifiés et le reconditionnement des organes - Placing on the market of genetically modified micro-organisms and the processing of organs - Inverkehrbringen von genetisch veränderten Mikroorganismen und Aufbereitung von Organen",
+     "order": 553.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993419",
+     "kind": "vote",
+     "title": "Établissement de procédures de l’Union pour l’autorisation et la surveillance des médicaments à usage humain et établissement de règles régissant l’Agence européenne des médicaments - Union procedures for the authorisation and supervision of medicinal products for human use and rules governing the European Medicines Agency - Verfahren der Union für die Zulassung und Überwachung von Humanarzneimitteln und Vorschriften für die Europäische Arzneimittel-Agentur",
+     "order": 554.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993431",
+     "kind": "vote",
+     "title": "Vers une stratégie de l’Union visant à protéger et à renforcer le système judiciaire international ainsi que ses institutions, ses mécanismes et ses partenaires - Towards an EU strategy to protect and strengthen the international justice system and its institutions, mechanisms and partners - Auf dem Weg zu einer EU-Strategie zum Schutz und zur Stärkung des internationalen Justizsystems und seiner Institutionen, Verfahren und Partner",
+     "order": 555.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993420",
+     "kind": "vote",
+     "title": "Objection formulée conformément à l’article 115, paragraphes 2 et 3, du règlement: liste européenne des installations de recyclage de navires - Objection pursuant to Rule 115(2) and (3): European List of ship recycling facilities - Einwand gemäß Artikel 115 Absätze 2 und 3 GO: europäische Liste von Abwrackeinrichtungen für Schiffe",
+     "order": 556.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
+    },
+    {
+     "id": "R-993452",
+     "kind": "vote",
+     "title": "Procédure budgétaire 2027: projet commun - 2027 budgetary procedure: joint text - Haushaltsverfahren 2027: gemeinsamer Entwurf",
+     "order": 557.0,
+     "time": "",
+     "end": "",
+     "slot": "",
+     "docs": [],
+     "procs": [],
+     "detail": ""
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-25",
+   "fetched": "2026-11-26",
    "place": "Estrasburgo",
    "final": false
   },
@@ -2065,7 +2341,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-25",
+   "fetched": "2026-11-26",
    "place": "Estrasburgo",
    "final": false
   },
@@ -2073,7 +2349,7 @@
    "date": "2026-12-14",
    "items": [],
    "source": "",
-   "fetched": "2026-11-25",
+   "fetched": "2026-11-26",
    "place": "Estrasburgo",
    "final": false
   },
@@ -2081,7 +2357,7 @@
    "date": "2026-12-15",
    "items": [],
    "source": "",
-   "fetched": "2026-11-25",
+   "fetched": "2026-11-26",
    "place": "Estrasburgo",
    "final": false
   },
@@ -2089,7 +2365,7 @@
    "date": "2026-12-16",
    "items": [],
    "source": "",
-   "fetched": "2026-11-25",
+   "fetched": "2026-11-26",
    "place": "Estrasburgo",
    "final": false
   },
@@ -2097,7 +2373,7 @@
    "date": "2026-12-17",
    "items": [],
    "source": "",
-   "fetched": "2026-11-25",
+   "fetched": "2026-11-26",
    "place": "Estrasburgo",
    "final": false
   },

@@ -93,6 +93,17 @@
    "body": "Consejo",
    "step": null,
    "meeting_date": null
+  },
+  {
+   "id": "ST-16419-2026-INIT",
+   "code": "ST 16419/26",
+   "date": "2026-11-25",
+   "title": "Opinion of the European Data Protection Supervisor on the Proposal for a Regulation laying down management, conservation and control measures applicable in the Convention area of the North Pacific Fisheries Commission",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-16419-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
   }
  ],
  "followed": false,

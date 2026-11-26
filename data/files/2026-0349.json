@@ -9,7 +9,7 @@
  "committees": [],
  "people": [],
  "started": "2026-11-03",
- "last_activity": "2026-11-20",
+ "last_activity": "2026-11-24",
  "events": [
   {
    "date": "2026-11-05",
@@ -77,6 +77,14 @@
    "source": "council"
   },
   {
+   "id": "council-agenda-CM-5201-2026-INIT",
+   "date": "2026-11-30",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Orden del día (CM 5201/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5201-2026-INIT/en/pdf",
+   "source": "council"
+  },
+  {
    "id": "council-agenda-ST-15420-2026-REV-2",
    "date": "2026-12-01",
    "body": "Coreper I",
@@ -86,6 +94,14 @@
   }
  ],
  "scheduled": [
+  {
+   "id": "council-agenda-CM-5201-2026-INIT",
+   "date": "2026-11-30",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Orden del día (CM 5201/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5201-2026-INIT/en/pdf",
+   "source": "council"
+  },
   {
    "id": "council-agenda-ST-15420-2026-REV-2",
    "date": "2026-12-01",
@@ -194,6 +210,17 @@
    "body": "Consejo",
    "step": "Informe de situación",
    "meeting_date": "2026-11-23"
+  },
+  {
+   "id": "CM-5201-2026-INIT",
+   "code": "CM 5201/26",
+   "date": "2026-11-24",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5201-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "step": "Texto de compromiso de la Presidencia",
+   "meeting_date": "2026-11-30"
   }
  ],
  "tags": [],
@@ -235,8 +262,8 @@
   "hint": "Se negocia en el grupo de trabajo del Consejo",
   "next_label": "Acuerdo en el Consejo",
   "next_date": {
-   "date": "2026-12-01",
-   "body": "Coreper I"
+   "date": "2026-11-30",
+   "body": "Grupo de trabajo: Fisheries Policy"
   }
  },
  "followed": false,
