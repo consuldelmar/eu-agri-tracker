@@ -907,11 +907,23 @@
   {
    "date": "2026-11-03",
    "type": "COMMITTEE_TABLING_AMENDMENT",
-   "title": "Enmiendas presentadas en comisión (4 documentos)",
+   "title": "Enmiendas presentadas en comisión (8 documentos)",
    "docs": [
+    {
+     "id": "CJ13-AM-797493",
+     "title": "CJ13-AM-797493",
+     "url": "",
+     "kind": "other"
+    },
     {
      "id": "CJ13-AM-797491",
      "title": "CJ13-AM-797491",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ13-AM-797496",
+     "title": "CJ13-AM-797496",
      "url": "",
      "kind": "other"
     },
@@ -930,6 +942,18 @@
     {
      "id": "CJ13-AM-797490",
      "title": "CJ13-AM-797490",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ13-AM-797497",
+     "title": "CJ13-AM-797497",
+     "url": "",
+     "kind": "other"
+    },
+    {
+     "id": "CJ13-AM-797492",
+     "title": "CJ13-AM-797492",
      "url": "",
      "kind": "other"
     }
@@ -1074,8 +1098,22 @@
    "date": "2026-10-29"
   },
   {
+   "id": "CJ13-AM-797493",
+   "title": "CJ13-AM-797493",
+   "url": "",
+   "kind": "other",
+   "date": "2026-11-03"
+  },
+  {
    "id": "CJ13-AM-797491",
    "title": "CJ13-AM-797491",
+   "url": "",
+   "kind": "other",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "CJ13-AM-797496",
+   "title": "CJ13-AM-797496",
    "url": "",
    "kind": "other",
    "date": "2026-11-03"
@@ -1097,6 +1135,20 @@
   {
    "id": "CJ13-AM-797490",
    "title": "CJ13-AM-797490",
+   "url": "",
+   "kind": "other",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "CJ13-AM-797497",
+   "title": "CJ13-AM-797497",
+   "url": "",
+   "kind": "other",
+   "date": "2026-11-03"
+  },
+  {
+   "id": "CJ13-AM-797492",
+   "title": "CJ13-AM-797492",
    "url": "",
    "kind": "other",
    "date": "2026-11-03"

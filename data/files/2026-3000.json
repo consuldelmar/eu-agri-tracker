@@ -1,0 +1,79 @@
+{
+ "ref": "2026/3000(DEA)",
+ "id": "2026-3000",
+ "type": "DEA",
+ "title": "Reglamento Delegado de la Comisión por el que se modifica el Reglamento Delegado (UE) 2021/1342 de la Comisión en lo que respecta a la fecha de expiración del reconocimiento de terceros países reconocidos a efectos de equivalencia de conformidad con el artículo 33, apartado 2, del Reglamento (CE) n.º 834/2007 del Consejo",
+ "title_en": "Commission Delegated Regulation amending Commission Delegated Regulation (EU) 2021/1342 as regards the expiry date of the recognition of third countries recognised for the purposes of equivalence under Article 33(2) of Council Regulation (EC) No 834/2007",
+ "stage": "En periodo de control del Parlamento",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "AGRI",
+   "role": "lead"
+  }
+ ],
+ "people": [],
+ "started": "2026-11-25",
+ "last_activity": "2026-11-25",
+ "events": [
+  {
+   "date": "2026-11-25",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/3000(DEA)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_3000",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_3000?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-3000?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "AGRI (responsable)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "transmitted",
+    "label": "Transmitido al PE",
+    "state": "done",
+    "date": "2026-11-25",
+    "detail": ""
+   },
+   {
+    "key": "scrutiny",
+    "label": "Plazo de control",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "outcome",
+    "label": "Resultado",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 1,
+  "total": 3,
+  "current": "scrutiny",
+  "current_label": "Plazo de control",
+  "hint": "El PE puede objetar durante el plazo de control",
+  "next_label": "Resultado",
+  "next_date": null
+ },
+ "followed": false,
+ "follow_url": ""
+}
