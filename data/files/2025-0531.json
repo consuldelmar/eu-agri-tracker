@@ -713,6 +713,17 @@
    "body": "Consejo",
    "step": "Adopción por el Consejo",
    "meeting_date": null
+  },
+  {
+   "id": "PE-48-2026-REV-1",
+   "code": "PE 48/26 REV 1",
+   "date": "2026-11-25",
+   "title": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL AMENDING REGULATIONS (EC) NO 1272/2008, (EC) NO 1223/2009, (EU) 2019/1009 AND (EU) 2024/2865 AS REGARDS SIMPLIFICATION OF CERTAIN REQUIREMENTS AND PROCEDURES FOR CHEMICAL PRODUCTS",
+   "url": "https://data.consilium.europa.eu/doc/document/PE-48-2026-REV-1/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
   }
  ],
  "tags": [],

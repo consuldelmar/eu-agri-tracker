@@ -500,16 +500,6 @@
   "refs": []
  },
  {
-  "id": "council-wp-agri-mpo_373310",
-  "date": "2026-11-27",
-  "source": "council",
-  "body": "Grupo de trabajo del Consejo",
-  "title": "Grupo de trabajo: Int. Food And Agric. Questions (Food And Agric Organization Of The Un (Fao))",
-  "description": "",
-  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2026/11/informal-vtc-wp-on-int-food-and-agric-questions-food-and-agric-organization-of-the-un-fao-(373310)/",
-  "refs": []
- },
- {
   "id": "council-wp-agri-mpo_371653",
   "date": "2026-11-30",
   "source": "council",
@@ -707,6 +697,16 @@
   "title": "Grupo de trabajo: Animals And Veterinary Questions (Animal Welfare And Husbandry)",
   "description": "",
   "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/2/wp-on-animals-and-veterinary-questions-animal-welfare-and-husbandry-(373344)/",
+  "refs": []
+ },
+ {
+  "id": "council-wp-agri-mpo_373310",
+  "date": "2026-11-27",
+  "source": "council",
+  "body": "Grupo de trabajo del Consejo",
+  "title": "Grupo de trabajo: Int. Food And Agric. Questions (Food And Agric Organization Of The Un (Fao))",
+  "description": "",
+  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2026/11/informal-vtc-wp-on-int-food-and-agric-questions-food-and-agric-organization-of-the-un-fao-(373310)/",
   "refs": []
  },
  {
@@ -1427,6 +1427,17 @@
   ]
  },
  {
+  "id": "council-agenda-CM-4911-2026-REV-1",
+  "date": "2026-11-18",
+  "source": "council",
+  "body": "Coreper I",
+  "title": "Orden del día (CM 4911/26 REV 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-4911-2026-REV-1/en/pdf",
+  "refs": [
+   "2025/0406(COD)"
+  ]
+ },
+ {
   "id": "council-agenda-ST-15420-2026-REV-2",
   "date": "2026-12-01",
   "source": "council",
@@ -1692,12 +1703,12 @@
   ]
  },
  {
-  "id": "council-agenda-CM-5201-2026-INIT",
+  "id": "council-agenda-CM-5201-2026-REV-1",
   "date": "2026-11-30",
   "source": "council",
   "body": "Grupo de trabajo: Fisheries Policy",
-  "title": "Orden del día (CM 5201/26)",
-  "url": "https://data.consilium.europa.eu/doc/document/CM-5201-2026-INIT/en/pdf",
+  "title": "Orden del día (CM 5201/26 REV 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-5201-2026-REV-1/en/pdf",
   "refs": [
    "2026/0269(NLE)",
    "2026/0349(NLE)"

@@ -138,7 +138,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-26",
+   "fetched": "2026-11-27",
    "place": "Bruselas",
    "final": false
   },
@@ -574,7 +574,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-26",
+   "fetched": "2026-11-27",
    "place": "Bruselas",
    "final": false
   },
@@ -705,7 +705,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-26",
+   "fetched": "2026-11-27",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1121,7 +1121,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-26",
+   "fetched": "2026-11-27",
    "place": "Estrasburgo",
    "final": false
   },
@@ -1991,7 +1991,7 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-26",
+   "fetched": "2026-11-27",
    "place": "Estrasburgo",
    "final": false
   },
@@ -2061,7 +2061,13 @@
      ],
      "docs": [
       "RC-B10-0515/2026"
-     ]
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 529,
+      "against": 2,
+      "abst": 25
+     }
     },
     {
      "id": "V-95",
@@ -2077,7 +2083,13 @@
      ],
      "docs": [
       "RC-B10-0521/2026"
-     ]
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 469,
+      "against": 9,
+      "abst": 87
+     }
     },
     {
      "id": "V-96",
@@ -2093,7 +2105,13 @@
      ],
      "docs": [
       "RC-B10-0518/2026"
-     ]
+     ],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 441,
+      "against": 47,
+      "abst": 86
+     }
     },
     {
      "id": "V-106",
@@ -2112,7 +2130,13 @@
       "Dimitris Tsiodras",
       "Borys Budka"
      ],
-     "docs": []
+     "docs": [],
+     "result": {
+      "outcome": "ADOPTED",
+      "for": 341,
+      "against": 224,
+      "abst": 31
+     }
     },
     {
      "id": "V-78",
@@ -2128,7 +2152,10 @@
      ],
      "docs": [
       "RC-B10-0506/2026"
-     ]
+     ],
+     "result": {
+      "outcome": "ADOPTED"
+     }
     },
     {
      "id": "V-81",
@@ -2144,7 +2171,10 @@
      ],
      "docs": [
       "RC-B10-0533/2026"
-     ]
+     ],
+     "result": {
+      "outcome": "ADOPTED"
+     }
     },
     {
      "id": "V-102",
@@ -2160,7 +2190,10 @@
      ],
      "docs": [
       "RC-B10-0520/2026"
-     ]
+     ],
+     "result": {
+      "outcome": "ADOPTED"
+     }
     },
     {
      "id": "D-103",
@@ -2188,39 +2221,39 @@
     }
    ],
    "source": "agenda",
-   "fetched": "2026-11-26",
+   "fetched": "2026-11-27",
    "place": "Estrasburgo",
    "final": false
   },
   "2026-12-14": {
    "date": "2026-12-14",
    "items": [],
-   "source": "",
-   "fetched": "2026-11-26",
+   "source": "agenda",
+   "fetched": "2026-11-27",
    "place": "Estrasburgo",
    "final": false
   },
   "2026-12-15": {
    "date": "2026-12-15",
    "items": [],
-   "source": "",
-   "fetched": "2026-11-26",
+   "source": "agenda",
+   "fetched": "2026-11-27",
    "place": "Estrasburgo",
    "final": false
   },
   "2026-12-16": {
    "date": "2026-12-16",
    "items": [],
-   "source": "",
-   "fetched": "2026-11-26",
+   "source": "agenda",
+   "fetched": "2026-11-27",
    "place": "Estrasburgo",
    "final": false
   },
   "2026-12-17": {
    "date": "2026-12-17",
    "items": [],
-   "source": "",
-   "fetched": "2026-11-26",
+   "source": "agenda",
+   "fetched": "2026-11-27",
    "place": "Estrasburgo",
    "final": false
   },

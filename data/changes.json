@@ -1483,5 +1483,49 @@
   "importance": "normal",
   "seen": "2026-11-26",
   "file_id": "2026-3000"
+ },
+ {
+  "id": "1fbccaf0d525",
+  "date": "2026-11-25",
+  "ref": "2023/0131(COD)",
+  "kind": "council_doc",
+  "text": "Consejo: Posición del Consejo — PE 65/26",
+  "url": "https://data.consilium.europa.eu/doc/document/PE-65-2026-INIT/en/pdf",
+  "importance": "high",
+  "seen": "2026-11-27",
+  "file_id": "2023-0131"
+ },
+ {
+  "id": "5831cdd65cff",
+  "date": "2026-11-25",
+  "ref": "2025/0531(COD)",
+  "kind": "council_doc",
+  "text": "Documento del Consejo: REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL AMENDING REGULATIONS (EC) NO 1272/2008, (EC) NO 1223/2009, (EU) 2019/1009 AND (EU)  — PE 48/26 REV 1",
+  "url": "https://data.consilium.europa.eu/doc/document/PE-48-2026-REV-1/en/pdf",
+  "importance": "low",
+  "seen": "2026-11-27",
+  "file_id": "2025-0531"
+ },
+ {
+  "id": "7c616cb89450",
+  "date": "2026-11-27",
+  "ref": "2026/0269(NLE)",
+  "kind": "scheduled",
+  "text": "Previsto: Grupo de trabajo: Fisheries Policy, 2026-11-30 — Orden del día (CM 5201/26 REV 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-5201-2026-REV-1/en/pdf",
+  "importance": "high",
+  "seen": "2026-11-27",
+  "file_id": "2026-0269"
+ },
+ {
+  "id": "03a57d47b48f",
+  "date": "2026-11-27",
+  "ref": "2026/0349(NLE)",
+  "kind": "scheduled",
+  "text": "Previsto: Grupo de trabajo: Fisheries Policy, 2026-11-30 — Orden del día (CM 5201/26 REV 1)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-5201-2026-REV-1/en/pdf",
+  "importance": "high",
+  "seen": "2026-11-27",
+  "file_id": "2026-0349"
  }
 ]

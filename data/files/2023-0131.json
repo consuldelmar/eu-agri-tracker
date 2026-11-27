@@ -434,15 +434,15 @@
    "title": "Votación en el Pleno",
    "docs": [
     {
-     "id": "CRE-9-2024-04-10-ITM-021-46",
-     "title": "Debate en el Pleno (acta literal)",
-     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-04-10-ITM-021-46_EN.html",
-     "kind": "minutes"
-    },
-    {
      "id": "PV-9-2024-04-10-ITM-021-46",
      "title": "Acta del Pleno",
      "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-04-10-ITM-021-46_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "CRE-9-2024-04-10-ITM-021-46",
+     "title": "Debate en el Pleno (acta literal)",
+     "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-04-10-ITM-021-46_EN.html",
      "kind": "minutes"
     }
    ]
@@ -834,6 +834,17 @@
    "kind": "document",
    "body": "Consejo",
    "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "PE-65-2026-INIT",
+   "code": "PE 65/26",
+   "date": "2026-11-25",
+   "title": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL LAYING DOWN UNION PROCEDURES FOR THE AUTHORISATION AND SUPERVISION OF MEDICINAL PRODUCTS FOR HUMAN USE AND ESTABLISHING RULES GOVERNING THE EUROPEAN MEDICINES AGENCY, AMENDING REGULATIONS (EC) No 1394/2007 AND (EU) No 536/2014 AND REPEALING REGULATIONS (EC) No 141/2000, (EC) No 726/2004 AND (EC) No 1901/2006",
+   "url": "https://data.consilium.europa.eu/doc/document/PE-65-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": "Posición del Consejo",
    "meeting_date": null
   }
  ],

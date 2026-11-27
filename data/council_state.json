@@ -283,7 +283,9 @@
    "url": "https://data.consilium.europa.eu/doc/document/ST-15727-2026-INIT/en/pdf",
    "date": "2026-11-16",
    "step": "Orientación general",
-   "refs": [],
+   "refs": [
+    "2025/0406(COD)"
+   ],
    "read": true,
    "meeting_date": "2026-11-18",
    "doc_numbers": [
@@ -7956,6 +7958,142 @@
    "meeting_date": "2026-11-27",
    "doc_numbers": [],
    "cm_clean": true
+  },
+  "WK-15505-2026-INIT": {
+   "id": "WK-15505-2026-INIT",
+   "code": "WK 15505/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Meeting of the Working Party on Pharmaceuticals and Medical Devices\n- Presentation by the Commission",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-15505-2026-INIT/en/pdf",
+   "date": "2026-10-09",
+   "step": null,
+   "refs": [
+    "2025/0406(COD)"
+   ],
+   "read": true,
+   "ref_titles": {}
+  },
+  "WK-15727-2026-INIT": {
+   "id": "WK-15727-2026-INIT",
+   "code": "WK 15727/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Meeting of the Working Party on Pharmaceuticals and Medical Devices\n- Presentation by the Presidency",
+   "url": "https://data.consilium.europa.eu/doc/document/WK-15727-2026-INIT/en/pdf",
+   "date": "2026-10-09",
+   "step": null,
+   "refs": [
+    "2025/0406(COD)"
+   ],
+   "read": true,
+   "ref_titles": {}
+  },
+  "PE-65-2026-INIT": {
+   "id": "PE-65-2026-INIT",
+   "code": "PE 65/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL LAYING DOWN UNION PROCEDURES FOR THE AUTHORISATION AND SUPERVISION OF MEDICINAL PRODUCTS FOR HUMAN USE AND ESTABLISHING RULES GOVERNING THE EUROPEAN MEDICINES AGENCY, AMENDING REGULATIONS (EC) No 1394/2007 AND (EU) No 536/2014 AND REPEALING REGULATIONS (EC) No 141/2000, (EC) No 726/2004 AND (EC) No 1901/2006",
+   "url": "https://data.consilium.europa.eu/doc/document/PE-65-2026-INIT/en/pdf",
+   "date": "2026-11-25",
+   "step": "Posición del Consejo",
+   "refs": [
+    "2023/0131(COD)"
+   ],
+   "read": true,
+   "ref_titles": {}
+  },
+  "CM-5160-2026-REV-2": {
+   "id": "CM-5160-2026-REV-2",
+   "code": "CM 5160/26 REV 2",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Statistics (full day)",
+   "title": "Working Party on Statistics (full day)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5160-2026-REV-2/en/pdf",
+   "date": "2026-11-26",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {},
+   "meeting_date": "2026-12-09",
+   "doc_numbers": [
+    "16224/26"
+   ],
+   "cm_clean": true
+  },
+  "CM-5201-2026-REV-1": {
+   "id": "CM-5201-2026-REV-1",
+   "code": "CM 5201/26 REV 1",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Fisheries Policy",
+   "title": "Working Party on Fisheries Policy",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5201-2026-REV-1/en/pdf",
+   "date": "2026-11-26",
+   "step": "Texto de compromiso de la Presidencia",
+   "refs": [
+    "2026/0269(NLE)",
+    "2026/0349(NLE)"
+   ],
+   "read": true,
+   "ref_titles": {},
+   "meeting_date": "2026-11-30",
+   "doc_numbers": [
+    "13338/26",
+    "14310/26",
+    "15162/26",
+    "15299/26",
+    "15993/26",
+    "16011/26",
+    "16355/26",
+    "16379/26"
+   ],
+   "cm_clean": true
+  },
+  "CM-5206-2026-INIT": {
+   "id": "CM-5206-2026-INIT",
+   "code": "CM 5206/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "23rd Regular session of the Western and Central Pacific Fisheries Commission (WCPFC), 30 November - 5 December 2026",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5206-2026-INIT/en/pdf",
+   "date": "2026-11-24",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {}
+  },
+  "PE-48-2026-REV-1": {
+   "id": "PE-48-2026-REV-1",
+   "code": "PE 48/26 REV 1",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL AMENDING REGULATIONS (EC) NO 1272/2008, (EC) NO 1223/2009, (EU) 2019/1009 AND (EU) 2024/2865 AS REGARDS SIMPLIFICATION OF CERTAIN REQUIREMENTS AND PROCEDURES FOR CHEMICAL PRODUCTS",
+   "url": "https://data.consilium.europa.eu/doc/document/PE-48-2026-REV-1/en/pdf",
+   "date": "2026-11-25",
+   "step": null,
+   "refs": [
+    "2025/0531(COD)"
+   ],
+   "read": true,
+   "ref_titles": {}
+  },
+  "ST-16285-2026-INIT": {
+   "id": "ST-16285-2026-INIT",
+   "code": "ST 16285/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Proposal for a DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Decision (EU) 2015/1814 as regards ceasing the invalidation of allowances in the market stability reserve - Outcome of the European Parliament's first reading (Strasbourg, 23 to 26 November 2026)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-16285-2026-INIT/en/pdf",
+   "date": "2026-11-26",
+   "step": null,
+   "refs": [
+    "2026/0085(COD)"
+   ],
+   "read": true,
+   "ref_titles": {
+    "2026/0085(COD)": "DECISION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Decision (EU) 2015/1814 as regards ceasing the invalidation of allowances in the market stability reserve"
+   }
   }
  },
  "first_run_done": true,
