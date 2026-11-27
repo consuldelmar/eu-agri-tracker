@@ -448,8 +448,26 @@
  "scope": [
   "REGI (responsable)"
  ],
- "agenda": [],
- "scheduled": [],
+ "agenda": [
+  {
+   "id": "ep-com-REGI-2026-12-07",
+   "date": "2026-12-07",
+   "body": "Comisión REGI del PE",
+   "title": "Orden del día de la reunión",
+   "url": "https://redmapl3.europarl.europa.eu/RedmapFront/media/reds_iCmOj/REGI-OJ-2026-12-07-1/REGI-OJ-2026-12-07-1_en.pdf",
+   "source": "ep"
+  }
+ ],
+ "scheduled": [
+  {
+   "id": "ep-com-REGI-2026-12-07",
+   "date": "2026-12-07",
+   "body": "Comisión REGI del PE",
+   "title": "Orden del día de la reunión",
+   "url": "https://redmapl3.europarl.europa.eu/RedmapFront/media/reds_iCmOj/REGI-OJ-2026-12-07-1/REGI-OJ-2026-12-07-1_en.pdf",
+   "source": "ep"
+  }
+ ],
  "council_docs": [],
  "followed": false,
  "follow_url": "",
@@ -529,6 +547,9 @@
   "current_label": "Comisión del PE",
   "hint": "La comisión del PE prepara y vota su informe",
   "next_label": "Posición del PE",
-  "next_date": null
+  "next_date": {
+   "date": "2026-12-07",
+   "body": "Comisión REGI del PE"
+  }
  }
 }
