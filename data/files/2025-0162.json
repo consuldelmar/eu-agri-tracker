@@ -4,7 +4,7 @@
  "type": "NLE",
  "title": "Celebración de un amplio paquete de acuerdos para consolidar, profundizar y ampliar las relaciones bilaterales con la Confederación Suiza",
  "title_en": "Conclusion of a broad package of agreements to consolidate, deepen and expand the bilateral relations with the Swiss Confederation",
- "stage": "Informe aprobado en comisión",
+ "stage": "Decisión del Pleno",
  "ongoing": false,
  "committees": [
   {
@@ -675,6 +675,19 @@
   },
   {
    "date": "2026-11-25",
+   "type": "PLENARY_DECISION",
+   "title": "Decisión del Pleno",
+   "docs": [
+    {
+     "id": "TA-10-2026-0398",
+     "title": "Texto aprobado P10_TA(2026)0398",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0398_EN.html",
+     "kind": "adopted_text"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
    "type": "PLENARY_VOTE",
    "title": "Votación en el Pleno",
    "docs": [
@@ -748,6 +761,13 @@
    "url": "",
    "kind": "other",
    "date": "2026-07-15"
+  },
+  {
+   "id": "TA-10-2026-0398",
+   "title": "Texto aprobado P10_TA(2026)0398",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0398_EN.html",
+   "kind": "adopted_text",
+   "date": "2026-11-25"
   },
   {
    "id": "A-10-2026-0236",

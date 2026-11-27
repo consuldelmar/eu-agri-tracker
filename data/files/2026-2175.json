@@ -1,0 +1,101 @@
+{
+ "ref": "2026/2175(INI)",
+ "id": "2026-2175",
+ "type": "INI",
+ "title": "Estrategia de la Unión para las Regiones Ultraperiféricas: el papel de la política de cohesión y la financiación de la Unión para apoyar a las regiones ultraperiféricas",
+ "title_en": "The EU strategy for outermost regions – the role of cohesion policy and EU funding in supporting outermost regions",
+ "stage": "Remitido a comisión",
+ "ongoing": true,
+ "committees": [
+  {
+   "code": "REGI",
+   "role": "lead"
+  },
+  {
+   "code": "AGRI",
+   "role": "opinion"
+  },
+  {
+   "code": "PECH",
+   "role": "opinion"
+  }
+ ],
+ "people": [
+  {
+   "id": "256813",
+   "name": "Vladimir PREBILIČ",
+   "group": "Verts/ALE",
+   "country": "SI",
+   "role": "shadow",
+   "committee": "REGI",
+   "since": "2026-11-18"
+  }
+ ],
+ "started": "2026-11-26",
+ "last_activity": "2026-11-26",
+ "events": [
+  {
+   "date": "2026-11-26",
+   "type": "REFERRAL",
+   "title": "Remitido a comisión",
+   "docs": []
+  }
+ ],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2175(INI)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_2175",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_2175?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-2175?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "REGI (responsable)",
+  "AGRI (opinión)",
+  "PECH (opinión)"
+ ],
+ "agenda": [],
+ "scheduled": [],
+ "council_docs": [],
+ "tags": [
+  "Cohesión"
+ ],
+ "progress": {
+  "stages": [
+   {
+    "key": "start",
+    "label": "Inicio",
+    "state": "done",
+    "date": "2026-11-26",
+    "detail": ""
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_plenary",
+    "label": "Pleno del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 1,
+  "total": 3,
+  "current": "ep_committee",
+  "current_label": "Comisión del PE",
+  "hint": "La comisión del PE prepara y vota su informe",
+  "next_label": "Pleno del PE",
+  "next_date": null
+ },
+ "followed": false,
+ "follow_url": ""
+}

@@ -434,15 +434,15 @@
    "title": "Votación en el Pleno",
    "docs": [
     {
-     "id": "PV-9-2024-04-10-ITM-021-46",
-     "title": "Acta del Pleno",
-     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-04-10-ITM-021-46_EN.html",
-     "kind": "minutes"
-    },
-    {
      "id": "CRE-9-2024-04-10-ITM-021-46",
      "title": "Debate en el Pleno (acta literal)",
      "url": "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-04-10-ITM-021-46_EN.html",
+     "kind": "minutes"
+    },
+    {
+     "id": "PV-9-2024-04-10-ITM-021-46",
+     "title": "Acta del Pleno",
+     "url": "https://www.europarl.europa.eu/doceo/document/PV-9-2024-04-10-ITM-021-46_EN.html",
      "kind": "minutes"
     }
    ]
@@ -532,6 +532,19 @@
      "title": "Informe A10-0296/2026",
      "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0296_EN.html",
      "kind": "report"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "type": "PLENARY_APPROVE_COUNCIL_POSITION",
+   "title": "Posición del Consejo aprobada (segunda lectura)",
+   "docs": [
+    {
+     "id": "TA-10-2026-0391",
+     "title": "Texto aprobado P10_TA(2026)0391",
+     "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0391_EN.html",
+     "kind": "adopted_text"
     }
    ]
   },
@@ -707,6 +720,13 @@
    "url": "https://www.europarl.europa.eu/doceo/document/SANT-PR-796377_EN.pdf",
    "kind": "draft_report",
    "date": "2026-10-12"
+  },
+  {
+   "id": "TA-10-2026-0391",
+   "title": "Texto aprobado P10_TA(2026)0391",
+   "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0391_EN.html",
+   "kind": "adopted_text",
+   "date": "2026-11-25"
   },
   {
    "id": "A-10-2026-0296",
@@ -896,9 +916,9 @@
    {
     "key": "ep_approval",
     "label": "Aprobación del PE",
-    "state": "implied",
-    "date": null,
-    "detail": ""
+    "state": "done",
+    "date": "2026-11-25",
+    "detail": "votado en el Pleno"
    },
    {
     "key": "council_adoption",

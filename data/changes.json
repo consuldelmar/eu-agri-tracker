@@ -1527,5 +1527,104 @@
   "importance": "high",
   "seen": "2026-11-27",
   "file_id": "2026-0349"
+ },
+ {
+  "id": "7b025004d756",
+  "date": "2026-11-03",
+  "ref": "2025/0545(COD)",
+  "kind": "event",
+  "text": "2026-11-03: Enmiendas presentadas en comisión (6 documentos)",
+  "url": "",
+  "importance": "low",
+  "seen": "2026-11-27",
+  "file_id": "2025-0545"
+ },
+ {
+  "id": "7ece9512fd70",
+  "date": "2026-11-26",
+  "ref": "2025/0545(COD)",
+  "kind": "event",
+  "text": "2026-11-26: Enmiendas presentadas en comisión (4 documentos)",
+  "url": "",
+  "importance": "low",
+  "seen": "2026-11-27",
+  "file_id": "2025-0545"
+ },
+ {
+  "id": "af4c9ce625c6",
+  "date": "2026-11-25",
+  "ref": "2025/0162(NLE)",
+  "kind": "event",
+  "text": "2026-11-25: Decisión del Pleno",
+  "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0398_EN.html",
+  "importance": "high",
+  "seen": "2026-11-27",
+  "file_id": "2025-0162"
+ },
+ {
+  "id": "97acf9c35f81",
+  "date": "2026-11-25",
+  "ref": "2025/0162(NLE)",
+  "kind": "doc",
+  "text": "Nuevo documento: Texto aprobado P10_TA(2026)0398",
+  "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0398_EN.html",
+  "importance": "low",
+  "seen": "2026-11-27",
+  "file_id": "2025-0162"
+ },
+ {
+  "id": "098e9141a852",
+  "date": "2026-11-27",
+  "ref": "2026/0260(CNS)",
+  "kind": "people",
+  "text": "Ponente alternativo: Nora MEBAREK (S&D, REGI)",
+  "url": "",
+  "importance": "normal",
+  "seen": "2026-11-27",
+  "file_id": "2026-0260"
+ },
+ {
+  "id": "bcd8c6df8442",
+  "date": "2026-11-25",
+  "ref": "2023/0131(COD)",
+  "kind": "event",
+  "text": "2026-11-25: Posición del Consejo aprobada (segunda lectura)",
+  "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0391_EN.html",
+  "importance": "high",
+  "seen": "2026-11-27",
+  "file_id": "2023-0131"
+ },
+ {
+  "id": "2a3c9402a63e",
+  "date": "2026-11-25",
+  "ref": "2023/0131(COD)",
+  "kind": "doc",
+  "text": "Nuevo documento: Texto aprobado P10_TA(2026)0391",
+  "url": "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0391_EN.html",
+  "importance": "low",
+  "seen": "2026-11-27",
+  "file_id": "2023-0131"
+ },
+ {
+  "id": "f08edaf362d6",
+  "date": "2026-11-27",
+  "ref": "2026/2175(INI)",
+  "kind": "new",
+  "text": "Nuevo expediente en seguimiento: Estrategia de la Unión para las Regiones Ultraperiféricas: el papel de la política de cohesión y la financiación de la Unión para apoyar a las regiones ultraperiféricas",
+  "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/2175(INI)",
+  "importance": "normal",
+  "seen": "2026-11-27",
+  "file_id": "2026-2175"
+ },
+ {
+  "id": "c374a13a5aaa",
+  "date": "2026-11-27",
+  "ref": "2026/0277(NLE)",
+  "kind": "new",
+  "text": "Nuevo expediente en seguimiento: Acuerdo de Libre Comercio UE-India",
+  "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0277(NLE)",
+  "importance": "normal",
+  "seen": "2026-11-27",
+  "file_id": "2026-0277"
  }
 ]
