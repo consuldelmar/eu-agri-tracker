@@ -9,7 +9,7 @@
  "committees": [],
  "people": [],
  "started": "2026-10-13",
- "last_activity": "2026-11-24",
+ "last_activity": "2026-11-27",
  "events": [
   {
    "date": "2026-10-15",
@@ -59,9 +59,26 @@
    "title": "Orden del día (CM 4809/26 REV 1)",
    "url": "https://data.consilium.europa.eu/doc/document/CM-4809-2026-REV-1/en/pdf",
    "source": "council"
+  },
+  {
+   "id": "council-agenda-CM-5176-2026-INIT",
+   "date": "2026-12-02",
+   "body": "Coreper I",
+   "title": "Orden del día (CM 5176/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5176-2026-INIT/en/pdf",
+   "source": "council"
   }
  ],
- "scheduled": [],
+ "scheduled": [
+  {
+   "id": "council-agenda-CM-5176-2026-INIT",
+   "date": "2026-12-02",
+   "body": "Coreper I",
+   "title": "Orden del día (CM 5176/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5176-2026-INIT/en/pdf",
+   "source": "council"
+  }
+ ],
  "council_docs": [
   {
    "id": "CM-4539-2026-REV-1",
@@ -128,6 +145,17 @@
    "body": "Consejo",
    "step": null,
    "meeting_date": null
+  },
+  {
+   "id": "CM-5176-2026-INIT",
+   "code": "CM 5176/26",
+   "date": "2026-11-27",
+   "title": "PERMANENT REPRESENTATIVES COMMITTEE (Part 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5176-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Coreper I",
+   "step": "Orientación general",
+   "meeting_date": "2026-12-02"
   }
  ],
  "tags": [
@@ -170,7 +198,10 @@
   "current_label": "Grupo de trabajo del Consejo",
   "hint": "Se negocia en el grupo de trabajo del Consejo",
   "next_label": "Acuerdo en el Consejo",
-  "next_date": null
+  "next_date": {
+   "date": "2026-12-02",
+   "body": "Coreper I"
+  }
  },
  "followed": false,
  "follow_url": ""

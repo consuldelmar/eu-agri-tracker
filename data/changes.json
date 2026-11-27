@@ -1626,5 +1626,49 @@
   "importance": "normal",
   "seen": "2026-11-27",
   "file_id": "2026-0277"
+ },
+ {
+  "id": "43c949ef6691",
+  "date": "2026-11-27",
+  "ref": "2023/0227(COD)",
+  "kind": "scheduled",
+  "text": "Previsto: Coreper I, 2026-12-02 — Orden del día (CM 5176/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-5176-2026-INIT/en/pdf",
+  "importance": "high",
+  "seen": "2026-11-27",
+  "file_id": "2023-0227"
+ },
+ {
+  "id": "6bf79376d380",
+  "date": "2026-11-27",
+  "ref": "2026/0310(NLE)",
+  "kind": "scheduled",
+  "text": "Previsto: Coreper I, 2026-12-02 — Orden del día (CM 5176/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-5176-2026-INIT/en/pdf",
+  "importance": "high",
+  "seen": "2026-11-27",
+  "file_id": "2026-0310"
+ },
+ {
+  "id": "47410b75d6df",
+  "date": "2026-11-27",
+  "ref": "2026/0309(NLE)",
+  "kind": "scheduled",
+  "text": "Previsto: Coreper I, 2026-12-02 — Orden del día (CM 5176/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-5176-2026-INIT/en/pdf",
+  "importance": "high",
+  "seen": "2026-11-27",
+  "file_id": "2026-0309"
+ },
+ {
+  "id": "b0ae881fe5f2",
+  "date": "2026-11-27",
+  "ref": "2026/0311(NLE)",
+  "kind": "scheduled",
+  "text": "Previsto: Coreper I, 2026-12-02 — Orden del día (CM 5176/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-5176-2026-INIT/en/pdf",
+  "importance": "high",
+  "seen": "2026-11-27",
+  "file_id": "2026-0311"
  }
 ]

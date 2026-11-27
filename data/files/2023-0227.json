@@ -448,9 +448,26 @@
    "title": "Orden del día (CM 4504/26)",
    "url": "https://data.consilium.europa.eu/doc/document/CM-4504-2026-INIT/en/pdf",
    "source": "council"
+  },
+  {
+   "id": "council-agenda-CM-5176-2026-INIT",
+   "date": "2026-12-02",
+   "body": "Coreper I",
+   "title": "Orden del día (CM 5176/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5176-2026-INIT/en/pdf",
+   "source": "council"
   }
  ],
- "scheduled": [],
+ "scheduled": [
+  {
+   "id": "council-agenda-CM-5176-2026-INIT",
+   "date": "2026-12-02",
+   "body": "Coreper I",
+   "title": "Orden del día (CM 5176/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5176-2026-INIT/en/pdf",
+   "source": "council"
+  }
+ ],
  "council_docs": [
   {
    "id": "CM-4504-2026-INIT",
@@ -484,6 +501,17 @@
    "body": "Consejo",
    "step": "Posición del Consejo",
    "meeting_date": null
+  },
+  {
+   "id": "CM-5176-2026-INIT",
+   "code": "CM 5176/26",
+   "date": "2026-11-27",
+   "title": "PERMANENT REPRESENTATIVES COMMITTEE (Part 1)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5176-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Coreper I",
+   "step": "Orientación general",
+   "meeting_date": "2026-12-02"
   }
  ],
  "followed": false,
@@ -563,6 +591,9 @@
   "current_label": "Aprobación del PE",
   "hint": "Votación final en el Pleno del PE",
   "next_label": "Adopción del Consejo",
-  "next_date": null
+  "next_date": {
+   "date": "2026-12-02",
+   "body": "Coreper I"
+  }
  }
 }
