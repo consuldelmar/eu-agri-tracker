@@ -8152,6 +8152,23 @@
     "2003/87"
    ],
    "cm_clean": true
+  },
+  "ST-14343-2026-INIT": {
+   "id": "ST-14343-2026-INIT",
+   "code": "ST 14343/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on establishing a framework of measures for strengthening Union's biotechnology and biomanufacturing sectors particularly in the area of health and amending Regulations (EC) No 178/2002, (EC) No 1394/2007, (EU) No 536/2014, (EU) 2019/6, (EU) 2024/795 and (EU) 2024/1938 (European Biotech Act) - Second Presidency compromise text on Chapter 9 Article 58 (Clinical Trials)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-14343-2026-INIT/en/pdf",
+   "date": "2026-10-13",
+   "step": "Texto de compromiso de la Presidencia",
+   "refs": [
+    "2025/0406(COD)"
+   ],
+   "read": true,
+   "ref_titles": {
+    "2025/0406(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on establishing a framework of measures for strengthening Union's biotechnology and biomanufacturing sectors particularly in the area of health and amending Regulations (EC) No 178/2002, (EC) No 1394/2007, (EU) No 536/2014, (EU) 2019/6, (EU) 2024/795 and (EU) 2024/1938 (European Biotech Act)"
+   }
   }
  },
  "first_run_done": true,
