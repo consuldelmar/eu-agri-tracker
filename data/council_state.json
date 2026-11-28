@@ -8169,6 +8169,192 @@
    "ref_titles": {
     "2025/0406(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on establishing a framework of measures for strengthening Union's biotechnology and biomanufacturing sectors particularly in the area of health and amending Regulations (EC) No 178/2002, (EC) No 1394/2007, (EU) No 536/2014, (EU) 2019/6, (EU) 2024/795 and (EU) 2024/1938 (European Biotech Act)"
    }
+  },
+  "CM-5163-2026-INIT": {
+   "id": "CM-5163-2026-INIT",
+   "code": "CM 5163/26",
+   "kind": "agenda",
+   "body": "Comité Especial de Agricultura (CEA)",
+   "title": "1786th meeting of the SCA",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5163-2026-INIT/en/pdf",
+   "date": "2026-11-27",
+   "step": "Adopción por el Consejo",
+   "refs": [
+    "2026/0336(COD)"
+   ],
+   "read": true,
+   "ref_titles": {},
+   "meeting_date": "2026-12-07",
+   "doc_numbers": [
+    "15079/26",
+    "15096/26",
+    "15884/26",
+    "16264/26",
+    "16362/26"
+   ],
+   "cm_clean": true
+  },
+  "ST-15335-2026-INIT": {
+   "id": "ST-15335-2026-INIT",
+   "code": "ST 15335/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Regulation (EU) 2026/1392 of the European Parliament and of the Council of 20 May 2026 on the production and marketing of forest reproductive material, amending Regulations (EU) 2016/2031 and (EU) 2017/625 of the European Parliament and of the Council and repealing Council Directive 1999/105/EC (FRM Regulation)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15335-2026-INIT/en/pdf",
+   "date": "2026-11-27",
+   "step": null,
+   "refs": [
+    "2023/0228(COD)"
+   ],
+   "read": true,
+   "ref_titles": {
+    "2023/0228(COD)": "Regulation (EU) 2026/1392 of the European Parliament and of the Council of 20 May 2026 on the production and marketing of forest reproductive material, amending Regulations (EU) 2016/2031 and (EU) 2017/625 of the European Parliament and of the Council and repealing Council Directive 1999/105/EC (FRM Regulation) (Official Journal of the European Union L, 2026/1392, 26 June 2026)"
+   }
+  },
+  "ST-16258-2026-INIT": {
+   "id": "ST-16258-2026-INIT",
+   "code": "ST 16258/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the production and marketing of plant reproductive material in the Union, amending Regulations (EU) 2016/2031, 2017/625 and 2018/848 of the European Parliament and of the Council, and repealing Council Directives 66/401/EEC, 66/402/EEC, 68/193/EEC, 2002/53/EC, 2002/54/EC, 2002/55/EC, 2002/56/EC, 2002/57/EC, 2008/72/EC and 2008/90/EC (first reading) - Adoption of the Council’s position at first reading and of the statement of the Council’s reasons",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-16258-2026-INIT/en/pdf",
+   "date": "2026-11-27",
+   "step": "Posición del Consejo",
+   "refs": [
+    "2023/0227(COD)"
+   ],
+   "read": true,
+   "ref_titles": {}
+  },
+  "CM-5123-2026-INIT": {
+   "id": "CM-5123-2026-INIT",
+   "code": "CM 5123/26",
+   "kind": "agenda",
+   "body": "Consejo",
+   "title": "COUNCIL OF THE EUROPEAN UNION (Agriculture and Fisheries)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5123-2026-INIT/en/pdf",
+   "date": "2026-11-27",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {},
+   "meeting_date": "2026-12-14",
+   "doc_numbers": [],
+   "cm_clean": true
+  },
+  "ST-15425-2026-INIT": {
+   "id": "ST-15425-2026-INIT",
+   "code": "ST 15425/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15425-2026-INIT/en/pdf",
+   "date": "2026-11-27",
+   "step": null,
+   "refs": [
+    "2008/0028(COD)"
+   ],
+   "read": true,
+   "ref_titles": {
+    "2008/0028(COD)": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European "
+   }
+  },
+  "ST-15756-2026-INIT": {
+   "id": "ST-15756-2026-INIT",
+   "code": "ST 15756/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "ADOPTION OF LEGISLATIVE ACTS FOLLOWING THE EUROPEAN PARLIAMENT'S SECOND READING Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL laying down Union procedures for the authorisation and supervision of medicinal products for human use and establishing rules governing the European Medicines Agency, amending Regulation (EC) No 1394/2007 and Regulation (EU) No 536/2014 and repealing Regulation (EC) No 726/2004, Regulation (EC) No 141/2000 and Regulation (EC) No 1901/2006 - Outcome of the European Parliament's second reading (Strasbourg, 23 to 26 November 2026)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15756-2026-INIT/en/pdf",
+   "date": "2026-11-27",
+   "step": "Posición del Consejo",
+   "refs": [
+    "2023/0131(COD)"
+   ],
+   "read": true,
+   "ref_titles": {}
+  },
+  "CM-5236-2026-INIT": {
+   "id": "CM-5236-2026-INIT",
+   "code": "CM 5236/26",
+   "kind": "agenda",
+   "body": "Grupo de trabajo: Maritime Issues",
+   "title": "Working Party on Maritime Issues - EU Maritime Security Strategy (EUMSS)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5236-2026-INIT/en/pdf",
+   "date": "2026-11-25",
+   "step": null,
+   "refs": [],
+   "read": true,
+   "ref_titles": {},
+   "meeting_date": "2026-12-14",
+   "doc_numbers": [],
+   "cm_clean": true
+  },
+  "ST-15977-2026-INIT": {
+   "id": "ST-15977-2026-INIT",
+   "code": "ST 15977/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Regulation (EU) 2020/741 of the European Parliament and of the Council of 25 May 2020 on minimum requirements for water reuse",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15977-2026-INIT/en/pdf",
+   "date": "2026-11-27",
+   "step": null,
+   "refs": [
+    "2018/0169(COD)"
+   ],
+   "read": true,
+   "ref_titles": {
+    "2018/0169(COD)": "Regulation (EU) 2020/741 of the European Parliament and of the Council of 25 May 2020 on minimum requirements for water reuse (Official Journal of the European Union L 177 of 5 June 2020)"
+   }
+  },
+  "ST-16521-2026-INIT": {
+   "id": "ST-16521-2026-INIT",
+   "code": "ST 16521/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Vote at the European Parliament on file 2025/0543 (COD) – Horizon Europe Regulation 2028-2034",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-16521-2026-INIT/en/pdf",
+   "date": "2026-11-27",
+   "step": null,
+   "refs": [
+    "2025/0543(COD)"
+   ],
+   "read": true,
+   "ref_titles": {}
+  },
+  "ST-15079-2026-INIT": {
+   "id": "ST-15079-2026-INIT",
+   "code": "ST 15079/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a framework to enhance climate resilience and amending Regulation (EU) 2018/1999 (European Climate Resilience Law)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15079-2026-INIT/en/pdf",
+   "date": "2026-10-28",
+   "step": null,
+   "refs": [
+    "2026/0336(COD)"
+   ],
+   "ref_titles": {
+    "2026/0336(COD)": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a framework to enhance climate resilience and amending Regulation (EU) 2018/1999 (European Climate Resilience Law)"
+   },
+   "read": true,
+   "via_agenda": true
+  },
+  "ST-15096-2026-INIT": {
+   "id": "ST-15096-2026-INIT",
+   "code": "ST 15096/26",
+   "kind": "document",
+   "body": "Consejo",
+   "title": "COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS A RESILIENT EUROPE FOR A CHANGING CLIMATE Communication on the EU Framework for Climate Resilience",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15096-2026-INIT/en/pdf",
+   "date": "2026-10-29",
+   "step": null,
+   "refs": [
+    "2026/0336(COD)"
+   ],
+   "ref_titles": {},
+   "read": true,
+   "via_agenda": true
   }
  },
  "first_run_done": true,
@@ -8272,6 +8458,11 @@
   "13544/26": "2026-11-23",
   "15299/26": "2026-11-26",
   "16355/26": "2026-11-26",
-  "16379/26": "2026-11-26"
+  "16379/26": "2026-11-26",
+  "15079/26": "2026-11-28",
+  "15096/26": "2026-11-28",
+  "15884/26": "2026-11-28",
+  "16264/26": "2026-11-28",
+  "16362/26": "2026-11-28"
  }
 }

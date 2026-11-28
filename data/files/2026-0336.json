@@ -1,0 +1,164 @@
+{
+ "ref": "2026/0336(COD)",
+ "id": "2026-0336",
+ "type": "COD",
+ "title": "European Climate Resilience Law",
+ "title_en": "European Climate Resilience Law",
+ "stage": "",
+ "ongoing": true,
+ "committees": [],
+ "people": [],
+ "started": null,
+ "last_activity": null,
+ "events": [],
+ "docs": [],
+ "amendments": {
+  "plenary": 0,
+  "committee_documents": 0
+ },
+ "ep_scheduled": [],
+ "links": {
+  "oeil": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0336(COD)",
+  "eurlex": "https://eur-lex.europa.eu/procedure/EN/2026_336",
+  "law_tracker": "https://law-tracker.europa.eu/procedure/2026_336?lang=en",
+  "ep_data": "https://data.europarl.europa.eu/api/v2/procedures/2026-0336?format=application%2Fld%2Bjson"
+ },
+ "scope": [
+  "citado en documentos de agricultura y pesca del Consejo"
+ ],
+ "agenda": [
+  {
+   "id": "council-agenda-CM-5163-2026-INIT",
+   "date": "2026-12-07",
+   "body": "Comité Especial de Agricultura (CEA)",
+   "title": "Orden del día (CM 5163/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5163-2026-INIT/en/pdf",
+   "source": "council"
+  }
+ ],
+ "scheduled": [
+  {
+   "id": "council-agenda-CM-5163-2026-INIT",
+   "date": "2026-12-07",
+   "body": "Comité Especial de Agricultura (CEA)",
+   "title": "Orden del día (CM 5163/26)",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5163-2026-INIT/en/pdf",
+   "source": "council"
+  }
+ ],
+ "council_docs": [
+  {
+   "id": "ST-15079-2026-INIT",
+   "code": "ST 15079/26",
+   "date": "2026-10-28",
+   "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a framework to enhance climate resilience and amending Regulation (EU) 2018/1999 (European Climate Resilience Law)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15079-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "ST-15096-2026-INIT",
+   "code": "ST 15096/26",
+   "date": "2026-10-29",
+   "title": "COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS A RESILIENT EUROPE FOR A CHANGING CLIMATE Communication on the EU Framework for Climate Resilience",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15096-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  },
+  {
+   "id": "CM-5163-2026-INIT",
+   "code": "CM 5163/26",
+   "date": "2026-11-27",
+   "title": "1786th meeting of the SCA",
+   "url": "https://data.consilium.europa.eu/doc/document/CM-5163-2026-INIT/en/pdf",
+   "kind": "agenda",
+   "body": "Comité Especial de Agricultura (CEA)",
+   "step": "Adopción por el Consejo",
+   "meeting_date": "2026-12-07"
+  }
+ ],
+ "tags": [],
+ "progress": {
+  "stages": [
+   {
+    "key": "proposal",
+    "label": "Propuesta",
+    "state": "current",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_committee",
+    "label": "Comisión del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_mandate",
+    "label": "Posición del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_mandate",
+    "label": "Posición del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "trilogues",
+    "label": "Trílogos",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "agreement",
+    "label": "Acuerdo provisional",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "ep_approval",
+    "label": "Aprobación del PE",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "council_adoption",
+    "label": "Adopción del Consejo",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   },
+   {
+    "key": "published",
+    "label": "Diario Oficial",
+    "state": "pending",
+    "date": null,
+    "detail": ""
+   }
+  ],
+  "done": 0,
+  "total": 9,
+  "current": "proposal",
+  "current_label": "Propuesta",
+  "hint": "",
+  "next_label": "Comisión del PE",
+  "next_date": {
+   "date": "2026-12-07",
+   "body": "Comité Especial de Agricultura (CEA)"
+  }
+ },
+ "followed": false,
+ "follow_url": ""
+}

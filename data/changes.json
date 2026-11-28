@@ -1681,5 +1681,60 @@
   "importance": "high",
   "seen": "2026-11-27",
   "file_id": "2025-0238"
+ },
+ {
+  "id": "f484dd535182",
+  "date": "2026-11-27",
+  "ref": "2023/0228(COD)",
+  "kind": "council_doc",
+  "text": "Documento del Consejo: Regulation (EU) 2026/1392 of the European Parliament and of the Council of 20 May 2026 on the production and marketing of forest reproductiv — ST 15335/26",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-15335-2026-INIT/en/pdf",
+  "importance": "low",
+  "seen": "2026-11-28",
+  "file_id": "2023-0228"
+ },
+ {
+  "id": "b7e14ac9f039",
+  "date": "2026-11-27",
+  "ref": "2023/0227(COD)",
+  "kind": "council_doc",
+  "text": "Consejo: Posición del Consejo — ST 16258/26",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-16258-2026-INIT/en/pdf",
+  "importance": "high",
+  "seen": "2026-11-28",
+  "file_id": "2023-0227"
+ },
+ {
+  "id": "aea1d21c83cb",
+  "date": "2026-11-27",
+  "ref": "2023/0131(COD)",
+  "kind": "council_doc",
+  "text": "Consejo: Posición del Consejo — ST 15756/26",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-15756-2026-INIT/en/pdf",
+  "importance": "high",
+  "seen": "2026-11-28",
+  "file_id": "2023-0131"
+ },
+ {
+  "id": "0b301a4bf980",
+  "date": "2026-11-27",
+  "ref": "2025/0543(COD)",
+  "kind": "council_doc",
+  "text": "Documento del Consejo: Vote at the European Parliament on file 2025/0543 (COD) – Horizon Europe Regulation 2028-2034 — ST 16521/26",
+  "url": "https://data.consilium.europa.eu/doc/document/ST-16521-2026-INIT/en/pdf",
+  "importance": "low",
+  "seen": "2026-11-28",
+  "file_id": "2025-0543"
+ },
+ {
+  "id": "e47a325a0917",
+  "date": "2026-11-28",
+  "ref": "2026/0336(COD)",
+  "kind": "new",
+  "text": "Nuevo expediente en seguimiento: European Climate Resilience Law",
+  "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0336(COD)",
+  "importance": "normal",
+  "seen": "2026-11-28",
+  "file_id": "2026-0336"
  }
 ]

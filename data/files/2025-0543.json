@@ -804,6 +804,17 @@
    "body": "Coreper I",
    "step": null,
    "meeting_date": "2026-11-06"
+  },
+  {
+   "id": "ST-16521-2026-INIT",
+   "code": "ST 16521/26",
+   "date": "2026-11-27",
+   "title": "Vote at the European Parliament on file 2025/0543 (COD) – Horizon Europe Regulation 2028-2034",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-16521-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
   }
  ],
  "tags": [

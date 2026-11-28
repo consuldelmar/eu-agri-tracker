@@ -606,7 +606,19 @@
   }
  ],
  "scheduled": [],
- "council_docs": [],
+ "council_docs": [
+  {
+   "id": "ST-15335-2026-INIT",
+   "code": "ST 15335/26",
+   "date": "2026-11-27",
+   "title": "Regulation (EU) 2026/1392 of the European Parliament and of the Council of 20 May 2026 on the production and marketing of forest reproductive material, amending Regulations (EU) 2016/2031 and (EU) 2017/625 of the European Parliament and of the Council and repealing Council Directive 1999/105/EC (FRM Regulation)",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-15335-2026-INIT/en/pdf",
+   "kind": "document",
+   "body": "Consejo",
+   "step": null,
+   "meeting_date": null
+  }
+ ],
  "followed": false,
  "follow_url": "",
  "tags": [

@@ -940,6 +940,16 @@
   "refs": []
  },
  {
+  "id": "council-coreper-mpo_373448",
+  "date": "2026-12-04",
+  "source": "council",
+  "body": "Coreper I",
+  "title": "Coreper 1 - Permanent Representatives Committee",
+  "description": "",
+  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2026/12/coreper-1-permanent-representatives-committee-(373448)/",
+  "refs": []
+ },
+ {
   "id": "council-coreper-mpo_363123",
   "date": "2026-12-09",
   "source": "council",
@@ -1020,16 +1030,6 @@
   "refs": []
  },
  {
-  "id": "council-coreper-mpo_368571",
-  "date": "2027-01-13",
-  "source": "council",
-  "body": "Coreper I",
-  "title": "Coreper 1 - Permanent Representatives Committee",
-  "description": "",
-  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/1/coreper-1-permanent-representatives-committee-(368571)/",
-  "refs": []
- },
- {
   "id": "council-coreper-mpo_368572",
   "date": "2027-01-13",
   "source": "council",
@@ -1037,6 +1037,16 @@
   "title": "Coreper 2 - Permanent Representatives Committee",
   "description": "",
   "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/1/coreper-2-permanent-representatives-committee-(368572)/",
+  "refs": []
+ },
+ {
+  "id": "council-coreper-mpo_368571",
+  "date": "2027-01-13",
+  "source": "council",
+  "body": "Coreper I",
+  "title": "Coreper 1 - Permanent Representatives Committee",
+  "description": "",
+  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/1/coreper-1-permanent-representatives-committee-(368571)/",
   "refs": []
  },
  {
@@ -1060,16 +1070,6 @@
   "refs": []
  },
  {
-  "id": "council-coreper-mpo_368580",
-  "date": "2027-01-22",
-  "source": "council",
-  "body": "Coreper I",
-  "title": "Coreper 1 - Permanent Representatives Committee (posible)",
-  "description": "",
-  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/1/poss-coreper-1-permanent-representatives-committee-(368580)/",
-  "refs": []
- },
- {
   "id": "council-coreper-mpo_373270",
   "date": "2027-01-22",
   "source": "council",
@@ -1077,6 +1077,16 @@
   "title": "Coreper 2 - Permanent Representatives Committee (posible)",
   "description": "",
   "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/1/poss-coreper-2-permanent-representatives-committee-(373270)/",
+  "refs": []
+ },
+ {
+  "id": "council-coreper-mpo_368580",
+  "date": "2027-01-22",
+  "source": "council",
+  "body": "Coreper I",
+  "title": "Coreper 1 - Permanent Representatives Committee (posible)",
+  "description": "",
+  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/1/poss-coreper-1-permanent-representatives-committee-(368580)/",
   "refs": []
  },
  {
@@ -1097,6 +1107,16 @@
   "title": "Coreper 1 - Permanent Representatives Committee",
   "description": "",
   "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/1/coreper-1-permanent-representatives-committee-(368588)/",
+  "refs": []
+ },
+ {
+  "id": "council-coreper-mpo_373467",
+  "date": "2027-01-29",
+  "source": "council",
+  "body": "Coreper II",
+  "title": "Coreper 2 - Permanent Representatives Committee (posible)",
+  "description": "",
+  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/1/poss-coreper-2-permanent-representatives-committee-(373467)/",
   "refs": []
  },
  {
@@ -1240,6 +1260,16 @@
   "refs": []
  },
  {
+  "id": "council-coreper-mpo_373470",
+  "date": "2027-02-26",
+  "source": "council",
+  "body": "Coreper II",
+  "title": "Coreper 2 - Permanent Representatives Committee (posible)",
+  "description": "",
+  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/2/poss-coreper-2-permanent-representatives-committee-(373470)/",
+  "refs": []
+ },
+ {
   "id": "council-coreper-mpo_368622",
   "date": "2027-03-03",
   "source": "council",
@@ -1357,36 +1387,6 @@
   "title": "Coreper 2 - Permanent Representatives Committee",
   "description": "",
   "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/4/coreper-2-permanent-representatives-committee-(368647)/",
-  "refs": []
- },
- {
-  "id": "council-coreper-mpo_368650",
-  "date": "2027-04-09",
-  "source": "council",
-  "body": "Coreper I",
-  "title": "Coreper 1 - Permanent Representatives Committee",
-  "description": "",
-  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/4/coreper-1-permanent-representatives-committee-(368650)/",
-  "refs": []
- },
- {
-  "id": "council-coreper-mpo_368651",
-  "date": "2027-04-09",
-  "source": "council",
-  "body": "Coreper II",
-  "title": "Coreper 2 - Permanent Representatives Committee (posible)",
-  "description": "",
-  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/4/poss-coreper-2-permanent-representatives-committee-(368651)/",
-  "refs": []
- },
- {
-  "id": "council-coreper-mpo_368654",
-  "date": "2027-04-14",
-  "source": "council",
-  "body": "Coreper I",
-  "title": "Coreper 1 - Permanent Representatives Committee",
-  "description": "",
-  "url": "https://www.consilium.europa.eu//en/meetings/mpo/2027/4/coreper-1-permanent-representatives-committee-(368654)/",
   "refs": []
  },
  {
@@ -1726,6 +1726,17 @@
    "2026/0309(NLE)",
    "2026/0310(NLE)",
    "2026/0311(NLE)"
+  ]
+ },
+ {
+  "id": "council-agenda-CM-5163-2026-INIT",
+  "date": "2026-12-07",
+  "source": "council",
+  "body": "Comité Especial de Agricultura (CEA)",
+  "title": "Orden del día (CM 5163/26)",
+  "url": "https://data.consilium.europa.eu/doc/document/CM-5163-2026-INIT/en/pdf",
+  "refs": [
+   "2026/0336(COD)"
   ]
  }
 ]
